@@ -3,92 +3,183 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Live Threat Intelligence</title>
+    <title>Threat Intel Dashboard</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; padding: 20px; }
-        .container { max-width: 800px; margin: 0 auto; }
-        h1 { color: #38bdf8; border-bottom: 2px solid #334155; padding-bottom: 10px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        h1 { color: #ec4899; border-bottom: 2px solid #334155; padding-bottom: 10px; margin-bottom: 20px; }
+        h2 { color: #fbbf24; margin-top: 40px; margin-bottom: 15px; font-size: 1.4rem; }
+        
         .status { font-size: 0.9em; color: #94a3b8; margin-bottom: 20px; }
         
-        .card { background: #1e293b; border-left: 4px solid #38bdf8; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
-        .card h3 { margin: 0 0 8px 0; }
-        .card a { color: #38bdf8; text-decoration: none; font-weight: bold; }
-        .card a:hover { text-decoration: underline; }
-        .meta { font-size: 0.85em; color: #64748b; margin-top: 8px; }
-        .tag { display: inline-block; background: #334155; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; margin-right: 5px; }
+        .table-container { overflow-x: auto; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5); border-radius: 8px; margin-bottom: 40px; }
+        table { width: 100%; border-collapse: collapse; background: #1e293b; }
+        th, td { padding: 14px 16px; text-align: left; border-bottom: 1px solid #334155; }
         
-        /* Loading State */
-        #loading { text-align: center; color: #94a3b8; margin-top: 50px; }
+        th { background: #0f172a; color: #94a3b8; font-weight: 600; text-transform: uppercase; font-size: 0.8rem; }
+        /* Specific header colors */
+        .header-breaches th { color: #ec4899; }
+        .header-ransom th { color: #f472b6; }
+
+        tr:hover { background: #334155; }
+        
+        /* Column Widths */
+        .col-company { width: 30%; }
+        .col-count { width: 20%; text-align: center; }
+        .col-date { width: 15%; }
+        .col-summary { width: 35%; }
+        
+        /* Badges */
+        .source-badge { 
+            display: inline-block; 
+            padding: 4px 10px; 
+            border-radius: 20px; 
+            background: #ec4899; 
+            color: #fff; 
+            font-size: 0.7rem; 
+            font-weight: bold; 
+            text-transform: uppercase;
+        }
+        .ransom-badge { background: #f472b6; }
+
+        /* Counts */
+        .count-val { 
+            color: #ec4899; 
+            font-weight: 800; 
+            font-size: 1.1rem; 
+        }
+
+        /* Links */
+        a { color: #38bdf8; text-decoration: none; transition: color 0.2s; }
+        a:hover { color: #fff; text-decoration: underline; }
+        
+        #loading { text-align: center; color: #94a3b8; margin-top: 50px; font-size: 1.2rem; }
+        .spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid #334155; border-top-color: #ec4899; border-radius: 50%; animation: spin 1s linear infinite; margin-right: 10px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        
+        .error-msg { color: #ef4444; text-align: center; margin-top: 20px; font-weight: bold; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🛡️ Live Threat Intelligence</h1>
-        <div id="last-updated" class="status">Loading feed...</div>
-        <div id="loading">Fetching latest data...</div>
-        <div id="threats-container"></div>
+        <h1>🛡️ Threat Intel Dashboard</h1>
+        <div id="last-updated" class="status">Loading threat data...</div>
+        
+        <div id="loading">
+            <div class="spinner"></div> Fetching latest breaches and ransomware news...
+        </div>
+
+        <!-- TABLE 1: HIBP BREACHES -->
+        <h2>🔥 Have I Been Pwned (HIBP) Breaches</h2>
+        <div class="table-container">
+            <table>
+                <thead class="header-breaches">
+                    <tr>
+                        <th>Company / Service</th>
+                        <th>Records Exposed</th>
+                        <th>Date</th>
+                        <th>Summary</th>
+                    </tr>
+                </thead>
+                <tbody id="breach-body">
+                    <!-- Data injected here -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- TABLE 2: RANSOMWARE -->
+        <h2>🚨 Ransomwared Companies & News</h2>
+        <div class="table-container">
+            <table>
+                <thead class="header-ransom">
+                    <tr>
+                        <th>Company / Title</th>
+                        <th>Date</th>
+                        <th>Summary</th>
+                    </tr>
+                </thead>
+                <tbody id="ransom-body">
+                    <!-- Data injected here -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="error-msg" class="error-msg"></div>
     </div>
 
     <script>
         const DATA_URL = '/Threat-Intel-Feeds/threat-data.json';
-        // Add a timestamp to force reload if browser caches old JSON
         const CACHE_BUSTER = `?t=${new Date().getTime()}`;
 
-        async function loadFeed() {
+        async function loadThreatData() {
+            const breachBody = document.getElementById('breach-body');
+            const ransomBody = document.getElementById('ransom-body');
+            const loading = document.getElementById('loading');
+            const errorMsg = document.getElementById('error-msg');
+            const lastUpdatedEl = document.getElementById('last-updated');
+
+            errorMsg.textContent = '';
+
             try {
                 const response = await fetch(DATA_URL + CACHE_BUSTER);
-                if (!response.ok) throw new Error('Network response was not ok');
+                if (!response.ok) throw new Error('Failed to fetch data');
                 
                 const data = await response.json();
                 
-                // Update UI
                 document.getElementById('loading').style.display = 'none';
-                document.getElementById('last-updated').textContent = 
-                    `Last Synced: ${new Date(data.lastUpdated).toLocaleString()}`;
+                lastUpdatedEl.textContent = `Last Sync: ${new Date(data.lastUpdated).toLocaleString()} | Source: ${data.sourceName || 'Threat Intel'}`;
                 
-                const container = document.getElementById('threats-container');
-                container.innerHTML = '';
+                // Render Breaches Table
+                breachBody.innerHTML = '';
+                if (data.breaches && data.breaches.length > 0) {
+                    data.breaches.forEach(item => {
+                        const dateObj = new Date(item.pubDate);
+                        const dateStr = dateObj.toLocaleDateString() + ' ' + dateObj.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+                        const countDisplay = (item.breachCount && item.breachCount !== "N/A") ? item.breachCount : "Unknown";
 
-                if (data.threats.length === 0) {
-                    container.innerHTML = '<p>No new threats found.</p>';
-                    return;
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td class="col-company"><a href="${item.link}" target="_blank">${item.title}</a></td>
+                            <td class="col-count"><span class="count-val">${countDisplay}</span></td>
+                            <td style="color:#94a3b8; font-size:0.9rem;">${dateStr}</td>
+                            <td style="color:#cbd5e1; font-size:0.95rem;">${item.summary}</td>
+                        `;
+                        breachBody.appendChild(row);
+                    });
+                } else {
+                    breachBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:#64748b;">No recent breaches found.</td></tr>';
                 }
 
-                data.threats.forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'card';
-                    
-                    // Format categories
-                    let tagsHtml = '';
-                    if(item.categories) {
-                        item.categories.forEach(tag => {
-                            tagsHtml += `<span class="tag">${tag}</span>`;
-                        });
-                    }
+                // Render Ransomware Table
+                ransomBody.innerHTML = '';
+                if (data.ransomware && data.ransomware.length > 0) {
+                    data.ransomware.forEach(item => {
+                        const dateObj = new Date(item.pubDate);
+                        const dateStr = dateObj.toLocaleDateString() + ' ' + dateObj.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
 
-                    card.innerHTML = `
-                        <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-                        <p>${item.summary}</p>
-                        <div class="meta">
-                            ${tagsHtml}
-                            <br><br>
-                            <span>Published: ${new Date(item.pubDate).toLocaleString()}</span>
-                        </div>
-                    `;
-                    container.appendChild(card);
-                });
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td class="col-company"><a href="${item.link}" target="_blank">🚨 ${item.title}</a></td>
+                            <td style="color:#94a3b8; font-size:0.9rem;">${dateStr}</td>
+                            <td style="color:#cbd5e1; font-size:0.95rem;">${item.summary}</td>
+                        `;
+                        ransomBody.appendChild(row);
+                    });
+                } else {
+                    ransomBody.innerHTML = '<tr><td colspan="3" style="text-align:center; color:#64748b;">No recent ransomware news found.</td></tr>';
+                }
 
             } catch (error) {
-                console.error('Error loading feed:', error);
-                document.getElementById('loading').textContent = 'Error loading data. The feed might be down.';
+                console.error('Error:', error);
+                document.getElementById('loading').style.display = 'none';
+                errorMsg.textContent = 'Error loading threat data. Please check the console.';
             }
         }
 
-        // Load immediately
-        loadFeed();
-        
-        // Auto-refresh every 10 seconds (optional, helps if user leaves page open)
-        setInterval(loadFeed, 10000);
+        // Load immediately and refresh every 5 minutes
+        loadThreatData();
+        setInterval(loadThreatData, 300000);
     </script>
 </body>
 </html>
