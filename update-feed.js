@@ -7,7 +7,7 @@ const fs = require('fs');
 // https://haveibeenpwned.com/feed/breaches/
 // https://blog.google/threat-analysis-group/rss/
 // const RSS_URL = 'YOUR_RSS_FEED_URL_HERE'; 
-const RSS_URL = 'https://haveibeenpwned.com/feed/breaches/'; 
+const RSS_URL = 'https://feeds.feedburner.com/TheHackersNews'; 
 
 // Configure the parser to send a User-Agent header (mimics a browser)
 const parser = new Parser({
