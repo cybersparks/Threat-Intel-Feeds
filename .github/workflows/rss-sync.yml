@@ -1,5 +1,8 @@
 name: Sync RSS to JSON
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 */5 * * *' 
