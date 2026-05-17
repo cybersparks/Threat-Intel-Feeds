@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T16:03:07.677Z",
+  "lastUpdated": "2026-05-17T21:02:23.084Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/bG9wZXpsYXdmbC5jb21AaW5jcmFuc29t",
       "pubDate": "Sun, 10 May 2026 03:22:09 +0000",
       "summary": "full data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Calsoft Inc",
-      "link": "https://www.ransomware.live/id/Q2Fsc29mdCBJbmNAaW5jcmFuc29t",
-      "pubDate": "Sat, 09 May 2026 08:53:07 +0000",
-      "summary": "CalSoft Inc.\r \r is a company focused on providing digital transformation and AI services tailored for enterprises. Their offerings are designed to enhance operational efficiency, accelerate product delivery, and ensure robust data security, AI-Powered Solutions, Cloud and Infrastructure Services, Da...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
