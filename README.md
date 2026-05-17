@@ -10,6 +10,9 @@ A serverless, automated threat intelligence dashboard hosted on **GitHub Pages**
 - **Dark Mode UI**: Modern, responsive design optimized for security monitoring.
 - **Extensible**: Easily swap RSS sources or add new data fields.
 
+ **Website**:
+    - Dashboard live at: `https://cybersparks.github.io/Threat-Intel-Feeds//`
+
 ## 🏗️ How It Works
 
 1.  **The Source**: The system monitors an RSS feed (e.g., CISA, The Hacker News, etc.).
@@ -45,8 +48,7 @@ A serverless, automated threat intelligence dashboard hosted on **GitHub Pages**
     - Go to **Settings > Pages**.
     - Set Source to **Deploy from a branch** > **main** (or master) > **Root (/)**.
     - Save and wait 2–3 minutes for the site to build.
-5.  **Visit Your Site**:
-    - Your dashboard will be live at: `https://<your-username>.github.io/<repo-name>/`
+
 
 ## ⚙️ Configuration
 
