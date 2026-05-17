@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T11:16:20.528Z",
+  "lastUpdated": "2026-05-17T16:03:07.677Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : metaval.com.au",
+      "link": "https://www.ransomware.live/id/bWV0YXZhbC5jb20uYXVAaW5jcmFuc29t",
+      "pubDate": "Sun, 17 May 2026 11:23:05 +0000",
+      "summary": "Metaval Consolidated is an Australian owned and operated manufacturers representative supplying all Australian states and territories. Metaval was established in 1967 to provide an engineering supply service to users in the paper industry. As our company grew and diversified, the range of industries...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : defenseisready.com",
       "link": "https://www.ransomware.live/id/ZGVmZW5zZWlzcmVhZHkuY29tQGluY3JhbnNvbQ==",
