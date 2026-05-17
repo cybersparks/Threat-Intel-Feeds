@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Threat Intelligence</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        h1 { color: #38bdf8; border-bottom: 2px solid #334155; padding-bottom: 10px; }
+        .status { font-size: 0.9em; color: #94a3b8; margin-bottom: 20px; }
+        
+        .card { background: #1e293b; border-left: 4px solid #38bdf8; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+        .card h3 { margin: 0 0 8px 0; }
+        .card a { color: #38bdf8; text-decoration: none; font-weight: bold; }
+        .card a:hover { text-decoration: underline; }
+        .meta { font-size: 0.85em; color: #64748b; margin-top: 8px; }
+        .tag { display: inline-block; background: #334155; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; margin-right: 5px; }
+        
+        /* Loading State */
+        #loading { text-align: center; color: #94a3b8; margin-top: 50px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ Live Threat Intelligence</h1>
+        <div id="last-updated" class="status">Loading feed...</div>
+        <div id="loading">Fetching latest data...</div>
+        <div id="threats-container"></div>
+    </div>
+
+    <script>
+        const DATA_URL = './threat-data.json';
+        // Add a timestamp to force reload if browser caches old JSON
+        const CACHE_BUSTER = `?t=${new Date().getTime()}`;
+
+        async function loadFeed() {
+            try {
+                const response = await fetch(DATA_URL + CACHE_BUSTER);
+                if (!response.ok) throw new Error('Network response was not ok');
+                
+                const data = await response.json();
+                
+                // Update UI
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('last-updated').textContent = 
+                    `Last Synced: ${new Date(data.lastUpdated).toLocaleString()}`;
+                
+                const container = document.getElementById('threats-container');
+                container.innerHTML = '';
+
+                if (data.threats.length === 0) {
+                    container.innerHTML = '<p>No new threats found.</p>';
+                    return;
+                }
+
+                data.threats.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    
+                    // Format categories
+                    let tagsHtml = '';
+                    if(item.categories) {
+                        item.categories.forEach(tag => {
+                            tagsHtml += `<span class="tag">${tag}</span>`;
+                        });
+                    }
+
+                    card.innerHTML = `
+                        <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+                        <p>${item.summary}</p>
+                        <div class="meta">
+                            ${tagsHtml}
+                            <br><br>
+                            <span>Published: ${new Date(item.pubDate).toLocaleString()}</span>
+                        </div>
+                    `;
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                console.error('Error loading feed:', error);
+                document.getElementById('loading').textContent = 'Error loading data. The feed might be down.';
+            }
+        }
+
+        // Load immediately
+        loadFeed();
+        
+        // Auto-refresh every 10 minutes (optional, helps if user leaves page open)
+        setInterval(loadFeed, 600000);
+    </script>
+</body>
+</html>
