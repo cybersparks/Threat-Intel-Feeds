@@ -1,7 +1,7 @@
 name: Sync RSS to JSON
 
 on:
-  # Run every 5 minutes
+  # Run every 5 minutes (Fastest allowed on free tier)
   schedule:
     - cron: '0 */5 * * *' 
   
