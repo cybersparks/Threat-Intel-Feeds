@@ -3,7 +3,7 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 
 // Your target URL (The Hacker News)
-const RSS_URL = 'https://feeds.feedburner.com/TheHackersNews'; 
+const RSS_URL = 'https://haveibeenpwned.com/feed/breaches/'; 
 
 // Configure the parser ONCE with the User-Agent header
 const parser = new Parser({
