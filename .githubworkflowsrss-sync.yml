@@ -1,0 +1,37 @@
+name: Sync RSS to JSON
+
+on:
+  # Run every hour (You can change this to '0 */15 * * *' for every 15 mins)
+  schedule:
+    - cron: '0 */15 * * *' 
+  
+  # Allow manual trigger in case you want to update immediately
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install rss-parser
+
+      - name: Run RSS Fetcher
+        run: node update-feed.js
+        # If your feed needs an API Key, set it here:
+        # env:
+        #   RSS_API_KEY: ${{ secrets.RSS_API_KEY }}
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Auto-update: New threat intelligence data'
+          file_pattern: threat-data.json
+          # This pushes the new JSON file to the repo, triggering GitHub Pages to rebuild
