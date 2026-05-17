@@ -2,14 +2,10 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 
-// REPLACE THIS with your actual RSS Feed URL
-// Example: 'https://www.cisa.gov/news-events/cybersecurity-events.atom'
-// https://haveibeenpwned.com/feed/breaches/
-// https://blog.google/threat-analysis-group/rss/
-// const RSS_URL = 'YOUR_RSS_FEED_URL_HERE'; 
+// Your target URL (The Hacker News)
 const RSS_URL = 'https://feeds.feedburner.com/TheHackersNews'; 
 
-// Configure the parser to send a User-Agent header (mimics a browser)
+// Configure the parser ONCE with the User-Agent header
 const parser = new Parser({
     customHeaders: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -17,10 +13,10 @@ const parser = new Parser({
 });
 
 async function run() {
-  const parser = new Parser();
-
   try {
     console.log(`Fetching feed from ${RSS_URL}...`);
+    
+    // USE the parser defined above (do NOT create a new one here)
     const feed = await parser.parseURL(RSS_URL);
 
     // Transform data for your static site
@@ -43,6 +39,10 @@ async function run() {
     
   } catch (error) {
     console.error('Error fetching RSS:', error);
+    // Log specific status if available
+    if (error.response && error.response.status) {
+        console.error(`Server returned status: ${error.response.status}`);
+    }
     process.exit(1); // Fail the action so you know something went wrong
   }
 }
