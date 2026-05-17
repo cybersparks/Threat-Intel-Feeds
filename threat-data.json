@@ -1,166 +1,166 @@
 {
-  "lastUpdated": "2026-05-17T03:16:27.991Z",
-  "feedTitle": "The Hacker News",
+  "lastUpdated": "2026-05-17T03:25:03.035Z",
+  "feedTitle": "Have I Been Pwned latest breaches",
   "threats": [
     {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "pubDate": "Sat, 16 May 2026 20:50:48 +0530",
-      "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal of stealing payment data.\n\n\n\n  Details of the activity were\n  published\n  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "title": "Abrigo - 711,099 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Abrigo",
+      "pubDate": "Thu, 14 May 2026 03:37:50 Z",
+      "summary": "In April 2026, the fintech software company Abrigo was targeted in a \"pay or leak\" extortion attempt by the ShinyHunters group. Shortly after, data allegedly taken from the company's Salesforce instance was published publicly and contained over 700k unique email addresses belonging to both Abrigo staff and external contacts. Whilst separate from Abrigo's Salesforce compromise via the Drift application connector the previous year, the data fields described in that incident are consistent with the ShinyHunters data, namely that it was \"business contact information\" including \"institution name, employee name, email addresses, and phone numbers\".",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html"
+      "guid": "Abrigo"
     },
     {
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "pubDate": "Fri, 15 May 2026 22:40:25 +0530",
-      "summary": "The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.\n\n\n\n  Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "title": "Canada Life - 237,810 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CanadaLife",
+      "pubDate": "Wed, 13 May 2026 06:51:17 Z",
+      "summary": "In April 2026, Canada Life was the victim of a \"pay or leak\" extortion campaign by the ShinyHunters group. The group subsequently published the data which contained over 200k unique email addresses along with names, phone numbers, physical addresses and, in some cases, customer support tickets. In their disclosure notice, Canada Life advised that \"it is a small proportion of our customers who may have been impacted\". In the wake of the incident, Canada Life also published an alert cautioning customers to be wary of phishing attacks, a pattern often seen after the public release of breached data.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html"
+      "guid": "CanadaLife"
     },
     {
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "pubDate": "Fri, 15 May 2026 19:05:04 +0530",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively dubbed\n  \n    Claw Chain\n  \n  by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
+      "title": "Cushman & Wakefield - 310,431 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CushmanWakefield",
+      "pubDate": "Tue, 12 May 2026 06:58:16 Z",
+      "summary": "In May 2026, the real estate services firm Cushman & Wakefield was the target of a \"pay or leak\" extortion campaign by the ShinyHunters group. Following the threat, the group publicly published data they alleged had been obtained from the firm, consisting mostly of C&W email addresses along with tens of thousands of external email addresses and corporate contact records. The exposed data was primarily business information, including names, job titles, company addresses and phone numbers.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html"
+      "guid": "CushmanWakefield"
     },
     {
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "pubDate": "Fri, 15 May 2026 16:30:00 +0530",
-      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+      "title": "Zara - 197,376 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Zara",
+      "pubDate": "Fri, 08 May 2026 07:14:22 Z",
+      "summary": "In April 2026, the fashion brand Zara was among a number of organisations targeted by the ShinyHunters extortion group as part of their \"pay or leak\" campaign. The group claimed the breach was related to a compromise of the Anodot analytics platform and subsequently published a terabyte of data allegedly including 95M support ticket records. The data contained 197k unique email addresses alongside product SKUs, order IDs and the market the support ticket originated in. Zara's parent company Inditex advised that the incident didn't affect passwords or payment information.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html"
+      "guid": "Zara"
     },
     {
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "pubDate": "Fri, 15 May 2026 16:24:44 +0530",
-      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner.\n\"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+      "title": "Woflow - 447,593 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Woflow",
+      "pubDate": "Thu, 07 May 2026 06:48:33 Z",
+      "summary": "In March 2026, the AI-driven merchant data platform Woflow was named as a victim by the ShinyHunters data extortion group. The group subsequently published tens of thousands of files allegedly obtained from the company, comprising more than 2TB of data. The trove included hundreds of thousands of email addresses, names, phone numbers and physical addresses, with the data indicating it related to Woflow customers and, in turn, the customers of merchants using their platform.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html"
+      "guid": "Woflow"
     },
     {
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "pubDate": "Fri, 15 May 2026 11:49:04 +0530",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
+      "title": "LegionProxy - 10,144 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/LegionProxy",
+      "pubDate": "Wed, 06 May 2026 10:11:25 Z",
+      "summary": "In April 2026, the commercial residential and ISP proxy network LegionProxy suffered a data breach. The incident exposed 10k email addresses, bcrypt password hashes, names and purchases.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
+      "guid": "LegionProxy"
     },
     {
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "pubDate": "Fri, 15 May 2026 10:58:03 +0530",
-      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+      "title": "Vimeo - 119,167 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Vimeo",
+      "pubDate": "Tue, 05 May 2026 02:08:50 Z",
+      "summary": "In April 2026, the ShinyHunters extortion group listed Vimeo on their extortion portal as part of their \"pay or leak\" campaign. They subsequently published hundreds of gigabytes of data, predominantly consisting of video titles, technical data and metadata. The data also included 119k unique email addresses, sometimes accompanied by names. Vimeo attributed the exposure to a breach of Anodot, a third-party analytics vendor, and advised the incident does not include \"Vimeo video content, valid user login credentials, or payment card information\".",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
+      "guid": "Vimeo"
     },
     {
-      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-      "pubDate": "Thu, 14 May 2026 23:15:20 +0530",
-      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0.\n\"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+      "title": "Reborn Gaming - 126 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/RebornGaming",
+      "pubDate": "Mon, 04 May 2026 03:43:06 Z",
+      "summary": "In April 2026, the gaming community Reborn Gaming suffered a data breach due to a vulnerability in cPanel and WebHost Manager (WHM). The breach exposed 126 unique email addresses along with IP addresses and Steam IDs. Reborn Gaming self-submitted the data to Have I Been Pwned.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+      "guid": "RebornGaming"
     },
     {
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "pubDate": "Thu, 14 May 2026 22:52:43 +0530",
-      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious -\n\nnode-ipc@9.1.6\nnode-ipc@9.2.3\nnode-ipc@12.0.1\n\n\"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+      "title": "Marcus & Millichap - 1,837,078 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MarcusMillichap",
+      "pubDate": "Sun, 03 May 2026 22:53:12 Z",
+      "summary": "In April 2026, the commercial real estate brokerage firm Marcus & Millichap was named as one of multiple alleged victims of the ShinyHunters hacking and extortion group. Data alleged to have been obtained from the company was subsequently released publicly and included 1.8M unique email addresses, along with names, phone numbers and employment-related information including employer, job title and physical company address. In their disclosure notice, Marcus & Millichap advised that data which may have been accessed appeared limited to \"company forms, templates, marketing materials, and general contact information\".",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html"
+      "guid": "MarcusMillichap"
     },
     {
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "pubDate": "Thu, 14 May 2026 21:37:46 +0530",
-      "summary": "Everything is still on fire.\nThis week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago.\nThe mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work",
+      "title": "ZenBusiness - 5,118,184 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ZenBusiness",
+      "pubDate": "Sat, 02 May 2026 05:53:38 Z",
+      "summary": "In March 2026, the hacker and extortion group \"ShinyHunters\" claimed to have obtained a substantial corpus of data from ZenBusiness, a business formation and compliance platform. The group claimed the data had been exfiltrated from platforms including Snowflake, Mixpanel and Salesforce, and threatened to publish it if a ransom was not paid. The following month, after claiming payment had not been made, ShinyHunters publicly released the data. The collection amounted to many terabytes across thousands of files that appeared to originate from multiple systems and business functions, including leads, support records and other CRM-related data. The data contained approximately 5M unique email addresses, often accompanied by name and phone number depending on the source file.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html"
+      "guid": "ZenBusiness"
     },
     {
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "pubDate": "Thu, 14 May 2026 19:30:37 +0530",
-      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
+      "title": "Aman - 215,563 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Aman",
+      "pubDate": "Fri, 01 May 2026 03:34:30 Z",
+      "summary": "In April 2026, the ultra-luxury hotel brand Aman was named by ShinyHunters as the target of a \"pay or leak\" extortion campaign, with the data allegedly obtained from their Salesforce CRM. The data was subsequently leaked publicly and contained over 200k unique email addresses. Whilst not present on all records, the data also included genders, physical addresses, phone numbers, nationalities, dates of birth, spouse names and VIP status codes.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
+      "guid": "Aman"
     },
     {
-      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "pubDate": "Thu, 14 May 2026 17:10:14 +0530",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure.\nThe vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke",
+      "title": "Pitney Bowes - 8,243,989 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/PitneyBowes",
+      "pubDate": "Mon, 27 Apr 2026 22:52:07 Z",
+      "summary": "In April 2026, the hacking collective ShinyHunters claimed to have obtained data from Pitney Bowes as part of a broader extortion campaign that also named several other organisations. After negotiations allegedly failed, the group publicly released the data which included 8.2M unique email addresses, along with names, phone numbers and physical addresses. A subset of the data also included Pitney Bowes employee records with job titles.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
+      "guid": "PitneyBowes"
     },
     {
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "pubDate": "Thu, 14 May 2026 17:00:00 +0530",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
+      "title": "ADT - 5,488,888 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ADT",
+      "pubDate": "Mon, 27 Apr 2026 07:36:42 Z",
+      "summary": "In April 2026, home security firm ADT confirmed a data breach by ShinyHunters, which listed the company on its website as part of a \"pay or leak\" extortion attempt. The breach impacted 5.5M unique email addresses along with names, phone numbers and physical addresses. ADT also advised that \"in a small percentage of cases, dates of birth and the last four digits of Social Security numbers or Tax IDs were included\" and that it had contacted all affected people.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html"
+      "guid": "ADT"
     },
     {
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "pubDate": "Thu, 14 May 2026 14:55:50 +0530",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON).\nThe security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+      "title": "Udemy - 1,401,259 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Udemy",
+      "pubDate": "Sun, 26 Apr 2026 23:01:50 Z",
+      "summary": "In April 2026, online training company Udemy was the victim of a “pay or leak” extortion attempt perpetrated by the ShinyHunters group. The data was subsequently leaked publicly and contained 1.4M unique email addresses belonging to customers and instructors. The data also included names, physical addresses, phone numbers, employer information and instructor payout methods including PayPal, cheque and bank transfer.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html"
+      "guid": "Udemy"
     },
     {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "pubDate": "Thu, 14 May 2026 12:36:15 +0530",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.\nCodenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "title": "Carnival - 7,531,359 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Carnival",
+      "pubDate": "Fri, 24 Apr 2026 01:58:19 Z",
+      "summary": "In April 2026, the notorious hacking collective ShinyHunters claimed they had obtained a substantial volume of data belonging to the Carnival cruise operator and attempted to extort the organisation to prevent the data from being leaked. The following week, the group published the data publicly, which contained 8.7M records with 7.5M unique email addresses. The data contained fields indicating it related to the Mariner Society loyalty program run by Holland America, a cruise line brand under Carnival, and included names, dates of birth, genders and data relating to status within the loyalty program. Carnival acknowledged a phishing incident involving a single user account and advised they were working to better understand the scope of the unauthorised activity.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html"
+      "guid": "Carnival"
     },
     {
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "pubDate": "Thu, 14 May 2026 11:30:09 +0530",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+      "title": "Amtrak - 2,147,679 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Amtrak",
+      "pubDate": "Fri, 17 Apr 2026 04:54:48 Z",
+      "summary": "In April 2026, the hacking group ShinyHunters claimed they had breached Amtrak. The group typically compromises organisations' Salesforce instances before demanding a ransom and later, if not paid, dumping the data publicly. They subsequently published the alleged data which contained over 2M unique email addresses along with names, physical addresses and customer support records.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
+      "guid": "Amtrak"
     },
     {
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "pubDate": "Wed, 13 May 2026 19:16:02 +0530",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+      "title": "McGraw Hill - 13,500,136 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/McGrawHill",
+      "pubDate": "Thu, 16 Apr 2026 01:31:14 Z",
+      "summary": "In April 2026, education company McGraw Hill confirmed a data breach following an extortion attempt. Attributed to a Salesforce misconfiguration, the company stated the incident exposed \"a limited set of data from a webpage hosted by Salesforce on its platform\". More than 100GB of data was later publicly distributed, containing 13.5M unique email addresses across multiple files, with additional fields such as name, physical address and phone number appearing inconsistently across some records.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html"
+      "guid": "McGrawHill"
     },
     {
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "pubDate": "Wed, 13 May 2026 18:30:00 +0530",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+      "title": "Hallmark - 1,736,520 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Hallmark",
+      "pubDate": "Sun, 12 Apr 2026 02:01:11 Z",
+      "summary": "In March 2026, Hallmark suffered an alleged breach and subsequent extortion after attackers gained access to data stored within Salesforce. The data was later published after the extortion deadline passed, exposing 1.7M unique email addresses across both Hallmark and the Hallmark+ streaming service, along with names, phone numbers, physical addresses and support tickets.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html"
+      "guid": "Hallmark"
     },
     {
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "pubDate": "Wed, 13 May 2026 17:22:43 +0530",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While",
+      "title": "My Lovely AI - 106,271 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MyLovelyAI",
+      "pubDate": "Wed, 08 Apr 2026 03:40:14 Z",
+      "summary": "In April 2026, the NSFW AI girlfriend platform My Lovely AI suffered a data breach that exposed over 100k users. The data included user-created prompts and links to the resulting AI-generated images, along with a small number of Discord and X usernames.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html"
+      "guid": "MyLovelyAI"
     },
     {
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "pubDate": "Wed, 13 May 2026 17:00:00 +0530",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+      "title": "Crunchyroll - 1,195,684 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Crunchyroll",
+      "pubDate": "Sat, 04 Apr 2026 04:47:29 Z",
+      "summary": "In March 2026, the anime streaming service Crunchyroll suffered a data breach alleged to have impacted 6.8M users. The exposed data is reported to have originated from the company's Zendesk support system where \"name, login name, email address, IP address, general geographic location and the contents of the support tickets\" were exposed. A subset of 1.2M email addresses from an alleged 2M record dataset being sold was later provided to HIBP.",
       "categories": [],
-      "guid": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html"
+      "guid": "Crunchyroll"
     }
   ]
 }
