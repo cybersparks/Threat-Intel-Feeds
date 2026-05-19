@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-05-18T21:19:26.942Z",
+  "lastUpdated": "2026-05-19T04:13:49.634Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "CTT - 468,124 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CTT",
+      "pubDate": "Tue, 19 May 2026 00:28:54 Z",
+      "summary": "In April 2026, data allegedly obtained from CTT, Portugal's national postal service, was posted to a public hacking forum. The data included 468k uniq...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "468,124 ",
+        "468,124"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Addi - 34,532,941 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ADDI",
+      "pubDate": "Mon, 18 May 2026 20:55:51 Z",
+      "summary": "In March 2026, the Colombian fintech company Addi identified unauthorised activity on its platform and advised customers that \"it is possible that you...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "34,532,941 ",
+        "34,532,941"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Abrigo - 711,099 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Abrigo",
@@ -232,32 +258,6 @@
       "breachCount": [
         "1,736,520 ",
         "1,736,520"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "My Lovely AI - 106,271 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MyLovelyAI",
-      "pubDate": "Wed, 08 Apr 2026 03:40:14 Z",
-      "summary": "In April 2026, the NSFW AI girlfriend platform My Lovely AI suffered a data breach that exposed over 100k users. The data included user-created prompt...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "106,271 ",
-        "106,271"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Crunchyroll - 1,195,684 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Crunchyroll",
-      "pubDate": "Sat, 04 Apr 2026 04:47:29 Z",
-      "summary": "In March 2026, the anime streaming service Crunchyroll suffered a data breach alleged to have impacted 6.8M users. The exposed data is reported to hav...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,195,684 ",
-        "1,195,684"
       ],
       "isBreach": true,
       "isRansomware": false
