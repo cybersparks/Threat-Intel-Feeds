@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T17:55:58.209Z",
+  "lastUpdated": "2026-05-20T22:01:48.332Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -369,26 +369,6 @@
       "link": "https://www.ransomware.live/id/TWFyc2hhbGwgRGVubmVoZXlAU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Tue, 12 May 2026 22:20:12 +0000",
       "summary": "They offered $100,000 to keep the data from being published. Founded in 1962 and headquartered in Phil…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : rbh aerospace inc",
-      "link": "https://www.ransomware.live/id/cmJoIGFlcm9zcGFjZSBpbmNAaW5jcmFuc29t",
-      "pubDate": "Mon, 11 May 2026 23:52:33 +0000",
-      "summary": "RBH Aerospace, Inc. \r -is a manufacturing company located in Long Beach, California, specializing in the production of aerospace components. Established in January 2005, the company focuses on providing high-quality parts for both commercial and military aircraft. Their product offerings include air...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Bideawee",
-      "link": "https://www.ransomware.live/id/QmlkZWF3ZWVAaW5jcmFuc29t",
-      "pubDate": "Mon, 11 May 2026 23:26:23 +0000",
-      "summary": "Bideawee is a no-kill animal rescue and shelter located in NYC, Wantagh, and Westhampton. The organization offers a variety of services including adoptions, medical care, pet therapy, and fostering opportunities. Bideawee aims to strengthen the human-animal bond through compassionate care for both p...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
