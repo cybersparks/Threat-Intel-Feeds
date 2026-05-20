@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T12:30:40.909Z",
+  "lastUpdated": "2026-05-20T17:55:58.209Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/QmlkZWF3ZWVAaW5jcmFuc29t",
       "pubDate": "Mon, 11 May 2026 23:26:23 +0000",
       "summary": "Bideawee is a no-kill animal rescue and shelter located in NYC, Wantagh, and Westhampton. The organization offers a variety of services including adoptions, medical care, pet therapy, and fostering opportunities. Bideawee aims to strengthen the human-animal bond through compassionate care for both p...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lalsgroup.com",
-      "link": "https://www.ransomware.live/id/bGFsc2dyb3VwLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 11 May 2026 20:22:07 +0000",
-      "summary": "Lals Group is a large UAE-based family business group operating in retail, FMCG, distribution, home goods, and lifestyle brands across the GCC region. Founded in 1979, the company manages well-known brands and retail chains including Homes r Us, Daiso Japan, Carter’s, Mom Store, and others. Lals Gro...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
