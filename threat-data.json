@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-05-21T04:22:44.442Z",
+  "lastUpdated": "2026-05-21T08:39:19.314Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Dragonica Lunaris - 126,293 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Dragonica",
+      "pubDate": "Thu, 21 May 2026 04:41:32 Z",
+      "summary": "In December 2025, the European Dragonica private server Dragonica Lunaris suffered a data breach. The incident exposed 126k email addresses, usernames...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "126,293 ",
+        "126,293"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Windows93 / Myspace93 - 46,105 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Windows93",
+      "pubDate": "Thu, 21 May 2026 03:45:15 Z",
+      "summary": "In January 2021, the parody site Windows93 suffered a data breach of the Myspace93 sub-site after a beta application was exploited to download server ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "93 ",
+        "93"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "CTT - 468,124 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/CTT",
@@ -232,32 +258,6 @@
       "breachCount": [
         "2,147,679 ",
         "2,147,679"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "McGraw Hill - 13,500,136 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/McGrawHill",
-      "pubDate": "Thu, 16 Apr 2026 01:31:14 Z",
-      "summary": "In April 2026, education company McGraw Hill confirmed a data breach following an extortion attempt. Attributed to a Salesforce misconfiguration, the ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "13,500,136 ",
-        "13,500,136"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Hallmark - 1,736,520 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Hallmark",
-      "pubDate": "Sun, 12 Apr 2026 02:01:11 Z",
-      "summary": "In March 2026, Hallmark suffered an alleged breach and subsequent extortion after attackers gained access to data stored within Salesforce. The data w...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,736,520 ",
-        "1,736,520"
       ],
       "isBreach": true,
       "isRansomware": false
