@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T08:27:07.997Z",
+  "lastUpdated": "2026-05-22T12:27:52.537Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : threadinnovations",
+      "link": "https://www.ransomware.live/id/dGhyZWFkaW5ub3ZhdGlvbnNAaW5jcmFuc29t",
+      "pubDate": "Fri, 22 May 2026 12:22:53 +0000",
+      "summary": "Thread has developed a proprietary technology for the production of cost-effective, efficient, and scalable carbon fiber. This process is based on utilizing the natural molecular structure of asphaltenes found in oil sands bitumen. Unauthorized access has been gained to the company's confidential fi...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Nothing",
       "link": "https://www.ransomware.live/id/Tm90aGluZ0BpbmNyYW5zb20=",
