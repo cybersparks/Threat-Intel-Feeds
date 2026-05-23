@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T11:18:32.401Z",
+  "lastUpdated": "2026-05-23T16:06:19.083Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Mecanizados y Montajes Aeronáuticos (mymgroup.es)",
+      "link": "https://www.ransomware.live/id/TWVjYW5pemFkb3MgeSBNb250YWplcyBBZXJvbsOhdXRpY29zIChteW1ncm91cC5lcylAaW5jcmFuc29t",
+      "pubDate": "Sat, 23 May 2026 13:22:39 +0000",
+      "summary": "MyM specializes in the manufacturing of metallic components and subassemblies for aerospace applications, serving major Tier 1 and OEM programs globally. \r The company is committed to excellence, utilizing advanced technology, infrastructure, and a skilled workforce to ensure high-quality production...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : threadinnovations",
       "link": "https://www.ransomware.live/id/dGhyZWFkaW5ub3ZhdGlvbnNAaW5jcmFuc29t",
