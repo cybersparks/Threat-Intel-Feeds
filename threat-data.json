@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-05-24T04:16:45.617Z",
+  "lastUpdated": "2026-05-24T07:51:51.184Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "7-Eleven - 185,256 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/7-Eleven",
+      "pubDate": "Sun, 24 May 2026 05:15:22 Z",
+      "summary": "In April 2026, 7-Eleven was the victim of a \"pay or leak\" extortion campaign by ShinyHunters, with the data later published that month. The incident e...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "7",
+        "7"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Dragonica Lunaris - 126,293 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Dragonica",
@@ -245,19 +258,6 @@
       "breachCount": [
         "7,531,359 ",
         "7,531,359"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Amtrak - 2,147,679 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Amtrak",
-      "pubDate": "Fri, 17 Apr 2026 04:54:48 Z",
-      "summary": "In April 2026, the hacking group ShinyHunters claimed they had breached Amtrak. The group typically compromises organisations' Salesforce instances be...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "2,147,679 ",
-        "2,147,679"
       ],
       "isBreach": true,
       "isRansomware": false
