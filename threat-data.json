@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T16:07:13.776Z",
+  "lastUpdated": "2026-05-24T21:04:13.588Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,36 +339,6 @@
       "link": "https://www.ransomware.live/id/bGFmai5vcmdAaW5jcmFuc29t",
       "pubDate": "Fri, 15 May 2026 12:23:37 +0000",
       "summary": "Louisiana Association for Justice is a voluntary bar association whose statewide membership is composed mostly of lawyers who have a trial practice. Both defense and plaintiff attorneys belong to the association; however, most LAJ members represent consumer plaintiffs in civil actions. LAJ attorney-...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : United Quality Cooperative / www.uqcoop.com",
-      "link": "https://www.ransomware.live/id/VW5pdGVkIFF1YWxpdHkgQ29vcGVyYXRpdmUgLyB3d3cudXFjb29wLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Fri, 15 May 2026 01:23:02 +0000",
-      "summary": "United Quality Cooperative provides a range of services including bulk fuel, propane, lubricants, and agricultural products.\r \r We have at our disposal internal corporate correspondence, financial documents, personal data of company employees and much more.\r \r All stolen information will be publishe...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Stride Learning",
-      "link": "https://www.ransomware.live/id/U3RyaWRlIExlYXJuaW5nQHNoYWRvd2J5dDMk",
-      "pubDate": "Thu, 14 May 2026 16:47:59 +0000",
-      "summary": "Stride Learning Should've Paid the ransom. We were only asking $500,000 in bitcoin or monero it's not that hard. This is a warning to all companies that if you don't pay it will get leaked. If you pay you have are word that it's deleted also with a picture before and after. If you want we will also ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Silergy Corp",
-      "link": "https://www.ransomware.live/id/U2lsZXJneSBDb3JwQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 13 May 2026 19:22:33 +0000",
-      "summary": "About Silergy\r Silergy Corp. specializes in the manufacture and sale of power integrated circuits. Silergy Corp. is headquartered in Hangzhou, Zhejiang, China.\r ----\r More than 450 GB of personal data was leaked, along with a vast amount of financial and private information, including contracts cont...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
