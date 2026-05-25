@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T21:04:13.588Z",
+  "lastUpdated": "2026-05-25T04:39:15.617Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Meirc training and consulting",
+      "link": "https://www.ransomware.live/id/TWVpcmMgdHJhaW5pbmcgYW5kIGNvbnN1bHRpbmdAaW5jcmFuc29t",
+      "pubDate": "Mon, 25 May 2026 03:22:15 +0000",
+      "summary": "Meirc offer a wide range of training programs across various categories, including accounting, finance, artificial intelligence, project management.\r They is recognized as a \"trusted\" training and consulting partner.\r \r We accessed the entire MEIRC network and downloaded 1TB of data\r - accounting\r -...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Mecanizados y Montajes Aeronáuticos (mymgroup.es)",
       "link": "https://www.ransomware.live/id/TWVjYW5pemFkb3MgeSBNb250YWplcyBBZXJvbsOhdXRpY29zIChteW1ncm91cC5lcylAaW5jcmFuc29t",
