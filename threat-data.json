@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T04:39:15.617Z",
+  "lastUpdated": "2026-05-25T13:34:48.102Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -329,26 +329,6 @@
       "link": "https://www.ransomware.live/id/bWV0YXZhbC5jb20uYXVAaW5jcmFuc29t",
       "pubDate": "Sun, 17 May 2026 11:23:05 +0000",
       "summary": "Metaval Consolidated is an Australian owned and operated manufacturers representative supplying all Australian states and territories. Metaval was established in 1967 to provide an engineering supply service to users in the paper industry. As our company grew and diversified, the range of industries...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : defenseisready.com",
-      "link": "https://www.ransomware.live/id/ZGVmZW5zZWlzcmVhZHkuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Fri, 15 May 2026 14:23:54 +0000",
-      "summary": "Deandra Grant Law is a Texas criminal defense and DWI firm with a practice exclusively concentrated on DWI, federal and criminal defense. The firm has defended clients across North and Central Texas for more than 30 years, with more than 500 cases tried to verdict....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lafj.org",
-      "link": "https://www.ransomware.live/id/bGFmai5vcmdAaW5jcmFuc29t",
-      "pubDate": "Fri, 15 May 2026 12:23:37 +0000",
-      "summary": "Louisiana Association for Justice is a voluntary bar association whose statewide membership is composed mostly of lawyers who have a trial practice. Both defense and plaintiff attorneys belong to the association; however, most LAJ members represent consumer plaintiffs in civil actions. LAJ attorney-...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
