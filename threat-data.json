@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T08:37:28.491Z",
+  "lastUpdated": "2026-05-26T17:57:34.903Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,16 +339,6 @@
       "link": "https://www.ransomware.live/id/YmVyZ2VuMS5uZXRAaW5jcmFuc29t",
       "pubDate": "Mon, 18 May 2026 01:22:31 +0000",
       "summary": "Founded in 1965, Bergen Community College is a comprehensive higher education institute that offers academic degree programs to students. Bergen Community College is located out of Paramus, New Jersey\r \r We will publish all the data(1TB) in a week...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : metaval.com.au",
-      "link": "https://www.ransomware.live/id/bWV0YXZhbC5jb20uYXVAaW5jcmFuc29t",
-      "pubDate": "Sun, 17 May 2026 11:23:05 +0000",
-      "summary": "Metaval Consolidated is an Australian owned and operated manufacturers representative supplying all Australian states and territories. Metaval was established in 1967 to provide an engineering supply service to users in the paper industry. As our company grew and diversified, the range of industries...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
