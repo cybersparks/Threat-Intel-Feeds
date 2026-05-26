@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T21:17:05.506Z",
+  "lastUpdated": "2026-05-26T04:14:00.832Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : PILLER AIMMCO",
+      "link": "https://www.ransomware.live/id/UElMTEVSIEFJTU1DT0BpbmNyYW5zb20=",
+      "pubDate": "Mon, 25 May 2026 23:22:14 +0000",
+      "summary": "PILLER AIMMCO is a leading vertically integrated custom plastic injection molding and tool-making company based in Woodland and Washougal, Washington. The company serves as a \"one-stop shop\" by managing the entire manufacturing lifecycle under one roof—from initial part design and engineering to mol...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Open Door Health Center",
       "link": "https://www.ransomware.live/id/T3BlbiBEb29yIEhlYWx0aCBDZW50ZXJAaW5jcmFuc29t",
