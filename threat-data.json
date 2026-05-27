@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-05-27T04:26:58.572Z",
+  "lastUpdated": "2026-05-27T08:42:53.404Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Mytheresa - 84,108 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Mytheresa",
+      "pubDate": "Wed, 27 May 2026 05:17:45 Z",
+      "summary": "In April 2026, the luxury fashion e-commerce platform Mytheresa was listed as a victim of the ShinyHunters \"pay or leak\" extortion group. After the ra...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "84,108 ",
+        "84,108"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Ameriprise - 502,597 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Ameriprise",
@@ -245,19 +258,6 @@
       "breachCount": [
         "5,488,888 ",
         "5,488,888"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Udemy - 1,401,259 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Udemy",
-      "pubDate": "Sun, 26 Apr 2026 23:01:50 Z",
-      "summary": "In April 2026, online training company Udemy was the victim of a “pay or leak” extortion attempt perpetrated by the ShinyHunters group. The data was s...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,401,259 ",
-        "1,401,259"
       ],
       "isBreach": true,
       "isRansomware": false
