@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-05-26T21:52:22.943Z",
+  "lastUpdated": "2026-05-27T04:26:58.572Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Ameriprise - 502,597 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Ameriprise",
+      "pubDate": "Tue, 26 May 2026 22:03:42 Z",
+      "summary": "In March 2026, the financial services firm Ameriprise Financial was named by the ShinyHunters group in a \"pay or leak\" extortion campaign. The group c...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "502,597 ",
+        "502,597"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "7-Eleven - 185,256 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/7-Eleven",
@@ -245,19 +258,6 @@
       "breachCount": [
         "1,401,259 ",
         "1,401,259"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Carnival - 7,531,359 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Carnival",
-      "pubDate": "Fri, 24 Apr 2026 01:58:19 Z",
-      "summary": "In April 2026, the notorious hacking collective ShinyHunters claimed they had obtained a substantial volume of data belonging to the Carnival cruise o...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "7,531,359 ",
-        "7,531,359"
       ],
       "isBreach": true,
       "isRansomware": false
