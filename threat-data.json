@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-05-28T18:16:11.202Z",
+  "lastUpdated": "2026-05-28T22:01:36.096Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Charter - 4,851,517 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Charter",
+      "pubDate": "Thu, 28 May 2026 20:00:34 Z",
+      "summary": "In May 2026, the telecommunications company Charter Communications (the parent company behind the consumer broadband and cable brand Spectrum) was nam...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "4,851,517 ",
+        "4,851,517"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Kemper - 269,299 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Kemper",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Pitney Bowes - 8,243,989 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/PitneyBowes",
-      "pubDate": "Mon, 27 Apr 2026 22:52:07 Z",
-      "summary": "In April 2026, the hacking collective ShinyHunters claimed to have obtained data from Pitney Bowes as part of a broader extortion campaign that also n...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "8,243,989 ",
-        "8,243,989"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Fox Rothschild LLP",
+      "link": "https://www.ransomware.live/id/Rm94IFJvdGhzY2hpbGQgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 28 May 2026 18:20:23 +0000",
+      "summary": "[AI generated] Fox Rothschild LLP is a national law firm headquartered in the United States. Founded in 1907, it operates across numerous offices throughout the country, providing legal services in areas including corporate law, litigation, employment law, real estate, and finance. The firm serves a...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : lawants",
       "link": "https://www.ransomware.live/id/bGF3YW50c0BpbmNyYW5zb20=",
