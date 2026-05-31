@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-05-30T21:09:11.016Z",
+  "lastUpdated": "2026-05-31T04:39:26.071Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Atlas Menu - 63,926 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AtlasMenu",
+      "pubDate": "Sat, 30 May 2026 23:35:29 Z",
+      "summary": "In May 2026, the GTA V and CS2 cheat service Atlas Menu suffered a data breach. An attacker claimed to have gained access to all Atlas systems and pub...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "63,926 ",
+        "63,926"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Charter - 4,851,517 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Charter",
@@ -245,19 +258,6 @@
       "breachCount": [
         "5,118,184 ",
         "5,118,184"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Aman - 215,563 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Aman",
-      "pubDate": "Fri, 01 May 2026 03:34:30 Z",
-      "summary": "In April 2026, the ultra-luxury hotel brand Aman was named by ShinyHunters as the target of a \"pay or leak\" extortion campaign, with the data allegedl...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "215,563 ",
-        "215,563"
       ],
       "isBreach": true,
       "isRansomware": false
