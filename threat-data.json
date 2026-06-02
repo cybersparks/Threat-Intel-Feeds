@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T09:15:29.592Z",
+  "lastUpdated": "2026-06-02T14:14:15.798Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,16 +359,6 @@
       "link": "https://www.ransomware.live/id/T3BlbiBEb29yIEhlYWx0aCBDZW50ZXJAaW5jcmFuc29t",
       "pubDate": "Mon, 25 May 2026 20:22:26 +0000",
       "summary": "Open Door Health Center of Illinois offers a comprehensive medical home approach to primary health care, focusing on improving community health since 1977. Their services include medical assistance, HIV programs, behavioral health, case management, and community outreach, catering especially to LGBT...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Meirc training and consulting",
-      "link": "https://www.ransomware.live/id/TWVpcmMgdHJhaW5pbmcgYW5kIGNvbnN1bHRpbmdAaW5jcmFuc29t",
-      "pubDate": "Mon, 25 May 2026 03:22:15 +0000",
-      "summary": "Meirc offer a wide range of training programs across various categories, including accounting, finance, artificial intelligence, project management.\r They is recognized as a \"trusted\" training and consulting partner.\r \r We accessed the entire MEIRC network and downloaded 1TB of data\r - accounting\r -...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
