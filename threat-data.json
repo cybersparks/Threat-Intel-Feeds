@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T18:47:49.538Z",
+  "lastUpdated": "2026-06-02T22:25:42.129Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : trrac.net",
+      "link": "https://www.ransomware.live/id/dHJyYWMubmV0QGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 02 Jun 2026 19:37:14 +0000",
+      "summary": "150gb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Cropwise (Syngenta Group)",
       "link": "https://www.ransomware.live/id/Q3JvcHdpc2UgKFN5bmdlbnRhIEdyb3VwKUBzaGFkb3dieXQzJA==",
