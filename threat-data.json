@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T22:34:33.520Z",
+  "lastUpdated": "2026-06-02T04:47:31.129Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Cropwise (Syngenta Group)",
+      "link": "https://www.ransomware.live/id/Q3JvcHdpc2UgKFN5bmdlbnRhIEdyb3VwKUBzaGFkb3dieXQzJA==",
+      "pubDate": "Tue, 02 Jun 2026 04:20:12 +0000",
+      "summary": "We have breached you and gained access to the following portals: https://operations.cropwise.com/d/users/sign_in https://accounts.cropwise.com/signin proof: https://mega.nz/folder/25hkSLgY#ELjJaFie-TfES9Z_47KFZA company url: https://operations.cropwise.com/ We are ShadowByt3$ a Extortion as a servic...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Bradley law firm",
       "link": "https://www.ransomware.live/id/QnJhZGxleSBsYXcgZmlybUBpbmNyYW5zb20=",
