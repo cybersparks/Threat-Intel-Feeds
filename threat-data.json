@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T10:01:04.653Z",
+  "lastUpdated": "2026-06-03T18:52:04.161Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Colina Financial Advisors",
+      "link": "https://www.ransomware.live/id/Q29saW5hIEZpbmFuY2lhbCBBZHZpc29yc0BpbmNyYW5zb20=",
+      "pubDate": "Wed, 03 Jun 2026 13:28:56 +0000",
+      "summary": "Colina Financial Advisors Limited (CFAL) is a prominent, independent wealth management and investment advisory firm based in Nassau, The Bahamas. Established in 1997, it serves as the investment arm of Colina Holdings Ltd.. The firm provides diverse financial services to both individual and institut...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Oztugotomotiv",
+      "link": "https://www.ransomware.live/id/T3p0dWdvdG9tb3RpdkBpbmNyYW5zb20=",
+      "pubDate": "Wed, 03 Jun 2026 12:31:38 +0000",
+      "summary": "Öztuğ Otomotiv & Endüstri is a Turkish company established in 1990 in Bursa, specializing in the production of high-precision components for the automotive, industrial, defense, and aerospace sectors.\r The company offers comprehensive services including design, mold manufacturing, and serial product...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : trrac.net",
       "link": "https://www.ransomware.live/id/dHJyYWMubmV0QGluY3JhbnNvbQ==",
       "pubDate": "Tue, 02 Jun 2026 19:37:14 +0000",
@@ -359,16 +379,6 @@
       "link": "https://www.ransomware.live/id/UElMTEVSIEFJTU1DT0BpbmNyYW5zb20=",
       "pubDate": "Mon, 25 May 2026 23:22:14 +0000",
       "summary": "PILLER AIMMCO is a leading vertically integrated custom plastic injection molding and tool-making company based in Woodland and Washougal, Washington. The company serves as a \"one-stop shop\" by managing the entire manufacturing lifecycle under one roof—from initial part design and engineering to mol...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Open Door Health Center",
-      "link": "https://www.ransomware.live/id/T3BlbiBEb29yIEhlYWx0aCBDZW50ZXJAaW5jcmFuc29t",
-      "pubDate": "Mon, 25 May 2026 20:22:26 +0000",
-      "summary": "Open Door Health Center of Illinois offers a comprehensive medical home approach to primary health care, focusing on improving community health since 1977. Their services include medical assistance, HIV programs, behavioral health, case management, and community outreach, catering especially to LGBT...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
