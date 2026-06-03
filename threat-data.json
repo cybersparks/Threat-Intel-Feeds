@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T18:52:04.161Z",
+  "lastUpdated": "2026-06-03T22:30:26.367Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/RGlzdHJpZ2F6IFZlc3QgUy5BLkBpbmNyYW5zb20=",
       "pubDate": "Wed, 27 May 2026 12:25:32 +0000",
       "summary": "Distrigaz Vest S.A. is an independent gas distribution company established in 2001, renowned for being the exclusive natural gas distributor in Oradea, Romania. \r The company offers a wide range of services including public gas distribution, network operation, and maintenance of gas infrastructure. ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : PILLER AIMMCO",
-      "link": "https://www.ransomware.live/id/UElMTEVSIEFJTU1DT0BpbmNyYW5zb20=",
-      "pubDate": "Mon, 25 May 2026 23:22:14 +0000",
-      "summary": "PILLER AIMMCO is a leading vertically integrated custom plastic injection molding and tool-making company based in Woodland and Washougal, Washington. The company serves as a \"one-stop shop\" by managing the entire manufacturing lifecycle under one roof—from initial part design and engineering to mol...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
