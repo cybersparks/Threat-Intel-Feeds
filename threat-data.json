@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T12:48:16.655Z",
+  "lastUpdated": "2026-06-04T17:48:10.868Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : pdcbodynits",
+      "link": "https://www.ransomware.live/id/cGRjYm9keW5pdHNAaW5jcmFuc29t",
+      "pubDate": "Thu, 04 Jun 2026 12:58:08 +0000",
+      "summary": "Bodynits Group is a leading apparel manufacturer specializing in design and innovation, offering comprehensive manufacturing solutions.Access was gained to accounting and finance, all asset management systems, client databases, employee personal data, non-disclosure agreements, as well as developmen...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : CUSTOMSIGN",
       "link": "https://www.ransomware.live/id/Q1VTVE9NU0lHTkBpbmNyYW5zb20=",
