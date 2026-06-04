@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-03T22:30:26.367Z",
+  "lastUpdated": "2026-06-04T04:50:40.033Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "DentaQuest - 2,553,599 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/DentaQuest",
+      "pubDate": "Wed, 03 Jun 2026 22:56:30 Z",
+      "summary": "In May 2026, the dental benefits administrator DentaQuest was the target of a ShinyHunters \"pay or leak\" extortion campaign that resulted in the group...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "2,553,599 ",
+        "2,553,599"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Edmunds - 177,860 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Edmunds",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Marcus & Millichap - 1,837,078 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MarcusMillichap",
-      "pubDate": "Sun, 03 May 2026 22:53:12 Z",
-      "summary": "In April 2026, the commercial real estate brokerage firm Marcus & Millichap was named as one of multiple alleged victims of the ShinyHunters hacking a...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,837,078 ",
-        "1,837,078"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : CUSTOMSIGN",
+      "link": "https://www.ransomware.live/id/Q1VTVE9NU0lHTkBpbmNyYW5zb20=",
+      "pubDate": "Thu, 04 Jun 2026 00:56:54 +0000",
+      "summary": "About Custom Sign & Engineering\r Custom Sign & Engineering, Inc. specializes in creating high-quality, custom commercial digital signs and billboards in Evansville, Indiana. The company offers a wide range of products, including LED dimensional letters, monumental signs, and information displays, al...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Colina Financial Advisors",
       "link": "https://www.ransomware.live/id/Q29saW5hIEZpbmFuY2lhbCBBZHZpc29yc0BpbmNyYW5zb20=",
