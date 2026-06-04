@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T17:48:10.868Z",
+  "lastUpdated": "2026-06-04T21:47:58.412Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Stuga Machinery",
+      "link": "https://www.ransomware.live/id/U3R1Z2EgTWFjaGluZXJ5QGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 04 Jun 2026 18:28:17 +0000",
+      "summary": "Stuga Machinery Ltd specializes in designing and manufacturing precision sawing and machining centers for the fenestration industry, serving clients primarily in the UK and Ireland. \r With over 50 years of experience, the company offers a range of fully automated cutting and prepping centers, as wel...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : pdcbodynits",
       "link": "https://www.ransomware.live/id/cGRjYm9keW5pdHNAaW5jcmFuc29t",
