@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T08:55:29.828Z",
+  "lastUpdated": "2026-06-04T12:48:16.655Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/bGF3YW50c0BpbmNyYW5zb20=",
       "pubDate": "Thu, 28 May 2026 06:22:18 +0000",
       "summary": "Lawants provides its clients with lawyers, Tax Advisors and Accountants accustomed to working in the international arena. \r Our goal is to become the client’s referents in the areas of expertise to address and solve all phases of a project, or issue, with an interdisciplinary and problem-solving-ori...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Distrigaz Vest S.A.",
-      "link": "https://www.ransomware.live/id/RGlzdHJpZ2F6IFZlc3QgUy5BLkBpbmNyYW5zb20=",
-      "pubDate": "Wed, 27 May 2026 12:25:32 +0000",
-      "summary": "Distrigaz Vest S.A. is an independent gas distribution company established in 2001, renowned for being the exclusive natural gas distributor in Oradea, Romania. \r The company offers a wide range of services including public gas distribution, network operation, and maintenance of gas infrastructure. ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
