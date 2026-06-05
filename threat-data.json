@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T17:22:21.522Z",
+  "lastUpdated": "2026-06-05T21:39:12.555Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : obrieneng.com",
+      "link": "https://www.ransomware.live/id/b2JyaWVuZW5nLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Fri, 05 Jun 2026 20:23:40 +0000",
+      "summary": "contract nda confidential   gov\\dot\\military\\va\\sam.gov other...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Stuga Machinery",
       "link": "https://www.ransomware.live/id/U3R1Z2EgTWFjaGluZXJ5QGluY3JhbnNvbQ==",
