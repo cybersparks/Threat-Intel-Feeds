@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-05T04:25:44.113Z",
+  "lastUpdated": "2026-06-05T08:48:39.228Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "BCD Travel - 396,313 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BCDTravel",
+      "pubDate": "Fri, 05 Jun 2026 06:53:15 Z",
+      "summary": "In May 2026, the corporate travel management company BCD Travel was claimed as a victim of the ShinyHunters \"pay or leak\" extortion campaign. Data all...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "396,313 ",
+        "396,313"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "DentaQuest - 2,553,599 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/DentaQuest",
@@ -245,19 +258,6 @@
       "breachCount": [
         "119,167 ",
         "119,167"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Reborn Gaming - 126 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/RebornGaming",
-      "pubDate": "Mon, 04 May 2026 03:43:06 Z",
-      "summary": "In April 2026, the gaming community Reborn Gaming suffered a data breach due to a vulnerability in cPanel and WebHost Manager (WHM). The breach expose...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "126 ",
-        "126"
       ],
       "isBreach": true,
       "isRansomware": false
