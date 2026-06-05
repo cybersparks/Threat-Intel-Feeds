@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T12:43:05.904Z",
+  "lastUpdated": "2026-06-05T17:22:21.522Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/Rm94IFJvdGhzY2hpbGQgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Thu, 28 May 2026 18:20:23 +0000",
       "summary": "[AI generated] Fox Rothschild LLP is a national law firm headquartered in the United States. Founded in 1907, it operates across numerous offices throughout the country, providing legal services in areas including corporate law, litigation, employment law, real estate, and finance. The firm serves a...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lawants",
-      "link": "https://www.ransomware.live/id/bGF3YW50c0BpbmNyYW5zb20=",
-      "pubDate": "Thu, 28 May 2026 06:22:18 +0000",
-      "summary": "Lawants provides its clients with lawyers, Tax Advisors and Accountants accustomed to working in the international arena. \r Our goal is to become the client’s referents in the areas of expertise to address and solve all phases of a project, or issue, with an interdisciplinary and problem-solving-ori...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
