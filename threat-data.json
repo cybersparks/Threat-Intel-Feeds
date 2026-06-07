@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-07T04:44:10.123Z",
+  "lastUpdated": "2026-06-07T08:27:06.443Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Baker Distributing - 102,935 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BakerDistributing",
+      "pubDate": "Sun, 07 Jun 2026 06:16:36 Z",
+      "summary": "In May 2026, the HVAC/R wholesale distributor Baker Distributing Company was added to the ShinyHunters data extortion group's \"pay or leak\" site. In e...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "102,935 ",
+        "102,935"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "BCD Travel - 396,313 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/BCDTravel",
@@ -245,19 +258,6 @@
       "breachCount": [
         "10,144 ",
         "10,144"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Vimeo - 119,167 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Vimeo",
-      "pubDate": "Tue, 05 May 2026 02:08:50 Z",
-      "summary": "In April 2026, the ShinyHunters extortion group listed Vimeo on their extortion portal as part of their \"pay or leak\" campaign. They subsequently publ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "119,167 ",
-        "119,167"
       ],
       "isBreach": true,
       "isRansomware": false
