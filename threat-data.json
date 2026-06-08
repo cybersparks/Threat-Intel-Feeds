@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T18:04:46.938Z",
+  "lastUpdated": "2026-06-08T21:56:12.568Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Aegle Aviation",
+      "link": "https://www.ransomware.live/id/QWVnbGUgQXZpYXRpb25AcmFuc29taG91c2U=",
+      "pubDate": "Mon, 08 Jun 2026 19:24:22 +0000",
+      "summary": "Aegle Aviation was founded in 2019. The company specializes in aircraft asset management, trading of commercial aircraft and engines, as well as aftermarket parts distribution. Its core operations include aircraft disassembly, end-of-life component harvesting, and lease management for mid-life narro...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Ma Pak Leung Company Limited",
+      "link": "https://www.ransomware.live/id/TWEgUGFrIExldW5nIENvbXBhbnkgTGltaXRlZEByYW5zb21ob3VzZQ==",
+      "pubDate": "Mon, 08 Jun 2026 18:25:36 +0000",
+      "summary": "Founded in Foshan, Guangdong in 1822 during the Qing Dynasty, Ma Pak Leung Company Limited is a family-owned Traditional Chinese Medicine (TCM) manufacturer with over two centuries of heritage. The company relocated its operations to Hong Kong and was formally incorporated there in 1958, where it re...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : kelmreuter.com",
       "link": "https://www.ransomware.live/id/a2VsbXJldXRlci5jb21AaW5jcmFuc29t",
