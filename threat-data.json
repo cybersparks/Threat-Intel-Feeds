@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T14:15:38.267Z",
+  "lastUpdated": "2026-06-08T18:04:46.938Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/d3d3LmxhYmV4cHJlc3MuY29tQGluY3JhbnNvbQ==",
       "pubDate": "Sat, 30 May 2026 00:22:45 +0000",
       "summary": "LABEXPRESS & GARONIT PHARMA: 200 GB OF SHARED INFRASTRUCTURE\r \r We have obtained 200 GB of internal data from a US-based group operating under two legal entities: Labexpress and Garonit Pharma. The materials show a single Active Directory domain (LABEXPRESS1.local), a shared file server, and extensi...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : belimed.com",
-      "link": "https://www.ransomware.live/id/YmVsaW1lZC5jb21AaW5jcmFuc29t",
-      "pubDate": "Fri, 29 May 2026 00:53:17 +0000",
-      "summary": "We are announcing the successful breach of the secure network of Belimed AG, a leading provider of sterilization equipment. Our team has gained full access to the digital assets of their finance department and has exfiltrated the entire dataset.\r \r Data Volume: 1.5 Terabytes.\r \r In our possession is...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
