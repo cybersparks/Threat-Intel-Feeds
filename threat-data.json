@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T09:27:39.710Z",
+  "lastUpdated": "2026-06-08T14:15:38.267Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/YmVsaW1lZC5jb21AaW5jcmFuc29t",
       "pubDate": "Fri, 29 May 2026 00:53:17 +0000",
       "summary": "We are announcing the successful breach of the secure network of Belimed AG, a leading provider of sterilization equipment. Our team has gained full access to the digital assets of their finance department and has exfiltrated the entire dataset.\r \r Data Volume: 1.5 Terabytes.\r \r In our possession is...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Fox Rothschild LLP",
-      "link": "https://www.ransomware.live/id/Rm94IFJvdGhzY2hpbGQgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 28 May 2026 18:20:23 +0000",
-      "summary": "[AI generated] Fox Rothschild LLP is a national law firm headquartered in the United States. Founded in 1907, it operates across numerous offices throughout the country, providing legal services in areas including corporate law, litigation, employment law, real estate, and finance. The firm serves a...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
