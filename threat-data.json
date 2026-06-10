@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T08:55:28.620Z",
+  "lastUpdated": "2026-06-10T13:37:28.061Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : FIZA",
+      "link": "https://www.ransomware.live/id/RklaQUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 10 Jun 2026 12:22:59 +0000",
+      "summary": "FIZA, a.s. is an established, medium-sized auditing and consulting company with a good capital base enabling its further development. \r Its roots go back to the very beginning of the 1990s, when it provided its services in the form of its legal predecessor, the association of individuals Ing. Jiří F...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Aegle Aviation",
       "link": "https://www.ransomware.live/id/QWVnbGUgQXZpYXRpb25AcmFuc29taG91c2U=",
