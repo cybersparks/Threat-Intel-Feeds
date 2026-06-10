@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T18:07:52.282Z",
+  "lastUpdated": "2026-06-10T22:10:47.568Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,26 +379,6 @@
       "link": "https://www.ransomware.live/id/Q3JvcHdpc2UgKFN5bmdlbnRhIEdyb3VwKUBzaGFkb3dieXQzJA==",
       "pubDate": "Tue, 02 Jun 2026 04:20:12 +0000",
       "summary": "We have breached you and gained access to the following portals: https://operations.cropwise.com/d/users/sign_in https://accounts.cropwise.com/signin proof: https://mega.nz/folder/25hkSLgY#ELjJaFie-TfES9Z_47KFZA company url: https://operations.cropwise.com/ We are ShadowByt3$ a Extortion as a servic...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Bradley law firm",
-      "link": "https://www.ransomware.live/id/QnJhZGxleSBsYXcgZmlybUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 01 Jun 2026 12:23:35 +0000",
-      "summary": "Bradley Law Personal Injury Lawyers is a law firm dedicated to representing clients who have suffered injuries due to accidents, medical malpractice, and other forms of negligence. With over 30 years of experience, they have successfully recovered more than $100 million in settlements and verdicts f...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Champaign-Urbana Public Health District",
-      "link": "https://www.ransomware.live/id/Q2hhbXBhaWduLVVyYmFuYSBQdWJsaWMgSGVhbHRoIERpc3RyaWN0QGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 01 Jun 2026 11:54:42 +0000",
-      "summary": "Champaign Urbana Public Health District provides a wide range of health services including dental care, nutrition assistance, mental health support, and food safety inspections. Their programs cater to various demographics, including adolescents, women, infants, and families, focusing on preventive ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
