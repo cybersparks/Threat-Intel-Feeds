@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-10T22:10:47.568Z",
+  "lastUpdated": "2026-06-11T04:45:03.750Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "University of Nottingham - 454,635 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/UniversityOfNottingham",
+      "pubDate": "Wed, 10 Jun 2026 22:13:31 Z",
+      "summary": "In June 2026, the University of Nottingham was the target of a cyber attack, later linked to a ShinyHunters \"pay or leak\" extortion campaign. Tens of ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "454,635 ",
+        "454,635"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Baker Distributing - 102,935 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/BakerDistributing",
@@ -245,19 +258,6 @@
       "breachCount": [
         "447,593 ",
         "447,593"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "LegionProxy - 10,144 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/LegionProxy",
-      "pubDate": "Wed, 06 May 2026 10:11:25 Z",
-      "summary": "In April 2026, the commercial residential and ISP proxy network LegionProxy suffered a data breach. The incident exposed 10k email addresses, bcrypt p...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "10,144 ",
-        "10,144"
       ],
       "isBreach": true,
       "isRansomware": false
