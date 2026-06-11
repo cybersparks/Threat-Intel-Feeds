@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T09:16:45.910Z",
+  "lastUpdated": "2026-06-11T14:04:49.669Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : fineconsulting",
+      "link": "https://www.ransomware.live/id/ZmluZWNvbnN1bHRpbmdAaW5jcmFuc29t",
+      "pubDate": "Thu, 11 Jun 2026 12:22:03 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : FIZA",
       "link": "https://www.ransomware.live/id/RklaQUBpbmNyYW5zb20=",
       "pubDate": "Wed, 10 Jun 2026 12:22:59 +0000",
@@ -349,16 +359,6 @@
       "link": "https://www.ransomware.live/id/Q29saW5hIEZpbmFuY2lhbCBBZHZpc29yc0BpbmNyYW5zb20=",
       "pubDate": "Wed, 03 Jun 2026 13:28:56 +0000",
       "summary": "Colina Financial Advisors Limited (CFAL) is a prominent, independent wealth management and investment advisory firm based in Nassau, The Bahamas. Established in 1997, it serves as the investment arm of Colina Holdings Ltd.. The firm provides diverse financial services to both individual and institut...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Oztugotomotiv",
-      "link": "https://www.ransomware.live/id/T3p0dWdvdG9tb3RpdkBpbmNyYW5zb20=",
-      "pubDate": "Wed, 03 Jun 2026 12:31:38 +0000",
-      "summary": "Öztuğ Otomotiv & Endüstri is a Turkish company established in 1990 in Bursa, specializing in the production of high-precision components for the automotive, industrial, defense, and aerospace sectors.\r The company offers comprehensive services including design, mold manufacturing, and serial product...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
