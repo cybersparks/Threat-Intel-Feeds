@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T04:45:03.750Z",
+  "lastUpdated": "2026-06-11T09:16:45.910Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,26 +359,6 @@
       "link": "https://www.ransomware.live/id/T3p0dWdvdG9tb3RpdkBpbmNyYW5zb20=",
       "pubDate": "Wed, 03 Jun 2026 12:31:38 +0000",
       "summary": "Öztuğ Otomotiv & Endüstri is a Turkish company established in 1990 in Bursa, specializing in the production of high-precision components for the automotive, industrial, defense, and aerospace sectors.\r The company offers comprehensive services including design, mold manufacturing, and serial product...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : trrac.net",
-      "link": "https://www.ransomware.live/id/dHJyYWMubmV0QGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 02 Jun 2026 19:37:14 +0000",
-      "summary": "150gb...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Cropwise (Syngenta Group)",
-      "link": "https://www.ransomware.live/id/Q3JvcHdpc2UgKFN5bmdlbnRhIEdyb3VwKUBzaGFkb3dieXQzJA==",
-      "pubDate": "Tue, 02 Jun 2026 04:20:12 +0000",
-      "summary": "We have breached you and gained access to the following portals: https://operations.cropwise.com/d/users/sign_in https://accounts.cropwise.com/signin proof: https://mega.nz/folder/25hkSLgY#ELjJaFie-TfES9Z_47KFZA company url: https://operations.cropwise.com/ We are ShadowByt3$ a Extortion as a servic...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
