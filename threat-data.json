@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T17:40:06.930Z",
+  "lastUpdated": "2026-06-12T21:55:59.882Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Nintendo Company (Nintendo.com)",
+      "link": "https://www.ransomware.live/id/TmludGVuZG8gQ29tcGFueSAoTmludGVuZG8uY29tKUBzaGFkb3dieXQzJA==",
+      "pubDate": "Fri, 12 Jun 2026 17:50:18 +0000",
+      "summary": "proof: https://mega.nz/folder/3kBzQKgR#rIhDePsPMeFpfEGTPopDVQ We are ShadowByt3$ a extortion as a service group. We stole close enough to 1gb. You have 48 hours to contact us nintendo or all data gets leaked. If you contact us we give you an extra day to think this through. We are demanding a ransom...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Kewaunee Scientific",
       "link": "https://www.ransomware.live/id/S2V3YXVuZWUgU2NpZW50aWZpY0BpbmNyYW5zb20=",
