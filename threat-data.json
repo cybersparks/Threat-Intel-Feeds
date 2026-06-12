@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T09:05:17.502Z",
+  "lastUpdated": "2026-06-12T13:32:30.033Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -349,26 +349,6 @@
       "link": "https://www.ransomware.live/id/b2JyaWVuZW5nLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Fri, 05 Jun 2026 20:23:40 +0000",
       "summary": "contract nda confidential   gov\\dot\\military\\va\\sam.gov other...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Stuga Machinery",
-      "link": "https://www.ransomware.live/id/U3R1Z2EgTWFjaGluZXJ5QGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 04 Jun 2026 18:28:17 +0000",
-      "summary": "Stuga Machinery Ltd specializes in designing and manufacturing precision sawing and machining centers for the fenestration industry, serving clients primarily in the UK and Ireland. \r With over 50 years of experience, the company offers a range of fully automated cutting and prepping centers, as wel...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : pdcbodynits",
-      "link": "https://www.ransomware.live/id/cGRjYm9keW5pdHNAaW5jcmFuc29t",
-      "pubDate": "Thu, 04 Jun 2026 12:58:08 +0000",
-      "summary": "Bodynits Group is a leading apparel manufacturer specializing in design and innovation, offering comprehensive manufacturing solutions.Access was gained to accounting and finance, all asset management systems, client databases, employee personal data, non-disclosure agreements, as well as developmen...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
