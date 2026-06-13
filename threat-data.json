@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T08:27:20.888Z",
+  "lastUpdated": "2026-06-13T11:57:43.680Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Lapsus$ has just published a new victim : GITHUB INTERNAL",
+      "link": "https://www.ransomware.live/id/R0lUSFVCIElOVEVSTkFMQGxhcHN1cyQ=",
+      "pubDate": "Sat, 13 Jun 2026 10:02:19 +0000",
+      "summary": "Everything for the main platform is there. No ransom, we do not care about extorting Github. If no buyer is found, we leak for free....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Nintendo Company (Nintendo.com)",
       "link": "https://www.ransomware.live/id/TmludGVuZG8gQ29tcGFueSAoTmludGVuZG8uY29tKUBzaGFkb3dieXQzJA==",
