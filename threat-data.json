@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T21:22:22.884Z",
+  "lastUpdated": "2026-06-14T04:53:45.735Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,16 +359,6 @@
       "link": "https://www.ransomware.live/id/a2VsbXJldXRlci5jb21AaW5jcmFuc29t",
       "pubDate": "Sat, 06 Jun 2026 12:22:30 +0000",
       "summary": "www.personadental.com\r \r Persona Dental offers personalized dental care for families in Sartell, MN, focusing on both general and specialized services such as cosmetic dentistry, dental implants, and solutions for snoring and sleep apnea. The clinic prides itself on creating a comfortable environmen...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : obrieneng.com",
-      "link": "https://www.ransomware.live/id/b2JyaWVuZW5nLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Fri, 05 Jun 2026 20:23:40 +0000",
-      "summary": "contract nda confidential   gov\\dot\\military\\va\\sam.gov other...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
