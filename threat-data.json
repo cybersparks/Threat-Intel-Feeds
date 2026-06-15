@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-06-14T21:21:11.149Z",
+  "lastUpdated": "2026-06-15T05:10:35.522Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Berkadia - 305,216 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Berkadia",
+      "pubDate": "Mon, 15 Jun 2026 04:09:04 Z",
+      "summary": "In March 2026, the commercial real estate finance company Berkadia was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subseq...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "305,216 ",
+        "305,216"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Infinite Campus - 137,123 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/InfiniteCampus",
+      "pubDate": "Mon, 15 Jun 2026 01:03:42 Z",
+      "summary": "In March 2026, the student information system Infinite Campus was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "137,123 ",
+        "137,123"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "University of Nottingham - 454,635 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/UniversityOfNottingham",
@@ -235,32 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Zara - 197,376 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Zara",
-      "pubDate": "Fri, 08 May 2026 07:14:22 Z",
-      "summary": "In April 2026, the fashion brand Zara was among a number of organisations targeted by the ShinyHunters extortion group as part of their \"pay or leak\" ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "197,376 ",
-        "197,376"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Woflow - 447,593 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Woflow",
-      "pubDate": "Thu, 07 May 2026 06:48:33 Z",
-      "summary": "In March 2026, the AI-driven merchant data platform Woflow was named as a victim by the ShinyHunters data extortion group. The group subsequently publ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "447,593 ",
-        "447,593"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -349,16 +349,6 @@
       "link": "https://www.ransomware.live/id/TWEgUGFrIExldW5nIENvbXBhbnkgTGltaXRlZEByYW5zb21ob3VzZQ==",
       "pubDate": "Mon, 08 Jun 2026 18:25:36 +0000",
       "summary": "Founded in Foshan, Guangdong in 1822 during the Qing Dynasty, Ma Pak Leung Company Limited is a family-owned Traditional Chinese Medicine (TCM) manufacturer with over two centuries of heritage. The company relocated its operations to Hong Kong and was formally incorporated there in 1958, where it re...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : kelmreuter.com",
-      "link": "https://www.ransomware.live/id/a2VsbXJldXRlci5jb21AaW5jcmFuc29t",
-      "pubDate": "Sat, 06 Jun 2026 12:22:30 +0000",
-      "summary": "www.personadental.com\r \r Persona Dental offers personalized dental care for families in Sartell, MN, focusing on both general and specialized services such as cosmetic dentistry, dental implants, and solutions for snoring and sleep apnea. The clinic prides itself on creating a comfortable environmen...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
