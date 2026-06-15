@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-15T15:51:30.674Z",
+  "lastUpdated": "2026-06-15T22:23:43.927Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "June 2026 Stealer Logs - 56,278,397 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/June2026StealerLogs",
+      "pubDate": "Mon, 15 Jun 2026 19:30:15 Z",
+      "summary": "In June 2026, a collection of accumulated stealer logs from various sources was added to HIBP. The corpus comprised 56M unique email addresses across ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "202",
+        "202"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Berkadia - 305,216 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Berkadia",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Cushman & Wakefield - 310,431 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CushmanWakefield",
-      "pubDate": "Tue, 12 May 2026 06:58:16 Z",
-      "summary": "In May 2026, the real estate services firm Cushman & Wakefield was the target of a \"pay or leak\" extortion campaign by the ShinyHunters group. Followi...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "310,431 ",
-        "310,431"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : smithassociatescpa.com",
+      "link": "https://www.ransomware.live/id/c21pdGhhc3NvY2lhdGVzY3BhLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 15 Jun 2026 20:54:30 +0000",
+      "summary": "smithassociatescpa.com\r\n \r\n \r\n Smith and Associates is a Certified Public Accounting Firm based in Maine, offering a comprehensive range of services including accounting, auditing, tax planning, and management advisory services. The firm caters to a diverse clientele, including individuals, corporat...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Lapsus$ has just published a new victim : GITHUB INTERNAL",
       "link": "https://www.ransomware.live/id/R0lUSFVCIElOVEVSTkFMQGxhcHN1cyQ=",
@@ -329,26 +339,6 @@
       "link": "https://www.ransomware.live/id/RklaQUBpbmNyYW5zb20=",
       "pubDate": "Wed, 10 Jun 2026 12:22:59 +0000",
       "summary": "FIZA, a.s. is an established, medium-sized auditing and consulting company with a good capital base enabling its further development. \r Its roots go back to the very beginning of the 1990s, when it provided its services in the form of its legal predecessor, the association of individuals Ing. Jiří F...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Aegle Aviation",
-      "link": "https://www.ransomware.live/id/QWVnbGUgQXZpYXRpb25AcmFuc29taG91c2U=",
-      "pubDate": "Mon, 08 Jun 2026 19:24:22 +0000",
-      "summary": "Aegle Aviation was founded in 2019. The company specializes in aircraft asset management, trading of commercial aircraft and engines, as well as aftermarket parts distribution. Its core operations include aircraft disassembly, end-of-life component harvesting, and lease management for mid-life narro...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Ma Pak Leung Company Limited",
-      "link": "https://www.ransomware.live/id/TWEgUGFrIExldW5nIENvbXBhbnkgTGltaXRlZEByYW5zb21ob3VzZQ==",
-      "pubDate": "Mon, 08 Jun 2026 18:25:36 +0000",
-      "summary": "Founded in Foshan, Guangdong in 1822 during the Qing Dynasty, Ma Pak Leung Company Limited is a family-owned Traditional Chinese Medicine (TCM) manufacturer with over two centuries of heritage. The company relocated its operations to Hong Kong and was formally incorporated there in 1958, where it re...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
