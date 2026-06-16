@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T05:13:45.387Z",
+  "lastUpdated": "2026-06-16T15:16:12.870Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -329,16 +329,6 @@
       "link": "https://www.ransomware.live/id/ZmluZWNvbnN1bHRpbmdAaW5jcmFuc29t",
       "pubDate": "Thu, 11 Jun 2026 12:22:03 +0000",
       "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : FIZA",
-      "link": "https://www.ransomware.live/id/RklaQUBpbmNyYW5zb20=",
-      "pubDate": "Wed, 10 Jun 2026 12:22:59 +0000",
-      "summary": "FIZA, a.s. is an established, medium-sized auditing and consulting company with a good capital base enabling its further development. \r Its roots go back to the very beginning of the 1990s, when it provided its services in the form of its legal predecessor, the association of individuals Ing. Jiří F...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
