@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T15:16:12.870Z",
+  "lastUpdated": "2026-06-16T22:20:09.252Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Promepla",
+      "link": "https://www.ransomware.live/id/UHJvbWVwbGFAcmFuc29taG91c2U=",
+      "pubDate": "Tue, 16 Jun 2026 17:25:07 +0000",
+      "summary": "Promepla is a Contract Design Manufacturer specializing in single-use plastic medical components and devices. They offer a comprehensive range of services including product design and development, prototyping, testing, quality assurance, cleanroom manufacturing, and sterilization. Their expertise ca...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : jasperplastics.info",
+      "link": "https://www.ransomware.live/id/amFzcGVycGxhc3RpY3MuaW5mb0BpbmNyYW5zb20=",
+      "pubDate": "Tue, 16 Jun 2026 17:22:49 +0000",
+      "summary": "Jasper Plastics Solutions specializes in providing turn-key plastic and polyurethane solutions primarily for OEM manufacturers in the RV, Marine, Automotive, and Construction industries. Their product offerings include polyurethane thermal column blocks, fiberglass components, and innovative design ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : framesiprofessional.com",
+      "link": "https://www.ransomware.live/id/ZnJhbWVzaXByb2Zlc3Npb25hbC5jb21AaW5jcmFuc29t",
+      "pubDate": "Tue, 16 Jun 2026 15:23:02 +0000",
+      "summary": "Framesi specializes in creating and distributing professional hair products, including styling tools, color dyes, and hair treatments, exclusively for licensed stylists and salons. The company is dedicated to supporting the professional beauty industry by ensuring high-quality formulations that deli...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : smithassociatescpa.com",
       "link": "https://www.ransomware.live/id/c21pdGhhc3NvY2lhdGVzY3BhLmNvbUBpbmNyYW5zb20=",
