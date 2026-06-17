@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:51:48.243Z",
+  "lastUpdated": "2026-06-17T17:54:26.755Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Prince George County",
+      "link": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
+      "pubDate": "Wed, 17 Jun 2026 17:25:25 +0000",
+      "summary": "Prince George County is a local government entity focused on providing essential services and fostering community development. It offers a range of services including public safety, waste management, parks and recreation, and social services to its residents. The county aims to embrace its rural cha...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : He..t S..it.",
       "link": "https://www.ransomware.live/id/SGUuLnQgUy4uaXQuQFNpbGVudFJhbnNvbUdyb3Vw",
