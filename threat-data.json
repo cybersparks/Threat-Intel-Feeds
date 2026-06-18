@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T04:46:47.877Z",
+  "lastUpdated": "2026-06-18T09:20:58.027Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Horizon Family Medical Group",
+      "link": "https://www.ransomware.live/id/SG9yaXpvbiBGYW1pbHkgTWVkaWNhbCBHcm91cEBpbmNyYW5zb20=",
+      "pubDate": "Thu, 18 Jun 2026 07:23:32 +0000",
+      "summary": "Horizon Family Medical Group\r \r A deep dive into 7 terabytes of internal data: from patient records to QuickBooks financial databases\r \r In the modern world, data is the new oil. For a medical organization like Horizon Family Medical Group, it is also the foundation of trust between doctor and patie...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : neuwoges.de",
       "link": "https://www.ransomware.live/id/bmV1d29nZXMuZGVAaW5jcmFuc29t",
