@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-17T22:07:15.578Z",
+  "lastUpdated": "2026-06-18T04:46:47.877Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "CFGI - 248,235 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CFGI",
+      "pubDate": "Thu, 18 Jun 2026 03:22:51 Z",
+      "summary": "In March 2026, the financial consulting and advisory firm CFGI was the target of a ShinyHunters \"pay-or-leak\" extortion campaign. The group subsequent...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "248,235 ",
+        "248,235"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "June 2026 Stealer Logs - 56,278,397 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/June2026StealerLogs",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Canada Life - 237,810 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CanadaLife",
-      "pubDate": "Wed, 13 May 2026 06:51:17 Z",
-      "summary": "In April 2026, Canada Life was the victim of a \"pay or leak\" extortion campaign by the ShinyHunters group. The group subsequently published the data w...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "237,810 ",
-        "237,810"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : neuwoges.de",
+      "link": "https://www.ransomware.live/id/bmV1d29nZXMuZGVAaW5jcmFuc29t",
+      "pubDate": "Thu, 18 Jun 2026 00:25:22 +0000",
+      "summary": "The Neubrandenburger Wohnungsgesellschaft mbH (NEUWOGES), a municipal housing company and subsidiary of the Vier-Tore-Stadt Neubrandenburg in Mecklenburg-Western Pomerania, Germany. It is one of the largest regional housing providers, managing around 12,000 apartments alongside commercial units and ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Prince George County",
       "link": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
