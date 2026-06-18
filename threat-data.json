@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T13:33:14.217Z",
+  "lastUpdated": "2026-06-18T18:08:47.561Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -398,16 +398,6 @@
       "title": "🏴‍☠️ Incransom has just published a new victim : DISCOLABINDU",
       "link": "https://www.ransomware.live/id/RElTQ09MQUJJTkRVQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 11 Jun 2026 16:22:08 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : fineconsulting",
-      "link": "https://www.ransomware.live/id/ZmluZWNvbnN1bHRpbmdAaW5jcmFuc29t",
-      "pubDate": "Thu, 11 Jun 2026 12:22:03 +0000",
       "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
