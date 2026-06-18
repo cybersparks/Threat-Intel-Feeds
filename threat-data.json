@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-18T18:08:47.561Z",
+  "lastUpdated": "2026-06-18T22:20:45.147Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Operation Endgame 4.0 - 153,527 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/OperationEndgame4",
+      "pubDate": "Thu, 18 Jun 2026 20:08:06 Z",
+      "summary": "On 18 June 2026, the latest phase of Operation Endgame targeted the SocGholish malware operation, a prolific malware distribution network used to comp...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "4",
+        "4"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "CFGI - 248,235 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/CFGI",
@@ -245,19 +258,6 @@
       "breachCount": [
         "34,532,941 ",
         "34,532,941"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Abrigo - 711,099 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Abrigo",
-      "pubDate": "Thu, 14 May 2026 03:37:50 Z",
-      "summary": "In April 2026, the fintech software company Abrigo was targeted in a \"pay or leak\" extortion attempt by the ShinyHunters group. Shortly after, data al...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "711,099 ",
-        "711,099"
       ],
       "isBreach": true,
       "isRansomware": false
