@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T05:07:10.303Z",
+  "lastUpdated": "2026-06-19T13:39:55.724Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/U2lnbmF6b25fVVNBQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 11 Jun 2026 18:52:27 +0000",
       "summary": "Signazon.com was founded with the mission of providing the company's customers with the very best in printing. It's one thing to print fast and cheap - it's another thing to do that and do it well. The company believes in getting the little details right. From asking the company's customers the righ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : DISCOLABINDU",
-      "link": "https://www.ransomware.live/id/RElTQ09MQUJJTkRVQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 11 Jun 2026 16:22:08 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
