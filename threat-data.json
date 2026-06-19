@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-18T22:20:45.147Z",
+  "lastUpdated": "2026-06-19T05:07:10.303Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Ralph Lauren - 139,903 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/RalphLauren",
+      "pubDate": "Thu, 18 Jun 2026 22:48:34 Z",
+      "summary": "In June 2026, fashion retailer Ralph Lauren was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published hundreds...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "139,903 ",
+        "139,903"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Operation Endgame 4.0 - 153,527 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/OperationEndgame4",
@@ -245,19 +258,6 @@
       "breachCount": [
         "468,124 ",
         "468,124"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Addi - 34,532,941 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/ADDI",
-      "pubDate": "Mon, 18 May 2026 20:55:51 Z",
-      "summary": "In March 2026, the Colombian fintech company Addi identified unauthorised activity on its platform and advised customers that \"it is possible that you...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "34,532,941 ",
-        "34,532,941"
       ],
       "isBreach": true,
       "isRansomware": false
