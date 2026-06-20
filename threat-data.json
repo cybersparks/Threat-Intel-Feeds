@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T08:25:13.497Z",
+  "lastUpdated": "2026-06-20T12:02:53.147Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -349,26 +349,6 @@
       "link": "https://www.ransomware.live/id/c21pdGhhc3NvY2lhdGVzY3BhLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Mon, 15 Jun 2026 20:54:30 +0000",
       "summary": "smithassociatescpa.com\r\n \r\n \r\n Smith and Associates is a Certified Public Accounting Firm based in Maine, offering a comprehensive range of services including accounting, auditing, tax planning, and management advisory services. The firm caters to a diverse clientele, including individuals, corporat...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Lapsus$ has just published a new victim : GITHUB INTERNAL",
-      "link": "https://www.ransomware.live/id/R0lUSFVCIElOVEVSTkFMQGxhcHN1cyQ=",
-      "pubDate": "Sat, 13 Jun 2026 10:02:19 +0000",
-      "summary": "Everything for the main platform is there. No ransom, we do not care about extorting Github. If no buyer is found, we leak for free....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Nintendo Company (Nintendo.com)",
-      "link": "https://www.ransomware.live/id/TmludGVuZG8gQ29tcGFueSAoTmludGVuZG8uY29tKUBzaGFkb3dieXQzJA==",
-      "pubDate": "Fri, 12 Jun 2026 17:50:18 +0000",
-      "summary": "proof: https://mega.nz/folder/3kBzQKgR#rIhDePsPMeFpfEGTPopDVQ We are ShadowByt3$ a extortion as a service group. We stole close enough to 1gb. You have 48 hours to contact us nintendo or all data gets leaked. If you contact us we give you an extra day to think this through. We are demanding a ransom...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
