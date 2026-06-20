@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-19T21:14:20.164Z",
+  "lastUpdated": "2026-06-20T04:19:32.605Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "JCPenney - 368,418 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/JCPenney",
+      "pubDate": "Sat, 20 Jun 2026 03:02:45 Z",
+      "summary": "In June 2026, retailer JCPenney and associated brands were targeted in a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from J...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "368,418 ",
+        "368,418"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Ralph Lauren - 139,903 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/RalphLauren",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "CTT - 468,124 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CTT",
-      "pubDate": "Tue, 19 May 2026 00:28:54 Z",
-      "summary": "In April 2026, data allegedly obtained from CTT, Portugal's national postal service, was posted to a public hacking forum. The data included 468k uniq...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "468,124 ",
-        "468,124"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/TmludGVuZG8gQ29tcGFueSAoTmludGVuZG8uY29tKUBzaGFkb3dieXQzJA==",
       "pubDate": "Fri, 12 Jun 2026 17:50:18 +0000",
       "summary": "proof: https://mega.nz/folder/3kBzQKgR#rIhDePsPMeFpfEGTPopDVQ We are ShadowByt3$ a extortion as a service group. We stole close enough to 1gb. You have 48 hours to contact us nintendo or all data gets leaked. If you contact us we give you an extra day to think this through. We are demanding a ransom...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Kewaunee Scientific",
-      "link": "https://www.ransomware.live/id/S2V3YXVuZWUgU2NpZW50aWZpY0BpbmNyYW5zb20=",
-      "pubDate": "Thu, 11 Jun 2026 19:23:19 +0000",
-      "summary": "Total data: 504GB\r Contains: 852,141 Files, 120,670 Folders\r \r Documents: Clients KYS & NDA, Financial documentation, Contracts, Drawings, Audit reports, \r Personal data, Contractors and subcontractors information, Scanned documents and much other important information.\r Tape: confidential\r Clients:...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
