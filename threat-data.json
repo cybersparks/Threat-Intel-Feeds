@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T12:02:53.147Z",
+  "lastUpdated": "2026-06-20T16:25:07.460Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomexx has just published a new victim : Go2Joy (go2joy.vn)",
+      "link": "https://www.ransomware.live/id/R28ySm95IChnbzJqb3kudm4pQHJhbnNvbWV4eA==",
+      "pubDate": "Sat, 20 Jun 2026 14:35:35 +0000",
+      "summary": "We have released the complete database of Go2Joy, Vietnam’s leading platform for hourly and short-stay hotel bookings....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Horizon Family Medical Group",
       "link": "https://www.ransomware.live/id/SG9yaXpvbiBGYW1pbHkgTWVkaWNhbCBHcm91cEBpbmNyYW5zb20=",
