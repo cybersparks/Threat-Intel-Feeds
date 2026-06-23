@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T22:09:10.902Z",
+  "lastUpdated": "2026-06-23T04:08:49.789Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : belpointeasset.com \\ belpointe.com",
+      "link": "https://www.ransomware.live/id/YmVscG9pbnRlYXNzZXQuY29tIFwgYmVscG9pbnRlLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 22 Jun 2026 23:32:10 +0000",
+      "summary": "400gb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : jktornel",
       "link": "https://www.ransomware.live/id/amt0b3JuZWxAaW5jcmFuc29t",
