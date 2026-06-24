@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T17:10:24.086Z",
+  "lastUpdated": "2026-06-24T21:37:35.769Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -42,7 +42,7 @@
       "isRansomware": false
     },
     {
-      "title": "Operation Endgame 4.0 - 153,527 breached accounts",
+      "title": "Operation Endgame 4.0 - 4,160,519 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/OperationEndgame4",
       "pubDate": "Thu, 18 Jun 2026 20:08:06 Z",
       "summary": "On 18 June 2026, the latest phase of Operation Endgame targeted the SocGholish malware operation, a prolific malware distribution network used to comp...",
