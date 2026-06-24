@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-24T12:23:27.937Z",
+  "lastUpdated": "2026-06-24T17:10:24.086Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
+      "pubDate": "Wed, 24 Jun 2026 13:02:33 Z",
+      "summary": "In June 2026, the sports and entertainment company Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign. The...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "9,796,738 ",
+        "9,796,738"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "JCPenney - 368,418 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/JCPenney",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Windows93 / Myspace93 - 46,105 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Windows93",
-      "pubDate": "Thu, 21 May 2026 03:45:15 Z",
-      "summary": "In January 2021, the parody site Windows93 suffered a data breach of the Myspace93 sub-site after a beta application was exploited to download server ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "93 ",
-        "93"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -399,16 +399,6 @@
       "link": "https://www.ransomware.live/id/ZnJhbWVzaXByb2Zlc3Npb25hbC5jb21AaW5jcmFuc29t",
       "pubDate": "Tue, 16 Jun 2026 15:23:02 +0000",
       "summary": "Framesi specializes in creating and distributing professional hair products, including styling tools, color dyes, and hair treatments, exclusively for licensed stylists and salons. The company is dedicated to supporting the professional beauty industry by ensuring high-quality formulations that deli...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : smithassociatescpa.com",
-      "link": "https://www.ransomware.live/id/c21pdGhhc3NvY2lhdGVzY3BhLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 15 Jun 2026 20:54:30 +0000",
-      "summary": "smithassociatescpa.com\r\n \r\n \r\n Smith and Associates is a Certified Public Accounting Firm based in Maine, offering a comprehensive range of services including accounting, auditing, tax planning, and management advisory services. The firm caters to a diverse clientele, including individuals, corporat...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
