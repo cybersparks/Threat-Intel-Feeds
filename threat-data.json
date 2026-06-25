@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T17:18:59.160Z",
+  "lastUpdated": "2026-06-25T21:48:57.589Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/amFzcGVycGxhc3RpY3MuaW5mb0BpbmNyYW5zb20=",
       "pubDate": "Tue, 16 Jun 2026 17:22:49 +0000",
       "summary": "Jasper Plastics Solutions specializes in providing turn-key plastic and polyurethane solutions primarily for OEM manufacturers in the RV, Marine, Automotive, and Construction industries. Their product offerings include polyurethane thermal column blocks, fiberglass components, and innovative design ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : framesiprofessional.com",
-      "link": "https://www.ransomware.live/id/ZnJhbWVzaXByb2Zlc3Npb25hbC5jb21AaW5jcmFuc29t",
-      "pubDate": "Tue, 16 Jun 2026 15:23:02 +0000",
-      "summary": "Framesi specializes in creating and distributing professional hair products, including styling tools, color dyes, and hair treatments, exclusively for licensed stylists and salons. The company is dedicated to supporting the professional beauty industry by ensuring high-quality formulations that deli...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
