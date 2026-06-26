@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:48:57.589Z",
+  "lastUpdated": "2026-06-26T04:18:44.797Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Life Bridges",
+      "link": "https://www.ransomware.live/id/TGlmZSBCcmlkZ2VzQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 25 Jun 2026 23:23:37 +0000",
+      "summary": "Life Bridges is a non-profit organization dedicated to supporting individuals with intellectual and developmental disabilities, providing a range of services including residential support, healthcare, and community living services. Established in 1973, the organization focuses on promoting independe...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : GSP Crop Science Pvt",
+      "link": "https://www.ransomware.live/id/R1NQIENyb3AgU2NpZW5jZSBQdnRAaW5jcmFuc29t",
+      "pubDate": "Thu, 25 Jun 2026 23:23:07 +0000",
+      "summary": "GSP Crop Science Limited is a leader in agricultural innovation, specializing in crop science and sustainable farming solutions. The company offers a wide range of products including pesticides, herbicides, fungicides, and plant growth regulators, designed to enhance crop productivity while minimizi...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : horizoneye.com",
       "link": "https://www.ransomware.live/id/aG9yaXpvbmV5ZS5jb21AaW5jcmFuc29t",
       "pubDate": "Wed, 24 Jun 2026 00:32:05 +0000",
@@ -359,36 +379,6 @@
       "link": "https://www.ransomware.live/id/SGUuLnQgUy4uaXQuQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Wed, 17 Jun 2026 06:50:16 +0000",
       "summary": "[AI generated] N/A...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : He..t S..t.",
-      "link": "https://www.ransomware.live/id/SGUuLnQgUy4udC5AU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Tue, 16 Jun 2026 23:50:17 +0000",
-      "summary": "[AI generated] N/A...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Promepla",
-      "link": "https://www.ransomware.live/id/UHJvbWVwbGFAcmFuc29taG91c2U=",
-      "pubDate": "Tue, 16 Jun 2026 17:25:07 +0000",
-      "summary": "Promepla is a Contract Design Manufacturer specializing in single-use plastic medical components and devices. They offer a comprehensive range of services including product design and development, prototyping, testing, quality assurance, cleanroom manufacturing, and sterilization. Their expertise ca...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : jasperplastics.info",
-      "link": "https://www.ransomware.live/id/amFzcGVycGxhc3RpY3MuaW5mb0BpbmNyYW5zb20=",
-      "pubDate": "Tue, 16 Jun 2026 17:22:49 +0000",
-      "summary": "Jasper Plastics Solutions specializes in providing turn-key plastic and polyurethane solutions primarily for OEM manufacturers in the RV, Marine, Automotive, and Construction industries. Their product offerings include polyurethane thermal column blocks, fiberglass components, and innovative design ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
