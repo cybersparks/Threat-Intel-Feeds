@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-26T04:18:44.797Z",
+  "lastUpdated": "2026-06-26T08:33:45.030Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "American Tower - 216,601 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AmericanTower",
+      "pubDate": "Fri, 26 Jun 2026 07:17:23 Z",
+      "summary": "In June 2026, telecommunications tower infrastructure company American Tower was the target of a ShinyHunters \"pay or leak\" extortion campaign. The gr...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "216,601 ",
+        "216,601"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Dragonica Lunaris - 126,293 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Dragonica",
-      "pubDate": "Thu, 21 May 2026 04:41:32 Z",
-      "summary": "In December 2025, the European Dragonica private server Dragonica Lunaris suffered a data breach. The incident exposed 126k email addresses, usernames...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "126,293 ",
-        "126,293"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
       "pubDate": "Wed, 17 Jun 2026 17:25:25 +0000",
       "summary": "Prince George County is a local government entity focused on providing essential services and fostering community development. It offers a range of services including public safety, waste management, parks and recreation, and social services to its residents. The county aims to embrace its rural cha...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : He..t S..it.",
-      "link": "https://www.ransomware.live/id/SGUuLnQgUy4uaXQuQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 17 Jun 2026 06:50:16 +0000",
-      "summary": "[AI generated] N/A...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
