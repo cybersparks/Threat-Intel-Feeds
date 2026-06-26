@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T08:33:45.030Z",
+  "lastUpdated": "2026-06-26T12:17:42.088Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -285,16 +285,6 @@
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : horizoneye.com",
-      "link": "https://www.ransomware.live/id/aG9yaXpvbmV5ZS5jb21AaW5jcmFuc29t",
-      "pubDate": "Wed, 24 Jun 2026 00:32:05 +0000",
-      "summary": "Horizon Eye Care operates as a group of independent optometric clinics and medical practices across North America. Depending on your specific location, they offer comprehensive eye examinations, surgical procedures (like LASIK and cataracts), contact lens fittings, and a wide variety of designer eye...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
       "title": "🏴‍☠️ Lapsus$ has just published a new victim : AYA BANK",
       "link": "https://www.ransomware.live/id/QVlBIEJBTktAbGFwc3VzJA==",
       "pubDate": "Tue, 23 Jun 2026 19:52:36 +0000",
@@ -359,16 +349,6 @@
       "link": "https://www.ransomware.live/id/bmV1d29nZXMuZGVAaW5jcmFuc29t",
       "pubDate": "Thu, 18 Jun 2026 00:25:22 +0000",
       "summary": "The Neubrandenburger Wohnungsgesellschaft mbH (NEUWOGES), a municipal housing company and subsidiary of the Vier-Tore-Stadt Neubrandenburg in Mecklenburg-Western Pomerania, Germany. It is one of the largest regional housing providers, managing around 12,000 apartments alongside commercial units and ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Prince George County",
-      "link": "https://www.ransomware.live/id/UHJpbmNlIEdlb3JnZSBDb3VudHlAcmFuc29taG91c2U=",
-      "pubDate": "Wed, 17 Jun 2026 17:25:25 +0000",
-      "summary": "Prince George County is a local government entity focused on providing essential services and fostering community development. It offers a range of services including public safety, waste management, parks and recreation, and social services to its residents. The county aims to embrace its rural cha...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
