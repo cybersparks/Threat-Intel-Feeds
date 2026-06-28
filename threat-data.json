@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-06-28T11:51:39.609Z",
+  "lastUpdated": "2026-06-28T16:19:45.454Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Sysco - 2,691,852 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Sysco",
+      "pubDate": "Sun, 28 Jun 2026 15:57:29 Z",
+      "summary": "In June 2026, the food distribution company Sysco was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Data was subsequently published con...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "2,691,852 ",
+        "2,691,852"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "American Tower - 216,601 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/AmericanTower",
@@ -245,19 +258,6 @@
       "breachCount": [
         "502,597 ",
         "502,597"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "7-Eleven - 185,256 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/7-Eleven",
-      "pubDate": "Sun, 24 May 2026 05:15:22 Z",
-      "summary": "In April 2026, 7-Eleven was the victim of a \"pay or leak\" extortion campaign by ShinyHunters, with the data later published that month. The incident e...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "7",
-        "7"
       ],
       "isBreach": true,
       "isRansomware": false
