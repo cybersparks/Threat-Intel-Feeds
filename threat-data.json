@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T16:19:45.454Z",
+  "lastUpdated": "2026-06-28T21:10:48.495Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -263,5 +263,106 @@
       "isRansomware": false
     }
   ],
-  "ransomware": []
+  "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : callhorton.com",
+      "link": "https://www.ransomware.live/id/Y2FsbGhvcnRvbi5jb21AaW5jcmFuc29t",
+      "pubDate": "Fri, 26 Jun 2026 20:27:02 +0000",
+      "summary": "Horton Personal Injury Lawyers is the premier law firm at not protecting it's clients confidential data....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : johndufourlaw.com",
+      "link": "https://www.ransomware.live/id/am9obmR1Zm91cmxhdy5jb21AaW5jcmFuc29t",
+      "pubDate": "Fri, 26 Jun 2026 19:23:53 +0000",
+      "summary": "If you find yourself injured, disabled or deep in debt, the Law Office of John Dufour is ready to help. John brings 25 years of focused experience and favorable outcomes. Our success is built on attentive service and attention to the legal details....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : theswansonlawgroup.com",
+      "link": "https://www.ransomware.live/id/dGhlc3dhbnNvbmxhd2dyb3VwLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Fri, 26 Jun 2026 19:22:55 +0000",
+      "summary": "Meet Ben Swanson. The clients confidentiality worst nightmare....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Life Bridges",
+      "link": "https://www.ransomware.live/id/TGlmZSBCcmlkZ2VzQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 25 Jun 2026 23:23:37 +0000",
+      "summary": "Life Bridges is a non-profit organization dedicated to supporting individuals with intellectual and developmental disabilities, providing a range of services including residential support, healthcare, and community living services. Established in 1973, the organization focuses on promoting independe...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : GSP Crop Science Pvt",
+      "link": "https://www.ransomware.live/id/R1NQIENyb3AgU2NpZW5jZSBQdnRAaW5jcmFuc29t",
+      "pubDate": "Thu, 25 Jun 2026 23:23:07 +0000",
+      "summary": "GSP Crop Science Limited is a leader in agricultural innovation, specializing in crop science and sustainable farming solutions. The company offers a wide range of products including pesticides, herbicides, fungicides, and plant growth regulators, designed to enhance crop productivity while minimizi...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Lapsus$ has just published a new victim : AYA BANK",
+      "link": "https://www.ransomware.live/id/QVlBIEJBTktAbGFwc3VzJA==",
+      "pubDate": "Tue, 23 Jun 2026 19:52:36 +0000",
+      "summary": "Everything for the main platform is there. Full dump and PII data's. If AYA Bank dont contact us or pay the ransom we will start sale...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : belpointeasset.com \\ belpointe.com",
+      "link": "https://www.ransomware.live/id/YmVscG9pbnRlYXNzZXQuY29tIFwgYmVscG9pbnRlLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 22 Jun 2026 23:32:10 +0000",
+      "summary": "400gb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : jktornel",
+      "link": "https://www.ransomware.live/id/amt0b3JuZWxAaW5jcmFuc29t",
+      "pubDate": "Sun, 21 Jun 2026 12:37:29 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Newspaper Media Group",
+      "link": "https://www.ransomware.live/id/TmV3c3BhcGVyIE1lZGlhIEdyb3VwQGluY3JhbnNvbQ==",
+      "pubDate": "Sat, 20 Jun 2026 19:35:30 +0000",
+      "summary": "Newspaper Media Group is a local news organization that provides comprehensive coverage of news, sports, entertainment, and community events across various regions, including Central Jersey and South Jersey. They publish multiple newspapers and magazines, ensuring that they reach more households tha...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomexx has just published a new victim : Go2Joy (go2joy.vn)",
+      "link": "https://www.ransomware.live/id/R28ySm95IChnbzJqb3kudm4pQHJhbnNvbWV4eA==",
+      "pubDate": "Sat, 20 Jun 2026 14:35:35 +0000",
+      "summary": "We have released the complete database of Go2Joy, Vietnam’s leading platform for hourly and short-stay hotel bookings....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    }
+  ]
 }
