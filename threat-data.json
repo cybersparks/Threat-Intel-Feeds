@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T09:53:40.519Z",
+  "lastUpdated": "2026-06-29T14:11:28.108Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : GDN AR(Dorinka)",
+      "link": "https://www.ransomware.live/id/R0ROIEFSKERvcmlua2EpQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 29 Jun 2026 12:26:32 +0000",
+      "summary": "Dorinka S.R.L. is based in Argentina, with the head office in Cidade Autonoma De Buenos Aires. The enterprise operates in the Grocery Stores industry. Dorinka S.R.L. was incorporated on June 29, 2026. There are currently 8,000 (2024) people employed by Dorinka S.R.L.....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : callhorton.com",
       "link": "https://www.ransomware.live/id/Y2FsbGhvcnRvbi5jb21AaW5jcmFuc29t",
