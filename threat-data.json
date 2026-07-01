@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:42:04.962Z",
+  "lastUpdated": "2026-07-01T04:41:50.190Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : horizoneye.com",
+      "link": "https://www.ransomware.live/id/aG9yaXpvbmV5ZS5jb21AaW5jcmFuc29t",
+      "pubDate": "Wed, 01 Jul 2026 00:24:31 +0000",
+      "summary": "Horizon Eye Care operates as a group of independent optometric clinics and medical practices across North America. Depending on your specific location, they offer comprehensive eye examinations, surgical procedures (like LASIK and cataracts), contact lens fittings, and a wide variety of designer eye...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : https://sza.it/",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly9zemEuaXQvQGluY3JhbnNvbQ==",
