@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T17:20:58.943Z",
+  "lastUpdated": "2026-07-01T21:41:50.154Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://www.roundshield.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucm91bmRzaGllbGQuY29tL0BpbmNyYW5zb20=",
+      "pubDate": "Wed, 01 Jul 2026 19:27:33 +0000",
+      "summary": "400gb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : horizoneye.com",
       "link": "https://www.ransomware.live/id/aG9yaXpvbmV5ZS5jb21AaW5jcmFuc29t",
