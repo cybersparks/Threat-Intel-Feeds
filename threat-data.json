@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T12:38:52.969Z",
+  "lastUpdated": "2026-07-01T17:20:58.943Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,36 +379,6 @@
       "link": "https://www.ransomware.live/id/YmVscG9pbnRlYXNzZXQuY29tIFwgYmVscG9pbnRlLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Mon, 22 Jun 2026 23:32:10 +0000",
       "summary": "400gb...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : jktornel",
-      "link": "https://www.ransomware.live/id/amt0b3JuZWxAaW5jcmFuc29t",
-      "pubDate": "Sun, 21 Jun 2026 12:37:29 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Newspaper Media Group",
-      "link": "https://www.ransomware.live/id/TmV3c3BhcGVyIE1lZGlhIEdyb3VwQGluY3JhbnNvbQ==",
-      "pubDate": "Sat, 20 Jun 2026 19:35:30 +0000",
-      "summary": "Newspaper Media Group is a local news organization that provides comprehensive coverage of news, sports, entertainment, and community events across various regions, including Central Jersey and South Jersey. They publish multiple newspapers and magazines, ensuring that they reach more households tha...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomexx has just published a new victim : Go2Joy (go2joy.vn)",
-      "link": "https://www.ransomware.live/id/R28ySm95IChnbzJqb3kudm4pQHJhbnNvbWV4eA==",
-      "pubDate": "Sat, 20 Jun 2026 14:35:35 +0000",
-      "summary": "We have released the complete database of Go2Joy, Vietnam’s leading platform for hourly and short-stay hotel bookings....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
