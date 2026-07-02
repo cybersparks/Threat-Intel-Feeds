@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T12:13:32.826Z",
+  "lastUpdated": "2026-07-02T16:55:53.270Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : acworth-ga.gov",
+      "link": "https://www.ransomware.live/id/YWN3b3J0aC1nYS5nb3ZAaW5jcmFuc29t",
+      "pubDate": "Thu, 02 Jul 2026 16:32:48 +0000",
+      "summary": "Acworth is located in the foothills of the North Georgia mountains and is nestled along the banks of Lake Acworth and Lake Allatoona, hence its nickname “The Lake City.” The city boasts a rich history, a charming downtown, abundant outdoor recreational activities, a vibrant restaurant scene, and an ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : carvalima.com.br",
+      "link": "https://www.ransomware.live/id/Y2FydmFsaW1hLmNvbS5ickBpbmNyYW5zb20=",
+      "pubDate": "Thu, 02 Jul 2026 16:31:11 +0000",
+      "summary": "Carvalima Transportes is a specialized freight transportation company with over 35 years of experience, headquartered in Cuiabá, MT. The company operates in multiple regions, including Mato Grosso, Mato Grosso do Sul, Rondônia, Acre, and parts of Pará, as well as providing reverse logistics services...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ezortea.com.br",
+      "link": "https://www.ransomware.live/id/ZXpvcnRlYS5jb20uYnJAaW5jcmFuc29t",
+      "pubDate": "Thu, 02 Jul 2026 16:28:50 +0000",
+      "summary": "Estrutural Zortea is a Brazilian company founded in 1995, specializing in the design, fabrication, and assembly of large-scale metal structures. ISO 9001-2015 certified, they provide industrial, logistics, and port solutions throughout the country. Specialties include: roofing for grain warehouses a...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : hamilton-eye.com",
+      "link": "https://www.ransomware.live/id/aGFtaWx0b24tZXllLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Thu, 02 Jul 2026 16:27:48 +0000",
+      "summary": "Hamilton Eye Institute is a comprehensive vision care practice operating out of two Pennsylvania locations: Allentown and Easton. They provide routine eye exams, medical/surgical eye treatments, and an in-house MediSpa....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Colorado Rehabilitation and Occupational Medicine",
       "link": "https://www.ransomware.live/id/Q29sb3JhZG8gUmVoYWJpbGl0YXRpb24gYW5kIE9jY3VwYXRpb25hbCBNZWRpY2luZUBpbmNyYW5zb20=",
       "pubDate": "Thu, 02 Jul 2026 00:28:12 +0000",
@@ -369,16 +409,6 @@
       "link": "https://www.ransomware.live/id/TGlmZSBCcmlkZ2VzQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 25 Jun 2026 23:23:37 +0000",
       "summary": "Life Bridges is a non-profit organization dedicated to supporting individuals with intellectual and developmental disabilities, providing a range of services including residential support, healthcare, and community living services. Established in 1973, the organization focuses on promoting independe...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : GSP Crop Science Pvt",
-      "link": "https://www.ransomware.live/id/R1NQIENyb3AgU2NpZW5jZSBQdnRAaW5jcmFuc29t",
-      "pubDate": "Thu, 25 Jun 2026 23:23:07 +0000",
-      "summary": "GSP Crop Science Limited is a leader in agricultural innovation, specializing in crop science and sustainable farming solutions. The company offers a wide range of products including pesticides, herbicides, fungicides, and plant growth regulators, designed to enhance crop productivity while minimizi...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
