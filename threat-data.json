@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T16:55:53.270Z",
+  "lastUpdated": "2026-07-02T21:16:31.312Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : tambasa.com",
+      "link": "https://www.ransomware.live/id/dGFtYmFzYS5jb21AaW5jcmFuc29t",
+      "pubDate": "Thu, 02 Jul 2026 16:55:44 +0000",
+      "summary": "Tambasa Atacadistas is one of the largest wholesale distributors in Brazil, operating primarily in the B2B marketplace. Founded in 1949, the company supplies retail stores, supermarkets, and construction shops across the entire national territory....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : tricountyhs.org",
+      "link": "https://www.ransomware.live/id/dHJpY291bnR5aHMub3JnQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 02 Jul 2026 16:54:37 +0000",
+      "summary": "Flowers Early Learning (formerly known as Tri-County Head Start) is a non-profit 501(c)(3) organization providing free, high-quality early childhood education and family support services across Berrien, Cass, and Van Buren counties in Southwest Michigan. Funded by a federal grant through the Office ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : acworth-ga.gov",
       "link": "https://www.ransomware.live/id/YWN3b3J0aC1nYS5nb3ZAaW5jcmFuc29t",
       "pubDate": "Thu, 02 Jul 2026 16:32:48 +0000",
@@ -399,16 +419,6 @@
       "link": "https://www.ransomware.live/id/dGhlc3dhbnNvbmxhd2dyb3VwLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Fri, 26 Jun 2026 19:22:55 +0000",
       "summary": "Meet Ben Swanson. The clients confidentiality worst nightmare....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Life Bridges",
-      "link": "https://www.ransomware.live/id/TGlmZSBCcmlkZ2VzQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 25 Jun 2026 23:23:37 +0000",
-      "summary": "Life Bridges is a non-profit organization dedicated to supporting individuals with intellectual and developmental disabilities, providing a range of services including residential support, healthcare, and community living services. Established in 1973, the organization focuses on promoting independe...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
