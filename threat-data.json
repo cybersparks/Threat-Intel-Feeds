@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-03T12:13:03.635Z",
+  "lastUpdated": "2026-07-03T16:40:20.318Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Moody Bible Institute - 2,303,416 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MoodyBibleInstitute",
+      "pubDate": "Fri, 03 Jul 2026 16:03:25 Z",
+      "summary": "In June 2026, Moody Bible Institute was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Over 2.3M unique email addresses and other person...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "2,303,416 ",
+        "2,303,416"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Sysco - 2,691,852 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Sysco",
@@ -245,19 +258,6 @@
       "breachCount": [
         "84,108 ",
         "84,108"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Ameriprise - 502,597 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Ameriprise",
-      "pubDate": "Tue, 26 May 2026 22:03:42 Z",
-      "summary": "In March 2026, the financial services firm Ameriprise Financial was named by the ShinyHunters group in a \"pay or leak\" extortion campaign. The group c...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "502,597 ",
-        "502,597"
       ],
       "isBreach": true,
       "isRansomware": false
