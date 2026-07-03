@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T16:40:20.318Z",
+  "lastUpdated": "2026-07-03T21:15:04.773Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,36 +399,6 @@
       "link": "https://www.ransomware.live/id/R0ROIEFSKERvcmlua2EpQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 29 Jun 2026 12:26:32 +0000",
       "summary": "Dorinka S.R.L. is based in Argentina, with the head office in Cidade Autonoma De Buenos Aires. The enterprise operates in the Grocery Stores industry. Dorinka S.R.L. was incorporated on June 29, 2026. There are currently 8,000 (2024) people employed by Dorinka S.R.L.....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : callhorton.com",
-      "link": "https://www.ransomware.live/id/Y2FsbGhvcnRvbi5jb21AaW5jcmFuc29t",
-      "pubDate": "Fri, 26 Jun 2026 20:27:02 +0000",
-      "summary": "Horton Personal Injury Lawyers is the premier law firm at not protecting it's clients confidential data....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : johndufourlaw.com",
-      "link": "https://www.ransomware.live/id/am9obmR1Zm91cmxhdy5jb21AaW5jcmFuc29t",
-      "pubDate": "Fri, 26 Jun 2026 19:23:53 +0000",
-      "summary": "If you find yourself injured, disabled or deep in debt, the Law Office of John Dufour is ready to help. John brings 25 years of focused experience and favorable outcomes. Our success is built on attentive service and attention to the legal details....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : theswansonlawgroup.com",
-      "link": "https://www.ransomware.live/id/dGhlc3dhbnNvbmxhd2dyb3VwLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Fri, 26 Jun 2026 19:22:55 +0000",
-      "summary": "Meet Ben Swanson. The clients confidentiality worst nightmare....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
