@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T21:16:31.312Z",
+  "lastUpdated": "2026-07-03T03:55:08.370Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : oakparkmi.gov",
+      "link": "https://www.ransomware.live/id/b2FrcGFya21pLmdvdkBpbmNyYW5zb20=",
+      "pubDate": "Fri, 03 Jul 2026 00:55:46 +0000",
+      "summary": "Oak Park, Michigan, is a vibrant, diverse inner-ring suburb of Metro Detroit located in Oakland County. Incorporated as a city in 1945, it spans 5.5 square miles and is home to roughly 30,000 residents. The city is currently experiencing a renaissance, transforming areas like the 11 Mile Road corrid...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : tambasa.com",
       "link": "https://www.ransomware.live/id/dGFtYmFzYS5jb21AaW5jcmFuc29t",
