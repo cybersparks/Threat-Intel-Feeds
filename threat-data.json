@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T17:48:10.194Z",
+  "lastUpdated": "2026-07-06T21:41:40.764Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/QXJraW4gR3JvdXBAYmxhY2tuZXZhcw==",
       "pubDate": "Tue, 30 Jun 2026 05:51:46 +0000",
       "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Bonacio",
-      "link": "https://www.ransomware.live/id/Qm9uYWNpb0ByYW5zb21ob3VzZQ==",
-      "pubDate": "Mon, 29 Jun 2026 15:28:25 +0000",
-      "summary": "Bonacio Steel is a division of Bonacio Construction that provides comprehensive steel design and fabrication services, specializing in both commercial and residential projects in the Northeast. With a 35-year history of construction accomplishments, they offer innovative solutions including structur...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
