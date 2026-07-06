@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T09:05:07.067Z",
+  "lastUpdated": "2026-07-06T13:53:01.063Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/Qm9uYWNpb0ByYW5zb21ob3VzZQ==",
       "pubDate": "Mon, 29 Jun 2026 15:28:25 +0000",
       "summary": "Bonacio Steel is a division of Bonacio Construction that provides comprehensive steel design and fabrication services, specializing in both commercial and residential projects in the Northeast. With a 35-year history of construction accomplishments, they offer innovative solutions including structur...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : GDN AR(Dorinka)",
-      "link": "https://www.ransomware.live/id/R0ROIEFSKERvcmlua2EpQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 29 Jun 2026 12:26:32 +0000",
-      "summary": "Dorinka S.R.L. is based in Argentina, with the head office in Cidade Autonoma De Buenos Aires. The enterprise operates in the Grocery Stores industry. Dorinka S.R.L. was incorporated on June 29, 2026. There are currently 8,000 (2024) people employed by Dorinka S.R.L.....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
