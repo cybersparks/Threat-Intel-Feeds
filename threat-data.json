@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T17:22:54.585Z",
+  "lastUpdated": "2026-07-07T21:35:28.567Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Aesthetic Surgical Images",
+      "link": "https://www.ransomware.live/id/QWVzdGhldGljIFN1cmdpY2FsIEltYWdlc0BpbmNyYW5zb20=",
+      "pubDate": "Tue, 07 Jul 2026 19:56:20 +0000",
+      "summary": "Aesthetic Surgical Images, a plastic surgery practice based in Omaha, NE, has been serving patients since 1968 and is known for its commitment to quality and integrity. The practice's medical records are managed by Morgan Records Management, which ensures compliance with state and federal laws regar...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : tecnocurva.com.br",
       "link": "https://www.ransomware.live/id/dGVjbm9jdXJ2YS5jb20uYnJAaW5jcmFuc29t",
       "pubDate": "Tue, 07 Jul 2026 00:27:08 +0000",
@@ -369,26 +379,6 @@
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucm91bmRzaGllbGQuY29tL0BpbmNyYW5zb20=",
       "pubDate": "Wed, 01 Jul 2026 19:27:33 +0000",
       "summary": "400gb...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : horizoneye.com",
-      "link": "https://www.ransomware.live/id/aG9yaXpvbmV5ZS5jb21AaW5jcmFuc29t",
-      "pubDate": "Wed, 01 Jul 2026 00:24:31 +0000",
-      "summary": "Horizon Eye Care operates as a group of independent optometric clinics and medical practices across North America. Depending on your specific location, they offer comprehensive eye examinations, surgical procedures (like LASIK and cataracts), contact lens fittings, and a wide variety of designer eye...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://sza.it/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9zemEuaXQvQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 30 Jun 2026 13:23:59 +0000",
-      "summary": "client, contracts, personal, NDA  and other...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
