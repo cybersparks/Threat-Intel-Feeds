@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T21:41:40.764Z",
+  "lastUpdated": "2026-07-07T04:03:52.887Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : tecnocurva.com.br",
+      "link": "https://www.ransomware.live/id/dGVjbm9jdXJ2YS5jb20uYnJAaW5jcmFuc29t",
+      "pubDate": "Tue, 07 Jul 2026 00:27:08 +0000",
+      "summary": "Company operating in the automotive sector. Heavy and agricultural segment. Forming of tubes and welded assemblies. \r Tecnocurva manufactures curved, welded, and stamped tubular assemblies, structural and exhaust pipes, and stamped parts with high technical standards and a total focus on performance...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : samberger24.de",
+      "link": "https://www.ransomware.live/id/c2FtYmVyZ2VyMjQuZGVAaW5jcmFuc29t",
+      "pubDate": "Tue, 07 Jul 2026 00:26:06 +0000",
+      "summary": "Samberger is a long-established medical supply store and sports and analysis center in Munich, offering orthopedic aids, shoe insoles and health products....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : oakparkmi.gov",
       "link": "https://www.ransomware.live/id/b2FrcGFya21pLmdvdkBpbmNyYW5zb20=",
