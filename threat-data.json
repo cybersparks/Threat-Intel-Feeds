@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T04:03:52.887Z",
+  "lastUpdated": "2026-07-07T08:28:32.424Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly9zemEuaXQvQGluY3JhbnNvbQ==",
       "pubDate": "Tue, 30 Jun 2026 13:23:59 +0000",
       "summary": "client, contracts, personal, NDA  and other...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Blacknevas has just published a new victim : Arkin Group",
-      "link": "https://www.ransomware.live/id/QXJraW4gR3JvdXBAYmxhY2tuZXZhcw==",
-      "pubDate": "Tue, 30 Jun 2026 05:51:46 +0000",
-      "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
