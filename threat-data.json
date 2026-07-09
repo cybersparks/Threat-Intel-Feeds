@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T03:58:00.699Z",
+  "lastUpdated": "2026-07-09T08:33:42.823Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/Q29sb3JhZG8gUmVoYWJpbGl0YXRpb24gYW5kIE9jY3VwYXRpb25hbCBNZWRpY2luZUBpbmNyYW5zb20=",
       "pubDate": "Thu, 02 Jul 2026 00:28:12 +0000",
       "summary": "Colorado Rehabilitation & Occupational Medicine (CROM) is a leading Denver-area physiatry practice specializing in non-surgical treatments for musculoskeletal and neurological conditions. Founded in 1992, CROM operates multiple clinics across the Front Range, focusing on helping patients recover fro...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://www.roundshield.com/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucm91bmRzaGllbGQuY29tL0BpbmNyYW5zb20=",
-      "pubDate": "Wed, 01 Jul 2026 19:27:33 +0000",
-      "summary": "400gb...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
