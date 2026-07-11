@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-11T11:11:34.635Z",
+  "lastUpdated": "2026-07-11T16:00:25.256Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Glendale Community College - 793,925 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GlendaleCommunityCollege",
+      "pubDate": "Sat, 11 Jul 2026 10:40:09 Z",
+      "summary": "In June 2026, Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from Glendale was ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "793,925 ",
+        "793,925"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Moody Bible Institute - 2,303,416 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/MoodyBibleInstitute",
@@ -245,19 +258,6 @@
       "breachCount": [
         "269,299 ",
         "269,299"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Mytheresa - 84,108 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Mytheresa",
-      "pubDate": "Wed, 27 May 2026 05:17:45 Z",
-      "summary": "In April 2026, the luxury fashion e-commerce platform Mytheresa was listed as a victim of the ShinyHunters \"pay or leak\" extortion group. After the ra...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "84,108 ",
-        "84,108"
       ],
       "isBreach": true,
       "isRansomware": false
