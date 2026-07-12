@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T16:03:33.939Z",
+  "lastUpdated": "2026-07-12T20:59:17.787Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -279,26 +279,6 @@
       "link": "https://www.ransomware.live/id/QWVzdGhldGljIFN1cmdpY2FsIEltYWdlc0BpbmNyYW5zb20=",
       "pubDate": "Tue, 07 Jul 2026 19:56:20 +0000",
       "summary": "Aesthetic Surgical Images, a plastic surgery practice based in Omaha, NE, has been serving patients since 1968 and is known for its commitment to quality and integrity. The practice's medical records are managed by Morgan Records Management, which ensures compliance with state and federal laws regar...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : tecnocurva.com.br",
-      "link": "https://www.ransomware.live/id/dGVjbm9jdXJ2YS5jb20uYnJAaW5jcmFuc29t",
-      "pubDate": "Tue, 07 Jul 2026 00:27:08 +0000",
-      "summary": "Company operating in the automotive sector. Heavy and agricultural segment. Forming of tubes and welded assemblies. \r Tecnocurva manufactures curved, welded, and stamped tubular assemblies, structural and exhaust pipes, and stamped parts with high technical standards and a total focus on performance...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : samberger24.de",
-      "link": "https://www.ransomware.live/id/c2FtYmVyZ2VyMjQuZGVAaW5jcmFuc29t",
-      "pubDate": "Tue, 07 Jul 2026 00:26:06 +0000",
-      "summary": "Samberger is a long-established medical supply store and sports and analysis center in Munich, offering orthopedic aids, shoe insoles and health products....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
