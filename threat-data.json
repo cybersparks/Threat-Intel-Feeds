@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T11:36:45.536Z",
+  "lastUpdated": "2026-07-14T16:20:26.896Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,20 +265,20 @@
   ],
   "ransomware": [
     {
-      "title": "🏴‍☠️ Deadlock has just published a new victim : Židlochovice city",
-      "link": "https://www.ransomware.live/id/xb1pZGxvY2hvdmljZSBjaXR5QERlYWRsb2Nr",
-      "pubDate": "Fri, 10 Jul 2026 13:09:20 +0000",
-      "summary": "Internal city administration documents have been leaked. Personal data from the database will be sold on darknet forums. Mayor 'Jan Vitula' claims the attack was prevented and no data was stolen. An investigation has been launched with the police, and countermeasures are being taken. =) xD In press:...",
+      "title": "🏴‍☠️ Blacknevas has just published a new victim : Arkın Group",
+      "link": "https://www.ransomware.live/id/QXJrxLFuIEdyb3VwQGJsYWNrbmV2YXM=",
+      "pubDate": "Tue, 14 Jul 2026 13:22:18 +0000",
+      "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Aesthetic Surgical Images",
-      "link": "https://www.ransomware.live/id/QWVzdGhldGljIFN1cmdpY2FsIEltYWdlc0BpbmNyYW5zb20=",
-      "pubDate": "Tue, 07 Jul 2026 19:56:20 +0000",
-      "summary": "Aesthetic Surgical Images, a plastic surgery practice based in Omaha, NE, has been serving patients since 1968 and is known for its commitment to quality and integrity. The practice's medical records are managed by Morgan Records Management, which ensures compliance with state and federal laws regar...",
+      "title": "🏴‍☠️ Deadlock has just published a new victim : Židlochovice city",
+      "link": "https://www.ransomware.live/id/xb1pZGxvY2hvdmljZSBjaXR5QERlYWRsb2Nr",
+      "pubDate": "Fri, 10 Jul 2026 13:09:20 +0000",
+      "summary": "Internal city administration documents have been leaked. Personal data from the database will be sold on darknet forums. Mayor 'Jan Vitula' claims the attack was prevented and no data was stolen. An investigation has been launched with the police, and countermeasures are being taken. =) xD In press:...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
