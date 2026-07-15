@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T16:38:41.315Z",
+  "lastUpdated": "2026-07-15T21:07:24.900Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fidelity Services Group",
+      "link": "https://www.ransomware.live/id/RmlkZWxpdHkgU2VydmljZXMgR3JvdXBAcmFuc29taG91c2U=",
+      "pubDate": "Wed, 15 Jul 2026 19:28:42 +0000",
+      "summary": "Fidelity Services Group is Southern Africa's largest integrated security solutions provider, specializing in innovative protection services. With over 60 years of experience, they offer a range of services including security guarding, cash management, and fire protection solutions tailored for corpo...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Golden Glasko & Associates",
       "link": "https://www.ransomware.live/id/R29sZGVuIEdsYXNrbyAmIEFzc29jaWF0ZXNAaW5jcmFuc29t",
