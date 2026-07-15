@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-15T03:13:33.175Z",
+  "lastUpdated": "2026-07-15T07:19:01.825Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Goose Creek - 6,574,121 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GooseCreek",
+      "pubDate": "Wed, 15 Jul 2026 05:03:14 Z",
+      "summary": "In June 2026, a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers, claiming the...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,574,121 ",
+        "6,574,121"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Glendale Community College - 793,925 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/GlendaleCommunityCollege",
@@ -245,19 +258,6 @@
       "breachCount": [
         "4,851,517 ",
         "4,851,517"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Kemper - 269,299 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Kemper",
-      "pubDate": "Thu, 28 May 2026 07:22:18 Z",
-      "summary": "In April 2026, the American insurance holding company Kemper Corporation was named by the ShinyHunters ransomware group in a \"pay or leak\" extortion c...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "269,299 ",
-        "269,299"
       ],
       "isBreach": true,
       "isRansomware": false
