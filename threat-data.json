@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-15T07:19:01.825Z",
+  "lastUpdated": "2026-07-15T11:40:20.171Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Fluke - 821,100 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fluke",
+      "pubDate": "Wed, 15 Jul 2026 08:01:04 Z",
+      "summary": "In July 2026, electronic test and measurement equipment company Fluke was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subse...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "821,100 ",
+        "821,100"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Goose Creek - 6,574,121 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/GooseCreek",
@@ -245,19 +258,6 @@
       "breachCount": [
         "63,926 ",
         "63,926"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Charter - 4,851,517 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Charter",
-      "pubDate": "Thu, 28 May 2026 20:00:34 Z",
-      "summary": "In May 2026, the telecommunications company Charter Communications (the parent company behind the consumer broadband and cable brand Spectrum) was nam...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "4,851,517 ",
-        "4,851,517"
       ],
       "isBreach": true,
       "isRansomware": false
