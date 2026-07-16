@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T11:45:38.895Z",
+  "lastUpdated": "2026-07-16T16:22:38.234Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Megawork",
+      "link": "https://www.ransomware.live/id/TWVnYXdvcmtAcmFuc29taG91c2U=",
+      "pubDate": "Thu, 16 Jul 2026 16:01:00 +0000",
+      "summary": "Megawork is a leading SAP consultancy specializing in the implementation, support, and optimization of technologies such as SAP S/4HANA and Microsoft Power Platform. They provide integrated solutions tailored for various sectors including services, wholesale, utilities, mining, and steel industries....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://www.statebankofnauvoo.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuc3RhdGViYW5rb2ZuYXV2b28uY29tL0BpbmNyYW5zb20=",
+      "pubDate": "Thu, 16 Jul 2026 12:57:21 +0000",
+      "summary": "State Bank of Nauvoo offers a range of banking services including deposit accounts, loans, and online banking solutions...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fidelity Services Group",
       "link": "https://www.ransomware.live/id/RmlkZWxpdHkgU2VydmljZXMgR3JvdXBAcmFuc29taG91c2U=",
