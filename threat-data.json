@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T16:20:30.110Z",
+  "lastUpdated": "2026-07-17T21:02:35.778Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -329,26 +329,6 @@
       "link": "https://www.ransomware.live/id/VmFudGFnZVBvaW50IE1hbmFnZW1lbnQgJiBBdXRvY2xlYXJAaW5jcmFuc29t",
       "pubDate": "Tue, 14 Jul 2026 18:27:40 +0000",
       "summary": "VantagePoint Capital Partners is a global venture investor established in 1996, focusing on energy innovation and efficiency. With over $4 billion under management, the company supports start-up to scale-up companies by providing capital, strategic resources, and partnership alliances. Headquartered...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Blacknevas has just published a new victim : Arkın Group",
-      "link": "https://www.ransomware.live/id/QXJrxLFuIEdyb3VwQGJsYWNrbmV2YXM=",
-      "pubDate": "Tue, 14 Jul 2026 13:22:18 +0000",
-      "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Deadlock has just published a new victim : Židlochovice city",
-      "link": "https://www.ransomware.live/id/xb1pZGxvY2hvdmljZSBjaXR5QERlYWRsb2Nr",
-      "pubDate": "Fri, 10 Jul 2026 13:09:20 +0000",
-      "summary": "Internal city administration documents have been leaked. Personal data from the database will be sold on darknet forums. Mayor 'Jan Vitula' claims the attack was prevented and no data was stolen. An investigation has been launched with the police, and countermeasures are being taken. =) xD In press:...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
