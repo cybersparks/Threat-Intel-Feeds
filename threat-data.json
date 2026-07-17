@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T21:09:37.797Z",
+  "lastUpdated": "2026-07-17T03:23:24.150Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Kyokuto Kaihatsu Kogyo",
+      "link": "https://www.ransomware.live/id/S3lva3V0byBLYWloYXRzdSBLb2d5b0BpbmNyYW5zb20=",
+      "pubDate": "Fri, 17 Jul 2026 02:57:35 +0000",
+      "summary": "Kyokuto Kaihatsu Kogyo Co., Ltd. is a leading manufacturer specializing in special purpose vehicles such as dump trucks, tankers, and garbage collection vehicles. The company serves various sectors including construction, logistics, and environmental services, providing innovative solutions to meet ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : asa-international.com",
       "link": "https://www.ransomware.live/id/YXNhLWludGVybmF0aW9uYWwuY29tQGluY3JhbnNvbQ==",
