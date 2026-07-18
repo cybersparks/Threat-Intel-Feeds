@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T21:02:35.778Z",
+  "lastUpdated": "2026-07-18T03:12:57.027Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,76 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : v-silicon.com",
+      "link": "https://www.ransomware.live/id/di1zaWxpY29uLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Sat, 18 Jul 2026 02:03:56 +0000",
+      "summary": "威视芯半导体（合肥）有限公司 specializes in advanced audio and video processing technologies for the global smart TV and set-top box market. The company offers a range of products including high-definition smart TV chips and network camera chips, aimed at enhancing smart home, community, and city solutions. Their...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : FAST.COM.PH",
+      "link": "https://www.ransomware.live/id/RkFTVC5DT00uUEhAaW5jcmFuc29t",
+      "pubDate": "Sat, 18 Jul 2026 02:03:22 +0000",
+      "summary": "FAST Logistics Group is a leading provider of end-to-end logistics and supply chain solutions in the Philippines, offering a comprehensive network of transport, warehousing, distribution, and logistics services. With over 50 years of experience, the company serves a diverse range of industries inclu...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : D.MAG New Material Technology Co., Ltd. Taiwan Giant",
+      "link": "https://www.ransomware.live/id/RC5NQUcgTmV3IE1hdGVyaWFsIFRlY2hub2xvZ3kgQ28uLCBMdGQuIFRhaXdhbiBHaWFudEBpbmNyYW5zb20=",
+      "pubDate": "Sat, 18 Jul 2026 02:02:41 +0000",
+      "summary": "D.MAG New Material Technology Co., Ltd. is a key manufacturing subsidiary controlled by Taiwan’s Giant Group (Giant Manufacturing Co., Ltd.). Specializing in aluminum and magnesium alloys, D.MAG operates from Kunshan, Jiangsu Province, China, to develop and supply lightweight, high-performance mater...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : vedan corp",
+      "link": "https://www.ransomware.live/id/dmVkYW4gY29ycEBpbmNyYW5zb20=",
+      "pubDate": "Sat, 18 Jul 2026 02:02:06 +0000",
+      "summary": "Vedan Vietnam is a leading manufacturer specializing in a wide range of products including seasoning, starch, MSG, chemicals, and consumer goods. The company is committed to quality and safety, utilizing advanced technology and local agricultural resources to produce high-quality products. Their ser...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : pokka.co",
+      "link": "https://www.ransomware.live/id/cG9ra2EuY29AaW5jcmFuc29t",
+      "pubDate": "Sat, 18 Jul 2026 02:01:30 +0000",
+      "summary": "Founded in 1977 and headquartered in Central Singapore, Pokka Sg manufactures and markets a wide range of beverages...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : reatile.co.za",
+      "link": "https://www.ransomware.live/id/cmVhdGlsZS5jby56YUBpbmNyYW5zb20=",
+      "pubDate": "Sat, 18 Jul 2026 02:00:51 +0000",
+      "summary": "Reatile Group is an innovative, black-owned investment holding company established in 2003, focusing on the energy, petrochemical, and industrial sectors in South Africa. The company aims to leverage growth opportunities within these industrial sectors of the South African economy. Reatile Group is ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : V&P Nurseries",
+      "link": "https://www.ransomware.live/id/ViZQIE51cnNlcmllc0BpbmNyYW5zb20=",
+      "pubDate": "Sat, 18 Jul 2026 02:00:14 +0000",
+      "summary": "V&P Nurseries is an Arizona-based wholesale grower specializing in drought-tolerant, subtropical, and desert-adapted plants for landscapes across the Southwest. Established in 1978, the company operates production facilities and a tissue culture lab focused on sustainable, water-conservative horticu...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Kyokuto Kaihatsu Kogyo",
       "link": "https://www.ransomware.live/id/S3lva3V0byBLYWloYXRzdSBLb2d5b0BpbmNyYW5zb20=",
