@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-19T20:59:26.863Z",
+  "lastUpdated": "2026-07-20T03:53:58.531Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Paidwork - 23,272,765 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Paidwork",
+      "pubDate": "Sun, 19 Jul 2026 22:57:18 Z",
+      "summary": "In March 2026, hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale. Almost 11GB of data alle...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "23,272,765 ",
+        "23,272,765"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Fluke - 821,100 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Fluke",
@@ -245,19 +258,6 @@
       "breachCount": [
         "177,860 ",
         "177,860"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Atlas Menu - 63,926 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/AtlasMenu",
-      "pubDate": "Sat, 30 May 2026 23:35:29 Z",
-      "summary": "In May 2026, the GTA V and CS2 cheat service Atlas Menu suffered a data breach. An attacker claimed to have gained access to all Atlas systems and pub...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "63,926 ",
-        "63,926"
       ],
       "isBreach": true,
       "isRansomware": false
