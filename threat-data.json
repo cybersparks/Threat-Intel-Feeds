@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-20T16:37:14.377Z",
+  "lastUpdated": "2026-07-20T21:16:45.864Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Suno - 55,282,226 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Suno",
+      "pubDate": "Mon, 20 Jul 2026 19:49:51 Z",
+      "summary": "In November 2025, AI music generation tool Suno suffered a data breach that later came to light in July the following year. The data contained over 55...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "55,282,226 ",
+        "55,282,226"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Paidwork - 23,272,765 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Paidwork",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Edmunds - 177,860 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Edmunds",
-      "pubDate": "Mon, 01 Jun 2026 07:39:02 Z",
-      "summary": "In January 2026, the automotive research and car-shopping platform Edmunds was listed by the ShinyHunters hacking group as having been breached. Data ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "177,860 ",
-        "177,860"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Ali-Monde",
+      "link": "https://www.ransomware.live/id/QWxpLU1vbmRlQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 20 Jul 2026 18:02:51 +0000",
+      "summary": "Ali-Monde is a food production and distribution company that's been around for over 50 years. They've got 5 of their own brands and an impressive lineup of 800+ dry, organic, and gluten-free products. Based just south of Montreal, they distribute food across Quebec, Ontario, New Brunswick, and parts...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : v-silicon.com",
       "link": "https://www.ransomware.live/id/di1zaWxpY29uLmNvbUBpbmNyYW5zb20=",
