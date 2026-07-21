@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T11:51:31.440Z",
+  "lastUpdated": "2026-07-21T16:26:58.482Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Nichirei",
+      "link": "https://www.ransomware.live/id/TmljaGlyZWlAcmFuc29taG91c2U=",
+      "pubDate": "Tue, 21 Jul 2026 14:07:01 +0000",
+      "summary": "Nichirei Corporation is a premier Japanese holding company that has established itself as a market leader by pioneering the frozen food industry and providing end-to-end temperature-controlled logistics solutions. With a clear mission to deliver true satisfaction the Group leverages its integrated c...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Ali-Monde",
       "link": "https://www.ransomware.live/id/QWxpLU1vbmRlQGluY3JhbnNvbQ==",
