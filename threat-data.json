@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T11:54:46.886Z",
+  "lastUpdated": "2026-07-23T16:40:09.924Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuc3RhdGViYW5rb2ZuYXV2b28uY29tL0BpbmNyYW5zb20=",
       "pubDate": "Thu, 16 Jul 2026 12:57:21 +0000",
       "summary": "State Bank of Nauvoo offers a range of banking services including deposit accounts, loans, and online banking solutions...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fidelity Services Group",
-      "link": "https://www.ransomware.live/id/RmlkZWxpdHkgU2VydmljZXMgR3JvdXBAcmFuc29taG91c2U=",
-      "pubDate": "Wed, 15 Jul 2026 19:28:42 +0000",
-      "summary": "Fidelity Services Group is Southern Africa's largest integrated security solutions provider, specializing in innovative protection services. With over 60 years of experience, they offer a range of services including security guarding, cash management, and fire protection solutions tailored for corpo...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
