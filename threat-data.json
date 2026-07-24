@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T21:12:36.984Z",
+  "lastUpdated": "2026-07-24T03:26:36.280Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : autismuslink.ch",
+      "link": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
+      "pubDate": "Fri, 24 Jul 2026 01:25:48 +0000",
+      "summary": "The Stiftung Autismuslink (Autism Link Foundation), a Switzerland-based competence center dedicated to supporting adolescents and young adults with Autism Spectrum Disorder (ASD). Headquartered in Bern, the organization focuses on helping individuals with autism achieve social and professional integ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : cabincreekhealth.com",
       "link": "https://www.ransomware.live/id/Y2FiaW5jcmVla2hlYWx0aC5jb21AaW5jcmFuc29t",
