@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T16:47:09.223Z",
+  "lastUpdated": "2026-07-24T21:12:02.289Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/YXNhLWludGVybmF0aW9uYWwuY29tQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 16 Jul 2026 18:28:30 +0000",
       "summary": "ASA International is a major international microfinance institution operating across South Asia, Southeast Asia, and Africa. The company's shares are traded on the London Stock Exchange under the ticker symbol ASAI...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Megawork",
-      "link": "https://www.ransomware.live/id/TWVnYXdvcmtAcmFuc29taG91c2U=",
-      "pubDate": "Thu, 16 Jul 2026 16:01:00 +0000",
-      "summary": "Megawork is a leading SAP consultancy specializing in the implementation, support, and optimization of technologies such as SAP S/4HANA and Microsoft Power Platform. They provide integrated solutions tailored for various sectors including services, wholesale, utilities, mining, and steel industries....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
