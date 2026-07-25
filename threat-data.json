@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T16:08:31.243Z",
+  "lastUpdated": "2026-07-25T21:00:10.128Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,16 +359,6 @@
       "link": "https://www.ransomware.live/id/cmVhdGlsZS5jby56YUBpbmNyYW5zb20=",
       "pubDate": "Sat, 18 Jul 2026 02:00:51 +0000",
       "summary": "Reatile Group is an innovative, black-owned investment holding company established in 2003, focusing on the energy, petrochemical, and industrial sectors in South Africa. The company aims to leverage growth opportunities within these industrial sectors of the South African economy. Reatile Group is ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : V&P Nurseries",
-      "link": "https://www.ransomware.live/id/ViZQIE51cnNlcmllc0BpbmNyYW5zb20=",
-      "pubDate": "Sat, 18 Jul 2026 02:00:14 +0000",
-      "summary": "V&P Nurseries is an Arizona-based wholesale grower specializing in drought-tolerant, subtropical, and desert-adapted plants for landscapes across the Southwest. Established in 1978, the company operates production facilities and a tissue culture lab focused on sustainable, water-conservative horticu...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
