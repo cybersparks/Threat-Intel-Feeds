@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T21:12:02.289Z",
+  "lastUpdated": "2026-07-25T03:24:19.133Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/S3lva3V0byBLYWloYXRzdSBLb2d5b0BpbmNyYW5zb20=",
       "pubDate": "Fri, 17 Jul 2026 02:57:35 +0000",
       "summary": "Kyokuto Kaihatsu Kogyo Co., Ltd. is a leading manufacturer specializing in special purpose vehicles such as dump trucks, tankers, and garbage collection vehicles. The company serves various sectors including construction, logistics, and environmental services, providing innovative solutions to meet ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : asa-international.com",
-      "link": "https://www.ransomware.live/id/YXNhLWludGVybmF0aW9uYWwuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 16 Jul 2026 18:28:30 +0000",
-      "summary": "ASA International is a major international microfinance institution operating across South Asia, Southeast Asia, and Africa. The company's shares are traded on the London Stock Exchange under the ticker symbol ASAI...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
