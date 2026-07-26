@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T16:08:02.330Z",
+  "lastUpdated": "2026-07-26T21:04:09.343Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -289,26 +289,6 @@
       "link": "https://www.ransomware.live/id/Y2FiaW5jcmVla2hlYWx0aC5jb21AaW5jcmFuc29t",
       "pubDate": "Thu, 23 Jul 2026 20:26:25 +0000",
       "summary": "Cabin Creek Health Systems (CCHS), a non-profit community healthcare organization founded in 1973 by coal miners in West Virginia. It operates as a Federally Qualified Health Center (FQHC), providing comprehensive medical services to rural and urban residents across Kanawha County...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Nichirei",
-      "link": "https://www.ransomware.live/id/TmljaGlyZWlAcmFuc29taG91c2U=",
-      "pubDate": "Tue, 21 Jul 2026 14:07:01 +0000",
-      "summary": "Nichirei Corporation is a premier Japanese holding company that has established itself as a market leader by pioneering the frozen food industry and providing end-to-end temperature-controlled logistics solutions. With a clear mission to deliver true satisfaction the Group leverages its integrated c...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Ali-Monde",
-      "link": "https://www.ransomware.live/id/QWxpLU1vbmRlQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 20 Jul 2026 18:02:51 +0000",
-      "summary": "Ali-Monde is a food production and distribution company that's been around for over 50 years. They've got 5 of their own brands and an impressive lineup of 800+ dry, organic, and gluten-free products. Based just south of Montreal, they distribute food across Quebec, Ontario, New Brunswick, and parts...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
