@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T21:00:10.128Z",
+  "lastUpdated": "2026-07-26T03:37:58.714Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : healthlawadvocates.org",
+      "link": "https://www.ransomware.live/id/aGVhbHRobGF3YWR2b2NhdGVzLm9yZ0BpbmNyYW5zb20=",
+      "pubDate": "Sun, 26 Jul 2026 01:56:45 +0000",
+      "summary": "Health Law Advocates (HLA), an American non-profit, public interest law firm based in Boston, Massachusetts. Founded in 1996, HLA provides free (pro bono) legal representation to low-income residents and vulnerable populations who face barriers to accessing or paying for healthcare....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : autismuslink.ch",
       "link": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
       "pubDate": "Fri, 24 Jul 2026 01:25:48 +0000",
@@ -349,16 +359,6 @@
       "link": "https://www.ransomware.live/id/cG9ra2EuY29AaW5jcmFuc29t",
       "pubDate": "Sat, 18 Jul 2026 02:01:30 +0000",
       "summary": "Founded in 1977 and headquartered in Central Singapore, Pokka Sg manufactures and markets a wide range of beverages...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : reatile.co.za",
-      "link": "https://www.ransomware.live/id/cmVhdGlsZS5jby56YUBpbmNyYW5zb20=",
-      "pubDate": "Sat, 18 Jul 2026 02:00:51 +0000",
-      "summary": "Reatile Group is an innovative, black-owned investment holding company established in 2003, focusing on the energy, petrochemical, and industrial sectors in South Africa. The company aims to leverage growth opportunities within these industrial sectors of the South African economy. Reatile Group is ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
