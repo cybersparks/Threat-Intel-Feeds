@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T07:40:00.706Z",
+  "lastUpdated": "2026-07-26T11:23:29.877Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -309,46 +309,6 @@
       "link": "https://www.ransomware.live/id/QWxpLU1vbmRlQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 20 Jul 2026 18:02:51 +0000",
       "summary": "Ali-Monde is a food production and distribution company that's been around for over 50 years. They've got 5 of their own brands and an impressive lineup of 800+ dry, organic, and gluten-free products. Based just south of Montreal, they distribute food across Quebec, Ontario, New Brunswick, and parts...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : v-silicon.com",
-      "link": "https://www.ransomware.live/id/di1zaWxpY29uLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Sat, 18 Jul 2026 02:03:56 +0000",
-      "summary": "威视芯半导体（合肥）有限公司 specializes in advanced audio and video processing technologies for the global smart TV and set-top box market. The company offers a range of products including high-definition smart TV chips and network camera chips, aimed at enhancing smart home, community, and city solutions. Their...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : FAST.COM.PH",
-      "link": "https://www.ransomware.live/id/RkFTVC5DT00uUEhAaW5jcmFuc29t",
-      "pubDate": "Sat, 18 Jul 2026 02:03:22 +0000",
-      "summary": "FAST Logistics Group is a leading provider of end-to-end logistics and supply chain solutions in the Philippines, offering a comprehensive network of transport, warehousing, distribution, and logistics services. With over 50 years of experience, the company serves a diverse range of industries inclu...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : D.MAG New Material Technology Co., Ltd. Taiwan Giant",
-      "link": "https://www.ransomware.live/id/RC5NQUcgTmV3IE1hdGVyaWFsIFRlY2hub2xvZ3kgQ28uLCBMdGQuIFRhaXdhbiBHaWFudEBpbmNyYW5zb20=",
-      "pubDate": "Sat, 18 Jul 2026 02:02:41 +0000",
-      "summary": "D.MAG New Material Technology Co., Ltd. is a key manufacturing subsidiary controlled by Taiwan’s Giant Group (Giant Manufacturing Co., Ltd.). Specializing in aluminum and magnesium alloys, D.MAG operates from Kunshan, Jiangsu Province, China, to develop and supply lightweight, high-performance mater...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : vedan corp",
-      "link": "https://www.ransomware.live/id/dmVkYW4gY29ycEBpbmNyYW5zb20=",
-      "pubDate": "Sat, 18 Jul 2026 02:02:06 +0000",
-      "summary": "Vedan Vietnam is a leading manufacturer specializing in a wide range of products including seasoning, starch, MSG, chemicals, and consumer goods. The company is committed to quality and safety, utilizing advanced technology and local agricultural resources to produce high-quality products. Their ser...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
