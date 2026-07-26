@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T03:37:58.714Z",
+  "lastUpdated": "2026-07-26T07:40:00.706Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -146,7 +146,7 @@
       "isRansomware": false
     },
     {
-      "title": "Operation Endgame 4.0 - 4,160,519 breached accounts",
+      "title": "Operation Endgame 4.0 - 4,348,526 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/OperationEndgame4",
       "pubDate": "Thu, 18 Jun 2026 20:08:06 Z",
       "summary": "On 18 June 2026, the latest phase of Operation Endgame targeted the SocGholish malware operation, a prolific malware distribution network used to comp...",
@@ -349,16 +349,6 @@
       "link": "https://www.ransomware.live/id/dmVkYW4gY29ycEBpbmNyYW5zb20=",
       "pubDate": "Sat, 18 Jul 2026 02:02:06 +0000",
       "summary": "Vedan Vietnam is a leading manufacturer specializing in a wide range of products including seasoning, starch, MSG, chemicals, and consumer goods. The company is committed to quality and safety, utilizing advanced technology and local agricultural resources to produce high-quality products. Their ser...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : pokka.co",
-      "link": "https://www.ransomware.live/id/cG9ra2EuY29AaW5jcmFuc29t",
-      "pubDate": "Sat, 18 Jul 2026 02:01:30 +0000",
-      "summary": "Founded in 1977 and headquartered in Central Singapore, Pokka Sg manufactures and markets a wide range of beverages...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
