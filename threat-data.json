@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-07-28T03:17:53.536Z",
+  "lastUpdated": "2026-07-28T07:42:26.965Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Houston City College - 831,642 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/HoustonCityCollege",
+      "pubDate": "Tue, 28 Jul 2026 06:05:24 Z",
+      "summary": "In June 2026, Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from the college was lat...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "831,642 ",
+        "831,642"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Suno - 55,282,226 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Suno",
@@ -245,19 +258,6 @@
       "breachCount": [
         "396,313 ",
         "396,313"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "DentaQuest - 2,553,599 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/DentaQuest",
-      "pubDate": "Wed, 03 Jun 2026 22:56:30 Z",
-      "summary": "In May 2026, the dental benefits administrator DentaQuest was the target of a ShinyHunters \"pay or leak\" extortion campaign that resulted in the group...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "2,553,599 ",
-        "2,553,599"
       ],
       "isBreach": true,
       "isRansomware": false
