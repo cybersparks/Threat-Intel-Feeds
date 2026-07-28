@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T07:42:26.965Z",
+  "lastUpdated": "2026-07-28T12:01:37.884Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Della Casa Group AG",
+      "link": "https://www.ransomware.live/id/RGVsbGEgQ2FzYSBHcm91cCBBR0BpbmNyYW5zb20=",
+      "pubDate": "Tue, 28 Jul 2026 12:00:56 +0000",
+      "summary": "041 785 61 31 / 041 785 61 46 / info@dellacasa.group\r 041 785 61 36 / s.pajaziti@dellacasa.group\r 041 785 61 30 / gdc@dellacasa.group\r 041 785 61 33 / a.stirnimann@dellacasa.group\r 041 785 61 43 / a.marku@dellacasa.group\r 041 785 61 42 / d.meier@dellacasa.group\r *************************************...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : minigrip.com.mx",
       "link": "https://www.ransomware.live/id/bWluaWdyaXAuY29tLm14QGluY3JhbnNvbQ==",
