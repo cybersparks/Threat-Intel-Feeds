@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T16:44:48.015Z",
+  "lastUpdated": "2026-07-28T21:13:53.396Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,16 +339,6 @@
       "link": "https://www.ransomware.live/id/aGVhbHRobGF3YWR2b2NhdGVzLm9yZ0BpbmNyYW5zb20=",
       "pubDate": "Sun, 26 Jul 2026 01:56:45 +0000",
       "summary": "Health Law Advocates (HLA), an American non-profit, public interest law firm based in Boston, Massachusetts. Founded in 1996, HLA provides free (pro bono) legal representation to low-income residents and vulnerable populations who face barriers to accessing or paying for healthcare....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : autismuslink.ch",
-      "link": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
-      "pubDate": "Fri, 24 Jul 2026 01:25:48 +0000",
-      "summary": "The Stiftung Autismuslink (Autism Link Foundation), a Switzerland-based competence center dedicated to supporting adolescents and young adults with Autism Spectrum Disorder (ASD). Headquartered in Bern, the organization focuses on helping individuals with autism achieve social and professional integ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
