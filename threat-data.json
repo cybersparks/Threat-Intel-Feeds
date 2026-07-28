@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T12:01:37.884Z",
+  "lastUpdated": "2026-07-28T16:44:48.015Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://eclmn.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9lY2xtbi5jb20vQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 28 Jul 2026 13:26:53 +0000",
+      "summary": "A family-run health and residential care organization in Minnesota. They provide adapted housing, professional in-home support, and daily living solutions for adults with physical disabilities and limited mobility...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Della Casa Group AG",
       "link": "https://www.ransomware.live/id/RGVsbGEgQ2FzYSBHcm91cCBBR0BpbmNyYW5zb20=",
       "pubDate": "Tue, 28 Jul 2026 12:00:56 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.ransomware.live/id/YXV0aXNtdXNsaW5rLmNoQGluY3JhbnNvbQ==",
       "pubDate": "Fri, 24 Jul 2026 01:25:48 +0000",
       "summary": "The Stiftung Autismuslink (Autism Link Foundation), a Switzerland-based competence center dedicated to supporting adolescents and young adults with Autism Spectrum Disorder (ASD). Headquartered in Bern, the organization focuses on helping individuals with autism achieve social and professional integ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cabincreekhealth.com",
-      "link": "https://www.ransomware.live/id/Y2FiaW5jcmVla2hlYWx0aC5jb21AaW5jcmFuc29t",
-      "pubDate": "Thu, 23 Jul 2026 20:26:25 +0000",
-      "summary": "Cabin Creek Health Systems (CCHS), a non-profit community healthcare organization founded in 1973 by coal miners in West Virginia. It operates as a Federally Qualified Health Center (FQHC), providing comprehensive medical services to rural and urban residents across Kanawha County...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
