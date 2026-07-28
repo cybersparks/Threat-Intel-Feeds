@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T21:17:40.153Z",
+  "lastUpdated": "2026-07-28T03:17:53.536Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : minigrip.com.mx",
+      "link": "https://www.ransomware.live/id/bWluaWdyaXAuY29tLm14QGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 28 Jul 2026 02:01:06 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : DUCON",
+      "link": "https://www.ransomware.live/id/RFVDT05AaW5jcmFuc29t",
+      "pubDate": "Tue, 28 Jul 2026 01:58:50 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : greenecountyga.gov",
+      "link": "https://www.ransomware.live/id/Z3JlZW5lY291bnR5Z2EuZ292QGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 28 Jul 2026 01:04:27 +0000",
+      "summary": "Greene County, Georgia is a historic and scenic county located in the east-central \"Lake Country\" region of the state, roughly halfway between Atlanta and Augusta. Established in 1786 as Georgia's 11th county, it is widely known for its combination of rural heritage, historic architecture, and upsca...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : foundationstofreedom.org",
+      "link": "https://www.ransomware.live/id/Zm91bmRhdGlvbnN0b2ZyZWVkb20ub3JnQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 28 Jul 2026 01:03:45 +0000",
+      "summary": "Foundations to Freedom is a US-registered 501(c)(3) non-profit organization that provides recovery housing, social adaptation programs, and comprehensive therapeutic support for individuals overcoming alcohol and substance abuse, as well as survivors of domestic violence.The organization is dedicate...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : takethehop.com",
       "link": "https://www.ransomware.live/id/dGFrZXRoZWhvcC5jb21AaW5jcmFuc29t",
