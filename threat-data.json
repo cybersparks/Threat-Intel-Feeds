@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T16:26:02.304Z",
+  "lastUpdated": "2026-07-29T21:03:28.718Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : harwal.net",
+      "link": "https://www.ransomware.live/id/aGFyd2FsLm5ldEBpbmNyYW5zb20=",
+      "pubDate": "Wed, 29 Jul 2026 16:26:22 +0000",
+      "summary": "Harwal.net\r \r Harwal Group is the largest plastics recycler in the Middle East, founded in 1938, with an annual processing capacity of over 200,000 tons of plastics and metals.\r Manufacturing includes construction materials, pre-engineered building systems, industrial packaging, consumer goods, and ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : https://eclmn.com/",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly9lY2xtbi5jb20vQGluY3JhbnNvbQ==",
