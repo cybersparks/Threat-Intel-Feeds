@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T11:21:05.305Z",
+  "lastUpdated": "2026-08-02T16:06:03.903Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Moses & Singer",
+      "link": "https://www.ransomware.live/id/TW9zZXMgJiBTaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Sun, 02 Aug 2026 13:50:39 +0000",
+      "summary": "Moses & Singer LLP is a full-service law firm specializing in corporate transactions, intellectual pro…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : quantinuum.com",
       "link": "https://www.ransomware.live/id/cXVhbnRpbnV1bS5jb21AaW5jcmFuc29t",
       "pubDate": "Sat, 01 Aug 2026 16:29:42 +0000",
@@ -359,16 +369,6 @@
       "link": "https://www.ransomware.live/id/Zm91bmRhdGlvbnN0b2ZyZWVkb20ub3JnQGluY3JhbnNvbQ==",
       "pubDate": "Tue, 28 Jul 2026 01:03:45 +0000",
       "summary": "Foundations to Freedom is a US-registered 501(c)(3) non-profit organization that provides recovery housing, social adaptation programs, and comprehensive therapeutic support for individuals overcoming alcohol and substance abuse, as well as survivors of domestic violence.The organization is dedicate...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : takethehop.com",
-      "link": "https://www.ransomware.live/id/dGFrZXRoZWhvcC5jb21AaW5jcmFuc29t",
-      "pubDate": "Mon, 27 Jul 2026 00:25:17 +0000",
-      "summary": "The HOP, an American regional public transit system operated by the Hill Country Transit District (HCTD). Founded in the 1960s in the state of Texas (USA) as a voluntary transportation service, the organization has grown over the decades into a major public public-transport network....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
