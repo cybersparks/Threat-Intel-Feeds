@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T21:02:00.259Z",
+  "lastUpdated": "2026-08-03T03:37:33.771Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ecfa.org",
+      "link": "https://www.ransomware.live/id/ZWNmYS5vcmdAaW5jcmFuc29t",
+      "pubDate": "Sun, 02 Aug 2026 21:28:50 +0000",
+      "summary": "The Evangelical Council for Financial Accountability (ECFA) is an American accreditation agency founded in 1979 that certifies Christian churches and nonprofits based on financial integrity, board governance, and transparent fundraising. It represents over 2,700 member organizations with billions in...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Moses & Singer",
       "link": "https://www.ransomware.live/id/TW9zZXMgJiBTaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
