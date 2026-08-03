@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T13:13:50.118Z",
+  "lastUpdated": "2026-08-03T17:13:37.610Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : PCL Holding",
+      "link": "https://www.ransomware.live/id/UENMIEhvbGRpbmdAcmFuc29taG91c2U=",
+      "pubDate": "Mon, 03 Aug 2026 13:26:00 +0000",
+      "summary": "PCL Holding Public Company Limited is a Thai-based holding entity operating as a premier importer and distributor of diagnostic instruments, reagents, and consumables for medical and research laboratories. The company manages a comprehensive portfolio of products across hematology, chemistry, immuno...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : ecfa.org",
       "link": "https://www.ransomware.live/id/ZWNmYS5vcmdAaW5jcmFuc29t",
