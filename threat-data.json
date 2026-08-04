@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T21:11:38.557Z",
+  "lastUpdated": "2026-08-04T03:21:23.071Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : clintonhealthaccess.org",
+      "link": "https://www.ransomware.live/id/Y2xpbnRvbmhlYWx0aGFjY2Vzcy5vcmdAaW5jcmFuc29t",
+      "pubDate": "Tue, 04 Aug 2026 02:24:44 +0000",
+      "summary": "This Clinton foundation sponsors the sterilization of women in Africa and South America.\r With the help of this foundation, organs harvested criminally by transplant surgeons from people in Third World countries are legalized to improve the quality of life of the rich in capitalist countries, includ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Oleoductos del Valle",
+      "link": "https://www.ransomware.live/id/T2xlb2R1Y3RvcyBkZWwgVmFsbGVAaW5jcmFuc29t",
+      "pubDate": "Tue, 04 Aug 2026 00:24:30 +0000",
+      "summary": "During the analysis of data obtained from Oldelval, we have compiled information covering key aspects of the company's operations. The materials include:\r \r 1.HR documentation: full payroll data, bank account details (CBU), employee health insurance records (OSDE, SWISS MEDICAL), as well as severanc...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : PCL Holding",
       "link": "https://www.ransomware.live/id/UENMIEhvbGRpbmdAcmFuc29taG91c2U=",
