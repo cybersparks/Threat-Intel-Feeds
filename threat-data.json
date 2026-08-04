@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T16:57:15.024Z",
+  "lastUpdated": "2026-08-04T21:18:47.522Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : TRULITE GLASS & ALUMINUM SOLUTIONS",
+      "link": "https://www.ransomware.live/id/VFJVTElURSBHTEFTUyAmIEFMVU1JTlVNIFNPTFVUSU9OU0BpbmNyYW5zb20=",
+      "pubDate": "Tue, 04 Aug 2026 17:57:04 +0000",
+      "summary": "TRULITE GLASS & ALUMINUM SOLUTIONS\r Date: August 2026\r Overview\r Trulite Glass & Aluminum Solutions, a portfolio company of Truelink Capital (Los Angeles, CA), is a leading North American fabricator and distributor of architectural glass and aluminum systems. Headquartered in Alpharetta, Georgia, th...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : pushidrosal.id",
       "link": "https://www.ransomware.live/id/cHVzaGlkcm9zYWwuaWRAaW5jcmFuc29t",
