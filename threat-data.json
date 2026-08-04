@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T03:21:23.071Z",
+  "lastUpdated": "2026-08-04T07:43:43.436Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : pushidrosal.id",
+      "link": "https://www.ransomware.live/id/cHVzaGlkcm9zYWwuaWRAaW5jcmFuc29t",
+      "pubDate": "Tue, 04 Aug 2026 03:27:36 +0000",
+      "summary": "*...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : lccgroup.com",
+      "link": "https://www.ransomware.live/id/bGNjZ3JvdXAuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 04 Aug 2026 03:27:02 +0000",
+      "summary": "LCC - Liberty Commercial Center, Inc is one of the pioneering retail establishments in the Bicol Region. Based in the dynamic province of Albay, LCC primarily operates supermarkets, department stores, malls, and food establishments. LCC is also engaged in property development. Banking on the cherish...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://geleximco.vn/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9nZWxleGltY28udm4vQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 04 Aug 2026 03:26:29 +0000",
+      "summary": "200gb data...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : clintonhealthaccess.org",
       "link": "https://www.ransomware.live/id/Y2xpbnRvbmhlYWx0aGFjY2Vzcy5vcmdAaW5jcmFuc29t",
