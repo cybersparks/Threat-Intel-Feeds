@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T12:05:53.785Z",
+  "lastUpdated": "2026-08-04T16:57:15.024Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,66 +379,6 @@
       "link": "https://www.ransomware.live/id/aGFyd2FsLm5ldEBpbmNyYW5zb20=",
       "pubDate": "Wed, 29 Jul 2026 16:26:22 +0000",
       "summary": "Harwal.net\r \r Harwal Group is the largest plastics recycler in the Middle East, founded in 1938, with an annual processing capacity of over 200,000 tons of plastics and metals.\r Manufacturing includes construction materials, pre-engineered building systems, industrial packaging, consumer goods, and ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://eclmn.com/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9lY2xtbi5jb20vQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 28 Jul 2026 13:26:53 +0000",
-      "summary": "A family-run health and residential care organization in Minnesota. They provide adapted housing, professional in-home support, and daily living solutions for adults with physical disabilities and limited mobility...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Della Casa Group AG",
-      "link": "https://www.ransomware.live/id/RGVsbGEgQ2FzYSBHcm91cCBBR0BpbmNyYW5zb20=",
-      "pubDate": "Tue, 28 Jul 2026 12:00:56 +0000",
-      "summary": "041 785 61 31 / 041 785 61 46 / info@dellacasa.group\r 041 785 61 36 / s.pajaziti@dellacasa.group\r 041 785 61 30 / gdc@dellacasa.group\r 041 785 61 33 / a.stirnimann@dellacasa.group\r 041 785 61 43 / a.marku@dellacasa.group\r 041 785 61 42 / d.meier@dellacasa.group\r *************************************...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : minigrip.com.mx",
-      "link": "https://www.ransomware.live/id/bWluaWdyaXAuY29tLm14QGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 28 Jul 2026 02:01:06 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : DUCON",
-      "link": "https://www.ransomware.live/id/RFVDT05AaW5jcmFuc29t",
-      "pubDate": "Tue, 28 Jul 2026 01:58:50 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : greenecountyga.gov",
-      "link": "https://www.ransomware.live/id/Z3JlZW5lY291bnR5Z2EuZ292QGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 28 Jul 2026 01:04:27 +0000",
-      "summary": "Greene County, Georgia is a historic and scenic county located in the east-central \"Lake Country\" region of the state, roughly halfway between Atlanta and Augusta. Established in 1786 as Georgia's 11th county, it is widely known for its combination of rural heritage, historic architecture, and upsca...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : foundationstofreedom.org",
-      "link": "https://www.ransomware.live/id/Zm91bmRhdGlvbnN0b2ZyZWVkb20ub3JnQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 28 Jul 2026 01:03:45 +0000",
-      "summary": "Foundations to Freedom is a US-registered 501(c)(3) non-profit organization that provides recovery housing, social adaptation programs, and comprehensive therapeutic support for individuals overcoming alcohol and substance abuse, as well as survivors of domestic violence.The organization is dedicate...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
