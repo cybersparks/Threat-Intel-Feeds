@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T21:18:47.522Z",
+  "lastUpdated": "2026-08-05T03:16:42.118Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : lantisnet.com",
+      "link": "https://www.ransomware.live/id/bGFudGlzbmV0LmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 05 Aug 2026 00:25:08 +0000",
+      "summary": "Lantis Enterprises, Inc. is an American consulting and management organization historically rooted in rural healthcare, skilled nursing, and senior living operations. Headquartered in Spearfish, South Dakota, the firm has expanded its focus to cross-industry advisory services...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Loyalist College",
+      "link": "https://www.ransomware.live/id/TG95YWxpc3QgQ29sbGVnZUBpbmNyYW5zb20=",
+      "pubDate": "Tue, 04 Aug 2026 23:54:25 +0000",
+      "summary": "The management of this institution was repeatedly warned about the disclosure of hundreds of personal data. Each of you who is faced with the consequences of the leak can be absolutely sure that the management of Loyalist College absolutely does not care about its students, employees and partners.\r ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Blacknevas has just published a new victim : Arkın Group / Arkın Casino, The Arkın Colony, The Arkın Iskele, and Arkın Palm Beach",
+      "link": "https://www.ransomware.live/id/QXJrxLFuIEdyb3VwIC8gQXJrxLFuIENhc2lubywgVGhlIEFya8SxbiBDb2xvbnksIFRoZSBBcmvEsW4gSXNrZWxlLCBhbmQgQXJrxLFuIFBhbG0gQmVhY2hAYmxhY2tuZXZhcw==",
+      "pubDate": "Tue, 04 Aug 2026 22:22:18 +0000",
+      "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : TRULITE GLASS & ALUMINUM SOLUTIONS",
       "link": "https://www.ransomware.live/id/VFJVTElURSBHTEFTUyAmIEFMVU1JTlVNIFNPTFVUSU9OU0BpbmNyYW5zb20=",
       "pubDate": "Tue, 04 Aug 2026 17:57:04 +0000",
@@ -379,16 +409,6 @@
       "link": "https://www.ransomware.live/id/c3NsZi5sb2NhbEBpbmNyYW5zb20=",
       "pubDate": "Thu, 30 Jul 2026 12:57:51 +0000",
       "summary": "Samuels & Thornton is a law firm based in New Orleans, specializing in medical malpractice and personal injury cases. They provide personalized legal guidance to individuals, families, and businesses facing legal challenges, ensuring that each client receives dedicated attention from experienced att...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : harwal.net",
-      "link": "https://www.ransomware.live/id/aGFyd2FsLm5ldEBpbmNyYW5zb20=",
-      "pubDate": "Wed, 29 Jul 2026 16:26:22 +0000",
-      "summary": "Harwal.net\r \r Harwal Group is the largest plastics recycler in the Middle East, founded in 1938, with an annual processing capacity of over 200,000 tons of plastics and metals.\r Manufacturing includes construction materials, pre-engineered building systems, industrial packaging, consumer goods, and ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
