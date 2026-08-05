@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T12:03:27.837Z",
+  "lastUpdated": "2026-08-05T16:45:53.546Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,26 +389,6 @@
       "link": "https://www.ransomware.live/id/cXVhbnRpbnV1bS5jb21AaW5jcmFuc29t",
       "pubDate": "Sat, 01 Aug 2026 16:29:42 +0000",
       "summary": "Quantinuum is a quantum computing company that develops advanced quantum computers, software, and cybersecurity solutions to solve complex scientific and industrial challenges. The company provides full-stack quantum technologies for areas such as materials science, drug discovery, encryption, artif...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : PARTNERED HEALTH GROUP",
-      "link": "https://www.ransomware.live/id/UEFSVE5FUkVEIEhFQUxUSCBHUk9VUEBpbmNyYW5zb20=",
-      "pubDate": "Thu, 30 Jul 2026 16:30:13 +0000",
-      "summary": "PARTNERED HEALTH GROUP — Australia\r ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\r \r Industry:       Healthcare — Primary Care, Occupational Health, \r                 Psychology, Telehealth\r Headquarters:   Australia (NSW, QLD, VIC, WA, ACT)\r Owner:          Quadrant Private Equity\r Clinics:    ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : sslf.local",
-      "link": "https://www.ransomware.live/id/c3NsZi5sb2NhbEBpbmNyYW5zb20=",
-      "pubDate": "Thu, 30 Jul 2026 12:57:51 +0000",
-      "summary": "Samuels & Thornton is a law firm based in New Orleans, specializing in medical malpractice and personal injury cases. They provide personalized legal guidance to individuals, families, and businesses facing legal challenges, ensuring that each client receives dedicated attention from experienced att...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
