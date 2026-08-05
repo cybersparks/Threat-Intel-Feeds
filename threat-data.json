@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T16:45:53.546Z",
+  "lastUpdated": "2026-08-05T21:18:34.853Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/TW9zZXMgJiBTaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Sun, 02 Aug 2026 13:50:39 +0000",
       "summary": "Moses & Singer LLP is a full-service law firm specializing in corporate transactions, intellectual pro…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : quantinuum.com",
-      "link": "https://www.ransomware.live/id/cXVhbnRpbnV1bS5jb21AaW5jcmFuc29t",
-      "pubDate": "Sat, 01 Aug 2026 16:29:42 +0000",
-      "summary": "Quantinuum is a quantum computing company that develops advanced quantum computers, software, and cybersecurity solutions to solve complex scientific and industrial challenges. The company provides full-stack quantum technologies for areas such as materials science, drug discovery, encryption, artif...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
