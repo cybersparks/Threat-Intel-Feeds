@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-05T21:18:34.853Z",
+  "lastUpdated": "2026-08-06T03:19:29.713Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Inter-Con Security - 276,114 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/InterConSecurity",
+      "pubDate": "Wed, 05 Aug 2026 23:39:01 Z",
+      "summary": "In June 2026, Inter-Con Security was targeted in a ShinyHunters “pay or leak” extortion campaign. The group subsequently published data it alleged was...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "276,114 ",
+        "276,114"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "SplitVPN - 865,336 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/SplitVPN",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Baker Distributing - 102,935 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/BakerDistributing",
-      "pubDate": "Sun, 07 Jun 2026 06:16:36 Z",
-      "summary": "In May 2026, the HVAC/R wholesale distributor Baker Distributing Company was added to the ShinyHunters data extortion group's \"pay or leak\" site. In e...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "102,935 ",
-        "102,935"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : vprj.org",
+      "link": "https://www.ransomware.live/id/dnByai5vcmdAaW5jcmFuc29t",
+      "pubDate": "Wed, 05 Aug 2026 23:53:43 +0000",
+      "summary": "The Virginia Peninsula Regional Jail (VPRJ) is a state-authorized, regional correctional facility located in Williamsburg, Virginia, USA. Opened in 1997, VPRJ provides short-to-medium-term detention services, ensuring public safety and order across the Virginia Peninsula region under the governance ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : lantisnet.com",
       "link": "https://www.ransomware.live/id/bGFudGlzbmV0LmNvbUBpbmNyYW5zb20=",
