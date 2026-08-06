@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T07:44:18.901Z",
+  "lastUpdated": "2026-08-06T12:06:35.838Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : City of McMinnville OR",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBNY01pbm52aWxsZSBPUkByYW5zb21ob3VzZQ==",
+      "pubDate": "Thu, 06 Aug 2026 10:58:31 +0000",
+      "summary": "The City of McMinnville provides a range of municipal services including public works, parks and recreation, and community development. It aims to serve the residents and businesses of McMinnville, Oregon, by facilitating community events, maintaining public facilities, and ensuring public safety. T...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : vprj.org",
       "link": "https://www.ransomware.live/id/dnByai5vcmdAaW5jcmFuc29t",
       "pubDate": "Wed, 05 Aug 2026 23:53:43 +0000",
@@ -369,26 +379,6 @@
       "link": "https://www.ransomware.live/id/UENMIEhvbGRpbmdAcmFuc29taG91c2U=",
       "pubDate": "Mon, 03 Aug 2026 13:26:00 +0000",
       "summary": "PCL Holding Public Company Limited is a Thai-based holding entity operating as a premier importer and distributor of diagnostic instruments, reagents, and consumables for medical and research laboratories. The company manages a comprehensive portfolio of products across hematology, chemistry, immuno...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ecfa.org",
-      "link": "https://www.ransomware.live/id/ZWNmYS5vcmdAaW5jcmFuc29t",
-      "pubDate": "Sun, 02 Aug 2026 21:28:50 +0000",
-      "summary": "The Evangelical Council for Financial Accountability (ECFA) is an American accreditation agency founded in 1979 that certifies Christian churches and nonprofits based on financial integrity, board governance, and transparent fundraising. It represents over 2,700 member organizations with billions in...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Moses & Singer",
-      "link": "https://www.ransomware.live/id/TW9zZXMgJiBTaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Sun, 02 Aug 2026 13:50:39 +0000",
-      "summary": "Moses & Singer LLP is a full-service law firm specializing in corporate transactions, intellectual pro…...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
