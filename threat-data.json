@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T10:58:37.875Z",
+  "lastUpdated": "2026-08-07T16:00:44.935Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Alya Construtora",
+      "link": "https://www.ransomware.live/id/QWx5YSBDb25zdHJ1dG9yYUByYW5zb21ob3VzZQ==",
+      "pubDate": "Fri, 07 Aug 2026 13:33:22 +0000",
+      "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ATMS",
+      "link": "https://www.ransomware.live/id/QVRNU0BpbmNyYW5zb20=",
+      "pubDate": "Fri, 07 Aug 2026 12:27:11 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mayer Brown",
       "link": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
