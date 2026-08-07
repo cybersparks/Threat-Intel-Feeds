@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T12:06:35.838Z",
+  "lastUpdated": "2026-08-07T00:54:01.065Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mayer Brown",
+      "link": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Fri, 07 Aug 2026 00:20:55 +0000",
+      "summary": "Mayer Brown is a distinctively global law firm, uniquely positioned to advise the world's leading comp…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : TECHVENTURES BANK S.A.",
+      "link": "https://www.ransomware.live/id/VEVDSFZFTlRVUkVTIEJBTksgUy5BLkByYW5zb21ob3VzZQ==",
+      "pubDate": "Thu, 06 Aug 2026 13:55:27 +0000",
+      "summary": "TechVentures Bank is a Romanian universal bank undergoing a strategic digital transformation to become a technology-driven, client-oriented financial institution . Rebranded from Banca Comercială Feroviară in 2020 and backed by an IT entrepreneur, the bank is focused on modernizing its operations an...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : City of Beacon",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBCZWFjb25AcmFuc29taG91c2U=",
+      "pubDate": "Thu, 06 Aug 2026 13:26:32 +0000",
+      "summary": "The City of Beacon is committed to protecting online users' privacy. If you send the company an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails the company this information, the company will only use the personally ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : lya Construtora",
+      "link": "https://www.ransomware.live/id/bHlhIENvbnN0cnV0b3JhQHJhbnNvbWhvdXNl",
+      "pubDate": "Thu, 06 Aug 2026 12:29:31 +0000",
+      "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : City of McMinnville OR",
       "link": "https://www.ransomware.live/id/Q2l0eSBvZiBNY01pbm52aWxsZSBPUkByYW5zb21ob3VzZQ==",
       "pubDate": "Thu, 06 Aug 2026 10:58:31 +0000",
@@ -369,16 +409,6 @@
       "link": "https://www.ransomware.live/id/T2xlb2R1Y3RvcyBkZWwgVmFsbGVAaW5jcmFuc29t",
       "pubDate": "Tue, 04 Aug 2026 00:24:30 +0000",
       "summary": "During the analysis of data obtained from Oldelval, we have compiled information covering key aspects of the company's operations. The materials include:\r \r 1.HR documentation: full payroll data, bank account details (CBU), employee health insurance records (OSDE, SWISS MEDICAL), as well as severanc...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : PCL Holding",
-      "link": "https://www.ransomware.live/id/UENMIEhvbGRpbmdAcmFuc29taG91c2U=",
-      "pubDate": "Mon, 03 Aug 2026 13:26:00 +0000",
-      "summary": "PCL Holding Public Company Limited is a Thai-based holding entity operating as a premier importer and distributor of diagnostic instruments, reagents, and consumables for medical and research laboratories. The company manages a comprehensive portfolio of products across hematology, chemistry, immuno...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
