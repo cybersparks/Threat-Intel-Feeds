@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-07T06:11:37.859Z",
+  "lastUpdated": "2026-08-07T10:58:37.875Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Exact Sciences - 10,869,543 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ExactSciences",
+      "pubDate": "Fri, 07 Aug 2026 06:27:29 Z",
+      "summary": "In July 2026, Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group claimed t...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "10,869,543 ",
+        "10,869,543"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Inter-Con Security - 276,114 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/InterConSecurity",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "University of Nottingham - 454,635 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/UniversityOfNottingham",
-      "pubDate": "Wed, 10 Jun 2026 22:13:31 Z",
-      "summary": "In June 2026, the University of Nottingham was the target of a cyber attack, later linked to a ShinyHunters \"pay or leak\" extortion campaign. Tens of ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "454,635 ",
-        "454,635"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -319,96 +319,6 @@
       "link": "https://www.ransomware.live/id/dnByai5vcmdAaW5jcmFuc29t",
       "pubDate": "Wed, 05 Aug 2026 23:53:43 +0000",
       "summary": "The Virginia Peninsula Regional Jail (VPRJ) is a state-authorized, regional correctional facility located in Williamsburg, Virginia, USA. Opened in 1997, VPRJ provides short-to-medium-term detention services, ensuring public safety and order across the Virginia Peninsula region under the governance ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lantisnet.com",
-      "link": "https://www.ransomware.live/id/bGFudGlzbmV0LmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Wed, 05 Aug 2026 00:25:08 +0000",
-      "summary": "Lantis Enterprises, Inc. is an American consulting and management organization historically rooted in rural healthcare, skilled nursing, and senior living operations. Headquartered in Spearfish, South Dakota, the firm has expanded its focus to cross-industry advisory services...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Loyalist College",
-      "link": "https://www.ransomware.live/id/TG95YWxpc3QgQ29sbGVnZUBpbmNyYW5zb20=",
-      "pubDate": "Tue, 04 Aug 2026 23:54:25 +0000",
-      "summary": "The management of this institution was repeatedly warned about the disclosure of hundreds of personal data. Each of you who is faced with the consequences of the leak can be absolutely sure that the management of Loyalist College absolutely does not care about its students, employees and partners.\r ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Blacknevas has just published a new victim : Arkın Group / Arkın Casino, The Arkın Colony, The Arkın Iskele, and Arkın Palm Beach",
-      "link": "https://www.ransomware.live/id/QXJrxLFuIEdyb3VwIC8gQXJrxLFuIENhc2lubywgVGhlIEFya8SxbiBDb2xvbnksIFRoZSBBcmvEsW4gSXNrZWxlLCBhbmQgQXJrxLFuIFBhbG0gQmVhY2hAYmxhY2tuZXZhcw==",
-      "pubDate": "Tue, 04 Aug 2026 22:22:18 +0000",
-      "summary": "CYBERSECURITY: ARKIN HOTEL GROUP SUFFERS MASSIVE DATA BREACH — OVER 1 TB OF GUEST AND CASINO DATA STOLENCybersecurity experts from Cyclops Threat Intelligence have reported a critical incident affecting the Arkın Group hotel chain (www.arkingroup.com), including its premium properties The Arkın Colo...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : TRULITE GLASS & ALUMINUM SOLUTIONS",
-      "link": "https://www.ransomware.live/id/VFJVTElURSBHTEFTUyAmIEFMVU1JTlVNIFNPTFVUSU9OU0BpbmNyYW5zb20=",
-      "pubDate": "Tue, 04 Aug 2026 17:57:04 +0000",
-      "summary": "TRULITE GLASS & ALUMINUM SOLUTIONS\r Date: August 2026\r Overview\r Trulite Glass & Aluminum Solutions, a portfolio company of Truelink Capital (Los Angeles, CA), is a leading North American fabricator and distributor of architectural glass and aluminum systems. Headquartered in Alpharetta, Georgia, th...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : pushidrosal.id",
-      "link": "https://www.ransomware.live/id/cHVzaGlkcm9zYWwuaWRAaW5jcmFuc29t",
-      "pubDate": "Tue, 04 Aug 2026 03:27:36 +0000",
-      "summary": "*...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lccgroup.com",
-      "link": "https://www.ransomware.live/id/bGNjZ3JvdXAuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 04 Aug 2026 03:27:02 +0000",
-      "summary": "LCC - Liberty Commercial Center, Inc is one of the pioneering retail establishments in the Bicol Region. Based in the dynamic province of Albay, LCC primarily operates supermarkets, department stores, malls, and food establishments. LCC is also engaged in property development. Banking on the cherish...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://geleximco.vn/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9nZWxleGltY28udm4vQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 04 Aug 2026 03:26:29 +0000",
-      "summary": "200gb data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : clintonhealthaccess.org",
-      "link": "https://www.ransomware.live/id/Y2xpbnRvbmhlYWx0aGFjY2Vzcy5vcmdAaW5jcmFuc29t",
-      "pubDate": "Tue, 04 Aug 2026 02:24:44 +0000",
-      "summary": "This Clinton foundation sponsors the sterilization of women in Africa and South America.\r With the help of this foundation, organs harvested criminally by transplant surgeons from people in Third World countries are legalized to improve the quality of life of the rich in capitalist countries, includ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Oleoductos del Valle",
-      "link": "https://www.ransomware.live/id/T2xlb2R1Y3RvcyBkZWwgVmFsbGVAaW5jcmFuc29t",
-      "pubDate": "Tue, 04 Aug 2026 00:24:30 +0000",
-      "summary": "During the analysis of data obtained from Oldelval, we have compiled information covering key aspects of the company's operations. The materials include:\r \r 1.HR documentation: full payroll data, bank account details (CBU), employee health insurance records (OSDE, SWISS MEDICAL), as well as severanc...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
