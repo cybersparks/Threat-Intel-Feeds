@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-08T10:39:49.716Z",
+  "lastUpdated": "2026-08-08T15:36:13.300Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Brinks Home - 732,162 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BrinksHome",
+      "pubDate": "Sat, 08 Aug 2026 10:44:52 Z",
+      "summary": "In July 2026, Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data they alleged was take...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "732,162 ",
+        "732,162"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Exact Sciences - 10,869,543 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/ExactSciences",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Infinite Campus - 137,123 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/InfiniteCampus",
-      "pubDate": "Mon, 15 Jun 2026 01:03:42 Z",
-      "summary": "In March 2026, the student information system Infinite Campus was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "137,123 ",
-        "137,123"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Louisville Bar Association",
+      "link": "https://www.ransomware.live/id/TG91aXN2aWxsZSBCYXIgQXNzb2NpYXRpb25AaW5jcmFuc29t",
+      "pubDate": "Sat, 08 Aug 2026 14:25:56 +0000",
+      "summary": "The Louisville Bar Association (LBA) provides a range of services including membership benefits, legal job placement, continuing legal education (CLE), and public service initiatives. It aims to support legal professionals at all stages of their careers while promoting diversity and community engage...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Alya Construtora",
       "link": "https://www.ransomware.live/id/QWx5YSBDb25zdHJ1dG9yYUByYW5zb21ob3VzZQ==",
