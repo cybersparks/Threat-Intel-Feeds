@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-09T05:50:45.326Z",
+  "lastUpdated": "2026-08-09T10:41:05.870Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Alcon - 218,395 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Alcon",
+      "pubDate": "Sun, 09 Aug 2026 10:04:34 Z",
+      "summary": "In August 2026, the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data alleged...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "218,395 ",
+        "218,395"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Brinks Home - 732,162 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/BrinksHome",
@@ -245,19 +258,6 @@
       "breachCount": [
         "202",
         "202"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Berkadia - 305,216 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Berkadia",
-      "pubDate": "Mon, 15 Jun 2026 04:09:04 Z",
-      "summary": "In March 2026, the commercial real estate finance company Berkadia was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subseq...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "305,216 ",
-        "305,216"
       ],
       "isBreach": true,
       "isRansomware": false
