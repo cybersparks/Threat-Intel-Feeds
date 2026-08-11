@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T02:10:56.115Z",
+  "lastUpdated": "2026-08-11T05:57:04.294Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,16 +339,6 @@
       "link": "https://www.ransomware.live/id/Q2l0eSBvZiBNY01pbm52aWxsZSBPUkByYW5zb21ob3VzZQ==",
       "pubDate": "Thu, 06 Aug 2026 10:58:31 +0000",
       "summary": "The City of McMinnville provides a range of municipal services including public works, parks and recreation, and community development. It aims to serve the residents and businesses of McMinnville, Oregon, by facilitating community events, maintaining public facilities, and ensuring public safety. T...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : vprj.org",
-      "link": "https://www.ransomware.live/id/dnByai5vcmdAaW5jcmFuc29t",
-      "pubDate": "Wed, 05 Aug 2026 23:53:43 +0000",
-      "summary": "The Virginia Peninsula Regional Jail (VPRJ) is a state-authorized, regional correctional facility located in Williamsburg, Virginia, USA. Opened in 1997, VPRJ provides short-to-medium-term detention services, ensuring public safety and order across the Virginia Peninsula region under the governance ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
