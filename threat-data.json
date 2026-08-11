@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T16:04:10.796Z",
+  "lastUpdated": "2026-08-11T20:54:40.190Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -329,16 +329,6 @@
       "link": "https://www.ransomware.live/id/bHlhIENvbnN0cnV0b3JhQHJhbnNvbWhvdXNl",
       "pubDate": "Thu, 06 Aug 2026 12:29:31 +0000",
       "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : City of McMinnville OR",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBNY01pbm52aWxsZSBPUkByYW5zb21ob3VzZQ==",
-      "pubDate": "Thu, 06 Aug 2026 10:58:31 +0000",
-      "summary": "The City of McMinnville provides a range of municipal services including public works, parks and recreation, and community development. It aims to serve the residents and businesses of McMinnville, Oregon, by facilitating community events, maintaining public facilities, and ensuring public safety. T...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
