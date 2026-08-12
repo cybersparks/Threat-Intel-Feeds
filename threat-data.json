@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T02:29:06.883Z",
+  "lastUpdated": "2026-08-12T06:19:23.409Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -319,16 +319,6 @@
       "link": "https://www.ransomware.live/id/Q2l0eSBvZiBCZWFjb25AcmFuc29taG91c2U=",
       "pubDate": "Thu, 06 Aug 2026 13:26:32 +0000",
       "summary": "The City of Beacon is committed to protecting online users' privacy. If you send the company an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails the company this information, the company will only use the personally ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : lya Construtora",
-      "link": "https://www.ransomware.live/id/bHlhIENvbnN0cnV0b3JhQHJhbnNvbWhvdXNl",
-      "pubDate": "Thu, 06 Aug 2026 12:29:31 +0000",
-      "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
