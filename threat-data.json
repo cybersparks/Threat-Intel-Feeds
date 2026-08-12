@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T16:02:41.099Z",
+  "lastUpdated": "2026-08-12T20:53:43.755Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig LLP",
+      "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIExMUEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Wed, 12 Aug 2026 19:51:27 +0000",
+      "summary": "[AI generated] Riker Danzig LLP is a prominent full-service law firm based in the United States, primarily operating in New Jersey. Founded in 1882, the firm provides legal services across a wide range of practice areas including litigation, corporate law, real estate, environmental law, and insuran...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : gamaus.com",
+      "link": "https://www.ransomware.live/id/Z2FtYXVzLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 12 Aug 2026 19:25:55 +0000",
+      "summary": "https://www.zoominfo.com/c/greater-austin-merchants-cooperative-association/98978085\r greater-austin-merchants-cooperative-association\r 400gb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : BEDC.COM.AU",
       "link": "https://www.ransomware.live/id/QkVEQy5DT00uQVVAaW5jcmFuc29t",
