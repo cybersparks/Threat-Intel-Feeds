@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:03:34.847Z",
+  "lastUpdated": "2026-08-12T16:02:41.099Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : BEDC.COM.AU",
+      "link": "https://www.ransomware.live/id/QkVEQy5DT00uQVVAaW5jcmFuc29t",
+      "pubDate": "Wed, 12 Aug 2026 15:54:25 +0000",
+      "summary": "Brighton East Dental Clinic (BEDC) is a family dental clinic dedicated to providing comprehensive dental care for families in Brighton, Caulfield, and Bentleigh. They offer a wide range of services including kids dentistry, general dentistry, cosmetic procedures, and preventative care, with a strong...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : diabetesandmetabolism.com",
+      "link": "https://www.ransomware.live/id/ZGlhYmV0ZXNhbmRtZXRhYm9saXNtLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 12 Aug 2026 15:53:53 +0000",
+      "summary": "Diabetes and Metabolism Specialists is a specialty medical clinic located in San Antonio, TX, focused on the diagnosis and treatment of endocrine-related medical conditions. The clinic is staffed by board-certified endocrinologists, nurse practitioners, and certified diabetes educators who provide c...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : stuartandassociates.com",
+      "link": "https://www.ransomware.live/id/c3R1YXJ0YW5kYXNzb2NpYXRlcy5jb21AaW5jcmFuc29t",
+      "pubDate": "Wed, 12 Aug 2026 15:03:07 +0000",
+      "summary": "Stuart & Associates Commercial Flooring, Inc. specializes in providing high-quality commercial flooring solutions designed to enhance customer experiences. They offer a three-year warranty on new installations when clients purchase maintenance programs, ensuring satisfaction and value throughout the...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : R...er",
       "link": "https://www.ransomware.live/id/Ui4uLmVyQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Wed, 12 Aug 2026 07:21:31 +0000",
@@ -309,16 +339,6 @@
       "link": "https://www.ransomware.live/id/QVRNU0BpbmNyYW5zb20=",
       "pubDate": "Fri, 07 Aug 2026 12:27:11 +0000",
       "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mayer Brown",
-      "link": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Fri, 07 Aug 2026 00:20:55 +0000",
-      "summary": "Mayer Brown is a distinctively global law firm, uniquely positioned to advise the world's leading comp…...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
