@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T06:19:23.409Z",
+  "lastUpdated": "2026-08-12T11:03:34.847Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : R...er",
+      "link": "https://www.ransomware.live/id/Ui4uLmVyQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 12 Aug 2026 07:21:31 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : R... D...",
+      "link": "https://www.ransomware.live/id/Ui4uLiBELi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 12 Aug 2026 07:20:28 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Louisville Bar Association",
       "link": "https://www.ransomware.live/id/TG91aXN2aWxsZSBCYXIgQXNzb2NpYXRpb25AaW5jcmFuc29t",
       "pubDate": "Sat, 08 Aug 2026 14:25:56 +0000",
@@ -299,26 +319,6 @@
       "link": "https://www.ransomware.live/id/TWF5ZXIgQnJvd25AU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Fri, 07 Aug 2026 00:20:55 +0000",
       "summary": "Mayer Brown is a distinctively global law firm, uniquely positioned to advise the world's leading comp…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : TECHVENTURES BANK S.A.",
-      "link": "https://www.ransomware.live/id/VEVDSFZFTlRVUkVTIEJBTksgUy5BLkByYW5zb21ob3VzZQ==",
-      "pubDate": "Thu, 06 Aug 2026 13:55:27 +0000",
-      "summary": "TechVentures Bank is a Romanian universal bank undergoing a strategic digital transformation to become a technology-driven, client-oriented financial institution . Rebranded from Banca Comercială Feroviară in 2020 and backed by an IT entrepreneur, the bank is focused on modernizing its operations an...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : City of Beacon",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBCZWFjb25AcmFuc29taG91c2U=",
-      "pubDate": "Thu, 06 Aug 2026 13:26:32 +0000",
-      "summary": "The City of Beacon is committed to protecting online users' privacy. If you send the company an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails the company this information, the company will only use the personally ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
