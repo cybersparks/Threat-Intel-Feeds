@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T20:53:43.755Z",
+  "lastUpdated": "2026-08-13T02:30:40.094Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig Scherer Hyland & Perretti",
+      "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIFNjaGVyZXIgSHlsYW5kICYgUGVycmV0dGlAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Wed, 12 Aug 2026 22:22:17 +0000",
+      "summary": "Founded in 1882, Riker Danzig Scherer Hyland & Perretti is a law firm with practice areas such as Alte…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig LLP",
       "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIExMUEBTaWxlbnRSYW5zb21Hcm91cA==",
