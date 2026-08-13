@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-13T11:03:58.580Z",
+  "lastUpdated": "2026-08-13T16:02:49.388Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "RingCentral - 1,596,490 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/RingCentral",
+      "pubDate": "Thu, 13 Aug 2026 10:54:40 Z",
+      "summary": "In July 2026, the cloud-based business communications platform RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign. The grou...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,596,490 ",
+        "1,596,490"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Alcon - 218,395 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Alcon",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "June 2026 Stealer Logs - 56,278,397 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/June2026StealerLogs",
-      "pubDate": "Mon, 15 Jun 2026 19:30:15 Z",
-      "summary": "In June 2026, a collection of accumulated stealer logs from various sources was added to HIBP. The corpus comprised 56M unique email addresses across ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "202",
-        "202"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/QWx5YSBDb25zdHJ1dG9yYUByYW5zb21ob3VzZQ==",
       "pubDate": "Fri, 07 Aug 2026 13:33:22 +0000",
       "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ATMS",
-      "link": "https://www.ransomware.live/id/QVRNU0BpbmNyYW5zb20=",
-      "pubDate": "Fri, 07 Aug 2026 12:27:11 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
