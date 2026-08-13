@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T02:30:40.094Z",
+  "lastUpdated": "2026-08-13T06:21:16.941Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : clgroup",
+      "link": "https://www.ransomware.live/id/Y2xncm91cEBpbmNyYW5zb20=",
+      "pubDate": "Thu, 13 Aug 2026 05:25:37 +0000",
+      "summary": "Compunnel, founded in 1994 and headquartered in Plainsboro, New Jersey, provides information technology consulting and staffing, custom business application development, and eLearning services...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig Scherer Hyland & Perretti",
       "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIFNjaGVyZXIgSHlsYW5kICYgUGVycmV0dGlAU2lsZW50UmFuc29tR3JvdXA=",
