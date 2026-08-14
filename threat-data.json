@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T02:29:19.357Z",
+  "lastUpdated": "2026-08-14T06:19:12.246Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,26 +379,6 @@
       "link": "https://www.ransomware.live/id/Ui4uLiBELi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Wed, 12 Aug 2026 07:20:28 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Louisville Bar Association",
-      "link": "https://www.ransomware.live/id/TG91aXN2aWxsZSBCYXIgQXNzb2NpYXRpb25AaW5jcmFuc29t",
-      "pubDate": "Sat, 08 Aug 2026 14:25:56 +0000",
-      "summary": "The Louisville Bar Association (LBA) provides a range of services including membership benefits, legal job placement, continuing legal education (CLE), and public service initiatives. It aims to support legal professionals at all stages of their careers while promoting diversity and community engage...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Alya Construtora",
-      "link": "https://www.ransomware.live/id/QWx5YSBDb25zdHJ1dG9yYUByYW5zb21ob3VzZQ==",
-      "pubDate": "Fri, 07 Aug 2026 13:33:22 +0000",
-      "summary": "Álya Construtora is one of Brazil's leading privately owned engineering and construction companies, specializing in complex infrastructure, industrial, energy, urban mobility, and building projects with more than 70 years of operating experience....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
