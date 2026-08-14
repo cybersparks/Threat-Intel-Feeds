@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T20:51:44.737Z",
+  "lastUpdated": "2026-08-14T02:29:19.357Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Reminger",
+      "link": "https://www.ransomware.live/id/UmVtaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Thu, 13 Aug 2026 23:52:14 +0000",
+      "summary": "Reminger Attorneys at Law is a law firm with a strong presence in Ohio, Kentucky, and Indiana, operati…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://pacific-construction.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9wYWNpZmljLWNvbnN0cnVjdGlvbi5jb20vQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 13 Aug 2026 23:27:04 +0000",
+      "summary": "project data client data contract...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cambrialawfirm.com",
+      "link": "https://www.ransomware.live/id/Y2FtYnJpYWxhd2Zpcm0uY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 13 Aug 2026 23:26:32 +0000",
+      "summary": "personal and medical cards of all clients....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : clgroup",
       "link": "https://www.ransomware.live/id/Y2xncm91cEBpbmNyYW5zb20=",
