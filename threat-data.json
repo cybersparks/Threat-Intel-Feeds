@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T15:27:48.803Z",
+  "lastUpdated": "2026-08-16T20:29:15.428Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,26 +359,6 @@
       "link": "https://www.ransomware.live/id/c3R1YXJ0YW5kYXNzb2NpYXRlcy5jb21AaW5jcmFuc29t",
       "pubDate": "Wed, 12 Aug 2026 15:03:07 +0000",
       "summary": "Stuart & Associates Commercial Flooring, Inc. specializes in providing high-quality commercial flooring solutions designed to enhance customer experiences. They offer a three-year warranty on new installations when clients purchase maintenance programs, ensuring satisfaction and value throughout the...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : R...er",
-      "link": "https://www.ransomware.live/id/Ui4uLmVyQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 12 Aug 2026 07:21:31 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : R... D...",
-      "link": "https://www.ransomware.live/id/Ui4uLiBELi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 12 Aug 2026 07:20:28 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
