@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:37:57.759Z",
+  "lastUpdated": "2026-08-17T20:33:24.110Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Lansing Urgent Care",
+      "link": "https://www.ransomware.live/id/TGFuc2luZyBVcmdlbnQgQ2FyZUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 17 Aug 2026 18:25:39 +0000",
+      "summary": "Lansing Urgent Care provides a range of urgent care services for both adults and children, including on-site medications, lab tests, and X-rays. Their facilities are designed for quick visits, with an average wait time of under one hour, and they offer telemedicine options for added convenience. The...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Otter Tail County, Minnesota",
       "link": "https://www.ransomware.live/id/T3R0ZXIgVGFpbCBDb3VudHksIE1pbm5lc290YUBpbmNyYW5zb20=",
       "pubDate": "Mon, 17 Aug 2026 09:28:41 +0000",
@@ -359,16 +369,6 @@
       "link": "https://www.ransomware.live/id/ZGlhYmV0ZXNhbmRtZXRhYm9saXNtLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Wed, 12 Aug 2026 15:53:53 +0000",
       "summary": "Diabetes and Metabolism Specialists is a specialty medical clinic located in San Antonio, TX, focused on the diagnosis and treatment of endocrine-related medical conditions. The clinic is staffed by board-certified endocrinologists, nurse practitioners, and certified diabetes educators who provide c...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : stuartandassociates.com",
-      "link": "https://www.ransomware.live/id/c3R1YXJ0YW5kYXNzb2NpYXRlcy5jb21AaW5jcmFuc29t",
-      "pubDate": "Wed, 12 Aug 2026 15:03:07 +0000",
-      "summary": "Stuart & Associates Commercial Flooring, Inc. specializes in providing high-quality commercial flooring solutions designed to enhance customer experiences. They offer a three-year warranty on new installations when clients purchase maintenance programs, ensuring satisfaction and value throughout the...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
