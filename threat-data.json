@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T05:39:42.975Z",
+  "lastUpdated": "2026-08-17T10:37:57.759Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Otter Tail County, Minnesota",
+      "link": "https://www.ransomware.live/id/T3R0ZXIgVGFpbCBDb3VudHksIE1pbm5lc290YUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 17 Aug 2026 09:28:41 +0000",
+      "summary": "https://ottertailcounty.gov/...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Reminger",
       "link": "https://www.ransomware.live/id/UmVtaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
