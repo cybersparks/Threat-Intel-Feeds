@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T05:35:12.962Z",
+  "lastUpdated": "2026-08-18T10:35:09.272Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : SpearFin Ltd",
+      "link": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 18 Aug 2026 10:27:05 +0000",
+      "summary": "SpearFin Ltd\r https://spearfin.net\r SpearFin offers a wide range of services including fund administration, corporate services, compliance support, and investor relations. \r Assets Under Administration US$10 billion.\r \r The leak occurred on June 26, 2026.\r Total leak: 416 GB \r \r Leak included: NDA, ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ssf-int.com ssf-ing.de",
+      "link": "https://www.ransomware.live/id/c3NmLWludC5jb20gc3NmLWluZy5kZUBpbmNyYW5zb20=",
+      "pubDate": "Tue, 18 Aug 2026 10:26:27 +0000",
+      "summary": "SSF International GmbH is an engineering firm headquartered in Munich, Germany. A subsidiary of SSF Ingenieure AG, the company provides comprehensive engineering services in project management, supervision, consultancy, design, quality management, and special construction design worldwide. It specia...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : nyklawfirm.com nyk.ae",
+      "link": "https://www.ransomware.live/id/bnlrbGF3ZmlybS5jb20gbnlrLmFlQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 18 Aug 2026 10:25:50 +0000",
+      "summary": "/...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Foresee Pharmaceuticals",
+      "link": "https://www.ransomware.live/id/Rm9yZXNlZSBQaGFybWFjZXV0aWNhbHNAaW5jcmFuc29t",
+      "pubDate": "Tue, 18 Aug 2026 08:55:05 +0000",
+      "summary": "Foresee Pharmaceuticals Co., Ltd.\r https://www.foreseepharma.com\r \r Total leak: 1,2TB\r \r Leak includes: Drug Master File, ASMF, FDA/EMA, R&D, Financial statements,  Clinical study reports and other confidential information.\r \r Projects: CAMCEVI, SIF, Casppian, NCE, Aderamastat, Linvemastat, FP-045, ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : SD Associates Sdn Bhd",
       "link": "https://www.ransomware.live/id/U0QgQXNzb2NpYXRlcyBTZG4gQmhkQGluY3JhbnNvbQ==",
