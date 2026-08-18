@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T20:33:24.110Z",
+  "lastUpdated": "2026-08-18T01:39:30.527Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : SD Associates Sdn Bhd",
+      "link": "https://www.ransomware.live/id/U0QgQXNzb2NpYXRlcyBTZG4gQmhkQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 18 Aug 2026 00:26:41 +0000",
+      "summary": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. \r We provide comprehensive professional project management and engineering consultancy services in diverse market segments. \r Our multi-disciplinary teams consisting of experienced Pr...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Third Coast Bancshares",
+      "link": "https://www.ransomware.live/id/VGhpcmQgQ29hc3QgQmFuY3NoYXJlc0BpbmNyYW5zb20=",
+      "pubDate": "Tue, 18 Aug 2026 00:26:02 +0000",
+      "summary": "While Third Coast Bancshares (NASDAQ:TCBX) shares continue to rise rapidly and reach new highs, its leadership is concealing one of the largest data breaches in the history of the U.S. financial sector.\r This situation raises serious questions about the company’s conduct. In the near future, we inte...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Lansing Urgent Care",
       "link": "https://www.ransomware.live/id/TGFuc2luZyBVcmdlbnQgQ2FyZUBpbmNyYW5zb20=",
