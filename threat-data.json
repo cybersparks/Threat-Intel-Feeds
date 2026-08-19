@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T10:34:56.018Z",
+  "lastUpdated": "2026-08-19T15:37:31.322Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : BANGKOKCABLE",
+      "link": "https://www.ransomware.live/id/QkFOR0tPS0NBQkxFQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 19 Aug 2026 13:55:48 +0000",
+      "summary": "About Bangkok Cable\r Bangkok Cable is Thailand's leading manufacturer of electric wires and cables, boasting over five decades of sustainable growth. The company is committed to connecting people with power and driving economic development through innovative manufacturing technologies. With a produc...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : UNIPLASTICS.COM",
+      "link": "https://www.ransomware.live/id/VU5JUExBU1RJQ1MuQ09NQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 19 Aug 2026 13:55:16 +0000",
+      "summary": "Universal Plastics Inc. is a family-owned commercial specialty subcontractor with over 50 years of experience, specializing in custom wall panel systems, wall protection, and high-impact wall coverings. They serve a diverse clientele, including commercial projects such as airports and medical facili...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : CDGARVINLAW",
+      "link": "https://www.ransomware.live/id/Q0RHQVJWSU5MQVdAaW5jcmFuc29t",
+      "pubDate": "Wed, 19 Aug 2026 13:54:45 +0000",
+      "summary": "CHRISTOPHER D. GARVIN (Docket #2352300) is a Wood-Ridge attorney admitted to New York State in 1990 and registered with the Office of Court Administration (OCA) of the New York State Unified Court System. Employer - CHRISTOPHER D. GARVIN, ESQ. COUNSEL AT LAW. The attorney graduated from SETON HALL U...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : EXEL",
+      "link": "https://www.ransomware.live/id/RVhFTEBpbmNyYW5zb20=",
+      "pubDate": "Wed, 19 Aug 2026 13:54:14 +0000",
+      "summary": "Exel Systems Inc. specializes in providing high-quality custom heating, ventilation, and air conditioning (HVAC) and energy recovery products. Established in 1993, the company serves the institutional, commercial, and industrial markets, collaborating with building owners, consulting engineers, and ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Troutman Pepper Locke",
       "link": "https://www.ransomware.live/id/VHJvdXRtYW4gUGVwcGVyIExvY2tlQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Tue, 18 Aug 2026 22:51:57 +0000",
@@ -369,76 +409,6 @@
       "link": "https://www.ransomware.live/id/UmVtaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Thu, 13 Aug 2026 23:52:14 +0000",
       "summary": "Reminger Attorneys at Law is a law firm with a strong presence in Ohio, Kentucky, and Indiana, operati…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://pacific-construction.com/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9wYWNpZmljLWNvbnN0cnVjdGlvbi5jb20vQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 13 Aug 2026 23:27:04 +0000",
-      "summary": "project data client data contract...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cambrialawfirm.com",
-      "link": "https://www.ransomware.live/id/Y2FtYnJpYWxhd2Zpcm0uY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 13 Aug 2026 23:26:32 +0000",
-      "summary": "personal and medical cards of all clients....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : clgroup",
-      "link": "https://www.ransomware.live/id/Y2xncm91cEBpbmNyYW5zb20=",
-      "pubDate": "Thu, 13 Aug 2026 05:25:37 +0000",
-      "summary": "Compunnel, founded in 1994 and headquartered in Plainsboro, New Jersey, provides information technology consulting and staffing, custom business application development, and eLearning services...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig Scherer Hyland & Perretti",
-      "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIFNjaGVyZXIgSHlsYW5kICYgUGVycmV0dGlAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Wed, 12 Aug 2026 22:22:17 +0000",
-      "summary": "Founded in 1882, Riker Danzig Scherer Hyland & Perretti is a law firm with practice areas such as Alte…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Riker Danzig LLP",
-      "link": "https://www.ransomware.live/id/UmlrZXIgRGFuemlnIExMUEBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Wed, 12 Aug 2026 19:51:27 +0000",
-      "summary": "[AI generated] Riker Danzig LLP is a prominent full-service law firm based in the United States, primarily operating in New Jersey. Founded in 1882, the firm provides legal services across a wide range of practice areas including litigation, corporate law, real estate, environmental law, and insuran...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : gamaus.com",
-      "link": "https://www.ransomware.live/id/Z2FtYXVzLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Wed, 12 Aug 2026 19:25:55 +0000",
-      "summary": "https://www.zoominfo.com/c/greater-austin-merchants-cooperative-association/98978085\r greater-austin-merchants-cooperative-association\r 400gb...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : BEDC.COM.AU",
-      "link": "https://www.ransomware.live/id/QkVEQy5DT00uQVVAaW5jcmFuc29t",
-      "pubDate": "Wed, 12 Aug 2026 15:54:25 +0000",
-      "summary": "Brighton East Dental Clinic (BEDC) is a family dental clinic dedicated to providing comprehensive dental care for families in Brighton, Caulfield, and Bentleigh. They offer a wide range of services including kids dentistry, general dentistry, cosmetic procedures, and preventative care, with a strong...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
