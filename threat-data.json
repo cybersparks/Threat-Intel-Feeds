@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T15:37:31.322Z",
+  "lastUpdated": "2026-08-19T20:35:07.330Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,16 +399,6 @@
       "link": "https://www.ransomware.live/id/T3R0ZXIgVGFpbCBDb3VudHksIE1pbm5lc290YUBpbmNyYW5zb20=",
       "pubDate": "Mon, 17 Aug 2026 09:28:41 +0000",
       "summary": "https://ottertailcounty.gov/...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Reminger",
-      "link": "https://www.ransomware.live/id/UmVtaW5nZXJAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Thu, 13 Aug 2026 23:52:14 +0000",
-      "summary": "Reminger Attorneys at Law is a law firm with a strong presence in Ohio, Kentucky, and Indiana, operati…...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
