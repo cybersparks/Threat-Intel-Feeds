@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-08-19T01:41:24.141Z",
+  "lastUpdated": "2026-08-19T05:36:07.935Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Oz Hair and Beauty - 1,988,331 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
+      "pubDate": "Wed, 19 Aug 2026 03:15:00 Z",
+      "summary": "In August 2026, Australian beauty retailer Oz Hair and Beauty was the target of an xpl0itrs extortion attack. The group subsequently published data al...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,988,331 ",
+        "1,988,331"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Fanlore - 144,520 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fanlore",
+      "pubDate": "Wed, 19 Aug 2026 02:09:16 Z",
+      "summary": "In August 2026, the Organization for Transformative Works (OTW) identified unauthorised access to the Fanlore wiki it operates. The breach resulted in...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "144,520 ",
+        "144,520"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "RingCentral - 1,596,490 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/RingCentral",
@@ -232,32 +258,6 @@
       "breachCount": [
         "139,903 ",
         "139,903"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Operation Endgame 4.0 - 4,348,526 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/OperationEndgame4",
-      "pubDate": "Thu, 18 Jun 2026 20:08:06 Z",
-      "summary": "On 18 June 2026, the latest phase of Operation Endgame targeted the SocGholish malware operation, a prolific malware distribution network used to comp...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "4",
-        "4"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "CFGI - 248,235 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CFGI",
-      "pubDate": "Thu, 18 Jun 2026 03:22:51 Z",
-      "summary": "In March 2026, the financial consulting and advisory firm CFGI was the target of a ShinyHunters \"pay-or-leak\" extortion campaign. The group subsequent...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "248,235 ",
-        "248,235"
       ],
       "isBreach": true,
       "isRansomware": false
