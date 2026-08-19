@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T20:31:06.101Z",
+  "lastUpdated": "2026-08-19T01:41:24.141Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Troutman Pepper Locke",
+      "link": "https://www.ransomware.live/id/VHJvdXRtYW4gUGVwcGVyIExvY2tlQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Tue, 18 Aug 2026 22:51:57 +0000",
+      "summary": "2nd time we attacked them in a year (first time through physical intrusion), will continue our attacks…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... P... L...",
       "link": "https://www.ransomware.live/id/VC4uLiBQLi4uIEwuLi5AU2lsZW50UmFuc29tR3JvdXA=",
