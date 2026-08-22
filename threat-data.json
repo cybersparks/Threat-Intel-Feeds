@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-22T05:33:05.070Z",
+  "lastUpdated": "2026-08-22T10:29:51.199Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Golf Canada - 568,972 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GolfCanada",
+      "pubDate": "Sat, 22 Aug 2026 07:17:23 Z",
+      "summary": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique em...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "568,972 ",
+        "568,972"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Oz Hair and Beauty - 1,988,331 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
@@ -245,19 +258,6 @@
       "breachCount": [
         "368,418 ",
         "368,418"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Ralph Lauren - 139,903 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/RalphLauren",
-      "pubDate": "Thu, 18 Jun 2026 22:48:34 Z",
-      "summary": "In June 2026, fashion retailer Ralph Lauren was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published hundreds...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "139,903 ",
-        "139,903"
       ],
       "isBreach": true,
       "isRansomware": false
