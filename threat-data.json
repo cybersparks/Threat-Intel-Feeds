@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T10:29:51.199Z",
+  "lastUpdated": "2026-08-22T15:27:26.843Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,16 +399,6 @@
       "link": "https://www.ransomware.live/id/TGFuc2luZyBVcmdlbnQgQ2FyZUBpbmNyYW5zb20=",
       "pubDate": "Mon, 17 Aug 2026 18:25:39 +0000",
       "summary": "Lansing Urgent Care provides a range of urgent care services for both adults and children, including on-site medications, lab tests, and X-rays. Their facilities are designed for quick visits, with an average wait time of under one hour, and they offer telemedicine options for added convenience. The...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Otter Tail County, Minnesota",
-      "link": "https://www.ransomware.live/id/T3R0ZXIgVGFpbCBDb3VudHksIE1pbm5lc290YUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 17 Aug 2026 09:28:41 +0000",
-      "summary": "https://ottertailcounty.gov/...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
