@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:29:51.942Z",
+  "lastUpdated": "2026-08-23T01:48:31.294Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : el-group",
+      "link": "https://www.ransomware.live/id/ZWwtZ3JvdXBAaW5jcmFuc29t",
+      "pubDate": "Sat, 22 Aug 2026 22:54:30 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : D...",
       "link": "https://www.ransomware.live/id/RC4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
