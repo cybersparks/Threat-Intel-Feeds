@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T10:29:54.472Z",
+  "lastUpdated": "2026-08-23T15:28:23.498Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -319,16 +319,6 @@
       "link": "https://www.ransomware.live/id/RVhFTEBpbmNyYW5zb20=",
       "pubDate": "Wed, 19 Aug 2026 13:54:14 +0000",
       "summary": "Exel Systems Inc. specializes in providing high-quality custom heating, ventilation, and air conditioning (HVAC) and energy recovery products. Established in 1993, the company serves the institutional, commercial, and industrial markets, collaborating with building owners, consulting engineers, and ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Troutman Pepper Locke",
-      "link": "https://www.ransomware.live/id/VHJvdXRtYW4gUGVwcGVyIExvY2tlQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Tue, 18 Aug 2026 22:51:57 +0000",
-      "summary": "2nd time we attacked them in a year (first time through physical intrusion), will continue our attacks…...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
