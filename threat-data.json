@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T05:34:56.369Z",
+  "lastUpdated": "2026-08-23T10:29:54.472Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -329,86 +329,6 @@
       "link": "https://www.ransomware.live/id/VHJvdXRtYW4gUGVwcGVyIExvY2tlQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Tue, 18 Aug 2026 22:51:57 +0000",
       "summary": "2nd time we attacked them in a year (first time through physical intrusion), will continue our attacks…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... P... L...",
-      "link": "https://www.ransomware.live/id/VC4uLiBQLi4uIEwuLi5AU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Tue, 18 Aug 2026 18:52:28 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : SpearFin Ltd",
-      "link": "https://www.ransomware.live/id/U3BlYXJGaW4gTHRkQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 18 Aug 2026 10:27:05 +0000",
-      "summary": "SpearFin Ltd\r https://spearfin.net\r SpearFin offers a wide range of services including fund administration, corporate services, compliance support, and investor relations. \r Assets Under Administration US$10 billion.\r \r The leak occurred on June 26, 2026.\r Total leak: 416 GB \r \r Leak included: NDA, ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ssf-int.com ssf-ing.de",
-      "link": "https://www.ransomware.live/id/c3NmLWludC5jb20gc3NmLWluZy5kZUBpbmNyYW5zb20=",
-      "pubDate": "Tue, 18 Aug 2026 10:26:27 +0000",
-      "summary": "SSF International GmbH is an engineering firm headquartered in Munich, Germany. A subsidiary of SSF Ingenieure AG, the company provides comprehensive engineering services in project management, supervision, consultancy, design, quality management, and special construction design worldwide. It specia...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : nyklawfirm.com nyk.ae",
-      "link": "https://www.ransomware.live/id/bnlrbGF3ZmlybS5jb20gbnlrLmFlQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 18 Aug 2026 10:25:50 +0000",
-      "summary": "/...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Foresee Pharmaceuticals",
-      "link": "https://www.ransomware.live/id/Rm9yZXNlZSBQaGFybWFjZXV0aWNhbHNAaW5jcmFuc29t",
-      "pubDate": "Tue, 18 Aug 2026 08:55:05 +0000",
-      "summary": "Foresee Pharmaceuticals Co., Ltd.\r https://www.foreseepharma.com\r \r Total leak: 1,2TB\r \r Leak includes: Drug Master File, ASMF, FDA/EMA, R&D, Financial statements,  Clinical study reports and other confidential information.\r \r Projects: CAMCEVI, SIF, Casppian, NCE, Aderamastat, Linvemastat, FP-045, ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : SD Associates Sdn Bhd",
-      "link": "https://www.ransomware.live/id/U0QgQXNzb2NpYXRlcyBTZG4gQmhkQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 18 Aug 2026 00:26:41 +0000",
-      "summary": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. \r We provide comprehensive professional project management and engineering consultancy services in diverse market segments. \r Our multi-disciplinary teams consisting of experienced Pr...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Third Coast Bancshares",
-      "link": "https://www.ransomware.live/id/VGhpcmQgQ29hc3QgQmFuY3NoYXJlc0BpbmNyYW5zb20=",
-      "pubDate": "Tue, 18 Aug 2026 00:26:02 +0000",
-      "summary": "While Third Coast Bancshares (NASDAQ:TCBX) shares continue to rise rapidly and reach new highs, its leadership is concealing one of the largest data breaches in the history of the U.S. financial sector.\r This situation raises serious questions about the company’s conduct. In the near future, we inte...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Lansing Urgent Care",
-      "link": "https://www.ransomware.live/id/TGFuc2luZyBVcmdlbnQgQ2FyZUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 17 Aug 2026 18:25:39 +0000",
-      "summary": "Lansing Urgent Care provides a range of urgent care services for both adults and children, including on-site medications, lab tests, and X-rays. Their facilities are designed for quick visits, with an average wait time of under one hour, and they offer telemedicine options for added convenience. The...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
