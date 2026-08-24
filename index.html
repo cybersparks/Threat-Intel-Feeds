@@ -286,7 +286,24 @@
             gap: 16px;
             margin-bottom: 8px;
         }
-        .news-embed { padding: 8px; min-height: 200px; }
+        .news-card {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 20px;
+            text-decoration: none;
+            transition: border-color 0.15s, box-shadow 0.15s;
+        }
+        .news-card:hover {
+            text-decoration: none;
+            border-color: var(--blue);
+            box-shadow: 0 4px 10px rgba(15, 36, 64, 0.08);
+        }
+        .news-card-handle { font-weight: 700; font-size: 1.05rem; color: var(--navy); }
+        .news-card-cta { font-size: 0.85rem; color: var(--blue); font-weight: 600; }
 
         @media (max-width: 700px) {
             .news-grid { grid-template-columns: 1fr; }
@@ -332,6 +349,7 @@
             <a href="#breaking-news">Breaking News</a>
             <a href="#about">About This Data</a>
             <a href="#disclaimer">Disclaimer</a>
+            <a href="https://cybersparksdotblog.wordpress.com/about/" target="_blank" rel="noopener">Blog</a>
             <div class="nav-contact" style="margin-left: auto;">
                 <a href="#contact">Contact</a>
                 <div class="contact-tooltip">
@@ -407,12 +425,14 @@
         <h2 id="breaking-news">Breaking News</h2>
         <p class="section-subtitle">Accounts tracking <strong>dark web</strong> activity, leaks, and emerging threats.</p>
         <div class="news-grid">
-            <div class="table-container news-embed">
-                <a class="twitter-timeline" data-height="400" href="https://twitter.com/DailyDarkWeb?ref_src=twsrc%5Etfw">Tweets by @DailyDarkWeb</a>
-            </div>
-            <div class="table-container news-embed">
-                <a class="twitter-timeline" data-height="400" href="https://twitter.com/DarkWebInformer?ref_src=twsrc%5Etfw">Tweets by @DarkWebInformer</a>
-            </div>
+            <a class="news-card" href="https://x.com/DailyDarkWeb" target="_blank" rel="noopener">
+                <span class="news-card-handle">@DailyDarkWeb</span>
+                <span class="news-card-cta">View live posts on X &rarr;</span>
+            </a>
+            <a class="news-card" href="https://x.com/DarkWebInformer" target="_blank" rel="noopener">
+                <span class="news-card-handle">@DarkWebInformer</span>
+                <span class="news-card-cta">View live posts on X &rarr;</span>
+            </a>
         </div>
 
         <!-- ABOUT -->
@@ -578,6 +598,5 @@
             setTimeout(() => { copyEmailBtn.textContent = 'Copy'; }, 1500);
         });
     </script>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
