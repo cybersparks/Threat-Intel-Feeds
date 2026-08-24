@@ -1,263 +1,263 @@
 {
-  "lastUpdated": "2026-05-17T04:38:09.745Z",
+  "lastUpdated": "2026-08-24T01:46:08.010Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
-      "title": "Abrigo - 711,099 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Abrigo",
-      "pubDate": "Thu, 14 May 2026 03:37:50 Z",
-      "summary": "In April 2026, the fintech software company Abrigo was targeted in a \"pay or leak\" extortion attempt by the ShinyHunters group. Shortly after, data al...",
+      "title": "NIUS - 6,090 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/NIUS",
+      "pubDate": "Sun, 23 Aug 2026 22:25:44 Z",
+      "summary": "In July 2025, the German news service NIUS suffered a data breach which was subsequently leaked publicly. The data included 6k unique email addresses ...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "711,099 ",
-        "711,099"
+        "6,090 ",
+        "6,090"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Canada Life - 237,810 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CanadaLife",
-      "pubDate": "Wed, 13 May 2026 06:51:17 Z",
-      "summary": "In April 2026, Canada Life was the victim of a \"pay or leak\" extortion campaign by the ShinyHunters group. The group subsequently published the data w...",
+      "title": "Golf Canada - 568,972 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GolfCanada",
+      "pubDate": "Sat, 22 Aug 2026 07:17:23 Z",
+      "summary": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique em...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "237,810 ",
-        "237,810"
+        "568,972 ",
+        "568,972"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Cushman & Wakefield - 310,431 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/CushmanWakefield",
-      "pubDate": "Tue, 12 May 2026 06:58:16 Z",
-      "summary": "In May 2026, the real estate services firm Cushman & Wakefield was the target of a \"pay or leak\" extortion campaign by the ShinyHunters group. Followi...",
+      "title": "Oz Hair and Beauty - 1,988,331 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
+      "pubDate": "Wed, 19 Aug 2026 03:15:00 Z",
+      "summary": "In August 2026, Australian beauty retailer Oz Hair and Beauty was the target of an xpl0itrs extortion attack. The group subsequently published data al...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "310,431 ",
-        "310,431"
+        "1,988,331 ",
+        "1,988,331"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Zara - 197,376 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Zara",
-      "pubDate": "Fri, 08 May 2026 07:14:22 Z",
-      "summary": "In April 2026, the fashion brand Zara was among a number of organisations targeted by the ShinyHunters extortion group as part of their \"pay or leak\" ...",
+      "title": "Fanlore - 144,520 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fanlore",
+      "pubDate": "Wed, 19 Aug 2026 02:09:16 Z",
+      "summary": "In August 2026, the Organization for Transformative Works (OTW) identified unauthorised access to the Fanlore wiki it operates. The breach resulted in...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "197,376 ",
-        "197,376"
+        "144,520 ",
+        "144,520"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Woflow - 447,593 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Woflow",
-      "pubDate": "Thu, 07 May 2026 06:48:33 Z",
-      "summary": "In March 2026, the AI-driven merchant data platform Woflow was named as a victim by the ShinyHunters data extortion group. The group subsequently publ...",
+      "title": "RingCentral - 1,596,490 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/RingCentral",
+      "pubDate": "Thu, 13 Aug 2026 10:54:40 Z",
+      "summary": "In July 2026, the cloud-based business communications platform RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign. The grou...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "447,593 ",
-        "447,593"
+        "1,596,490 ",
+        "1,596,490"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "LegionProxy - 10,144 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/LegionProxy",
-      "pubDate": "Wed, 06 May 2026 10:11:25 Z",
-      "summary": "In April 2026, the commercial residential and ISP proxy network LegionProxy suffered a data breach. The incident exposed 10k email addresses, bcrypt p...",
+      "title": "Alcon - 218,395 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Alcon",
+      "pubDate": "Sun, 09 Aug 2026 10:04:34 Z",
+      "summary": "In August 2026, the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data alleged...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "10,144 ",
-        "10,144"
+        "218,395 ",
+        "218,395"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Vimeo - 119,167 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Vimeo",
-      "pubDate": "Tue, 05 May 2026 02:08:50 Z",
-      "summary": "In April 2026, the ShinyHunters extortion group listed Vimeo on their extortion portal as part of their \"pay or leak\" campaign. They subsequently publ...",
+      "title": "Brinks Home - 732,162 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BrinksHome",
+      "pubDate": "Sat, 08 Aug 2026 10:44:52 Z",
+      "summary": "In July 2026, Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data they alleged was take...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "119,167 ",
-        "119,167"
+        "732,162 ",
+        "732,162"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Reborn Gaming - 126 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/RebornGaming",
-      "pubDate": "Mon, 04 May 2026 03:43:06 Z",
-      "summary": "In April 2026, the gaming community Reborn Gaming suffered a data breach due to a vulnerability in cPanel and WebHost Manager (WHM). The breach expose...",
+      "title": "Exact Sciences - 10,869,543 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ExactSciences",
+      "pubDate": "Fri, 07 Aug 2026 06:27:29 Z",
+      "summary": "In July 2026, Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group claimed t...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "126 ",
-        "126"
+        "10,869,543 ",
+        "10,869,543"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Marcus & Millichap - 1,837,078 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MarcusMillichap",
-      "pubDate": "Sun, 03 May 2026 22:53:12 Z",
-      "summary": "In April 2026, the commercial real estate brokerage firm Marcus & Millichap was named as one of multiple alleged victims of the ShinyHunters hacking a...",
+      "title": "Inter-Con Security - 276,114 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/InterConSecurity",
+      "pubDate": "Wed, 05 Aug 2026 23:39:01 Z",
+      "summary": "In June 2026, Inter-Con Security was targeted in a ShinyHunters “pay or leak” extortion campaign. The group subsequently published data it alleged was...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "1,837,078 ",
-        "1,837,078"
+        "276,114 ",
+        "276,114"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "ZenBusiness - 5,118,184 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/ZenBusiness",
-      "pubDate": "Sat, 02 May 2026 05:53:38 Z",
-      "summary": "In March 2026, the hacker and extortion group \"ShinyHunters\" claimed to have obtained a substantial corpus of data from ZenBusiness, a business format...",
+      "title": "SplitVPN - 865,336 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/SplitVPN",
+      "pubDate": "Sat, 01 Aug 2026 05:29:26 Z",
+      "summary": "In July 2026, the Russian VPN service SplitVPN (previously known as NotVPN) suffered a data breach. The incident exposed millions of customer records,...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "5,118,184 ",
-        "5,118,184"
+        "865,336 ",
+        "865,336"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Aman - 215,563 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Aman",
-      "pubDate": "Fri, 01 May 2026 03:34:30 Z",
-      "summary": "In April 2026, the ultra-luxury hotel brand Aman was named by ShinyHunters as the target of a \"pay or leak\" extortion campaign, with the data allegedl...",
+      "title": "Houston City College - 831,642 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/HoustonCityCollege",
+      "pubDate": "Tue, 28 Jul 2026 06:05:24 Z",
+      "summary": "In June 2026, Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from the college was lat...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "215,563 ",
-        "215,563"
+        "831,642 ",
+        "831,642"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Pitney Bowes - 8,243,989 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/PitneyBowes",
-      "pubDate": "Mon, 27 Apr 2026 22:52:07 Z",
-      "summary": "In April 2026, the hacking collective ShinyHunters claimed to have obtained data from Pitney Bowes as part of a broader extortion campaign that also n...",
+      "title": "Suno - 55,282,226 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Suno",
+      "pubDate": "Mon, 20 Jul 2026 19:49:51 Z",
+      "summary": "In November 2025, AI music generation tool Suno suffered a data breach that later came to light in July the following year. The data contained over 55...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "8,243,989 ",
-        "8,243,989"
+        "55,282,226 ",
+        "55,282,226"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "ADT - 5,488,888 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/ADT",
-      "pubDate": "Mon, 27 Apr 2026 07:36:42 Z",
-      "summary": "In April 2026, home security firm ADT confirmed a data breach by ShinyHunters, which listed the company on its website as part of a \"pay or leak\" exto...",
+      "title": "Paidwork - 23,272,765 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Paidwork",
+      "pubDate": "Sun, 19 Jul 2026 22:57:18 Z",
+      "summary": "In March 2026, hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale. Almost 11GB of data alle...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "5,488,888 ",
-        "5,488,888"
+        "23,272,765 ",
+        "23,272,765"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Udemy - 1,401,259 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Udemy",
-      "pubDate": "Sun, 26 Apr 2026 23:01:50 Z",
-      "summary": "In April 2026, online training company Udemy was the victim of a “pay or leak” extortion attempt perpetrated by the ShinyHunters group. The data was s...",
+      "title": "Fluke - 821,100 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fluke",
+      "pubDate": "Wed, 15 Jul 2026 08:01:04 Z",
+      "summary": "In July 2026, electronic test and measurement equipment company Fluke was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subse...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "1,401,259 ",
-        "1,401,259"
+        "821,100 ",
+        "821,100"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Carnival - 7,531,359 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Carnival",
-      "pubDate": "Fri, 24 Apr 2026 01:58:19 Z",
-      "summary": "In April 2026, the notorious hacking collective ShinyHunters claimed they had obtained a substantial volume of data belonging to the Carnival cruise o...",
+      "title": "Goose Creek - 6,574,121 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GooseCreek",
+      "pubDate": "Wed, 15 Jul 2026 05:03:14 Z",
+      "summary": "In June 2026, a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers, claiming the...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "7,531,359 ",
-        "7,531,359"
+        "6,574,121 ",
+        "6,574,121"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Amtrak - 2,147,679 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Amtrak",
-      "pubDate": "Fri, 17 Apr 2026 04:54:48 Z",
-      "summary": "In April 2026, the hacking group ShinyHunters claimed they had breached Amtrak. The group typically compromises organisations' Salesforce instances be...",
+      "title": "Glendale Community College - 793,925 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GlendaleCommunityCollege",
+      "pubDate": "Sat, 11 Jul 2026 10:40:09 Z",
+      "summary": "In June 2026, Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from Glendale was ...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "2,147,679 ",
-        "2,147,679"
+        "793,925 ",
+        "793,925"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "McGraw Hill - 13,500,136 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/McGrawHill",
-      "pubDate": "Thu, 16 Apr 2026 01:31:14 Z",
-      "summary": "In April 2026, education company McGraw Hill confirmed a data breach following an extortion attempt. Attributed to a Salesforce misconfiguration, the ...",
+      "title": "Moody Bible Institute - 2,303,416 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MoodyBibleInstitute",
+      "pubDate": "Fri, 03 Jul 2026 16:03:25 Z",
+      "summary": "In June 2026, Moody Bible Institute was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Over 2.3M unique email addresses and other person...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "13,500,136 ",
-        "13,500,136"
+        "2,303,416 ",
+        "2,303,416"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Hallmark - 1,736,520 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Hallmark",
-      "pubDate": "Sun, 12 Apr 2026 02:01:11 Z",
-      "summary": "In March 2026, Hallmark suffered an alleged breach and subsequent extortion after attackers gained access to data stored within Salesforce. The data w...",
+      "title": "Sysco - 2,691,852 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Sysco",
+      "pubDate": "Sun, 28 Jun 2026 15:57:29 Z",
+      "summary": "In June 2026, the food distribution company Sysco was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Data was subsequently published con...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "1,736,520 ",
-        "1,736,520"
+        "2,691,852 ",
+        "2,691,852"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "My Lovely AI - 106,271 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MyLovelyAI",
-      "pubDate": "Wed, 08 Apr 2026 03:40:14 Z",
-      "summary": "In April 2026, the NSFW AI girlfriend platform My Lovely AI suffered a data breach that exposed over 100k users. The data included user-created prompt...",
+      "title": "American Tower - 216,601 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AmericanTower",
+      "pubDate": "Fri, 26 Jun 2026 07:17:23 Z",
+      "summary": "In June 2026, telecommunications tower infrastructure company American Tower was the target of a ShinyHunters \"pay or leak\" extortion campaign. The gr...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "106,271 ",
-        "106,271"
+        "216,601 ",
+        "216,601"
       ],
       "isBreach": true,
       "isRansomware": false
     },
     {
-      "title": "Crunchyroll - 1,195,684 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Crunchyroll",
-      "pubDate": "Sat, 04 Apr 2026 04:47:29 Z",
-      "summary": "In March 2026, the anime streaming service Crunchyroll suffered a data breach alleged to have impacted 6.8M users. The exposed data is reported to hav...",
+      "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
+      "pubDate": "Wed, 24 Jun 2026 13:02:33 Z",
+      "summary": "In June 2026, the sports and entertainment company Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign. The...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "1,195,684 ",
-        "1,195,684"
+        "9,796,738 ",
+        "9,796,738"
       ],
       "isBreach": true,
       "isRansomware": false
@@ -265,130 +265,60 @@
   ],
   "ransomware": [
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : defenseisready.com",
-      "link": "https://www.ransomware.live/id/ZGVmZW5zZWlzcmVhZHkuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Fri, 15 May 2026 14:23:54 +0000",
-      "summary": "Deandra Grant Law is a Texas criminal defense and DWI firm with a practice exclusively concentrated on DWI, federal and criminal defense. The firm has defended clients across North and Central Texas for more than 30 years, with more than 500 cases tried to verdict....",
+      "title": "🏴‍☠️ Incransom has just published a new victim : el-group",
+      "link": "https://www.ransomware.live/id/ZWwtZ3JvdXBAaW5jcmFuc29t",
+      "pubDate": "Sat, 22 Aug 2026 22:54:30 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lafj.org",
-      "link": "https://www.ransomware.live/id/bGFmai5vcmdAaW5jcmFuc29t",
-      "pubDate": "Fri, 15 May 2026 12:23:37 +0000",
-      "summary": "Louisiana Association for Justice is a voluntary bar association whose statewide membership is composed mostly of lawyers who have a trial practice. Both defense and plaintiff attorneys belong to the association; however, most LAJ members represent consumer plaintiffs in civil actions. LAJ attorney-...",
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : D...",
+      "link": "https://www.ransomware.live/id/RC4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Thu, 20 Aug 2026 20:52:31 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : United Quality Cooperative / www.uqcoop.com",
-      "link": "https://www.ransomware.live/id/VW5pdGVkIFF1YWxpdHkgQ29vcGVyYXRpdmUgLyB3d3cudXFjb29wLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Fri, 15 May 2026 01:23:02 +0000",
-      "summary": "United Quality Cooperative provides a range of services including bulk fuel, propane, lubricants, and agricultural products.\r \r We have at our disposal internal corporate correspondence, financial documents, personal data of company employees and much more.\r \r All stolen information will be publishe...",
+      "title": "🏴‍☠️ Incransom has just published a new victim : BANGKOKCABLE",
+      "link": "https://www.ransomware.live/id/QkFOR0tPS0NBQkxFQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 19 Aug 2026 13:55:48 +0000",
+      "summary": "About Bangkok Cable\r Bangkok Cable is Thailand's leading manufacturer of electric wires and cables, boasting over five decades of sustainable growth. The company is committed to connecting people with power and driving economic development through innovative manufacturing technologies. With a produc...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Shadowbyt3$ has just published a new victim : Stride Learning",
-      "link": "https://www.ransomware.live/id/U3RyaWRlIExlYXJuaW5nQHNoYWRvd2J5dDMk",
-      "pubDate": "Thu, 14 May 2026 16:47:59 +0000",
-      "summary": "Stride Learning Should've Paid the ransom. We were only asking $500,000 in bitcoin or monero it's not that hard. This is a warning to all companies that if you don't pay it will get leaked. If you pay you have are word that it's deleted also with a picture before and after. If you want we will also ...",
+      "title": "🏴‍☠️ Incransom has just published a new victim : UNIPLASTICS.COM",
+      "link": "https://www.ransomware.live/id/VU5JUExBU1RJQ1MuQ09NQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 19 Aug 2026 13:55:16 +0000",
+      "summary": "Universal Plastics Inc. is a family-owned commercial specialty subcontractor with over 50 years of experience, specializing in custom wall panel systems, wall protection, and high-impact wall coverings. They serve a diverse clientele, including commercial projects such as airports and medical facili...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Silergy Corp",
-      "link": "https://www.ransomware.live/id/U2lsZXJneSBDb3JwQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 13 May 2026 19:22:33 +0000",
-      "summary": "About Silergy\r Silergy Corp. specializes in the manufacture and sale of power integrated circuits. Silergy Corp. is headquartered in Hangzhou, Zhejiang, China.\r ----\r More than 450 GB of personal data was leaked, along with a vast amount of financial and private information, including contracts cont...",
+      "title": "🏴‍☠️ Incransom has just published a new victim : CDGARVINLAW",
+      "link": "https://www.ransomware.live/id/Q0RHQVJWSU5MQVdAaW5jcmFuc29t",
+      "pubDate": "Wed, 19 Aug 2026 13:54:45 +0000",
+      "summary": "CHRISTOPHER D. GARVIN (Docket #2352300) is a Wood-Ridge attorney admitted to New York State in 1990 and registered with the Office of Court Administration (OCA) of the New York State Unified Court System. Employer - CHRISTOPHER D. GARVIN, ESQ. COUNSEL AT LAW. The attorney graduated from SETON HALL U...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
       "isRansomware": true
     },
     {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Porter Wright",
-      "link": "https://www.ransomware.live/id/UG9ydGVyIFdyaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Tue, 12 May 2026 22:20:24 +0000",
-      "summary": "Founded in 1846, Porter Wright is a full-service law firm offering legal helo for the community specia…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Marshall Dennehey",
-      "link": "https://www.ransomware.live/id/TWFyc2hhbGwgRGVubmVoZXlAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Tue, 12 May 2026 22:20:12 +0000",
-      "summary": "They offered $100,000 to keep the data from being published. Founded in 1962 and headquartered in Phil…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : rbh aerospace inc",
-      "link": "https://www.ransomware.live/id/cmJoIGFlcm9zcGFjZSBpbmNAaW5jcmFuc29t",
-      "pubDate": "Mon, 11 May 2026 23:52:33 +0000",
-      "summary": "RBH Aerospace, Inc. \r -is a manufacturing company located in Long Beach, California, specializing in the production of aerospace components. Established in January 2005, the company focuses on providing high-quality parts for both commercial and military aircraft. Their product offerings include air...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Bideawee",
-      "link": "https://www.ransomware.live/id/QmlkZWF3ZWVAaW5jcmFuc29t",
-      "pubDate": "Mon, 11 May 2026 23:26:23 +0000",
-      "summary": "Bideawee is a no-kill animal rescue and shelter located in NYC, Wantagh, and Westhampton. The organization offers a variety of services including adoptions, medical care, pet therapy, and fostering opportunities. Bideawee aims to strengthen the human-animal bond through compassionate care for both p...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lalsgroup.com",
-      "link": "https://www.ransomware.live/id/bGFsc2dyb3VwLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 11 May 2026 20:22:07 +0000",
-      "summary": "Lals Group is a large UAE-based family business group operating in retail, FMCG, distribution, home goods, and lifestyle brands across the GCC region. Founded in 1979, the company manages well-known brands and retail chains including Homes r Us, Daiso Japan, Carter’s, Mom Store, and others. Lals Gro...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://sibillacapital.com/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9zaWJpbGxhY2FwaXRhbC5jb20vQGluY3JhbnNvbQ==",
-      "pubDate": "Sun, 10 May 2026 03:52:43 +0000",
-      "summary": "data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : lopezlawfl.com",
-      "link": "https://www.ransomware.live/id/bG9wZXpsYXdmbC5jb21AaW5jcmFuc29t",
-      "pubDate": "Sun, 10 May 2026 03:22:09 +0000",
-      "summary": "full data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Calsoft Inc",
-      "link": "https://www.ransomware.live/id/Q2Fsc29mdCBJbmNAaW5jcmFuc29t",
-      "pubDate": "Sat, 09 May 2026 08:53:07 +0000",
-      "summary": "CalSoft Inc.\r \r is a company focused on providing digital transformation and AI services tailored for enterprises. Their offerings are designed to enhance operational efficiency, accelerate product delivery, and ensure robust data security, AI-Powered Solutions, Cloud and Infrastructure Services, Da...",
+      "title": "🏴‍☠️ Incransom has just published a new victim : EXEL",
+      "link": "https://www.ransomware.live/id/RVhFTEBpbmNyYW5zb20=",
+      "pubDate": "Wed, 19 Aug 2026 13:54:14 +0000",
+      "summary": "Exel Systems Inc. specializes in providing high-quality custom heating, ventilation, and air conditioning (HVAC) and energy recovery products. Established in 1993, the company serves the institutional, commercial, and industrial markets, collaborating with building owners, consulting engineers, and ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
