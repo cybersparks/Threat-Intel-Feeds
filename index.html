@@ -280,6 +280,18 @@
         }
         .disclaimer-section strong { color: var(--slate-900); }
 
+        .news-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 8px;
+        }
+        .news-embed { padding: 8px; min-height: 200px; }
+
+        @media (max-width: 700px) {
+            .news-grid { grid-template-columns: 1fr; }
+        }
+
         footer.site-footer {
             background: var(--navy);
             color: #c7d3e6;
@@ -317,7 +329,7 @@
 
     <nav class="site-nav">
         <div class="nav-inner">
-            <a href="#dashboard">Dashboard</a>
+            <a href="#breaking-news">Breaking News</a>
             <a href="#about">About This Data</a>
             <a href="#disclaimer">Disclaimer</a>
             <div class="nav-contact" style="margin-left: auto;">
@@ -346,7 +358,7 @@
 
         <!-- TABLE 1: HIBP BREACHES -->
         <h2>Reported Data Breaches</h2>
-        <p class="section-subtitle">Sourced from Have I Been Pwned&rsquo;s public breach feed.</p>
+        <p class="section-subtitle">Sourced from <strong>Have I Been Pwned</strong>&rsquo;s public breach feed.</p>
         <div class="table-container">
             <table>
                 <thead>
@@ -369,7 +381,7 @@
 
         <!-- TABLE 2: RANSOMWARE -->
         <h2>Ransomware Incident Reports</h2>
-        <p class="section-subtitle">Sourced from Ransomware.live&rsquo;s public incident feed.</p>
+        <p class="section-subtitle">Sourced from <strong>Ransomware.live</strong>&rsquo;s public incident feed.</p>
         <div class="table-container">
             <table>
                 <thead>
@@ -391,13 +403,26 @@
 
         <div id="error-msg" class="error-msg"></div>
 
+        <!-- BREAKING NEWS -->
+        <h2 id="breaking-news">Breaking News</h2>
+        <p class="section-subtitle">Accounts tracking <strong>dark web</strong> activity, leaks, and emerging threats.</p>
+        <div class="news-grid">
+            <div class="table-container news-embed">
+                <a class="twitter-timeline" data-height="400" href="https://twitter.com/DailyDarkWeb?ref_src=twsrc%5Etfw">Tweets by @DailyDarkWeb</a>
+            </div>
+            <div class="table-container news-embed">
+                <a class="twitter-timeline" data-height="400" href="https://twitter.com/DarkWebInformer?ref_src=twsrc%5Etfw">Tweets by @DarkWebInformer</a>
+            </div>
+        </div>
+
         <!-- ABOUT -->
         <h2 id="about">About This Data</h2>
         <div class="info-section">
-            <p>This page aggregates publicly reported data breach and ransomware incident information from third-party threat intelligence feeds. It is intended to help legal professionals, researchers, and the public.</p>
+            <p>Breach notifications, ransomware disclosures, and dark web chatter are scattered across dozens of feeds, forums, and social accounts. This page pulls the highest-signal public sources into one continuously updated view, so legal teams assessing exposure, researchers tracking trends, and the public staying informed don't have to hunt for it themselves.</p>
             <ul>
-                <li><strong>Data breaches</strong> are sourced from the <a href="https://haveibeenpwned.com/" target="_blank" rel="noopener">Have I Been Pwned</a> public breach feed.</li>
-                <li><strong>Ransomware incidents</strong> are sourced from the <a href="https://www.ransomware.live/" target="_blank" rel="noopener">Ransomware.live</a> public incident feed, filtered for ransomware-related reporting.</li>
+                <li><strong>Data breaches</strong> are sourced from the <a href="https://haveibeenpwned.com/" target="_blank" rel="noopener"><strong>Have I Been Pwned</strong></a> public breach feed.</li>
+                <li><strong>Ransomware incidents</strong> are sourced from the <a href="https://www.ransomware.live/" target="_blank" rel="noopener"><strong>Ransomware.live</strong></a> public incident feed, filtered for ransomware-related reporting.</li>
+                <li><strong>Dark web activity</strong> is tracked through curated social accounts covering leaks and emerging threats in real time.</li>
             </ul>
             <p>Data is refreshed automatically on a recurring schedule (approximately every 5 minutes) via an automated process. Each entry links back to its original source for verification.</p>
         </div>
@@ -553,5 +578,6 @@
             setTimeout(() => { copyEmailBtn.textContent = 'Copy'; }, 1500);
         });
     </script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
