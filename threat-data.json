@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-23T20:30:17.379Z",
+  "lastUpdated": "2026-08-24T01:46:08.010Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "NIUS - 6,090 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/NIUS",
+      "pubDate": "Sun, 23 Aug 2026 22:25:44 Z",
+      "summary": "In July 2025, the German news service NIUS suffered a data breach which was subsequently leaked publicly. The data included 6k unique email addresses ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,090 ",
+        "6,090"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Golf Canada - 568,972 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/GolfCanada",
@@ -245,19 +258,6 @@
       "breachCount": [
         "9,796,738 ",
         "9,796,738"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "JCPenney - 368,418 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/JCPenney",
-      "pubDate": "Sat, 20 Jun 2026 03:02:45 Z",
-      "summary": "In June 2026, retailer JCPenney and associated brands were targeted in a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from J...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "368,418 ",
-        "368,418"
       ],
       "isBreach": true,
       "isRansomware": false
