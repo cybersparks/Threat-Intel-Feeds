@@ -250,9 +250,8 @@
             max-width: 1200px;
             margin: 0 auto;
             display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 8px;
+            flex-direction: column;
+            gap: 6px;
         }
         .footer-inner a { color: #cfe0ff; }
 
@@ -280,6 +279,7 @@
             <a href="#dashboard">Dashboard</a>
             <a href="#about">About This Data</a>
             <a href="#disclaimer">Disclaimer</a>
+            <a href="#contact" style="margin-left: auto;">Contact</a>
         </div>
     </nav>
 
@@ -365,10 +365,11 @@
         </div>
     </div>
 
-    <footer class="site-footer">
+    <footer class="site-footer" id="contact">
         <div class="footer-inner">
-            <span>&copy; 2026 Threat Intelligence Monitor. Data aggregated from public sources.</span>
+            <span>&copy; <span id="copyright-year">2026</span> Threat Intelligence Monitor. Data aggregated from public sources.</span>
             <span>Not affiliated with Have I Been Pwned or Ransomware.live.</span>
+            <span>Maintained by <a href="https://x.com/cyb3r5parks" target="_blank" rel="noopener">@cyb3r5parks</a> on Twitter/X &middot; Contact: <a href="mailto:jgwebsiteconnect@pm.me">jgwebsiteconnect@pm.me</a></span>
         </div>
     </footer>
 
@@ -490,6 +491,8 @@
         // Load immediately and refresh every 5 minutes
         loadThreatData();
         setInterval(loadThreatData, 300000);
+
+        document.getElementById('copyright-year').textContent = new Date().getFullYear();
     </script>
 </body>
 </html>
