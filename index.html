@@ -90,6 +90,47 @@
             border-bottom-color: var(--blue-light);
         }
 
+        .nav-contact { position: relative; display: flex; align-items: stretch; }
+        .contact-tooltip {
+            position: absolute;
+            top: 100%;
+            right: 0;
+            margin-top: -1px;
+            background: var(--card-bg);
+            color: var(--slate-900);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 10px 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            white-space: nowrap;
+            box-shadow: 0 6px 16px rgba(15, 36, 64, 0.18);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(-4px);
+            transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+            z-index: 200;
+        }
+        .nav-contact:hover .contact-tooltip,
+        .nav-contact:focus-within .contact-tooltip {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+        .contact-tooltip button {
+            padding: 4px 10px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            border: none;
+            border-radius: 4px;
+            background: var(--blue);
+            color: #fff;
+            cursor: pointer;
+        }
+        .contact-tooltip button:hover { background: var(--blue-light); }
+
         .container { max-width: 1200px; margin: 0 auto; padding: 28px 24px 60px; }
 
         .status-bar {
@@ -279,7 +320,13 @@
             <a href="#dashboard">Dashboard</a>
             <a href="#about">About This Data</a>
             <a href="#disclaimer">Disclaimer</a>
-            <a href="#contact" style="margin-left: auto;">Contact</a>
+            <div class="nav-contact" style="margin-left: auto;">
+                <a href="#contact">Contact</a>
+                <div class="contact-tooltip">
+                    <span>jgwebconnect@proton.me</span>
+                    <button type="button" id="copy-email-btn">Copy</button>
+                </div>
+            </div>
         </div>
     </nav>
 
@@ -347,7 +394,7 @@
         <!-- ABOUT -->
         <h2 id="about">About This Data</h2>
         <div class="info-section">
-            <p>This page aggregates publicly reported data breach and ransomware incident information from third-party threat intelligence feeds. It is intended to help legal professionals, researchers, and the public track publicly disclosed cybersecurity incidents in one place.</p>
+            <p>This page aggregates publicly reported data breach and ransomware incident information from third-party threat intelligence feeds. It is intended to help legal professionals, researchers, and the public.</p>
             <ul>
                 <li><strong>Data breaches</strong> are sourced from the <a href="https://haveibeenpwned.com/" target="_blank" rel="noopener">Have I Been Pwned</a> public breach feed.</li>
                 <li><strong>Ransomware incidents</strong> are sourced from the <a href="https://www.ransomware.live/" target="_blank" rel="noopener">Ransomware.live</a> public incident feed, filtered for ransomware-related reporting.</li>
@@ -369,7 +416,7 @@
         <div class="footer-inner">
             <span>&copy; <span id="copyright-year">2026</span> Threat Intelligence Monitor. Data aggregated from public sources.</span>
             <span>Not affiliated with Have I Been Pwned or Ransomware.live.</span>
-            <span>Maintained by <a href="https://x.com/cyb3r5parks" target="_blank" rel="noopener">@cyb3r5parks</a> on Twitter/X &middot; Contact: <a href="mailto:jgwebsiteconnect@pm.me">jgwebsiteconnect@pm.me</a></span>
+            <span>Maintained by <a href="https://x.com/cyb3r5parks" target="_blank" rel="noopener">@cyb3r5parks</a> on Twitter/X &middot; Contact: <a href="mailto:jgwebconnect@proton.me">jgwebconnect@proton.me</a></span>
         </div>
     </footer>
 
@@ -493,6 +540,18 @@
         setInterval(loadThreatData, 300000);
 
         document.getElementById('copyright-year').textContent = new Date().getFullYear();
+
+        const copyEmailBtn = document.getElementById('copy-email-btn');
+        copyEmailBtn.addEventListener('click', async (e) => {
+            e.preventDefault();
+            try {
+                await navigator.clipboard.writeText('jgwebconnect@proton.me');
+                copyEmailBtn.textContent = 'Copied!';
+            } catch (err) {
+                copyEmailBtn.textContent = 'Copy failed';
+            }
+            setTimeout(() => { copyEmailBtn.textContent = 'Copy'; }, 1500);
+        });
     </script>
 </body>
 </html>
