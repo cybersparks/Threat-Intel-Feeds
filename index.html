@@ -3,112 +3,306 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Live Threat Intel Dashboard</title>
+    <title>Threat Intelligence Monitor</title>
+    <meta name="description" content="Public tracker of reported data breaches and ransomware incidents, compiled from open threat intelligence sources.">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; padding: 20px; }
-        .container { max-width: 1200px; margin: 0 auto; }
-        
-        /* Unified Red Theme */
-        h1 { color: #ef4444; border-bottom: 2px solid #ef4444; padding-bottom: 10px; margin-bottom: 20px; }
-        h2 { color: #ef4444; margin-top: 40px; margin-bottom: 15px; font-size: 1.4rem; }
-        
-        /* Search Bar Styles */
+        :root {
+            --navy: #0f2440;
+            --navy-light: #16345c;
+            --blue: #1d4ed8;
+            --blue-light: #3b6ce8;
+            --slate-900: #1e293b;
+            --slate-700: #334155;
+            --slate-600: #475569;
+            --slate-400: #94a3b8;
+            --slate-200: #e2e8f0;
+            --slate-100: #f1f5f9;
+            --bg: #f7f9fc;
+            --card-bg: #ffffff;
+            --border: #dbe2ea;
+            --alert: #9f1d1d;
+            --alert-bg: #fdecec;
+            --info-bg: #eaf1fd;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--slate-900);
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+        }
+
+        a { color: var(--blue); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        /* Header */
+        header.site-header {
+            background: var(--navy);
+            color: #fff;
+            padding: 22px 24px;
+        }
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+        .brand-icon { flex-shrink: 0; opacity: 0.95; }
+        .brand-text h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: 0.2px;
+        }
+        .brand-text p {
+            margin: 4px 0 0;
+            font-size: 0.9rem;
+            color: #c7d3e6;
+        }
+
+        /* Nav */
+        nav.site-nav {
+            background: var(--navy-light);
+            border-top: 1px solid rgba(255,255,255,0.08);
+        }
+        .nav-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            gap: 4px;
+        }
+        .nav-inner a {
+            color: #dce6f5;
+            padding: 12px 14px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            border-bottom: 2px solid transparent;
+        }
+        .nav-inner a:hover {
+            color: #fff;
+            text-decoration: none;
+            border-bottom-color: var(--blue-light);
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 28px 24px 60px; }
+
+        .status-bar {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.85rem;
+            color: var(--slate-600);
+            margin-bottom: 18px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid var(--border);
+        }
+        .status-bar strong { color: var(--slate-900); }
+
+        h2 {
+            color: var(--navy);
+            margin-top: 44px;
+            margin-bottom: 6px;
+            font-size: 1.25rem;
+            font-weight: 700;
+            border-left: 4px solid var(--blue);
+            padding-left: 10px;
+        }
+        .section-subtitle {
+            color: var(--slate-600);
+            font-size: 0.9rem;
+            margin: 0 0 16px 14px;
+        }
+
+        /* Search */
         .search-container {
             position: sticky;
-            top: 10px;
+            top: 0;
             z-index: 100;
-            margin-bottom: 20px;
-            display: flex;
-            gap: 10px;
+            background: var(--bg);
+            padding: 12px 0;
+            margin-bottom: 8px;
         }
         .search-input {
             width: 100%;
-            padding: 12px 20px;
-            font-size: 1rem;
-            border: 2px solid #ef4444;
-            border-radius: 8px;
-            background: #1e293b;
-            color: #e2e8f0;
+            padding: 12px 16px;
+            font-size: 0.95rem;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            background: var(--card-bg);
+            color: var(--slate-900);
             outline: none;
-            transition: box-shadow 0.3s ease;
+            transition: border-color 0.2s, box-shadow 0.2s;
         }
         .search-input:focus {
-            box-shadow: 0 0 15px rgba(239, 68, 68, 0.4);
-            background: #0f172a;
+            border-color: var(--blue);
+            box-shadow: 0 0 0 3px rgba(29, 78, 216, 0.12);
         }
-        .search-input::placeholder { color: #64748b; }
-        
-        .status { font-size: 0.9em; color: #94a3b8; margin-bottom: 20px; }
-        
-        /* Table Styles */
-        .table-container { overflow-x: auto; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5); border-radius: 8px; margin-bottom: 40px; }
-        table { width: 100%; border-collapse: collapse; background: #1e293b; }
-        th, td { padding: 14px 16px; text-align: left; border-bottom: 1px solid #334155; }
-        
-        th { background: #0f172a; color: #94a3b8; font-weight: 600; text-transform: uppercase; font-size: 0.8rem; }
-        .header-breaches th { color: #ef4444; }
-        .header-ransom th { color: #ef4444; }
+        .search-input::placeholder { color: var(--slate-400); }
 
-        tr:hover { background: #334155; }
-        
-        /* Column Widths */
-        .col-company { width: 35%; }
-        .col-count { width: 20%; text-align: center; }
-        .col-date { width: 15%; }
-        .col-summary { width: 30%; }
-        
-        /* Badges */
-        .source-badge { 
-            display: inline-block; padding: 4px 10px; border-radius: 20px; 
-            background: #ef4444; color: #fff; font-size: 0.7rem; font-weight: bold; 
-            text-transform: uppercase; box-shadow: 0 0 8px rgba(239, 68, 68, 0.4);
+        /* Table */
+        .table-container {
+            overflow-x: auto;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            margin-bottom: 8px;
+            background: var(--card-bg);
         }
-        
-        .count-val { color: #ef4444; font-weight: 800; font-size: 1.1rem; }
-        a { color: #ef4444; text-decoration: none; transition: color 0.2s; }
-        a:hover { color: #fff; text-decoration: underline; }
-        
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 13px 16px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+        th {
+            background: var(--slate-100);
+            color: var(--slate-700);
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.72rem;
+            letter-spacing: 0.4px;
+        }
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: var(--slate-100); }
+
+        .col-company { width: 32%; font-weight: 600; }
+        .col-count { width: 16%; text-align: center; }
+        .col-date { width: 16%; color: var(--slate-600); font-size: 0.85rem; }
+        .col-summary { width: 36%; color: var(--slate-700); font-size: 0.9rem; }
+
+        .source-badge {
+            display: inline-block;
+            padding: 3px 9px;
+            border-radius: 4px;
+            background: var(--info-bg);
+            color: var(--blue);
+            font-size: 0.68rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            margin-bottom: 4px;
+        }
+        .incident-badge {
+            display: inline-block;
+            padding: 3px 9px;
+            border-radius: 4px;
+            background: var(--alert-bg);
+            color: var(--alert);
+            font-size: 0.68rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            margin-bottom: 4px;
+        }
+
+        .count-val { color: var(--navy); font-weight: 700; font-size: 1rem; }
+
         /* Loading & Errors */
-        #loading { text-align: center; color: #94a3b8; margin-top: 50px; font-size: 1.2rem; }
-        .spinner { display: inline-block; width: 20px; height: 20px; border: 3px solid #334155; border-top-color: #ef4444; border-radius: 50%; animation: spin 1s linear infinite; margin-right: 10px; }
+        #loading { text-align: center; color: var(--slate-600); margin-top: 40px; font-size: 1rem; }
+        .spinner { display: inline-block; width: 18px; height: 18px; border: 3px solid var(--slate-200); border-top-color: var(--blue); border-radius: 50%; animation: spin 1s linear infinite; margin-right: 10px; vertical-align: -3px; }
         @keyframes spin { to { transform: rotate(360deg); } }
-        .error-msg { color: #ef4444; text-align: center; margin-top: 20px; font-weight: bold; }
-        
-        /* No Results State */
+        .error-msg { color: var(--alert); text-align: center; margin-top: 20px; font-weight: 600; }
+
         .no-results {
             text-align: center;
-            padding: 40px;
-            color: #64748b;
-            font-size: 1.1rem;
-            border: 1px dashed #334155;
-            border-radius: 8px;
-            margin-top: 20px;
-            display: none; /* Hidden by default */
+            padding: 36px;
+            color: var(--slate-600);
+            font-size: 0.95rem;
+            display: none;
         }
-        .no-results strong { color: #ef4444; }
+        .no-results strong { color: var(--navy); }
+        .no-results button {
+            margin-top: 10px; padding: 6px 14px; background: var(--blue);
+            border: none; border-radius: 4px; color: white; cursor: pointer; font-size: 0.85rem;
+        }
+        .no-results button:hover { background: var(--blue-light); }
+
+        /* Info / About / Disclaimer sections */
+        .info-section {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 22px 24px;
+            margin-top: 16px;
+            font-size: 0.92rem;
+            color: var(--slate-700);
+        }
+        .info-section p { margin: 0 0 12px; }
+        .info-section p:last-child { margin-bottom: 0; }
+        .info-section ul { margin: 0 0 12px; padding-left: 20px; }
+        .info-section li { margin-bottom: 6px; }
+        .disclaimer-section {
+            border-left: 4px solid var(--alert);
+        }
+        .disclaimer-section strong { color: var(--slate-900); }
+
+        footer.site-footer {
+            background: var(--navy);
+            color: #c7d3e6;
+            padding: 20px 24px;
+            font-size: 0.82rem;
+            margin-top: 50px;
+        }
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .footer-inner a { color: #cfe0ff; }
+
+        @media (max-width: 640px) {
+            .nav-inner { overflow-x: auto; }
+            .col-summary, .col-count { display: none; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Title -->
-        <h1>🛡️ Live Threat Intel Dashboard 🛡️</h1>
-        
-        <div id="last-updated" class="status">Loading threat data...</div>
-
-        <!-- SEARCH BAR -->
-        <div class="search-container">
-            <input type="text" id="searchInput" class="search-input" placeholder="🔍 Search by Company, Summary, or Record Count...">
+    <header class="site-header">
+        <div class="header-inner">
+            <svg class="brand-icon" width="34" height="34" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2L4 5V11C4 16.0 7.4 20.7 12 22C16.6 20.7 20 16.0 20 11V5L12 2Z" stroke="#dce6f5" stroke-width="1.6" stroke-linejoin="round"/>
+            </svg>
+            <div class="brand-text">
+                <h1>Threat Intelligence Monitor</h1>
+                <p>Public tracker of reported data breaches and ransomware incidents</p>
+            </div>
         </div>
-        
+    </header>
+
+    <nav class="site-nav">
+        <div class="nav-inner">
+            <a href="#dashboard">Dashboard</a>
+            <a href="#about">About This Data</a>
+            <a href="#disclaimer">Disclaimer</a>
+        </div>
+    </nav>
+
+    <div class="container" id="dashboard">
+        <div class="status-bar">
+            <span id="last-updated">Loading threat data&hellip;</span>
+            <span>Auto-refreshes every 5 minutes</span>
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search by company, organization, or keyword&hellip;">
+        </div>
+
         <div id="loading">
-            <div class="spinner"></div> Fetching latest breaches and ransomware news...
+            <div class="spinner"></div> Fetching latest breach and ransomware incident data&hellip;
         </div>
 
         <!-- TABLE 1: HIBP BREACHES -->
-        <h2>🔥 Recent (HIBP) Breaches 🔥</h2>
+        <h2>Reported Data Breaches</h2>
+        <p class="section-subtitle">Sourced from Have I Been Pwned&rsquo;s public breach feed.</p>
         <div class="table-container">
             <table>
-                <thead class="header-breaches">
+                <thead>
                     <tr>
                         <th>Company / Service</th>
                         <th>Records Exposed</th>
@@ -121,19 +315,20 @@
                 </tbody>
             </table>
             <div id="breach-no-results" class="no-results">
-                No breaches found matching your search. <br>
-                <button onclick="document.getElementById('searchInput').value=''; filterTables()" style="margin-top:10px; padding:5px 10px; background:#ef4444; border:none; color:white; cursor:pointer;">Clear Search</button>
+                No breaches found matching your search.<br>
+                <button onclick="document.getElementById('searchInput').value=''; filterTables()">Clear Search</button>
             </div>
         </div>
 
         <!-- TABLE 2: RANSOMWARE -->
-        <h2>🚨 Latest Ransomwared Companies 🚨</h2>
+        <h2>Ransomware Incident Reports</h2>
+        <p class="section-subtitle">Sourced from Ransomware.live&rsquo;s public incident feed.</p>
         <div class="table-container">
             <table>
-                <thead class="header-ransom">
+                <thead>
                     <tr>
-                        <th>Company / Title</th>
-                        <th>Date</th>
+                        <th>Organization / Incident</th>
+                        <th>Date Reported</th>
                         <th>Summary</th>
                     </tr>
                 </thead>
@@ -142,13 +337,40 @@
                 </tbody>
             </table>
             <div id="ransom-no-results" class="no-results">
-                No ransomware news found matching your search. <br>
-                <button onclick="document.getElementById('searchInput').value=''; filterTables()" style="margin-top:10px; padding:5px 10px; background:#ef4444; border:none; color:white; cursor:pointer;">Clear Search</button>
+                No ransomware incidents found matching your search.<br>
+                <button onclick="document.getElementById('searchInput').value=''; filterTables()">Clear Search</button>
             </div>
         </div>
 
         <div id="error-msg" class="error-msg"></div>
+
+        <!-- ABOUT -->
+        <h2 id="about">About This Data</h2>
+        <div class="info-section">
+            <p>This page aggregates publicly reported data breach and ransomware incident information from third-party threat intelligence feeds. It is intended to help legal professionals, researchers, and the public track publicly disclosed cybersecurity incidents in one place.</p>
+            <ul>
+                <li><strong>Data breaches</strong> are sourced from the <a href="https://haveibeenpwned.com/" target="_blank" rel="noopener">Have I Been Pwned</a> public breach feed.</li>
+                <li><strong>Ransomware incidents</strong> are sourced from the <a href="https://www.ransomware.live/" target="_blank" rel="noopener">Ransomware.live</a> public incident feed, filtered for ransomware-related reporting.</li>
+            </ul>
+            <p>Data is refreshed automatically on a recurring schedule (approximately every 5 minutes) via an automated process. Each entry links back to its original source for verification.</p>
+        </div>
+
+        <!-- DISCLAIMER -->
+        <h2 id="disclaimer">Disclaimer</h2>
+        <div class="info-section disclaimer-section">
+            <p><strong>Informational purposes only.</strong> The information on this page is provided for general informational and situational-awareness purposes only. It does not constitute legal advice, and no attorney-client relationship is created by use of this site.</p>
+            <p><strong>Not an official notification.</strong> Listings on this page are drawn from third-party public feeds and do not represent official breach notifications, regulatory filings, or confirmed findings by any organization named. Organizations are encouraged to consult primary sources and official notices.</p>
+            <p><strong>No warranty of accuracy.</strong> While this page aggregates data from third-party sources believed to be reliable, no guarantee is made as to the accuracy, completeness, or timeliness of the information displayed. Always verify critical information against the original source before relying on it.</p>
+            <p><strong>Third-party links.</strong> This page links to external websites operated by third parties. Their inclusion does not imply endorsement, and their content is outside the control of this site.</p>
+        </div>
     </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <span>&copy; 2026 Threat Intelligence Monitor. Data aggregated from public sources.</span>
+            <span>Not affiliated with Have I Been Pwned or Ransomware.live.</span>
+        </div>
+    </footer>
 
     <script>
         const DATA_URL = '/Threat-Intel-Feeds/threat-data.json';
@@ -168,12 +390,12 @@
             try {
                 const response = await fetch(DATA_URL + CACHE_BUSTER);
                 if (!response.ok) throw new Error('Failed to fetch data');
-                
+
                 const data = await response.json();
-                
+
                 document.getElementById('loading').style.display = 'none';
-                lastUpdatedEl.textContent = `Last Sync: ${new Date(data.lastUpdated).toLocaleString()} | Source: ${data.sourceName || 'Threat Intel'}`;
-                
+                lastUpdatedEl.innerHTML = `<strong>Last sync:</strong> ${new Date(data.lastUpdated).toLocaleString()}`;
+
                 // Store raw data for filtering
                 allBreachData = data.breaches || [];
                 allRansomData = data.ransomware || [];
@@ -191,8 +413,6 @@
         function renderTables(breachData, ransomData) {
             const breachBody = document.getElementById('breach-body');
             const ransomBody = document.getElementById('ransom-body');
-            const breachNoResults = document.getElementById('breach-no-results');
-            const ransomNoResults = document.getElementById('ransom-no-results');
 
             // Render Breaches
             breachBody.innerHTML = '';
@@ -204,15 +424,18 @@
 
                     const row = document.createElement('tr');
                     row.innerHTML = `
-                        <td class="col-company"><a href="${item.link}" target="_blank">${item.title}</a></td>
+                        <td class="col-company">
+                            <div class="source-badge">${item.source || 'Breach'}</div><br>
+                            <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                        </td>
                         <td class="col-count"><span class="count-val">${countDisplay}</span></td>
-                        <td style="color:#94a3b8; font-size:0.9rem;">${dateStr}</td>
-                        <td style="color:#cbd5e1; font-size:0.95rem;">${item.summary}</td>
+                        <td class="col-date">${dateStr}</td>
+                        <td class="col-summary">${item.summary}</td>
                     `;
                     breachBody.appendChild(row);
                 });
             } else {
-                breachBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:#64748b;">No recent breaches found.</td></tr>';
+                breachBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:#94a3b8;">No recent breaches found.</td></tr>';
             }
 
             // Render Ransomware
@@ -224,26 +447,29 @@
 
                     const row = document.createElement('tr');
                     row.innerHTML = `
-                        <td class="col-company"><a href="${item.link}" target="_blank">🚨 ${item.title}</a></td>
-                        <td style="color:#94a3b8; font-size:0.9rem;">${dateStr}</td>
-                        <td style="color:#cbd5e1; font-size:0.95rem;">${item.summary}</td>
+                        <td class="col-company">
+                            <div class="incident-badge">Ransomware</div><br>
+                            <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                        </td>
+                        <td class="col-date">${dateStr}</td>
+                        <td class="col-summary">${item.summary}</td>
                     `;
                     ransomBody.appendChild(row);
                 });
             } else {
-                ransomBody.innerHTML = '<tr><td colspan="3" style="text-align:center; color:#64748b;">No recent ransomware news found.</td></tr>';
+                ransomBody.innerHTML = '<tr><td colspan="3" style="text-align:center; color:#94a3b8;">No recent ransomware incidents found.</td></tr>';
             }
         }
 
         function filterTables() {
             const query = document.getElementById('searchInput').value.toLowerCase().trim();
-            
+
             // Filter Breaches
             const filteredBreaches = allBreachData.filter(item => {
                 const text = `${item.title} ${item.summary} ${item.breachCount}`.toLowerCase();
                 return text.includes(query);
             });
-            
+
             // Filter Ransomware
             const filteredRansom = allRansomData.filter(item => {
                 const text = `${item.title} ${item.summary}`.toLowerCase();
