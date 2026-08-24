@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:42:32.391Z",
+  "lastUpdated": "2026-08-24T15:45:57.156Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -279,46 +279,6 @@
       "link": "https://www.ransomware.live/id/RC4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
       "pubDate": "Thu, 20 Aug 2026 20:52:31 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : BANGKOKCABLE",
-      "link": "https://www.ransomware.live/id/QkFOR0tPS0NBQkxFQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 19 Aug 2026 13:55:48 +0000",
-      "summary": "About Bangkok Cable\r Bangkok Cable is Thailand's leading manufacturer of electric wires and cables, boasting over five decades of sustainable growth. The company is committed to connecting people with power and driving economic development through innovative manufacturing technologies. With a produc...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : UNIPLASTICS.COM",
-      "link": "https://www.ransomware.live/id/VU5JUExBU1RJQ1MuQ09NQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 19 Aug 2026 13:55:16 +0000",
-      "summary": "Universal Plastics Inc. is a family-owned commercial specialty subcontractor with over 50 years of experience, specializing in custom wall panel systems, wall protection, and high-impact wall coverings. They serve a diverse clientele, including commercial projects such as airports and medical facili...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : CDGARVINLAW",
-      "link": "https://www.ransomware.live/id/Q0RHQVJWSU5MQVdAaW5jcmFuc29t",
-      "pubDate": "Wed, 19 Aug 2026 13:54:45 +0000",
-      "summary": "CHRISTOPHER D. GARVIN (Docket #2352300) is a Wood-Ridge attorney admitted to New York State in 1990 and registered with the Office of Court Administration (OCA) of the New York State Unified Court System. Employer - CHRISTOPHER D. GARVIN, ESQ. COUNSEL AT LAW. The attorney graduated from SETON HALL U...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : EXEL",
-      "link": "https://www.ransomware.live/id/RVhFTEBpbmNyYW5zb20=",
-      "pubDate": "Wed, 19 Aug 2026 13:54:14 +0000",
-      "summary": "Exel Systems Inc. specializes in providing high-quality custom heating, ventilation, and air conditioning (HVAC) and energy recovery products. Established in 1993, the company serves the institutional, commercial, and industrial markets, collaborating with building owners, consulting engineers, and ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
