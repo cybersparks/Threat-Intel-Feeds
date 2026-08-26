@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T16:22:47.205Z",
+  "lastUpdated": "2026-08-26T23:14:47.109Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,86 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Q... E...",
+      "link": "https://www.ransomware.live/id/US4uLiBFLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:58:27 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : N... M...",
+      "link": "https://www.ransomware.live/id/Ti4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:57:19 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... P...",
+      "link": "https://www.ransomware.live/id/Uy4uLiBQLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:56:12 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K... M...",
+      "link": "https://www.ransomware.live/id/Sy4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:55:02 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : H... K...",
+      "link": "https://www.ransomware.live/id/SC4uLiBLLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:53:53 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : H... L...",
+      "link": "https://www.ransomware.live/id/SC4uLiBMLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:52:46 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : C... O...",
+      "link": "https://www.ransomware.live/id/Qy4uLiBPLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 26 Aug 2026 22:51:38 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A...",
+      "link": "https://www.ransomware.live/id/QS4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Wed, 26 Aug 2026 21:52:28 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : FFKR Architects",
       "link": "https://www.ransomware.live/id/RkZLUiBBcmNoaXRlY3RzQGluY3JhbnNvbQ==",
