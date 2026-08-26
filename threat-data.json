@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-08-25T20:35:43.870Z",
+  "lastUpdated": "2026-08-26T01:45:58.847Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Carhartt - 12,933,413 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Carhartt",
+      "pubDate": "Tue, 25 Aug 2026 21:34:25 Z",
+      "summary": "In August 2026, clothing retailer Carhartt was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data al...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "12,933,413 ",
+        "12,933,413"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "NIUS - 6,090 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/NIUS",
@@ -245,19 +258,6 @@
       "breachCount": [
         "216,601 ",
         "216,601"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Madison Square Garden Sports - 9,796,738 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
-      "pubDate": "Wed, 24 Jun 2026 13:02:33 Z",
-      "summary": "In June 2026, the sports and entertainment company Madison Square Garden Sports was the target of a ShinyHunters \"pay or leak\" extortion campaign. The...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "9,796,738 ",
-        "9,796,738"
       ],
       "isBreach": true,
       "isRansomware": false
