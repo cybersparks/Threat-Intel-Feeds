@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T08:49:04.238Z",
+  "lastUpdated": "2026-08-27T20:15:35.384Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : BENCIVIL",
+      "link": "https://www.ransomware.live/id/QkVOQ0lWSUxAaW5jcmFuc29t",
+      "pubDate": "Thu, 27 Aug 2026 17:55:30 +0000",
+      "summary": "Benchmark Civil Engineering Services, Inc. is a civil engineering firm based in Allentown, PA, specializing in civil engineering, traffic studies, forensic engineering, and land surveying. The company serves municipalities and clients in the Lehigh Valley and surrounding areas, providing expert serv...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... T...",
+      "link": "https://www.ransomware.live/id/Ry4uLiBULi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 27 Aug 2026 17:22:29 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Rohloff Group",
+      "link": "https://www.ransomware.live/id/Um9obG9mZiBHcm91cEBpbmNyYW5zb20=",
+      "pubDate": "Thu, 27 Aug 2026 14:31:07 +0000",
+      "summary": "KFC \r Rohloff Group franchise partner\r \r Total leak: 536 GB, 103,196 Files, 30,805 Folders\r \r Data: Employees personal , Loan applications, Employees banking details, ID's, \r Bank account statements, Employees ACKNOWLEDGEMENT OF DEBT, RESULT OF THE DISCIPLINARY HEARING, \r Financial documentation for...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Ruby Seven Studios",
+      "link": "https://www.ransomware.live/id/UnVieSBTZXZlbiBTdHVkaW9zQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 27 Aug 2026 13:31:56 +0000",
+      "summary": "Ruby Seven Studios Inc.\r https://www.rubyseven.com/\r \r Total leak: 114 GB (123,463,823,360 bytes), 133,851 Files, 49,357 Folders.\r \r Data: Source code, Games Rules, Game assets, Game math, GDD, IGT, Analytics report\r Finance doc's, Royalty Reports, Tax invoice, \r Inventions Agreement - Employee inte...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Q... E...",
       "link": "https://www.ransomware.live/id/US4uLiBFLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
