@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T11:01:57.288Z",
+  "lastUpdated": "2026-08-28T23:58:37.628Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,16 +399,6 @@
       "link": "https://www.ransomware.live/id/RkZLUiBBcmNoaXRlY3RzQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 24 Aug 2026 15:53:58 +0000",
       "summary": "FFKR Architects is a leading architecture and interior design firm based in Utah, with additional offices in Arizona and Idaho. They offer a wide range of services including architecture, landscape architecture, interior design, and environmental graphic design. The firm is known for its design exce...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : el-group",
-      "link": "https://www.ransomware.live/id/ZWwtZ3JvdXBAaW5jcmFuc29t",
-      "pubDate": "Sat, 22 Aug 2026 22:54:30 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
