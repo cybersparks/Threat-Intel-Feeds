@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T20:15:35.384Z",
+  "lastUpdated": "2026-08-28T11:01:57.288Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Ne...n M...",
+      "link": "https://www.ransomware.live/id/TmUuLi5uIE0uLi5AU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Thu, 27 Aug 2026 20:23:32 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : BENCIVIL",
       "link": "https://www.ransomware.live/id/QkVOQ0lWSUxAaW5jcmFuc29t",
