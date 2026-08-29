@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T06:57:43.057Z",
+  "lastUpdated": "2026-08-29T14:58:59.371Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : wittmann",
+      "link": "https://www.ransomware.live/id/d2l0dG1hbm5AaW5jcmFuc29t",
+      "pubDate": "Sat, 29 Aug 2026 11:57:47 +0000",
+      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.NDA files...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Oilquip Inc",
       "link": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
