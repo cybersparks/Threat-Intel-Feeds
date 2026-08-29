@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T23:58:37.628Z",
+  "lastUpdated": "2026-08-29T06:57:43.057Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Oilquip Inc",
+      "link": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
+      "pubDate": "Sat, 29 Aug 2026 00:25:36 +0000",
+      "summary": "Oilquip Inc, established in 1960, is a comprehensive fluid power distributor that specializes in hydraulics, pneumatics, oil conditioning, and system integration. The company is dedicated to providing innovative electro-hydraulic and electro-mechanical solutions while exceeding customer expectations...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Ne...n M...",
       "link": "https://www.ransomware.live/id/TmUuLi5uIE0uLi5AU2lsZW50UmFuc29tR3JvdXA=",
