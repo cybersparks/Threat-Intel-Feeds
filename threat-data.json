@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T05:06:41.981Z",
+  "lastUpdated": "2026-08-31T17:29:59.720Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,56 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : New Century Ophthalmology Group",
+      "link": "https://www.ransomware.live/id/TmV3IENlbnR1cnkgT3BodGhhbG1vbG9neSBHcm91cEBpbmNyYW5zb20=",
+      "pubDate": "Mon, 31 Aug 2026 14:55:58 +0000",
+      "summary": "New Century Ophthalmology is a leading ophthalmology practice located in Raleigh and Oxford, NC, specializing in advanced eye care services including cataract surgery, glaucoma treatment, and oculoplastic procedures. The practice is dedicated to providing personalized, high-quality care with a focus...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : zummocorp.com",
+      "link": "https://www.ransomware.live/id/enVtbW9jb3JwLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 31 Aug 2026 12:03:52 +0000",
+      "summary": "Zummo is a global incumbent in the design, manufacture and commercialization of automatic fresh fruit juice extraction machines, mainly aimed at the food service and food retail segments....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.lichtvision.com",
+      "link": "https://www.ransomware.live/id/d3d3LmxpY2h0dmlzaW9uLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 31 Aug 2026 12:03:10 +0000",
+      "summary": "Lichtvision specializes in innovative lighting design, focusing on architectural spaces through the use of daylight, artificial light, and immersive media technologies. With a team of 40 designers, architects, and engineers, they provide sustainable and aesthetically pleasing lighting solutions for ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.renorefractories.com",
+      "link": "https://www.ransomware.live/id/d3d3LnJlbm9yZWZyYWN0b3JpZXMuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 31 Aug 2026 12:02:33 +0000",
+      "summary": "RENO Refractories, Inc. specializes in the manufacturing of refractory products and services for various industrial applications, including aluminum, iron and steel, cement and lime, foundries, mini mills, and hydrocarbon processing. With over 35 years of experience, the company is committed to inno...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cimbsecurities.com",
+      "link": "https://www.ransomware.live/id/Y2ltYnNlY3VyaXRpZXMuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 31 Aug 2026 12:01:56 +0000",
+      "summary": "Bank...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : wittmann",
       "link": "https://www.ransomware.live/id/d2l0dG1hbm5AaW5jcmFuc29t",
