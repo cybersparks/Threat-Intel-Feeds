@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-01T04:43:32.531Z",
+  "lastUpdated": "2026-09-01T09:53:11.962Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Questel - 1,226,209 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Questel",
+      "pubDate": "Tue, 01 Sep 2026 04:49:35 Z",
+      "summary": "In August 2026, the French intellectual property software and services company Questel was the target of a ShinyHunters \"pay or leak\" extortion campai...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,226,209 ",
+        "1,226,209"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Carhartt - 12,933,413 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Carhartt",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "American Tower - 216,601 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/AmericanTower",
-      "pubDate": "Fri, 26 Jun 2026 07:17:23 Z",
-      "summary": "In June 2026, telecommunications tower infrastructure company American Tower was the target of a ShinyHunters \"pay or leak\" extortion campaign. The gr...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "216,601 ",
-        "216,601"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -379,76 +379,6 @@
       "link": "https://www.ransomware.live/id/UnVieSBTZXZlbiBTdHVkaW9zQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 27 Aug 2026 13:31:56 +0000",
       "summary": "Ruby Seven Studios Inc.\r https://www.rubyseven.com/\r \r Total leak: 114 GB (123,463,823,360 bytes), 133,851 Files, 49,357 Folders.\r \r Data: Source code, Games Rules, Game assets, Game math, GDD, IGT, Analytics report\r Finance doc's, Royalty Reports, Tax invoice, \r Inventions Agreement - Employee inte...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Q... E...",
-      "link": "https://www.ransomware.live/id/US4uLiBFLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:58:27 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : N... M...",
-      "link": "https://www.ransomware.live/id/Ti4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:57:19 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... P...",
-      "link": "https://www.ransomware.live/id/Uy4uLiBQLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:56:12 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K... M...",
-      "link": "https://www.ransomware.live/id/Sy4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:55:02 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : H... K...",
-      "link": "https://www.ransomware.live/id/SC4uLiBLLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:53:53 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : H... L...",
-      "link": "https://www.ransomware.live/id/SC4uLiBMLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:52:46 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : C... O...",
-      "link": "https://www.ransomware.live/id/Qy4uLiBPLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 26 Aug 2026 22:51:38 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
