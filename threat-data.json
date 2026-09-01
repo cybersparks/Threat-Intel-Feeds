@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T18:18:51.770Z",
+  "lastUpdated": "2026-09-01T22:30:42.826Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Holland & Knight",
+      "link": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Tue, 01 Sep 2026 21:22:04 +0000",
+      "summary": "Holland & Knight, headquartered in Tampa, Florida, and established in 1968, is a law firm that offers …...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : REXT Holdings Co., Ltd.",
       "link": "https://www.ransomware.live/id/UkVYVCBIb2xkaW5ncyBDby4sIEx0ZC5AcmFuc29taG91c2U=",
       "pubDate": "Tue, 01 Sep 2026 09:57:55 +0000",
@@ -359,16 +369,6 @@
       "link": "https://www.ransomware.live/id/QkVOQ0lWSUxAaW5jcmFuc29t",
       "pubDate": "Thu, 27 Aug 2026 17:55:30 +0000",
       "summary": "Benchmark Civil Engineering Services, Inc. is a civil engineering firm based in Allentown, PA, specializing in civil engineering, traffic studies, forensic engineering, and land surveying. The company serves municipalities and clients in the Lehigh Valley and surrounding areas, providing expert serv...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... T...",
-      "link": "https://www.ransomware.live/id/Ry4uLiBULi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 27 Aug 2026 17:22:29 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
