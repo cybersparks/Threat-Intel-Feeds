@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T09:53:11.962Z",
+  "lastUpdated": "2026-09-01T14:41:06.407Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : REXT Holdings Co., Ltd.",
+      "link": "https://www.ransomware.live/id/UkVYVCBIb2xkaW5ncyBDby4sIEx0ZC5AcmFuc29taG91c2U=",
+      "pubDate": "Tue, 01 Sep 2026 09:57:55 +0000",
+      "summary": "Private retail and holding company based in Tokyo, Japan....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : New Century Ophthalmology Group",
       "link": "https://www.ransomware.live/id/TmV3IENlbnR1cnkgT3BodGhhbG1vbG9neSBHcm91cEBpbmNyYW5zb20=",
       "pubDate": "Mon, 31 Aug 2026 14:55:58 +0000",
@@ -369,16 +379,6 @@
       "link": "https://www.ransomware.live/id/Um9obG9mZiBHcm91cEBpbmNyYW5zb20=",
       "pubDate": "Thu, 27 Aug 2026 14:31:07 +0000",
       "summary": "KFC \r Rohloff Group franchise partner\r \r Total leak: 536 GB, 103,196 Files, 30,805 Folders\r \r Data: Employees personal , Loan applications, Employees banking details, ID's, \r Bank account statements, Employees ACKNOWLEDGEMENT OF DEBT, RESULT OF THE DISCIPLINARY HEARING, \r Financial documentation for...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Ruby Seven Studios",
-      "link": "https://www.ransomware.live/id/UnVieSBTZXZlbiBTdHVkaW9zQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 27 Aug 2026 13:31:56 +0000",
-      "summary": "Ruby Seven Studios Inc.\r https://www.rubyseven.com/\r \r Total leak: 114 GB (123,463,823,360 bytes), 133,851 Files, 49,357 Folders.\r \r Data: Source code, Games Rules, Game assets, Game math, GDD, IGT, Analytics report\r Finance doc's, Royalty Reports, Tax invoice, \r Inventions Agreement - Employee inte...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
