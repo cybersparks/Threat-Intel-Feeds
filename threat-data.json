@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T14:41:06.407Z",
+  "lastUpdated": "2026-09-01T18:18:51.770Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -369,16 +369,6 @@
       "link": "https://www.ransomware.live/id/Ry4uLiBULi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Thu, 27 Aug 2026 17:22:29 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Rohloff Group",
-      "link": "https://www.ransomware.live/id/Um9obG9mZiBHcm91cEBpbmNyYW5zb20=",
-      "pubDate": "Thu, 27 Aug 2026 14:31:07 +0000",
-      "summary": "KFC \r Rohloff Group franchise partner\r \r Total leak: 536 GB, 103,196 Files, 30,805 Folders\r \r Data: Employees personal , Loan applications, Employees banking details, ID's, \r Bank account statements, Employees ACKNOWLEDGEMENT OF DEBT, RESULT OF THE DISCIPLINARY HEARING, \r Financial documentation for...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
