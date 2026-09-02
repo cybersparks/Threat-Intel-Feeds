@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T22:30:42.826Z",
+  "lastUpdated": "2026-09-02T04:05:16.369Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,16 +359,6 @@
       "link": "https://www.ransomware.live/id/TmUuLi5uIE0uLi5AU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Thu, 27 Aug 2026 20:23:32 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : BENCIVIL",
-      "link": "https://www.ransomware.live/id/QkVOQ0lWSUxAaW5jcmFuc29t",
-      "pubDate": "Thu, 27 Aug 2026 17:55:30 +0000",
-      "summary": "Benchmark Civil Engineering Services, Inc. is a civil engineering firm based in Allentown, PA, specializing in civil engineering, traffic studies, forensic engineering, and land surveying. The company serves municipalities and clients in the Lehigh Valley and surrounding areas, providing expert serv...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
