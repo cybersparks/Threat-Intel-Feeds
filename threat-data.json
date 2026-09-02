@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T18:31:03.518Z",
+  "lastUpdated": "2026-09-02T22:30:24.519Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... ...g",
+      "link": "https://www.ransomware.live/id/Ry4uLiAuLi5nQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 02 Sep 2026 19:53:13 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... M...",
+      "link": "https://www.ransomware.live/id/Uy4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 02 Sep 2026 19:52:07 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Asfaltos y Pavimentos S.A. (Asfalpasa)",
       "link": "https://www.ransomware.live/id/QXNmYWx0b3MgeSBQYXZpbWVudG9zIFMuQS4gKEFzZmFscGFzYSlAaW5jcmFuc29t",
