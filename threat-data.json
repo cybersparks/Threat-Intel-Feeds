@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T14:15:44.534Z",
+  "lastUpdated": "2026-09-02T18:31:03.518Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,66 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Asfaltos y Pavimentos S.A. (Asfalpasa)",
+      "link": "https://www.ransomware.live/id/QXNmYWx0b3MgeSBQYXZpbWVudG9zIFMuQS4gKEFzZmFscGFzYSlAaW5jcmFuc29t",
+      "pubDate": "Wed, 02 Sep 2026 14:57:43 +0000",
+      "summary": "Empresa dedicada a la fabricación, transporte y extendido de mezclas asfálticas así como todo tipo de servicios relacionados con la construcción y mantenimiento de carreteras, vias públicas y privadas. Desde sus comienzos en 1982 Asfaltos y Pavimentos (ASFALPASA) se basa en un equipo humano especial...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Westfield Public School District",
+      "link": "https://www.ransomware.live/id/V2VzdGZpZWxkIFB1YmxpYyBTY2hvb2wgRGlzdHJpY3RAaW5jcmFuc29t",
+      "pubDate": "Wed, 02 Sep 2026 14:57:04 +0000",
+      "summary": "Westfield Public Schools is dedicated to educating all students to reach their highest potential as engaged citizens who value diversity. The district focuses on inclusivity, community engagement, wellness, and comprehensive financial planning to enhance the educational experience. Their strategic p...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Trucka",
+      "link": "https://www.ransomware.live/id/VHJ1Y2thQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 02 Sep 2026 14:56:29 +0000",
+      "summary": "Trucka is a transportation and logistics company that helps businesses move goods across different regions. They handle everything from local deliveries to long-distance shipping, working with companies of all sizes. Their trucks cover major routes, making sure packages and freight get where they ne...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Policlinico Triestino",
+      "link": "https://www.ransomware.live/id/UG9saWNsaW5pY28gVHJpZXN0aW5vQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 02 Sep 2026 14:56:11 +0000",
+      "summary": "Policlinico Triestino S.p.A. is a private healthcare network based in Trieste, Italy, that operates hospitals, nursing homes, and outpatient clinics....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Multiver Ltée",
+      "link": "https://www.ransomware.live/id/TXVsdGl2ZXIgTHTDqWVAaW5jcmFuc29t",
+      "pubDate": "Wed, 02 Sep 2026 14:55:53 +0000",
+      "summary": "Multiver Ltée specializes in the manufacturing of glass products, offering a range of solutions from sealed to tempered and shaped glass. With over 50 years of experience, the company is renowned for its craftsmanship and commitment to timely delivery. They have successfully completed various archit...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Metales Panamericanos",
+      "link": "https://www.ransomware.live/id/TWV0YWxlcyBQYW5hbWVyaWNhbm9zQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 02 Sep 2026 14:55:35 +0000",
+      "summary": "English Metales Panamericanos, previously known as ACERO PANAMA, is the main construction & steel supplier to the Construction industry in Panama, initially focus in steel materials, now our new mission is extended to different constructions systems, Electrical Solutions, Equipment & Devices, zing c...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : specialtytextile.com",
       "link": "https://www.ransomware.live/id/c3BlY2lhbHR5dGV4dGlsZS5jb21AaW5jcmFuc29t",
