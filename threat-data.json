@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T09:24:39.837Z",
+  "lastUpdated": "2026-09-02T14:15:44.534Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : specialtytextile.com",
+      "link": "https://www.ransomware.live/id/c3BlY2lhbHR5dGV4dGlsZS5jb21AaW5jcmFuc29t",
+      "pubDate": "Wed, 02 Sep 2026 09:58:49 +0000",
+      "summary": "Specialty Textile Services is a U.S. textile services company founded in 1996, specializing in linen rental and processing for the hospitality industry. Headquartered in Phoenix, Arizona, with a branch in San Diego, California, the company employs between 201 and 500 people.\r \r Serving mid-to-high-e...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Holland & Knight",
       "link": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
       "pubDate": "Tue, 01 Sep 2026 21:22:04 +0000",
@@ -349,16 +359,6 @@
       "link": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
       "pubDate": "Sat, 29 Aug 2026 00:25:36 +0000",
       "summary": "Oilquip Inc, established in 1960, is a comprehensive fluid power distributor that specializes in hydraulics, pneumatics, oil conditioning, and system integration. The company is dedicated to providing innovative electro-hydraulic and electro-mechanical solutions while exceeding customer expectations...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Ne...n M...",
-      "link": "https://www.ransomware.live/id/TmUuLi5uIE0uLi5AU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Thu, 27 Aug 2026 20:23:32 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
