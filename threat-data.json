@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-02T04:05:16.369Z",
+  "lastUpdated": "2026-09-02T09:24:39.837Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Manchester Airports Group - 8,728,451 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
+      "pubDate": "Wed, 02 Sep 2026 07:36:59 Z",
+      "summary": "In August 2026, Manchester Airports Group (MAG) disclosed a data breach impacting their services. The incident was later claimed by the FulcrumSec hac...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "8,728,451 ",
+        "8,728,451"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Questel - 1,226,209 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Questel",
@@ -245,19 +258,6 @@
       "breachCount": [
         "2,303,416 ",
         "2,303,416"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Sysco - 2,691,852 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Sysco",
-      "pubDate": "Sun, 28 Jun 2026 15:57:29 Z",
-      "summary": "In June 2026, the food distribution company Sysco was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Data was subsequently published con...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "2,691,852 ",
-        "2,691,852"
       ],
       "isBreach": true,
       "isRansomware": false
