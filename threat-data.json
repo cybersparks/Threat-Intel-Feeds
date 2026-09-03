@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T09:34:41.530Z",
+  "lastUpdated": "2026-09-03T14:19:31.931Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : McDonald's Ecuador",
+      "link": "https://www.ransomware.live/id/TWNEb25hbGQncyBFY3VhZG9yQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Thu, 03 Sep 2026 12:51:32 +0000",
+      "summary": "McDonald's Ecuador is the local franchise operation of the global McDonald's brand. The company operates fast-food restaurants across Ecuador, offering products such as burgers, fries, beverages, breakfast items, and children's meals. It operates under the McDonald's franchise model through Arcos Do...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Engefitas",
+      "link": "https://www.ransomware.live/id/RW5nZWZpdGFzQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Thu, 03 Sep 2026 09:54:12 +0000",
+      "summary": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Greenberg Traurig",
       "link": "https://www.ransomware.live/id/R3JlZW5iZXJnIFRyYXVyaWdAU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Wed, 02 Sep 2026 23:21:12 +0000",
@@ -439,16 +459,6 @@
       "link": "https://www.ransomware.live/id/d2l0dG1hbm5AaW5jcmFuc29t",
       "pubDate": "Sat, 29 Aug 2026 11:57:47 +0000",
       "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.NDA files...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Oilquip Inc",
-      "link": "https://www.ransomware.live/id/T2lscXVpcCBJbmNAaW5jcmFuc29t",
-      "pubDate": "Sat, 29 Aug 2026 00:25:36 +0000",
-      "summary": "Oilquip Inc, established in 1960, is a comprehensive fluid power distributor that specializes in hydraulics, pneumatics, oil conditioning, and system integration. The company is dedicated to providing innovative electro-hydraulic and electro-mechanical solutions while exceeding customer expectations...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
