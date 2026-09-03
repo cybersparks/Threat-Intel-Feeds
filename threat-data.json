@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-09-02T22:30:24.519Z",
+  "lastUpdated": "2026-09-03T04:03:21.374Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
-      "title": "Manchester Airports Group - 8,728,451 breached accounts",
+      "title": "Manchester Airports Group - 8,849,657 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
       "pubDate": "Wed, 02 Sep 2026 07:36:59 Z",
       "summary": "In August 2026, Manchester Airports Group (MAG) disclosed a data breach impacting their services. The incident was later claimed by the FulcrumSec hac...",
       "source": "Have I Been Pwned",
       "breachCount": [
-        "8,728,451 ",
-        "8,728,451"
+        "8,849,657 ",
+        "8,849,657"
       ],
       "isBreach": true,
       "isRansomware": false
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Greenberg Traurig",
+      "link": "https://www.ransomware.live/id/R3JlZW5iZXJnIFRyYXVyaWdAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Wed, 02 Sep 2026 23:21:12 +0000",
+      "summary": "[AI generated] Greenberg Traurig is a large multinational law firm headquartered in the United States. It provides legal services across numerous practice areas including corporate law, real estate, litigation, intellectual property, and government affairs. Operating in the legal services industry, ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... ...g",
       "link": "https://www.ransomware.live/id/Ry4uLiAuLi5nQFNpbGVudFJhbnNvbUdyb3Vw",
