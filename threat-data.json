@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T14:19:31.931Z",
+  "lastUpdated": "2026-09-03T18:27:31.320Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : myglobal.com",
+      "link": "https://www.ransomware.live/id/bXlnbG9iYWwuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 03 Sep 2026 18:25:31 +0000",
+      "summary": "My Global Services Sdn Bhd is the first authorized distributor of OLED LiFi in Malaysia, specializing in OLED LiFi technology, mechanical and electrical engineering, as well as civil and construction services. The company provides solutions for scientists and research workers, offering sales and sup...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : McDonald's Ecuador",
       "link": "https://www.ransomware.live/id/TWNEb25hbGQncyBFY3VhZG9yQFZleHkgUmFuc29td2FyZQ==",
