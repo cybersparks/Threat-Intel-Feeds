@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T18:27:31.320Z",
+  "lastUpdated": "2026-09-03T22:28:06.042Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Katten Muchin Rosenman",
+      "link": "https://www.ransomware.live/id/S2F0dGVuIE11Y2hpbiBSb3Nlbm1hbkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Thu, 03 Sep 2026 20:23:46 +0000",
+      "summary": "[AI generated] Katten Muchin Rosenman is a full-service law firm headquartered in the United States. Operating across multiple offices in major American cities and internationally, the firm provides legal services in areas including corporate law, litigation, financial markets, real estate, intellec...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P... S...",
+      "link": "https://www.ransomware.live/id/UC4uLiBTLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 03 Sep 2026 20:23:20 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A...en",
+      "link": "https://www.ransomware.live/id/QS4uLmVuQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 03 Sep 2026 20:22:13 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : myglobal.com",
       "link": "https://www.ransomware.live/id/bXlnbG9iYWwuY29tQGluY3JhbnNvbQ==",
