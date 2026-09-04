@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T14:08:33.641Z",
+  "lastUpdated": "2026-09-04T18:14:21.186Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Palsana Enviro (PEPL)",
+      "link": "https://www.ransomware.live/id/UGFsc2FuYSBFbnZpcm8gKFBFUEwpQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Fri, 04 Sep 2026 16:23:53 +0000",
+      "summary": "Environmental services company operating a Common Effluent Treatment Plant (CETP) for textile-processing industries. PEPL collects, treats and disposes of industrial wastewater and also recycles treated water for member industries. Its current stated treatment capacity is 150 MLD, with 50 MLD recycl...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Annapurna Fashion",
+      "link": "https://www.ransomware.live/id/QW5uYXB1cm5hIEZhc2hpb25AVmV4eSBSYW5zb213YXJl",
+      "pubDate": "Fri, 04 Sep 2026 16:23:32 +0000",
+      "summary": "Manufacturer, supplier and exporter/distributor of fabrics and apparel-related products, including cotton fabrics, shirting, suiting, jacquard, sherwani fabrics, uniforms, ladies' tops and readymade garments...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Sancity Soft Touch",
+      "link": "https://www.ransomware.live/id/U2FuY2l0eSBTb2Z0IFRvdWNoQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Fri, 04 Sep 2026 16:23:12 +0000",
+      "summary": "IT services company providing web design & development, software/application development, payment gateway services, digital marketing, mobile applications, software testing and cloud-related services....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Katten Muchin Rosenman",
       "link": "https://www.ransomware.live/id/S2F0dGVuIE11Y2hpbiBSb3Nlbm1hbkBTaWxlbnRSYW5zb21Hcm91cA==",
