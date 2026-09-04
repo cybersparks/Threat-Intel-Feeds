@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T22:28:06.042Z",
+  "lastUpdated": "2026-09-04T04:07:09.115Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -489,16 +489,6 @@
       "link": "https://www.ransomware.live/id/Y2ltYnNlY3VyaXRpZXMuY29tQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 31 Aug 2026 12:01:56 +0000",
       "summary": "Bank...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : wittmann",
-      "link": "https://www.ransomware.live/id/d2l0dG1hbm5AaW5jcmFuc29t",
-      "pubDate": "Sat, 29 Aug 2026 11:57:47 +0000",
-      "summary": "Unauthorized access has been gained to the company's confidential files, including client data, proprietary R&D, and financial documentation.NDA files...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
