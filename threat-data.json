@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T17:14:22.402Z",
+  "lastUpdated": "2026-09-05T22:00:10.823Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Mega Velocity",
+      "link": "https://www.ransomware.live/id/TWVnYSBWZWxvY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Sat, 05 Sep 2026 17:22:03 +0000",
+      "summary": "New Delhi–based private technology company incorporated in 2013. Its registered business classification is software publishing, consultancy and supply, including software development, maintenance and web-page design. Its network records also identify MEGA VELOCITY PVT LTD as an Internet/hosting netw...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Emperador has just published a new victim : Judicial Branch of the Province of Jujuy",
       "link": "https://www.ransomware.live/id/SnVkaWNpYWwgQnJhbmNoIG9mIHRoZSBQcm92aW5jZSBvZiBKdWp1eUBlbXBlcmFkb3I=",
