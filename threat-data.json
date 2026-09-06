@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T13:31:07.125Z",
+  "lastUpdated": "2026-09-06T17:34:37.833Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Sancity",
+      "link": "https://www.ransomware.live/id/U2FuY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Sun, 06 Sep 2026 15:00:28 +0000",
+      "summary": "An active, unlisted public company incorporated in 2012, operating in real estate/construction and real-estate marketing & sales...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Mega Velocity",
       "link": "https://www.ransomware.live/id/TWVnYSBWZWxvY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
