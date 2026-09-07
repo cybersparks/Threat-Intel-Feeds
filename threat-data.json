@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T10:04:55.623Z",
+  "lastUpdated": "2026-09-07T19:04:25.806Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Wellness Partners network(combined revenue)",
+      "link": "https://www.ransomware.live/id/V2VsbG5lc3MgUGFydG5lcnMgbmV0d29yayhjb21iaW5lZCByZXZlbnVlKUBpbmNyYW5zb20=",
+      "pubDate": "Mon, 07 Sep 2026 18:59:19 +0000",
+      "summary": "Headquartered in Clinton, New York Community Wellness Partners is a faith based non-profit organization that provides healthcare, housing and community services. They also have 24/7 skilled-nursing care to older adults who require residential medical care and support services....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : United Group",
+      "link": "https://www.ransomware.live/id/VW5pdGVkIEdyb3VwQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Mon, 07 Sep 2026 17:54:08 +0000",
+      "summary": "United Group is a diversified Indian business group delivering innovative products and services across multiple industries. Founded in 2003, the company began as a food and beverage consultancy and has since expanded into food ingredients, nutraceuticals, industrial machinery, infrastructure, fashio...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : LIBRERIA SANTA FE A P S SRL",
       "link": "https://www.ransomware.live/id/TElCUkVSSUEgU0FOVEEgRkUgQSBQIFMgU1JMQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Mon, 07 Sep 2026 08:22:00 +0000",
@@ -529,36 +549,6 @@
       "link": "https://www.ransomware.live/id/TmV3IENlbnR1cnkgT3BodGhhbG1vbG9neSBHcm91cEBpbmNyYW5zb20=",
       "pubDate": "Mon, 31 Aug 2026 14:55:58 +0000",
       "summary": "New Century Ophthalmology is a leading ophthalmology practice located in Raleigh and Oxford, NC, specializing in advanced eye care services including cataract surgery, glaucoma treatment, and oculoplastic procedures. The practice is dedicated to providing personalized, high-quality care with a focus...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : zummocorp.com",
-      "link": "https://www.ransomware.live/id/enVtbW9jb3JwLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 31 Aug 2026 12:03:52 +0000",
-      "summary": "Zummo is a global incumbent in the design, manufacture and commercialization of automatic fresh fruit juice extraction machines, mainly aimed at the food service and food retail segments....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.lichtvision.com",
-      "link": "https://www.ransomware.live/id/d3d3LmxpY2h0dmlzaW9uLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Mon, 31 Aug 2026 12:03:10 +0000",
-      "summary": "Lichtvision specializes in innovative lighting design, focusing on architectural spaces through the use of daylight, artificial light, and immersive media technologies. With a team of 40 designers, architects, and engineers, they provide sustainable and aesthetically pleasing lighting solutions for ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.renorefractories.com",
-      "link": "https://www.ransomware.live/id/d3d3LnJlbm9yZWZyYWN0b3JpZXMuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 31 Aug 2026 12:02:33 +0000",
-      "summary": "RENO Refractories, Inc. specializes in the manufacturing of refractory products and services for various industrial applications, including aluminum, iron and steel, cement and lime, foundries, mini mills, and hydrocarbon processing. With over 35 years of experience, the company is committed to inno...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
