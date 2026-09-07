@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T04:10:02.153Z",
+  "lastUpdated": "2026-09-07T10:04:55.623Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : LIBRERIA SANTA FE A P S SRL",
+      "link": "https://www.ransomware.live/id/TElCUkVSSUEgU0FOVEEgRkUgQSBQIFMgU1JMQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Mon, 07 Sep 2026 08:22:00 +0000",
+      "summary": "LSF (Librería Santa Fe) is a bookstore based in Buenos Aires, Argentina, with multiple branches across the city (CABA). It offers a wide selection of both national and imported books across various genres and authors. The store provides an easy online shopping experience where customers can browse a...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Sancity",
       "link": "https://www.ransomware.live/id/U2FuY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
@@ -549,16 +559,6 @@
       "link": "https://www.ransomware.live/id/d3d3LnJlbm9yZWZyYWN0b3JpZXMuY29tQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 31 Aug 2026 12:02:33 +0000",
       "summary": "RENO Refractories, Inc. specializes in the manufacturing of refractory products and services for various industrial applications, including aluminum, iron and steel, cement and lime, foundries, mini mills, and hydrocarbon processing. With over 35 years of experience, the company is committed to inno...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cimbsecurities.com",
-      "link": "https://www.ransomware.live/id/Y2ltYnNlY3VyaXRpZXMuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 31 Aug 2026 12:01:56 +0000",
-      "summary": "Bank...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
