@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T19:04:25.806Z",
+  "lastUpdated": "2026-09-07T22:43:04.657Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -539,16 +539,6 @@
       "link": "https://www.ransomware.live/id/UkVYVCBIb2xkaW5ncyBDby4sIEx0ZC5AcmFuc29taG91c2U=",
       "pubDate": "Tue, 01 Sep 2026 09:57:55 +0000",
       "summary": "Private retail and holding company based in Tokyo, Japan....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : New Century Ophthalmology Group",
-      "link": "https://www.ransomware.live/id/TmV3IENlbnR1cnkgT3BodGhhbG1vbG9neSBHcm91cEBpbmNyYW5zb20=",
-      "pubDate": "Mon, 31 Aug 2026 14:55:58 +0000",
-      "summary": "New Century Ophthalmology is a leading ophthalmology practice located in Raleigh and Oxford, NC, specializing in advanced eye care services including cataract surgery, glaucoma treatment, and oculoplastic procedures. The practice is dedicated to providing personalized, high-quality care with a focus...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
