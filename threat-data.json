@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T18:27:37.771Z",
+  "lastUpdated": "2026-09-08T22:30:31.155Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -529,16 +529,6 @@
       "link": "https://www.ransomware.live/id/SG9sbGFuZCAmIEtuaWdodEBTaWxlbnRSYW5zb21Hcm91cA==",
       "pubDate": "Tue, 01 Sep 2026 21:22:04 +0000",
       "summary": "Holland & Knight, headquartered in Tampa, Florida, and established in 1968, is a law firm that offers …...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : REXT Holdings Co., Ltd.",
-      "link": "https://www.ransomware.live/id/UkVYVCBIb2xkaW5ncyBDby4sIEx0ZC5AcmFuc29taG91c2U=",
-      "pubDate": "Tue, 01 Sep 2026 09:57:55 +0000",
-      "summary": "Private retail and holding company based in Tokyo, Japan....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
