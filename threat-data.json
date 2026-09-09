@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T18:27:05.460Z",
+  "lastUpdated": "2026-09-09T22:24:50.973Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cullottalaw.com",
+      "link": "https://www.ransomware.live/id/Y3VsbG90dGFsYXcuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 09 Sep 2026 20:01:15 +0000",
+      "summary": "Cullotta Bravo Law Group is a personal injury law firm based in Aurora, IL, with over 35 years of experience in various legal areas including personal injury, nursing home abuse, and workers compensation....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Logar Network Solutions",
       "link": "https://www.ransomware.live/id/TG9nYXIgTmV0d29yayBTb2x1dGlvbnNAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Wed, 09 Sep 2026 14:52:38 +0000",
@@ -529,16 +539,6 @@
       "link": "https://www.ransomware.live/id/TWV0YWxlcyBQYW5hbWVyaWNhbm9zQGluY3JhbnNvbQ==",
       "pubDate": "Wed, 02 Sep 2026 14:55:35 +0000",
       "summary": "English Metales Panamericanos, previously known as ACERO PANAMA, is the main construction & steel supplier to the Construction industry in Panama, initially focus in steel materials, now our new mission is extended to different constructions systems, Electrical Solutions, Equipment & Devices, zing c...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : specialtytextile.com",
-      "link": "https://www.ransomware.live/id/c3BlY2lhbHR5dGV4dGlsZS5jb21AaW5jcmFuc29t",
-      "pubDate": "Wed, 02 Sep 2026 09:58:49 +0000",
-      "summary": "Specialty Textile Services is a U.S. textile services company founded in 1996, specializing in linen rental and processing for the hospitality industry. Headquartered in Phoenix, Arizona, with a branch in San Diego, California, the company employs between 201 and 500 people.\r \r Serving mid-to-high-e...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
