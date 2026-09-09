@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T14:21:19.760Z",
+  "lastUpdated": "2026-09-09T18:27:05.460Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Logar Network Solutions",
+      "link": "https://www.ransomware.live/id/TG9nYXIgTmV0d29yayBTb2x1dGlvbnNAVmV4eSBSYW5zb213YXJl",
+      "pubDate": "Wed, 09 Sep 2026 14:52:38 +0000",
+      "summary": "Logar Network Solutions is a Brazilian managed IT services provider (MSP) that delivers outsourced IT management, cybersecurity, cloud infrastructure, backup and disaster recovery, software licensing, hardware lifecycle management, and custom software development. The company primarily serves medium...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : https://mediengruppethiel.de/",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly9tZWRpZW5ncnVwcGV0aGllbC5kZS9AaW5jcmFuc29t",
