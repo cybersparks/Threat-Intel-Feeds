@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-10T04:15:15.567Z",
+  "lastUpdated": "2026-09-10T09:31:46.803Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "McKesson - 6,404,340 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/McKesson",
+      "pubDate": "Thu, 10 Sep 2026 05:45:39 Z",
+      "summary": "In August 2026, healthcare and pharmaceutical company McKesson was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,404,340 ",
+        "6,404,340"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Manchester Airports Group - 8,849,657 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
@@ -245,19 +258,6 @@
       "breachCount": [
         "793,925 ",
         "793,925"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Moody Bible Institute - 2,303,416 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/MoodyBibleInstitute",
-      "pubDate": "Fri, 03 Jul 2026 16:03:25 Z",
-      "summary": "In June 2026, Moody Bible Institute was targeted by a ShinyHunters \"pay or leak\" extortion campaign. Over 2.3M unique email addresses and other person...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "2,303,416 ",
-        "2,303,416"
       ],
       "isBreach": true,
       "isRansomware": false
