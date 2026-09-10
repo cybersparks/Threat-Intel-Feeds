@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T18:16:03.135Z",
+  "lastUpdated": "2026-09-10T22:24:24.544Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : i2k2 Networks",
+      "link": "https://www.ransomware.live/id/aTJrMiBOZXR3b3Jrc0BWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Thu, 10 Sep 2026 21:27:11 +0000",
+      "summary": "i2k2 Networks Pvt. Ltd., established in 1999, is a leading Indian provider of cloud computing, web hosting, managed IT, data center, backup, disaster recovery, and DevOps solutions. With 25+ years of experience, 4,000+ customers, Tier III-compliant data centers, and 24/7 support, i2k2 delivers secur...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : California School Employees Association",
       "link": "https://www.ransomware.live/id/Q2FsaWZvcm5pYSBTY2hvb2wgRW1wbG95ZWVzIEFzc29jaWF0aW9uQHJhbnNvbWhvdXNl",
       "pubDate": "Thu, 10 Sep 2026 17:31:50 +0000",
@@ -459,16 +469,6 @@
       "link": "https://www.ransomware.live/id/TWNEb25hbGQncyBFY3VhZG9yQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Thu, 03 Sep 2026 12:51:32 +0000",
       "summary": "McDonald's Ecuador is the local franchise operation of the global McDonald's brand. The company operates fast-food restaurants across Ecuador, offering products such as burgers, fries, beverages, breakfast items, and children's meals. It operates under the McDonald's franchise model through Arcos Do...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Engefitas",
-      "link": "https://www.ransomware.live/id/RW5nZWZpdGFzQFZleHkgUmFuc29td2FyZQ==",
-      "pubDate": "Thu, 03 Sep 2026 09:54:12 +0000",
-      "summary": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
