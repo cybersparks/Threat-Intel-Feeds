@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T14:13:37.673Z",
+  "lastUpdated": "2026-09-10T18:16:03.135Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : California School Employees Association",
+      "link": "https://www.ransomware.live/id/Q2FsaWZvcm5pYSBTY2hvb2wgRW1wbG95ZWVzIEFzc29jaWF0aW9uQHJhbnNvbWhvdXNl",
+      "pubDate": "Thu, 10 Sep 2026 17:31:50 +0000",
+      "summary": "The California School Employees Association (CSEA) is dedicated to supporting classified school employees and advocating for public education. They offer a range of member benefits including financial services, legal help, and educational resources. CSEA aims to protect the rights of its members whi...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : jms building corporation",
       "link": "https://www.ransomware.live/id/am1zIGJ1aWxkaW5nIGNvcnBvcmF0aW9uQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 10 Sep 2026 13:00:16 +0000",
@@ -459,36 +469,6 @@
       "link": "https://www.ransomware.live/id/RW5nZWZpdGFzQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Thu, 03 Sep 2026 09:54:12 +0000",
       "summary": "Engefitas is a Brazilian company that produces various adhesive tapes and adhesives for industries like packaging, automotive, construction, electronic, and manufacturing sectors....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Greenberg Traurig",
-      "link": "https://www.ransomware.live/id/R3JlZW5iZXJnIFRyYXVyaWdAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Wed, 02 Sep 2026 23:21:12 +0000",
-      "summary": "[AI generated] Greenberg Traurig is a large multinational law firm headquartered in the United States. It provides legal services across numerous practice areas including corporate law, real estate, litigation, intellectual property, and government affairs. Operating in the legal services industry, ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... ...g",
-      "link": "https://www.ransomware.live/id/Ry4uLiAuLi5nQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 02 Sep 2026 19:53:13 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... M...",
-      "link": "https://www.ransomware.live/id/Uy4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 02 Sep 2026 19:52:07 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
