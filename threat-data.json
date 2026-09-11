@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T14:13:23.523Z",
+  "lastUpdated": "2026-09-11T18:20:08.451Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -459,16 +459,6 @@
       "link": "https://www.ransomware.live/id/bXlnbG9iYWwuY29tQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 03 Sep 2026 18:25:31 +0000",
       "summary": "My Global Services Sdn Bhd is the first authorized distributor of OLED LiFi in Malaysia, specializing in OLED LiFi technology, mechanical and electrical engineering, as well as civil and construction services. The company provides solutions for scientists and research workers, offering sales and sup...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : McDonald's Ecuador",
-      "link": "https://www.ransomware.live/id/TWNEb25hbGQncyBFY3VhZG9yQFZleHkgUmFuc29td2FyZQ==",
-      "pubDate": "Thu, 03 Sep 2026 12:51:32 +0000",
-      "summary": "McDonald's Ecuador is the local franchise operation of the global McDonald's brand. The company operates fast-food restaurants across Ecuador, offering products such as burgers, fries, beverages, breakfast items, and children's meals. It operates under the McDonald's franchise model through Arcos Do...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
