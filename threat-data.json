@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T04:13:19.513Z",
+  "lastUpdated": "2026-09-12T09:09:07.952Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -419,46 +419,6 @@
       "link": "https://www.ransomware.live/id/U2FuY2l0eSBTb2Z0IFRvdWNoQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Fri, 04 Sep 2026 16:23:12 +0000",
       "summary": "IT services company providing web design & development, software/application development, payment gateway services, digital marketing, mobile applications, software testing and cloud-related services....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Katten Muchin Rosenman",
-      "link": "https://www.ransomware.live/id/S2F0dGVuIE11Y2hpbiBSb3Nlbm1hbkBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Thu, 03 Sep 2026 20:23:46 +0000",
-      "summary": "[AI generated] Katten Muchin Rosenman is a full-service law firm headquartered in the United States. Operating across multiple offices in major American cities and internationally, the firm provides legal services in areas including corporate law, litigation, financial markets, real estate, intellec...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P... S...",
-      "link": "https://www.ransomware.live/id/UC4uLiBTLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 03 Sep 2026 20:23:20 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A...en",
-      "link": "https://www.ransomware.live/id/QS4uLmVuQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 03 Sep 2026 20:22:13 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : myglobal.com",
-      "link": "https://www.ransomware.live/id/bXlnbG9iYWwuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 03 Sep 2026 18:25:31 +0000",
-      "summary": "My Global Services Sdn Bhd is the first authorized distributor of OLED LiFi in Malaysia, specializing in OLED LiFi technology, mechanical and electrical engineering, as well as civil and construction services. The company provides solutions for scientists and research workers, offering sales and sup...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
