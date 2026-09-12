@@ -1,7 +1,268 @@
 {
-  "lastUpdated": "2026-09-12T17:43:27.360Z",
+  "lastUpdated": "2026-09-12T22:07:52.218Z",
   "sourceName": "HIBP + Ransomware Intel",
-  "breaches": [],
+  "breaches": [
+    {
+      "title": "McKesson - 6,404,340 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/McKesson",
+      "pubDate": "Thu, 10 Sep 2026 05:45:39 Z",
+      "summary": "In August 2026, healthcare and pharmaceutical company McKesson was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,404,340 ",
+        "6,404,340"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Manchester Airports Group - 8,849,657 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
+      "pubDate": "Wed, 02 Sep 2026 07:36:59 Z",
+      "summary": "In August 2026, Manchester Airports Group (MAG) disclosed a data breach impacting their services. The incident was later claimed by the FulcrumSec hac...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "8,849,657 ",
+        "8,849,657"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Questel - 1,226,209 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Questel",
+      "pubDate": "Tue, 01 Sep 2026 04:49:35 Z",
+      "summary": "In August 2026, the French intellectual property software and services company Questel was the target of a ShinyHunters \"pay or leak\" extortion campai...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,226,209 ",
+        "1,226,209"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Carhartt - 12,933,413 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Carhartt",
+      "pubDate": "Tue, 25 Aug 2026 21:34:25 Z",
+      "summary": "In August 2026, clothing retailer Carhartt was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data al...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "12,933,413 ",
+        "12,933,413"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "NIUS - 6,090 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/NIUS",
+      "pubDate": "Sun, 23 Aug 2026 22:25:44 Z",
+      "summary": "In July 2025, the German news service NIUS suffered a data breach which was subsequently leaked publicly. The data included 6k unique email addresses ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,090 ",
+        "6,090"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Golf Canada - 568,972 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GolfCanada",
+      "pubDate": "Sat, 22 Aug 2026 07:17:23 Z",
+      "summary": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique em...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "568,972 ",
+        "568,972"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Oz Hair and Beauty - 1,988,331 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
+      "pubDate": "Wed, 19 Aug 2026 03:15:00 Z",
+      "summary": "In August 2026, Australian beauty retailer Oz Hair and Beauty was the target of an xpl0itrs extortion attack. The group subsequently published data al...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,988,331 ",
+        "1,988,331"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Fanlore - 144,520 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fanlore",
+      "pubDate": "Wed, 19 Aug 2026 02:09:16 Z",
+      "summary": "In August 2026, the Organization for Transformative Works (OTW) identified unauthorised access to the Fanlore wiki it operates. The breach resulted in...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "144,520 ",
+        "144,520"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "RingCentral - 1,596,490 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/RingCentral",
+      "pubDate": "Thu, 13 Aug 2026 10:54:40 Z",
+      "summary": "In July 2026, the cloud-based business communications platform RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign. The grou...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "1,596,490 ",
+        "1,596,490"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Alcon - 218,395 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Alcon",
+      "pubDate": "Sun, 09 Aug 2026 10:04:34 Z",
+      "summary": "In August 2026, the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data alleged...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "218,395 ",
+        "218,395"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Brinks Home - 732,162 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BrinksHome",
+      "pubDate": "Sat, 08 Aug 2026 10:44:52 Z",
+      "summary": "In July 2026, Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data they alleged was take...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "732,162 ",
+        "732,162"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Exact Sciences - 10,869,543 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/ExactSciences",
+      "pubDate": "Fri, 07 Aug 2026 06:27:29 Z",
+      "summary": "In July 2026, Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group claimed t...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "10,869,543 ",
+        "10,869,543"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Inter-Con Security - 276,114 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/InterConSecurity",
+      "pubDate": "Wed, 05 Aug 2026 23:39:01 Z",
+      "summary": "In June 2026, Inter-Con Security was targeted in a ShinyHunters “pay or leak” extortion campaign. The group subsequently published data it alleged was...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "276,114 ",
+        "276,114"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "SplitVPN - 865,336 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/SplitVPN",
+      "pubDate": "Sat, 01 Aug 2026 05:29:26 Z",
+      "summary": "In July 2026, the Russian VPN service SplitVPN (previously known as NotVPN) suffered a data breach. The incident exposed millions of customer records,...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "865,336 ",
+        "865,336"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Houston City College - 831,642 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/HoustonCityCollege",
+      "pubDate": "Tue, 28 Jul 2026 06:05:24 Z",
+      "summary": "In June 2026, Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from the college was lat...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "831,642 ",
+        "831,642"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Suno - 55,282,226 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Suno",
+      "pubDate": "Mon, 20 Jul 2026 19:49:51 Z",
+      "summary": "In November 2025, AI music generation tool Suno suffered a data breach that later came to light in July the following year. The data contained over 55...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "55,282,226 ",
+        "55,282,226"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Paidwork - 23,272,765 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Paidwork",
+      "pubDate": "Sun, 19 Jul 2026 22:57:18 Z",
+      "summary": "In March 2026, hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale. Almost 11GB of data alle...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "23,272,765 ",
+        "23,272,765"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Fluke - 821,100 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Fluke",
+      "pubDate": "Wed, 15 Jul 2026 08:01:04 Z",
+      "summary": "In July 2026, electronic test and measurement equipment company Fluke was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subse...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "821,100 ",
+        "821,100"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Goose Creek - 6,574,121 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GooseCreek",
+      "pubDate": "Wed, 15 Jul 2026 05:03:14 Z",
+      "summary": "In June 2026, a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers, claiming the...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,574,121 ",
+        "6,574,121"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "Glendale Community College - 793,925 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GlendaleCommunityCollege",
+      "pubDate": "Sat, 11 Jul 2026 10:40:09 Z",
+      "summary": "In June 2026, Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from Glendale was ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "793,925 ",
+        "793,925"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    }
+  ],
   "ransomware": [
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : i2k2 Networks",
