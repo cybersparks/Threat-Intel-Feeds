@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T04:25:36.750Z",
+  "lastUpdated": "2026-09-13T10:06:21.976Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,16 +389,6 @@
       "link": "https://www.ransomware.live/id/SnVkaWNpYWwgQnJhbmNoIG9mIHRoZSBQcm92aW5jZSBvZiBKdWp1eUBlbXBlcmFkb3I=",
       "pubDate": "Sat, 05 Sep 2026 02:50:45 +0000",
       "summary": "The official website of the Judicial Branch of Jujuy, Argentina. It provides court information, digital case management, mediation services, legal rulings, and judicial news for legal professionals and the public.\n\nNow i have your wordpress databases, login credentials to internal systems(thanks to ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : H... C...",
-      "link": "https://www.ransomware.live/id/SC4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 04 Sep 2026 19:57:57 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
