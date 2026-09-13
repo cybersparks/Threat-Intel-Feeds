@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:07:52.218Z",
+  "lastUpdated": "2026-09-13T04:25:36.750Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Strad Solutions",
+      "link": "https://www.ransomware.live/id/U3RyYWQgU29sdXRpb25zQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Sat, 12 Sep 2026 23:58:29 +0000",
+      "summary": "Strad Solutions provides cloud hosting, dedicated servers, managed IT, cybersecurity, and disaster recovery services for businesses worldwide....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : i2k2 Networks",
       "link": "https://www.ransomware.live/id/aTJrMiBOZXR3b3Jrc0BWZXh5IFJhbnNvbXdhcmU=",
