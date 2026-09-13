@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-13T10:06:21.976Z",
+  "lastUpdated": "2026-09-13T18:02:28.448Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Chess.com (2026) - 4,653,212 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Chess2026",
+      "pubDate": "Sun, 13 Sep 2026 13:09:11 Z",
+      "summary": "In August 2026, millions of records allegedly sourced from Chess.com were posted online. The data contained 7.3M rows with 4.6M unique email addresses...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "202",
+        "202"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "McKesson - 6,404,340 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/McKesson",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Glendale Community College - 793,925 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/GlendaleCommunityCollege",
-      "pubDate": "Sat, 11 Jul 2026 10:40:09 Z",
-      "summary": "In June 2026, Glendale Community College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from Glendale was ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "793,925 ",
-        "793,925"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/TWVnYSBWZWxvY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
       "pubDate": "Sat, 05 Sep 2026 17:22:03 +0000",
       "summary": "New Delhi–based private technology company incorporated in 2013. Its registered business classification is software publishing, consultancy and supply, including software development, maintenance and web-page design. Its network records also identify MEGA VELOCITY PVT LTD as an Internet/hosting netw...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Emperador has just published a new victim : Judicial Branch of the Province of Jujuy",
-      "link": "https://www.ransomware.live/id/SnVkaWNpYWwgQnJhbmNoIG9mIHRoZSBQcm92aW5jZSBvZiBKdWp1eUBlbXBlcmFkb3I=",
-      "pubDate": "Sat, 05 Sep 2026 02:50:45 +0000",
-      "summary": "The official website of the Judicial Branch of Jujuy, Argentina. It provides court information, digital case management, mediation services, legal rulings, and judicial news for legal professionals and the public.\n\nNow i have your wordpress databases, login credentials to internal systems(thanks to ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
