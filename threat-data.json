@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T19:47:24.138Z",
+  "lastUpdated": "2026-09-14T23:02:04.595Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,16 +359,6 @@
       "link": "https://www.ransomware.live/id/TElCUkVSSUEgU0FOVEEgRkUgQSBQIFMgU1JMQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Mon, 07 Sep 2026 08:22:00 +0000",
       "summary": "LSF (Librería Santa Fe) is a bookstore based in Buenos Aires, Argentina, with multiple branches across the city (CABA). It offers a wide selection of both national and imported books across various genres and authors. The store provides an easy online shopping experience where customers can browse a...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Sancity",
-      "link": "https://www.ransomware.live/id/U2FuY2l0eUBWZXh5IFJhbnNvbXdhcmU=",
-      "pubDate": "Sun, 06 Sep 2026 15:00:28 +0000",
-      "summary": "An active, unlisted public company incorporated in 2012, operating in real estate/construction and real-estate marketing & sales...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
