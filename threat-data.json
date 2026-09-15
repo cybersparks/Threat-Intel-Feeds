@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T18:50:49.439Z",
+  "lastUpdated": "2026-09-15T22:49:03.883Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Hashimoto Jimuki",
+      "link": "https://www.ransomware.live/id/SGFzaGltb3RvIEppbXVraUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Tue, 15 Sep 2026 19:58:08 +0000",
+      "summary": "Japanese company providing office equipment, IT equipment and services, office furniture, meeting/conferencing systems, and computer support....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Strad Solutions",
       "link": "https://www.ransomware.live/id/U3RyYWQgU29sdXRpb25zQFZleHkgUmFuc29td2FyZQ==",
