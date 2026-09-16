@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T14:45:31.632Z",
+  "lastUpdated": "2026-09-16T18:47:05.356Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Namibian Defence Force",
+      "link": "https://www.ransomware.live/id/TmFtaWJpYW4gRGVmZW5jZSBGb3JjZUByYW5zb21ob3VzZQ==",
+      "pubDate": "Wed, 16 Sep 2026 15:32:23 +0000",
+      "summary": "The Namibian Defence Force comprises the national military forces of Namibia. It was created when the country, then known as South West Africa, gained independence from apartheid South Africa in 1990....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Hashimoto Jimuki",
       "link": "https://www.ransomware.live/id/SGFzaGltb3RvIEppbXVraUBWZXh5IFJhbnNvbXdhcmU=",
