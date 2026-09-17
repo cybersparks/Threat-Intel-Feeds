@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T04:33:49.859Z",
+  "lastUpdated": "2026-09-17T09:54:58.617Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : STP Fashion Lab",
+      "link": "https://www.ransomware.live/id/U1RQIEZhc2hpb24gTGFiQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Thu, 17 Sep 2026 09:51:37 +0000",
+      "summary": "stpfashionlab.it is the website of STP Fashion Lab, a Tuscan company that has specialized in making Made in Italy womenswear for over twenty years. It produces the FRIVOLITÉ brand, founded in 2019, which targets independent, sensitive, and playful women....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.appliancefactory.com",
+      "link": "https://www.ransomware.live/id/d3d3LmFwcGxpYW5jZWZhY3RvcnkuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 17 Sep 2026 07:25:33 +0000",
+      "summary": "Appliance Factory & Mattress Kingdom offers a wide range of discount appliances and mattresses, providing unbeatable savings to customers across multiple locations including Colorado, Kentucky, Wyoming, and Indiana. Their extensive product lineup includes kitchen appliances, laundry machines, refrig...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.diarco.com.ar",
+      "link": "https://www.ransomware.live/id/d3d3LmRpYXJjby5jb20uYXJAaW5jcmFuc29t",
+      "pubDate": "Thu, 17 Sep 2026 07:24:58 +0000",
+      "summary": "Diarco is a company that operates in the HR & Staffing industry. It employs 1000to4999 people and has 1Gto5G of revenue. The company is headquartered in San Telmo, Capital Federal, Argentina....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Namibian Defence Force",
       "link": "https://www.ransomware.live/id/TmFtaWJpYW4gRGVmZW5jZSBGb3JjZUByYW5zb21ob3VzZQ==",
       "pubDate": "Wed, 16 Sep 2026 15:32:23 +0000",
@@ -339,16 +369,6 @@
       "link": "https://www.ransomware.live/id/TG9nYXIgTmV0d29yayBTb2x1dGlvbnNAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Wed, 09 Sep 2026 14:52:38 +0000",
       "summary": "Logar Network Solutions is a Brazilian managed IT services provider (MSP) that delivers outsourced IT management, cybersecurity, cloud infrastructure, backup and disaster recovery, software licensing, hardware lifecycle management, and custom software development. The company primarily serves medium...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://mediengruppethiel.de/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9tZWRpZW5ncnVwcGV0aGllbC5kZS9AaW5jcmFuc29t",
-      "pubDate": "Wed, 09 Sep 2026 13:31:40 +0000",
-      "summary": "Die Mediengruppe Thiel aus Ludwigsfelde ist Ihr verlässlicher Druck- und Werbepartner, wenn es um individuelle Lösungen für innen und außen geht. Ob eindrucksvolle Printprodukte, maßgeschneiderte Werbetechnik oder professionelle Geschäftsausstattung – bei uns erhalten Sie alles aus einer Hand.\r \r Da...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
