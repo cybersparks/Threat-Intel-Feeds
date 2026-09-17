@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T09:54:58.617Z",
+  "lastUpdated": "2026-09-17T14:48:57.065Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Pertamina",
+      "link": "https://www.ransomware.live/id/UGVydGFtaW5hQHJhbnNvbWhvdXNl",
+      "pubDate": "Thu, 17 Sep 2026 14:31:55 +0000",
+      "summary": "Pertamina is an energy company primarily in the oil and gas sector. The company provides services for new and renewable energy, and other activities related to or supporting business activities in energy....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Silicon Integrated Systems",
+      "link": "https://www.ransomware.live/id/U2lsaWNvbiBJbnRlZ3JhdGVkIFN5c3RlbXNAaW5jcmFuc29t",
+      "pubDate": "Thu, 17 Sep 2026 14:27:16 +0000",
+      "summary": "Silicon Integrated Systems Corporation (SiS) is a Taiwan-based professional IC design company specializing in analog and mixed-signal technologies....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : STP Fashion Lab",
       "link": "https://www.ransomware.live/id/U1RQIEZhc2hpb24gTGFiQFZleHkgUmFuc29td2FyZQ==",
       "pubDate": "Thu, 17 Sep 2026 09:51:37 +0000",
@@ -349,26 +369,6 @@
       "link": "https://www.ransomware.live/id/am1zIGJ1aWxkaW5nIGNvcnBvcmF0aW9uQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 10 Sep 2026 13:00:16 +0000",
       "summary": "JMS Building Construction is a full service Insurance Restoration construction company that handles every step of the Insurance Restoration process, \r from dealing with your insurance company to restoring your home's integrity\r \r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents \r - Clients ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cullottalaw.com",
-      "link": "https://www.ransomware.live/id/Y3VsbG90dGFsYXcuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 09 Sep 2026 20:01:15 +0000",
-      "summary": "Cullotta Bravo Law Group is a personal injury law firm based in Aurora, IL, with over 35 years of experience in various legal areas including personal injury, nursing home abuse, and workers compensation....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Logar Network Solutions",
-      "link": "https://www.ransomware.live/id/TG9nYXIgTmV0d29yayBTb2x1dGlvbnNAVmV4eSBSYW5zb213YXJl",
-      "pubDate": "Wed, 09 Sep 2026 14:52:38 +0000",
-      "summary": "Logar Network Solutions is a Brazilian managed IT services provider (MSP) that delivers outsourced IT management, cybersecurity, cloud infrastructure, backup and disaster recovery, software licensing, hardware lifecycle management, and custom software development. The company primarily serves medium...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
