@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T22:46:42.880Z",
+  "lastUpdated": "2026-09-18T04:18:56.209Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : C...",
+      "link": "https://www.ransomware.live/id/Qy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Thu, 17 Sep 2026 22:54:46 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Pertamina",
       "link": "https://www.ransomware.live/id/UGVydGFtaW5hQHJhbnNvbWhvdXNl",
       "pubDate": "Thu, 17 Sep 2026 14:31:55 +0000",
@@ -349,16 +359,6 @@
       "link": "https://www.ransomware.live/id/aTJrMiBOZXR3b3Jrc0BWZXh5IFJhbnNvbXdhcmU=",
       "pubDate": "Thu, 10 Sep 2026 21:27:11 +0000",
       "summary": "i2k2 Networks Pvt. Ltd., established in 1999, is a leading Indian provider of cloud computing, web hosting, managed IT, data center, backup, disaster recovery, and DevOps solutions. With 25+ years of experience, 4,000+ customers, Tier III-compliant data centers, and 24/7 support, i2k2 delivers secur...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : California School Employees Association",
-      "link": "https://www.ransomware.live/id/Q2FsaWZvcm5pYSBTY2hvb2wgRW1wbG95ZWVzIEFzc29jaWF0aW9uQHJhbnNvbWhvdXNl",
-      "pubDate": "Thu, 10 Sep 2026 17:31:50 +0000",
-      "summary": "The California School Employees Association (CSEA) is dedicated to supporting classified school employees and advocating for public education. They offer a range of member benefits including financial services, legal help, and educational resources. CSEA aims to protect the rights of its members whi...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
