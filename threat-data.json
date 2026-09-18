@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T14:18:36.872Z",
+  "lastUpdated": "2026-09-18T18:15:43.558Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 192EB2B6AD7B98D9",
+      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMTkyRUIyQjZBRDdCOThEOUBBdWRpdFRlYW0=",
+      "pubDate": "Fri, 18 Sep 2026 15:50:21 +0000",
+      "summary": "[AI generated] N/A\n\nI don't have any reliable information about a company named \"Paid Victim 192EB2B6AD7B98D9.\" This appears to be an anonymized or coded identifier, possibly from a ransomware leak site or threat intelligence feed, rather than an actual company name. Without access to the specific d...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : www.roancampingholidays.com",
       "link": "https://www.ransomware.live/id/d3d3LnJvYW5jYW1waW5naG9saWRheXMuY29tQGluY3JhbnNvbQ==",
