@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-21T10:34:33.360Z",
+  "lastUpdated": "2026-09-21T19:55:54.999Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Burger King Russia - 3,155,792 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/BurgerKingRussia",
+      "pubDate": "Mon, 21 Sep 2026 13:54:00 Z",
+      "summary": "In October 2024, news of a data breach exposing Burger King Russia customers broke following an August attack on the Mindbox marketing automation plat...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "3,155,792 ",
+        "3,155,792"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Chess.com (2026) - 4,653,212 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Chess2026",
@@ -245,19 +258,6 @@
       "breachCount": [
         "821,100 ",
         "821,100"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Goose Creek - 6,574,121 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/GooseCreek",
-      "pubDate": "Wed, 15 Jul 2026 05:03:14 Z",
-      "summary": "In June 2026, a party claiming to have access to data from Goose Creek Candle Company sent emails to a number of the company's customers, claiming the...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "6,574,121 ",
-        "6,574,121"
       ],
       "isBreach": true,
       "isRansomware": false
