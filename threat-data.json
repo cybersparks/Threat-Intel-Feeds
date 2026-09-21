@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T22:19:40.254Z",
+  "lastUpdated": "2026-09-21T04:32:20.504Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : SECOND HOUSE",
+      "link": "https://www.ransomware.live/id/U0VDT05EIEhPVVNFQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 21 Sep 2026 00:35:05 +0000",
+      "summary": "Second House (Second House, S.L.) is a privately held real estate company   \r    headquartered in Barcelona, Spain, with over 26 years of experience in the  \r    property sector. Their business model centers on buying properties and      \r    adding value to them — through renovation works, improvin...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Maryann Kriger",
+      "link": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t",
+      "pubDate": "Mon, 21 Sep 2026 00:34:36 +0000",
+      "summary": "At Bonita Orthodontics, Dr. Maryann Kriger and our friendly team provide    \r    personalized orthodontic care using state-of-the-art technology. As a       \r    board-certified orthodontist and Elite Invisalign Provider, Dr. Kriger takes\r    a conservative approach — creating simple, affordable tre...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Emperador has just published a new victim : Electrolux",
       "link": "https://www.ransomware.live/id/RWxlY3Ryb2x1eEBlbXBlcmFkb3I=",
