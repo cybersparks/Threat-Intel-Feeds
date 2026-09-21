@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T19:55:54.999Z",
+  "lastUpdated": "2026-09-21T23:10:18.286Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hogan Lovells Cadwalader",
+      "link": "https://www.ransomware.live/id/SG9nYW4gTG92ZWxscyBDYWR3YWxhZGVyQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Mon, 21 Sep 2026 21:55:47 +0000",
+      "summary": "[AI generated] N/A\n\nThe name \"Hogan Lovells Cadwalader\" does not correspond to a single known entity. Hogan Lovells and Cadwalader, Wickersham & Taft are two separate, distinct international law firms. Hogan Lovells is a global law firm formed from a 2010 merger of Hogan & Hartson and Lovells, headq...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : SECOND HOUSE",
       "link": "https://www.ransomware.live/id/U0VDT05EIEhPVVNFQGluY3JhbnNvbQ==",
