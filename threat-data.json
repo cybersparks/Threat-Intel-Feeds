@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T18:41:56.640Z",
+  "lastUpdated": "2026-09-22T22:51:01.164Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : B...",
+      "link": "https://www.ransomware.live/id/Qi4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Tue, 22 Sep 2026 19:30:50 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Cozen O'Connor",
+      "link": "https://www.ransomware.live/id/Q296ZW4gTydDb25ub3JAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Tue, 22 Sep 2026 19:29:26 +0000",
+      "summary": "[AI generated] Cozen O'Connor is an American full-service law firm headquartered in Philadelphia, Pennsylvania. Founded in 1970, it operates in the legal services industry, providing counsel across practice areas including litigation, corporate law, insurance, real estate, labor and employment, cybe...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W...",
+      "link": "https://www.ransomware.live/id/Vy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Tue, 22 Sep 2026 19:29:02 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Shinyhunters has just published a new victim : PSA - READ THIS NOW",
+      "link": "https://www.ransomware.live/id/UFNBIC0gUkVBRCBUSElTIE5PV0BzaGlueWh1bnRlcnM=",
+      "pubDate": "Tue, 22 Sep 2026 18:51:02 +0000",
+      "summary": "Dear Assistant Director Brett Leatherman of the FBI Cyber Division & Director Kash Patel of the FBI, During Quarter Two of this year the Federal Bureau of Investigation (FBI) made substantial false allegations regarding our organisation in a FLASH report. We have been severely offended. We were very...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hogan Lovells Cadwalader",
       "link": "https://www.ransomware.live/id/SG9nYW4gTG92ZWxscyBDYWR3YWxhZGVyQFNpbGVudFJhbnNvbUdyb3Vw",
