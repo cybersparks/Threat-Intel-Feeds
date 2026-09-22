@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T09:48:27.743Z",
+  "lastUpdated": "2026-09-22T14:36:19.276Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -263,5 +263,166 @@
       "isRansomware": false
     }
   ],
-  "ransomware": []
+  "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hogan Lovells Cadwalader",
+      "link": "https://www.ransomware.live/id/SG9nYW4gTG92ZWxscyBDYWR3YWxhZGVyQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Mon, 21 Sep 2026 21:55:47 +0000",
+      "summary": "[AI generated] N/A\n\nThe name \"Hogan Lovells Cadwalader\" does not correspond to a single known entity. Hogan Lovells and Cadwalader, Wickersham & Taft are two separate, distinct international law firms. Hogan Lovells is a global law firm formed from a 2010 merger of Hogan & Hartson and Lovells, headq...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : SECOND HOUSE",
+      "link": "https://www.ransomware.live/id/U0VDT05EIEhPVVNFQGluY3JhbnNvbQ==",
+      "pubDate": "Mon, 21 Sep 2026 00:35:05 +0000",
+      "summary": "Second House (Second House, S.L.) is a privately held real estate company   \r    headquartered in Barcelona, Spain, with over 26 years of experience in the  \r    property sector. Their business model centers on buying properties and      \r    adding value to them — through renovation works, improvin...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Maryann Kriger",
+      "link": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t",
+      "pubDate": "Mon, 21 Sep 2026 00:34:36 +0000",
+      "summary": "At Bonita Orthodontics, Dr. Maryann Kriger and our friendly team provide    \r    personalized orthodontic care using state-of-the-art technology. As a       \r    board-certified orthodontist and Elite Invisalign Provider, Dr. Kriger takes\r    a conservative approach — creating simple, affordable tre...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Emperador has just published a new victim : Electrolux",
+      "link": "https://www.ransomware.live/id/RWxlY3Ryb2x1eEBlbXBlcmFkb3I=",
+      "pubDate": "Sat, 19 Sep 2026 15:50:53 +0000",
+      "summary": "Electrolux Group is a Swedish multinational home-appliance manufacturer, producing refrigerators, washing machines, ovens, dishwashers, vacuum cleaners, and other household appliances under several brands worldwide.\r\n\r\nWe were able to access your azure database, and export every piece of data which ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Quy Nhon University",
+      "link": "https://www.ransomware.live/id/UXV5IE5ob24gVW5pdmVyc2l0eUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Sat, 19 Sep 2026 07:54:22 +0000",
+      "summary": "Quy Nhon University (QNU) is a public, multidisciplinary university located in Quy Nhon City, Binh Dinh Province, Vietnam. Established in 1977, the university has a long-standing tradition in teacher education and has developed into a comprehensive institution offering a wide range of academic progr...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 192EB2B6AD7B98D9",
+      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMTkyRUIyQjZBRDdCOThEOUBBdWRpdFRlYW0=",
+      "pubDate": "Fri, 18 Sep 2026 15:50:21 +0000",
+      "summary": "[AI generated] N/A\n\nI don't have any reliable information about a company named \"Paid Victim 192EB2B6AD7B98D9.\" This appears to be an anonymized or coded identifier, possibly from a ransomware leak site or threat intelligence feed, rather than an actual company name. Without access to the specific d...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.roancampingholidays.com",
+      "link": "https://www.ransomware.live/id/d3d3LnJvYW5jYW1waW5naG9saWRheXMuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Fri, 18 Sep 2026 12:42:56 +0000",
+      "summary": "Roan Luxury Camping Holidays is a Dutch tour operator specializing in deluxe mobile home and tent rentals at 4- and 5-star campsites across Europe...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.kendallhunt.com",
+      "link": "https://www.ransomware.live/id/d3d3LmtlbmRhbGxodW50LmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Fri, 18 Sep 2026 12:42:19 +0000",
+      "summary": "Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students, teachers, and parents. Kendall Hun...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : C...",
+      "link": "https://www.ransomware.live/id/Qy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Thu, 17 Sep 2026 22:54:46 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Pertamina",
+      "link": "https://www.ransomware.live/id/UGVydGFtaW5hQHJhbnNvbWhvdXNl",
+      "pubDate": "Thu, 17 Sep 2026 14:31:55 +0000",
+      "summary": "Pertamina is an energy company primarily in the oil and gas sector. The company provides services for new and renewable energy, and other activities related to or supporting business activities in energy....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Silicon Integrated Systems",
+      "link": "https://www.ransomware.live/id/U2lsaWNvbiBJbnRlZ3JhdGVkIFN5c3RlbXNAaW5jcmFuc29t",
+      "pubDate": "Thu, 17 Sep 2026 14:27:16 +0000",
+      "summary": "Silicon Integrated Systems Corporation (SiS) is a Taiwan-based professional IC design company specializing in analog and mixed-signal technologies....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : STP Fashion Lab",
+      "link": "https://www.ransomware.live/id/U1RQIEZhc2hpb24gTGFiQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Thu, 17 Sep 2026 09:51:37 +0000",
+      "summary": "stpfashionlab.it is the website of STP Fashion Lab, a Tuscan company that has specialized in making Made in Italy womenswear for over twenty years. It produces the FRIVOLITÉ brand, founded in 2019, which targets independent, sensitive, and playful women....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.appliancefactory.com",
+      "link": "https://www.ransomware.live/id/d3d3LmFwcGxpYW5jZWZhY3RvcnkuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 17 Sep 2026 07:25:33 +0000",
+      "summary": "Appliance Factory & Mattress Kingdom offers a wide range of discount appliances and mattresses, providing unbeatable savings to customers across multiple locations including Colorado, Kentucky, Wyoming, and Indiana. Their extensive product lineup includes kitchen appliances, laundry machines, refrig...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.diarco.com.ar",
+      "link": "https://www.ransomware.live/id/d3d3LmRpYXJjby5jb20uYXJAaW5jcmFuc29t",
+      "pubDate": "Thu, 17 Sep 2026 07:24:58 +0000",
+      "summary": "Diarco is a company that operates in the HR & Staffing industry. It employs 1000to4999 people and has 1Gto5G of revenue. The company is headquartered in San Telmo, Capital Federal, Argentina....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Namibian Defence Force",
+      "link": "https://www.ransomware.live/id/TmFtaWJpYW4gRGVmZW5jZSBGb3JjZUByYW5zb21ob3VzZQ==",
+      "pubDate": "Wed, 16 Sep 2026 15:32:23 +0000",
+      "summary": "The Namibian Defence Force comprises the national military forces of Namibia. It was created when the country, then known as South West Africa, gained independence from apartheid South Africa in 1990....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Hashimoto Jimuki",
+      "link": "https://www.ransomware.live/id/SGFzaGltb3RvIEppbXVraUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Tue, 15 Sep 2026 19:58:08 +0000",
+      "summary": "Japanese company providing office equipment, IT equipment and services, office furniture, meeting/conferencing systems, and computer support....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    }
+  ]
 }
