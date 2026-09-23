@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T22:51:01.164Z",
+  "lastUpdated": "2026-09-23T04:24:52.898Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W... B...",
+      "link": "https://www.ransomware.live/id/Vy4uLiBCLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 23 Sep 2026 00:22:21 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Clark Hill",
+      "link": "https://www.ransomware.live/id/Q2xhcmsgSGlsbEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Tue, 22 Sep 2026 22:52:34 +0000",
+      "summary": "[AI generated] Clark Hill (Clark Hill PLC) is a full-service law firm headquartered in Detroit, Michigan, United States. It operates in the legal services industry, providing counsel across practice areas including corporate law, litigation, labor and employment, intellectual property, cybersecurity...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : B...",
       "link": "https://www.ransomware.live/id/Qi4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
