@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T22:51:48.269Z",
+  "lastUpdated": "2026-09-24T04:21:55.210Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -469,16 +469,6 @@
       "link": "https://www.ransomware.live/id/d3d3LmRpYXJjby5jb20uYXJAaW5jcmFuc29t",
       "pubDate": "Thu, 17 Sep 2026 07:24:58 +0000",
       "summary": "Diarco is a company that operates in the HR & Staffing industry. It employs 1000to4999 people and has 1Gto5G of revenue. The company is headquartered in San Telmo, Capital Federal, Argentina....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Namibian Defence Force",
-      "link": "https://www.ransomware.live/id/TmFtaWJpYW4gRGVmZW5jZSBGb3JjZUByYW5zb21ob3VzZQ==",
-      "pubDate": "Wed, 16 Sep 2026 15:32:23 +0000",
-      "summary": "The Namibian Defence Force comprises the national military forces of Namibia. It was created when the country, then known as South West Africa, gained independence from apartheid South Africa in 1990....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
