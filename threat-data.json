@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T14:50:12.826Z",
+  "lastUpdated": "2026-09-24T18:57:59.215Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bnlawmacau.com www.bn-ip.com",
+      "link": "https://www.ransomware.live/id/Ym5sYXdtYWNhdS5jb20gd3d3LmJuLWlwLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Thu, 24 Sep 2026 17:58:23 +0000",
+      "summary": "full data all country...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : welgenone.com",
+      "link": "https://www.ransomware.live/id/d2VsZ2Vub25lLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Thu, 24 Sep 2026 17:08:57 +0000",
+      "summary": "Welgen One is a mobile wellness service provider based in Georgia, USA, offering personalized wellness care and dispensary access across Atlanta. The company focuses on delivering innovative healthcare solutions, including remote patient monitoring and onsite wellness programs, to enhance overall we...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ukbjja.org",
+      "link": "https://www.ransomware.live/id/dWtiamphLm9yZ0BpbmNyYW5zb20=",
+      "pubDate": "Thu, 24 Sep 2026 17:07:56 +0000",
+      "summary": "full data...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Grupo Caberj",
       "link": "https://www.ransomware.live/id/R3J1cG8gQ2FiZXJqQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 24 Sep 2026 12:07:14 +0000",
@@ -439,26 +469,6 @@
       "link": "https://www.ransomware.live/id/Qy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
       "pubDate": "Thu, 17 Sep 2026 22:54:46 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Pertamina",
-      "link": "https://www.ransomware.live/id/UGVydGFtaW5hQHJhbnNvbWhvdXNl",
-      "pubDate": "Thu, 17 Sep 2026 14:31:55 +0000",
-      "summary": "Pertamina is an energy company primarily in the oil and gas sector. The company provides services for new and renewable energy, and other activities related to or supporting business activities in energy....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Silicon Integrated Systems",
-      "link": "https://www.ransomware.live/id/U2lsaWNvbiBJbnRlZ3JhdGVkIFN5c3RlbXNAaW5jcmFuc29t",
-      "pubDate": "Thu, 17 Sep 2026 14:27:16 +0000",
-      "summary": "Silicon Integrated Systems Corporation (SiS) is a Taiwan-based professional IC design company specializing in analog and mixed-signal technologies....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
