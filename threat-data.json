@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T04:21:55.210Z",
+  "lastUpdated": "2026-09-24T09:50:04.086Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Shinyhunters has just published a new victim : Final statement re PSA",
+      "link": "https://www.ransomware.live/id/RmluYWwgc3RhdGVtZW50IHJlIFBTQUBzaGlueWh1bnRlcnM=",
+      "pubDate": "Thu, 24 Sep 2026 08:44:48 +0000",
+      "summary": "Good afternoon, We have no further comments to make regarding our PSA statement we released the other day. Our organisation is highly confident we have achieved our goal and our intentions we repeatedly made clear to journalists and in our public statements. There is 5 days remaining still. We have ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Lemon Law",
       "link": "https://www.ransomware.live/id/TGVtb24gTGF3QGluY3JhbnNvbQ==",
