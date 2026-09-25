@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T10:05:52.615Z",
+  "lastUpdated": "2026-09-25T19:12:00.713Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Majani Insurance Brokers",
+      "link": "https://www.ransomware.live/id/TWFqYW5pIEluc3VyYW5jZSBCcm9rZXJzQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Fri, 25 Sep 2026 13:24:43 +0000",
+      "summary": "Majani Insurance Brokers is an independent insurance broker serving both businesses and individuals. It arranges insurance products across areas including general business insurance, motor, medical, life, investment, marine, liability, property and agricultural-related covers...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : pharma5.ma",
+      "link": "https://www.ransomware.live/id/cGhhcm1hNS5tYUBpbmNyYW5zb20=",
+      "pubDate": "Fri, 25 Sep 2026 10:33:40 +0000",
+      "summary": "Pharma5\r \r 21, Rue des Asphodèles, Maârif Extension, 20100 Casablanca, Morocco\r 05 22 23 62 15\r pharma5.ma\r \r Leaked data: 50Gb\r \r Corporate and financial information, data on products and their supply, quality control and certification, drug testing and related issues, employee personal data, count...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : bnlawmacau.com www.bn-ip.com",
       "link": "https://www.ransomware.live/id/Ym5sYXdtYWNhdS5jb20gd3d3LmJuLWlwLmNvbUBpbmNyYW5zb20=",
       "pubDate": "Thu, 24 Sep 2026 17:58:23 +0000",
@@ -459,16 +479,6 @@
       "link": "https://www.ransomware.live/id/d3d3LmtlbmRhbGxodW50LmNvbUBpbmNyYW5zb20=",
       "pubDate": "Fri, 18 Sep 2026 12:42:19 +0000",
       "summary": "Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students, teachers, and parents. Kendall Hun...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : C...",
-      "link": "https://www.ransomware.live/id/Qy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Thu, 17 Sep 2026 22:54:46 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
