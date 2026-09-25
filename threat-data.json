@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T19:12:00.713Z",
+  "lastUpdated": "2026-09-25T23:12:33.077Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : N...",
+      "link": "https://www.ransomware.live/id/Ti4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Fri, 25 Sep 2026 19:28:34 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S...",
+      "link": "https://www.ransomware.live/id/Uy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Fri, 25 Sep 2026 19:27:29 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Majani Insurance Brokers",
       "link": "https://www.ransomware.live/id/TWFqYW5pIEluc3VyYW5jZSBCcm9rZXJzQFZleHkgUmFuc29td2FyZQ==",
