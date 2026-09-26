@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T04:37:58.941Z",
+  "lastUpdated": "2026-09-26T09:46:55.477Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -469,36 +469,6 @@
       "link": "https://www.ransomware.live/id/UXV5IE5ob24gVW5pdmVyc2l0eUBWZXh5IFJhbnNvbXdhcmU=",
       "pubDate": "Sat, 19 Sep 2026 07:54:22 +0000",
       "summary": "Quy Nhon University (QNU) is a public, multidisciplinary university located in Quy Nhon City, Binh Dinh Province, Vietnam. Established in 1977, the university has a long-standing tradition in teacher education and has developed into a comprehensive institution offering a wide range of academic progr...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 192EB2B6AD7B98D9",
-      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMTkyRUIyQjZBRDdCOThEOUBBdWRpdFRlYW0=",
-      "pubDate": "Fri, 18 Sep 2026 15:50:21 +0000",
-      "summary": "[AI generated] N/A\n\nI don't have any reliable information about a company named \"Paid Victim 192EB2B6AD7B98D9.\" This appears to be an anonymized or coded identifier, possibly from a ransomware leak site or threat intelligence feed, rather than an actual company name. Without access to the specific d...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.roancampingholidays.com",
-      "link": "https://www.ransomware.live/id/d3d3LnJvYW5jYW1waW5naG9saWRheXMuY29tQGluY3JhbnNvbQ==",
-      "pubDate": "Fri, 18 Sep 2026 12:42:56 +0000",
-      "summary": "Roan Luxury Camping Holidays is a Dutch tour operator specializing in deluxe mobile home and tent rentals at 4- and 5-star campsites across Europe...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.kendallhunt.com",
-      "link": "https://www.ransomware.live/id/d3d3LmtlbmRhbGxodW50LmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Fri, 18 Sep 2026 12:42:19 +0000",
-      "summary": "Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students, teachers, and parents. Kendall Hun...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
