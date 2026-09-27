@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T18:57:04.337Z",
+  "lastUpdated": "2026-09-27T22:55:36.671Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -449,16 +449,6 @@
       "link": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t",
       "pubDate": "Mon, 21 Sep 2026 00:34:36 +0000",
       "summary": "At Bonita Orthodontics, Dr. Maryann Kriger and our friendly team provide    \r    personalized orthodontic care using state-of-the-art technology. As a       \r    board-certified orthodontist and Elite Invisalign Provider, Dr. Kriger takes\r    a conservative approach — creating simple, affordable tre...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Emperador has just published a new victim : Electrolux",
-      "link": "https://www.ransomware.live/id/RWxlY3Ryb2x1eEBlbXBlcmFkb3I=",
-      "pubDate": "Sat, 19 Sep 2026 15:50:53 +0000",
-      "summary": "Electrolux Group is a Swedish multinational home-appliance manufacturer, producing refrigerators, washing machines, ovens, dishwashers, vacuum cleaners, and other household appliances under several brands worldwide.\r\n\r\nWe were able to access your azure database, and export every piece of data which ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
