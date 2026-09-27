@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T10:29:33.405Z",
+  "lastUpdated": "2026-09-27T18:57:04.337Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -459,16 +459,6 @@
       "link": "https://www.ransomware.live/id/RWxlY3Ryb2x1eEBlbXBlcmFkb3I=",
       "pubDate": "Sat, 19 Sep 2026 15:50:53 +0000",
       "summary": "Electrolux Group is a Swedish multinational home-appliance manufacturer, producing refrigerators, washing machines, ovens, dishwashers, vacuum cleaners, and other household appliances under several brands worldwide.\r\n\r\nWe were able to access your azure database, and export every piece of data which ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Quy Nhon University",
-      "link": "https://www.ransomware.live/id/UXV5IE5ob24gVW5pdmVyc2l0eUBWZXh5IFJhbnNvbXdhcmU=",
-      "pubDate": "Sat, 19 Sep 2026 07:54:22 +0000",
-      "summary": "Quy Nhon University (QNU) is a public, multidisciplinary university located in Quy Nhon City, Binh Dinh Province, Vietnam. Established in 1977, the university has a long-standing tradition in teacher education and has developed into a comprehensive institution offering a wide range of academic progr...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
