@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T05:23:38.639Z",
+  "lastUpdated": "2026-09-29T16:26:15.469Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 32373FFB7AF7E725",
+      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMzIzNzNGRkI3QUY3RTcyNUBBdWRpdFRlYW0=",
+      "pubDate": "Tue, 29 Sep 2026 12:50:25 +0000",
+      "summary": "[AI generated] N/A\n\nI don't have reliable information about a company with this specific identifier. This appears to be an anonymized or coded reference, possibly from a ransomware leak site or threat intelligence feed, rather than a verifiable company name. Without access to real-time threat intell...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bcx.co.za",
+      "link": "https://www.ransomware.live/id/YmN4LmNvLnphQGluY3JhbnNvbQ==",
+      "pubDate": "Tue, 29 Sep 2026 12:32:11 +0000",
+      "summary": "www.bcx.co.za\r BCX (Business Connexion)\r https://www.zoominfo.com/c/business-connexion-pty-ltd/372844609\r \r Total leak: 500 GB 4,224,088 Files, 596,613 Folders\r \r The leak includes source code, technical documentation and other confidential information.\r \r Source code:\r \r 6 fully functional business...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Groupe Proxitel",
+      "link": "https://www.ransomware.live/id/R3JvdXBlIFByb3hpdGVsQFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Tue, 29 Sep 2026 12:23:17 +0000",
+      "summary": "French B2B technology provider offering professional Internet connectivity (fiber/DSL, 4G/5G backup), fixed and mobile telephony, cybersecurity, IT backup, collaboration, networking and computer hardware. The group is based in Avignon and serves businesses and public-sector organizations....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : bakemyday.se",
       "link": "https://www.ransomware.live/id/YmFrZW15ZGF5LnNlQGluY3JhbnNvbQ==",
       "pubDate": "Mon, 28 Sep 2026 19:30:12 +0000",
@@ -469,16 +499,6 @@
       "link": "https://www.ransomware.live/id/UFNBIC0gUkVBRCBUSElTIE5PV0BzaGlueWh1bnRlcnM=",
       "pubDate": "Tue, 22 Sep 2026 18:51:02 +0000",
       "summary": "Dear Assistant Director Brett Leatherman of the FBI Cyber Division & Director Kash Patel of the FBI, During Quarter Two of this year the Federal Bureau of Investigation (FBI) made substantial false allegations regarding our organisation in a FLASH report. We have been severely offended. We were very...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hogan Lovells Cadwalader",
-      "link": "https://www.ransomware.live/id/SG9nYW4gTG92ZWxscyBDYWR3YWxhZGVyQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Mon, 21 Sep 2026 21:55:47 +0000",
-      "summary": "[AI generated] N/A\n\nThe name \"Hogan Lovells Cadwalader\" does not correspond to a single known entity. Hogan Lovells and Cadwalader, Wickersham & Taft are two separate, distinct international law firms. Hogan Lovells is a global law firm formed from a 2010 merger of Hogan & Hartson and Lovells, headq...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
