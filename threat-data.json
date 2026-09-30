@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-30T05:11:21.869Z",
+  "lastUpdated": "2026-09-30T16:20:49.279Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Medela - 423,947 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Medela",
+      "pubDate": "Wed, 30 Sep 2026 11:48:28 Z",
+      "summary": "In September 2026, Swiss medical device company Medela was the target of a ShinyHunters \"pay or leak\" extortion campaign. The data allegedly obtained ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "423,947 ",
+        "423,947"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "LimeLeads - 17,838,396 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/LimeLeads",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Paidwork - 23,272,765 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Paidwork",
-      "pubDate": "Sun, 19 Jul 2026 22:57:18 Z",
-      "summary": "In March 2026, hackers claimed they had obtained data from the gig economy platform Paidwork which they then listed for sale. Almost 11GB of data alle...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "23,272,765 ",
-        "23,272,765"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -409,16 +409,6 @@
       "link": "https://www.ransomware.live/id/dWtiamphLm9yZ0BpbmNyYW5zb20=",
       "pubDate": "Thu, 24 Sep 2026 17:07:56 +0000",
       "summary": "full data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Grupo Caberj",
-      "link": "https://www.ransomware.live/id/R3J1cG8gQ2FiZXJqQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 24 Sep 2026 12:07:14 +0000",
-      "summary": "O Grupo Caberj, que oferece uma ampla gama de seguros, foi hackeado há 10 dias...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
