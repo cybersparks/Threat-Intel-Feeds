@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T16:20:49.279Z",
+  "lastUpdated": "2026-09-30T23:37:43.016Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Summit Electric Supply",
+      "link": "https://www.ransomware.live/id/U3VtbWl0IEVsZWN0cmljIFN1cHBseUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Wed, 30 Sep 2026 20:55:47 +0000",
+      "summary": "Summit Electric Supply supplies electrical products and solutions for commercial, industrial, construction, OEM, institutional, and marine applications. Its website allows customers to browse products, check availability, manage orders, view invoices, and purchase online....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 32373FFB7AF7E725",
       "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMzIzNzNGRkI3QUY3RTcyNUBBdWRpdFRlYW0=",
       "pubDate": "Tue, 29 Sep 2026 12:50:25 +0000",
@@ -379,36 +389,6 @@
       "link": "https://www.ransomware.live/id/cGhhcm1hNS5tYUBpbmNyYW5zb20=",
       "pubDate": "Fri, 25 Sep 2026 10:33:40 +0000",
       "summary": "Pharma5\r \r 21, Rue des Asphodèles, Maârif Extension, 20100 Casablanca, Morocco\r 05 22 23 62 15\r pharma5.ma\r \r Leaked data: 50Gb\r \r Corporate and financial information, data on products and their supply, quality control and certification, drug testing and related issues, employee personal data, count...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : bnlawmacau.com www.bn-ip.com",
-      "link": "https://www.ransomware.live/id/Ym5sYXdtYWNhdS5jb20gd3d3LmJuLWlwLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Thu, 24 Sep 2026 17:58:23 +0000",
-      "summary": "full data all country...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : welgenone.com",
-      "link": "https://www.ransomware.live/id/d2VsZ2Vub25lLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Thu, 24 Sep 2026 17:08:57 +0000",
-      "summary": "Welgen One is a mobile wellness service provider based in Georgia, USA, offering personalized wellness care and dispensary access across Atlanta. The company focuses on delivering innovative healthcare solutions, including remote patient monitoring and onsite wellness programs, to enhance overall we...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ukbjja.org",
-      "link": "https://www.ransomware.live/id/dWtiamphLm9yZ0BpbmNyYW5zb20=",
-      "pubDate": "Thu, 24 Sep 2026 17:07:56 +0000",
-      "summary": "full data...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
