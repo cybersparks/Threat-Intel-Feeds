@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T16:57:52.108Z",
+  "lastUpdated": "2026-10-01T23:49:41.925Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Hospital Hermilio Valdizán",
+      "link": "https://www.ransomware.live/id/SG9zcGl0YWwgSGVybWlsaW8gVmFsZGl6w6FuQHJhbnNvbWhvdXNl",
+      "pubDate": "Thu, 01 Oct 2026 21:05:18 +0000",
+      "summary": "HHV public psychiatric hospital in Lima, Peru, operated by MINSA. It provides specialized mental health services, including inpatient and outpatient psychiatric care, psychotherapy, rehabilitation, and neurology. Its main clients are low-income patients, many covered by SIS....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Terca",
       "link": "https://www.ransomware.live/id/VGVyY2FAcmFuc29taG91c2U=",
