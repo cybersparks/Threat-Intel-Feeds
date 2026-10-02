@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T23:49:41.925Z",
+  "lastUpdated": "2026-10-02T05:14:08.266Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Sangre de Cristo Electric Association",
+      "link": "https://www.ransomware.live/id/U2FuZ3JlIGRlIENyaXN0byBFbGVjdHJpYyBBc3NvY2lhdGlvbkBpbmNyYW5zb20=",
+      "pubDate": "Fri, 02 Oct 2026 01:33:07 +0000",
+      "summary": "Sangre de Cristo Electric Association (SDCEA) has been informed that a substantial volume of sensitive information has been compromised. The affected information includes customer personally identifiable information, financial and payment data, utility account information, and information associated...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Hospital Hermilio Valdizán",
       "link": "https://www.ransomware.live/id/SG9zcGl0YWwgSGVybWlsaW8gVmFsZGl6w6FuQHJhbnNvbWhvdXNl",
