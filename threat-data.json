@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T04:57:08.374Z",
+  "lastUpdated": "2026-10-03T10:19:59.491Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -409,36 +409,6 @@
       "link": "https://www.ransomware.live/id/Uy4uLmRAU2lsZW50UmFuc29tR3JvdXA=",
       "pubDate": "Mon, 28 Sep 2026 15:52:22 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Emperador has just published a new victim : SiteProRentals",
-      "link": "https://www.ransomware.live/id/U2l0ZVByb1JlbnRhbHNAZW1wZXJhZG9y",
-      "pubDate": "Mon, 28 Sep 2026 02:51:39 +0000",
-      "summary": "SitePro Rentals is a Texas-based construction and industrial equipment rental company founded in 2021. A subsidiary of Sammons Industrial, it rents aerial lifts, forklifts, and earthmoving equipment, serving contractors across the U.S. from over 30 locations.\n\nWe have every employee's Social Securit...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : AHEAD",
-      "link": "https://www.ransomware.live/id/QUhFQURAaW5jcmFuc29t",
-      "pubDate": "Mon, 28 Sep 2026 00:35:17 +0000",
-      "summary": "AHEAD is a Chicago-based IT consulting and engineering firm specializing in the digital transformation of large enterprises. It offers strategic consulting and managed services across cloud, cybersecurity, data and AI, infrastructure, and operations. The company positions itself as an \"engineering-l...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : nsbsd.org",
-      "link": "https://www.ransomware.live/id/bnNic2Qub3JnQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 28 Sep 2026 00:34:42 +0000",
-      "summary": "North Slope Borough School District is a public school district serving the remote communities of Alaska's North Slope, headquartered in Utqiaġvik. It operates 11 schools across the borough, enrolling approximately 2,044 students from Pre-K through 12th grade. The district's mission is rooted in Iñu...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
