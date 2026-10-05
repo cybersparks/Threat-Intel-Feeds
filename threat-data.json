@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T05:12:43.730Z",
+  "lastUpdated": "2026-10-05T19:10:45.417Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,46 +359,6 @@
       "link": "https://www.ransomware.live/id/U3VtbWl0IEVsZWN0cmljIFN1cHBseUBWZXh5IFJhbnNvbXdhcmU=",
       "pubDate": "Wed, 30 Sep 2026 20:55:47 +0000",
       "summary": "Summit Electric Supply supplies electrical products and solutions for commercial, industrial, construction, OEM, institutional, and marine applications. Its website allows customers to browse products, check availability, manage orders, view invoices, and purchase online....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Auditteam has just published a new victim : Paid Victim 32373FFB7AF7E725",
-      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMzIzNzNGRkI3QUY3RTcyNUBBdWRpdFRlYW0=",
-      "pubDate": "Tue, 29 Sep 2026 12:50:25 +0000",
-      "summary": "[AI generated] N/A\n\nI don't have reliable information about a company with this specific identifier. This appears to be an anonymized or coded reference, possibly from a ransomware leak site or threat intelligence feed, rather than a verifiable company name. Without access to real-time threat intell...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : bcx.co.za",
-      "link": "https://www.ransomware.live/id/YmN4LmNvLnphQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 29 Sep 2026 12:32:11 +0000",
-      "summary": "www.bcx.co.za\r BCX (Business Connexion)\r https://www.zoominfo.com/c/business-connexion-pty-ltd/372844609\r \r Total leak: 500 GB 4,224,088 Files, 596,613 Folders\r \r The leak includes source code, technical documentation and other confidential information.\r \r Source code:\r \r 6 fully functional business...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Groupe Proxitel",
-      "link": "https://www.ransomware.live/id/R3JvdXBlIFByb3hpdGVsQFZleHkgUmFuc29td2FyZQ==",
-      "pubDate": "Tue, 29 Sep 2026 12:23:17 +0000",
-      "summary": "French B2B technology provider offering professional Internet connectivity (fiber/DSL, 4G/5G backup), fixed and mobile telephony, cybersecurity, IT backup, collaboration, networking and computer hardware. The group is based in Avignon and serves businesses and public-sector organizations....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : bakemyday.se",
-      "link": "https://www.ransomware.live/id/YmFrZW15ZGF5LnNlQGluY3JhbnNvbQ==",
-      "pubDate": "Mon, 28 Sep 2026 19:30:12 +0000",
-      "summary": "Bake My Day vill erbjuda fler människor hantverksmässiga, äkta och generösa konditori- och bageriupplevelser! Våra rykande färska bröd och bakverk är bakade från grunden för hand på utvalda råvaror.\r Employees: 10\r Revenue: $5 Million\r Phone Number: 010 199 71 71...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
