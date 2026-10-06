@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T11:54:10.823Z",
+  "lastUpdated": "2026-10-06T20:07:26.632Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : magnals.com",
+      "link": "https://www.ransomware.live/id/bWFnbmFscy5jb21AaW5jcmFuc29t",
+      "pubDate": "Tue, 06 Oct 2026 17:27:48 +0000",
+      "summary": "confidential data belonging to all these companies; magnals.com is responsible for the leak.\r \r alunanuova@magnals.com\r sraynal@magnals.com\r info@ranshelpfi.com\r kcawley@kirkland.com\r pforan@hueston.com\r mtodisco@hueston.com\r sschnier@hueston.com\r tking@hueston.com\r lcohen@omm.com\r lhack@motleyrice....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A...n",
       "link": "https://www.ransomware.live/id/QS4uLm5AU2lsZW50UmFuc29tR3JvdXA=",
