@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T19:10:45.417Z",
+  "lastUpdated": "2026-10-06T01:14:48.761Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A...n",
+      "link": "https://www.ransomware.live/id/QS4uLm5AU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Mon, 05 Oct 2026 22:27:00 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Nelson Mullins Riley & Scarborough",
+      "link": "https://www.ransomware.live/id/TmVsc29uIE11bGxpbnMgUmlsZXkgJiBTY2FyYm9yb3VnaEBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Mon, 05 Oct 2026 19:25:27 +0000",
+      "summary": "They offered $8.000.000 to keep the data from being published....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Sheppard, Mullin, Richter & Hampton",
+      "link": "https://www.ransomware.live/id/U2hlcHBhcmQsIE11bGxpbiwgUmljaHRlciAmIEhhbXB0b25AU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Mon, 05 Oct 2026 19:25:07 +0000",
+      "summary": "They offered $4.900.000 to keep the data from being published....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : PT Indo Tambangraya Megah",
       "link": "https://www.ransomware.live/id/UFQgSW5kbyBUYW1iYW5ncmF5YSBNZWdhaEByYW5zb21ob3VzZQ==",
