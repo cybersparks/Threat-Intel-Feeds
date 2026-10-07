@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-07T05:32:17.515Z",
+  "lastUpdated": "2026-10-07T17:21:53.830Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Double Counter - 274,922 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/DoubleCounter",
+      "pubDate": "Wed, 07 Oct 2026 05:42:24 Z",
+      "summary": "In October 2026, the Discord server protection service Double Counter suffered a data breach attributed to a vulnerability in the Metabase analytics t...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "274,922 ",
+        "274,922"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Angel One - 6,765,054 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/AngelOne",
@@ -248,22 +261,49 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Houston City College - 831,642 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/HoustonCityCollege",
-      "pubDate": "Tue, 28 Jul 2026 06:05:24 Z",
-      "summary": "In June 2026, Houston City College was the target of a ShinyHunters \"pay or leak\" extortion campaign. Data allegedly obtained from the college was lat...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "831,642 ",
-        "831,642"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Wavecrest HFA",
+      "link": "https://www.ransomware.live/id/V2F2ZWNyZXN0IEhGQUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 07 Oct 2026 16:03:12 +0000",
+      "summary": "12,143 Files, 267 Folders\r 23,991,067,648 bytes...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Tec Imports",
+      "link": "https://www.ransomware.live/id/VGVjIEltcG9ydHNAaW5jcmFuc29t",
+      "pubDate": "Wed, 07 Oct 2026 16:02:38 +0000",
+      "summary": "Tec Imports group offers a complete range of logistics solutions, from \r coordinating shipments from the manufacturer's plant to the end \r customer, whether by sea, air, or road.\r Commercial Department - contact@dorte.com.br\t\r Importation - alexandre@dorte.com.br\t\r Export - stefani@dorte.com.br\t\r Ho...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : UAE Pro League",
+      "link": "https://www.ransomware.live/id/VUFFIFBybyBMZWFndWVAaW5jcmFuc29t",
+      "pubDate": "Wed, 07 Oct 2026 16:02:02 +0000",
+      "summary": "The UAE Pro League is the top division of professional soccer in the United Arab Emirates.\r GENERAL INQUIRIES +971-2-4044999 activations@uaeproleague.ae\r MEDIA INQUIRIES +971-2-4044999 media@uaeproleague.ae...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : City of Cloverdale",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBDbG92ZXJkYWxlQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 07 Oct 2026 16:01:25 +0000",
+      "summary": "Cloverdale is a small city in Sonoma County, Northern California, set among the vineyards and rolling hills of the Alexander Valley. Known for its small-town charm, wineries, outdoor recreation, and historic downtown, it is about 85 miles north of San Francisco...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : acmestamping.com",
       "link": "https://www.ransomware.live/id/YWNtZXN0YW1waW5nLmNvbUBpbmNyYW5zb20=",
