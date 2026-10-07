@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-06T20:07:26.632Z",
+  "lastUpdated": "2026-10-07T05:32:17.515Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Angel One - 6,765,054 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AngelOne",
+      "pubDate": "Wed, 07 Oct 2026 03:45:31 Z",
+      "summary": "In July 2024, the Indian stock brokerage firm Angel One confirmed that data leaked online related to a breach that occurred in April 2023. The leaked ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "6,765,054 ",
+        "6,765,054"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Medela - 423,947 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Medela",
@@ -248,22 +261,59 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Suno - 55,282,226 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Suno",
-      "pubDate": "Mon, 20 Jul 2026 19:49:51 Z",
-      "summary": "In November 2025, AI music generation tool Suno suffered a data breach that later came to light in July the following year. The data contained over 55...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "55,282,226 ",
-        "55,282,226"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : acmestamping.com",
+      "link": "https://www.ransomware.live/id/YWNtZXN0YW1waW5nLmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Wed, 07 Oct 2026 05:08:14 +0000",
+      "summary": "Acme Stamping & Wire Forming Co. specializes in metal stamping, CNC machining, precision wire forming, and tool & die services. They offer a range of capabilities including progressive blanking, deep draw, and single station compound processes. The company caters to clients requiring high-quality ma...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : harborpacific.com",
+      "link": "https://www.ransomware.live/id/aGFyYm9ycGFjaWZpYy5jb21AaW5jcmFuc29t",
+      "pubDate": "Wed, 07 Oct 2026 05:07:34 +0000",
+      "summary": "Harbor Pacific Contractors, Inc. specializes in Industrial, Mechanical, and Heavy Civil Construction Services in the Pacific Northwest. Their offerings include wastewater and water treatment facilities, transportation infrastructure, pump stations, and power generation facilities. The company serves...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : architekt-vondanwitz.de",
+      "link": "https://www.ransomware.live/id/YXJjaGl0ZWt0LXZvbmRhbndpdHouZGVAaW5jcmFuc29t",
+      "pubDate": "Wed, 07 Oct 2026 05:06:37 +0000",
+      "summary": "Architektur in der Symbiose aus der erfahrenen und sicheren Anwendung der innovativen Bauteilevorfertigung, mit ökonomischer Umsetzung, ist seitüber 40 Jahren unsere Leidenschaft.\r Employees: 20\r Revenue: $5 Million\r Phone Number: 06761/95900...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Andersen Group",
+      "link": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXBAU2lsZW50UmFuc29tR3JvdXA=",
+      "pubDate": "Tue, 06 Oct 2026 23:52:26 +0000",
+      "summary": "[AI generated] N/A...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : KOOKABARRA JUICE",
+      "link": "https://www.ransomware.live/id/S09PS0FCQVJSQSBKVUlDRUBWZXh5IFJhbnNvbXdhcmU=",
+      "pubDate": "Tue, 06 Oct 2026 20:55:40 +0000",
+      "summary": "French manufacturer specializing in fresh-pressed fruit juices, detox juices, smoothies, nectars and other fresh fruit products, serving both professionals and consumers....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : magnals.com",
       "link": "https://www.ransomware.live/id/bWFnbmFscy5jb21AaW5jcmFuc29t",
