@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T17:21:53.830Z",
+  "lastUpdated": "2026-10-08T00:06:31.138Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K...",
+      "link": "https://www.ransomware.live/id/Sy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Wed, 07 Oct 2026 23:54:15 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : The New Community School",
+      "link": "https://www.ransomware.live/id/VGhlIE5ldyBDb21tdW5pdHkgU2Nob29sQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 07 Oct 2026 22:09:57 +0000",
+      "summary": "The New Community School is an independent co-educational day school located in Richmond, VA, catering to students in grades 5-12 with dyslexia. The school offers a customized curriculum designed to unlock each student's potential, emphasizing small class sizes and a student-centered approach. With ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Wavecrest HFA",
       "link": "https://www.ransomware.live/id/V2F2ZWNyZXN0IEhGQUBpbmNyYW5zb20=",
