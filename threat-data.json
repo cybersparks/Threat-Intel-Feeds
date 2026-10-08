@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T11:53:51.389Z",
+  "lastUpdated": "2026-10-08T20:37:31.642Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Andersen Group Inc.",
+      "link": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXAgSW5jLkBTaWxlbnRSYW5zb21Hcm91cA==",
+      "pubDate": "Thu, 08 Oct 2026 16:26:51 +0000",
+      "summary": "(NYSE: ANDG) reported $217.7 million in revenue for the second quarter of 2026 and $838.7 million in f…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K...",
       "link": "https://www.ransomware.live/id/Sy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
       "pubDate": "Wed, 07 Oct 2026 23:54:15 +0000",
@@ -449,16 +459,6 @@
       "link": "https://www.ransomware.live/id/VGVyY2FAcmFuc29taG91c2U=",
       "pubDate": "Thu, 01 Oct 2026 14:30:43 +0000",
       "summary": "TERCA Zilli is a leading logistics operator in Espírito Santo, Brazil, offering innovative solutions and synonymous with logistical efficiency. The company provides a wide range of services including general warehousing, customs areas, and specialized storage for hazardous chemicals and vehicles. Wi...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Rimrock Foundation",
-      "link": "https://www.ransomware.live/id/Umltcm9jayBGb3VuZGF0aW9uQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 01 Oct 2026 12:31:18 +0000",
-      "summary": "Rimrock is the largest drug and alcohol addiction treatment center in the region, offering a comprehensive range of services for adults dealing with substance use and co-occurring disorders. The organization approaches addiction as a holistic illness that affects an individual's emotional, physical,...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
