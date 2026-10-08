@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-08T00:06:31.138Z",
+  "lastUpdated": "2026-10-08T11:53:51.389Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "CyrusOne - 373,460 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CyrusOne",
+      "pubDate": "Wed, 07 Oct 2026 23:19:16 Z",
+      "summary": "In August 2026, data centre operator CyrusOne was the target of a ShinyHunters \"pay or leak\" extortion attempt. The group subsequently published data ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "373,460 ",
+        "373,460"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Double Counter - 274,922 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/DoubleCounter",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "SplitVPN - 865,336 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/SplitVPN",
-      "pubDate": "Sat, 01 Aug 2026 05:29:26 Z",
-      "summary": "In July 2026, the Russian VPN service SplitVPN (previously known as NotVPN) suffered a data breach. The incident exposed millions of customer records,...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "865,336 ",
-        "865,336"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -459,56 +459,6 @@
       "link": "https://www.ransomware.live/id/Umltcm9jayBGb3VuZGF0aW9uQGluY3JhbnNvbQ==",
       "pubDate": "Thu, 01 Oct 2026 12:31:18 +0000",
       "summary": "Rimrock is the largest drug and alcohol addiction treatment center in the region, offering a comprehensive range of services for adults dealing with substance use and co-occurring disorders. The organization approaches addiction as a holistic illness that affects an individual's emotional, physical,...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Guardian Pharmacy LLC",
-      "link": "https://www.ransomware.live/id/R3VhcmRpYW4gUGhhcm1hY3kgTExDQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 01 Oct 2026 11:30:04 +0000",
-      "summary": "Hacked; more news coming soon. . ....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Den Hartog Industries",
-      "link": "https://www.ransomware.live/id/RGVuIEhhcnRvZyBJbmR1c3RyaWVzQGluY3JhbnNvbQ==",
-      "pubDate": "Thu, 01 Oct 2026 11:29:48 +0000",
-      "summary": "Den Hartog Industries specializes in plastic and metal manufacturing, offering a wide range of products including tanks, marine products, and custom molded parts. Their divisions include Ace Roto-Mold, Injection Molding, Blow Molding, and Sowjoy, catering to agricultural, industrial, OEM, and marine...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Northern Counties Health Care",
-      "link": "https://www.ransomware.live/id/Tm9ydGhlcm4gQ291bnRpZXMgSGVhbHRoIENhcmVAaW5jcmFuc29t",
-      "pubDate": "Thu, 01 Oct 2026 11:29:32 +0000",
-      "summary": "With five community Health Centers, two dental centers, and a certified Home Health Care & Hospice division, NCHC provides health care services to patients throughout Vermont...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Post Metal Recycling",
-      "link": "https://www.ransomware.live/id/UG9zdCBNZXRhbCBSZWN5Y2xpbmdAaW5jcmFuc29t",
-      "pubDate": "Thu, 01 Oct 2026 11:29:12 +0000",
-      "summary": "Post Metal Recycling specializes in buying scrap metal from businesses and individuals, offering both ferrous and non-ferrous recycling services. They provide on-site scales for accurate measurements and facilitate various recycling options including yard drop-off, roll-off service, and site clean-u...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Summit Electric Supply",
-      "link": "https://www.ransomware.live/id/U3VtbWl0IEVsZWN0cmljIFN1cHBseUBWZXh5IFJhbnNvbXdhcmU=",
-      "pubDate": "Wed, 30 Sep 2026 20:55:47 +0000",
-      "summary": "Summit Electric Supply supplies electrical products and solutions for commercial, industrial, construction, OEM, institutional, and marine applications. Its website allows customers to browse products, check availability, manage orders, view invoices, and purchase online....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
