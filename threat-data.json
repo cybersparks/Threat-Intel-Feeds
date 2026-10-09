@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T16:54:48.805Z",
+  "lastUpdated": "2026-10-09T23:56:04.057Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Shalom Christian Academy",
+      "link": "https://www.ransomware.live/id/U2hhbG9tIENocmlzdGlhbiBBY2FkZW15QGludGVybG9jaw==",
+      "pubDate": "Fri, 09 Oct 2026 18:02:14 +0000",
+      "summary": "As a school, Shalom Christian Academy is legally and ethically obligated to maintain a wide range of confidential information. However, they are grossly negligent in protecting their own security and that of their students and staff. Consequently, we provide you with student grades, disciplinary and...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : O'Hagan Meyer",
       "link": "https://www.ransomware.live/id/TydIYWdhbiBNZXllckBTaWxlbnRSYW5zb21Hcm91cA==",
