@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T23:23:05.247Z",
+  "lastUpdated": "2026-10-11T05:22:25.283Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : hsc.mb.ca",
+      "link": "https://www.ransomware.live/id/aHNjLm1iLmNhQGluY3JhbnNvbQ==",
+      "pubDate": "Sun, 11 Oct 2026 01:14:06 +0000",
+      "summary": "The Health Sciences Centre in Winnipeg, one of the largest medical institutions, was targeted by us that resulted in the largest data breach among healthcare institutions. Our group chose not to completely disrupt the facility’s operations, recognizing the potentially devastating consequences that s...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Shalom Christian Academy",
       "link": "https://www.ransomware.live/id/U2hhbG9tIENocmlzdGlhbiBBY2FkZW15QGludGVybG9jaw==",
