@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T05:34:10.242Z",
+  "lastUpdated": "2026-10-12T19:43:43.282Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : brookslawfirm.com",
+      "link": "https://www.ransomware.live/id/YnJvb2tzbGF3ZmlybS5jb21AaW5jcmFuc29t",
+      "pubDate": "Mon, 12 Oct 2026 15:46:46 +0000",
+      "summary": "personal data 8200 client hippa etc...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : hsc.mb.ca",
       "link": "https://www.ransomware.live/id/aHNjLm1iLmNhQGluY3JhbnNvbQ==",
       "pubDate": "Sun, 11 Oct 2026 01:14:06 +0000",
@@ -279,146 +289,6 @@
       "link": "https://www.ransomware.live/id/U2hhbG9tIENocmlzdGlhbiBBY2FkZW15QGludGVybG9jaw==",
       "pubDate": "Fri, 09 Oct 2026 18:02:14 +0000",
       "summary": "As a school, Shalom Christian Academy is legally and ethically obligated to maintain a wide range of confidential information. However, they are grossly negligent in protecting their own security and that of their students and staff. Consequently, we provide you with student grades, disciplinary and...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : O'Hagan Meyer",
-      "link": "https://www.ransomware.live/id/TydIYWdhbiBNZXllckBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Thu, 08 Oct 2026 23:22:09 +0000",
-      "summary": "U.S. national law firm focused primarily on business litigation and labor & employment law. It was fou…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Baker McKenzie",
-      "link": "https://www.ransomware.live/id/QmFrZXIgTWNLZW56aWVAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Thu, 08 Oct 2026 20:52:34 +0000",
-      "summary": "[AI generated] Baker McKenzie is a global law firm headquartered in Chicago, Illinois, United States. Founded in 1949, it operates in the legal services industry, providing counsel in areas such as corporate law, tax, dispute resolution, mergers and acquisitions, employment law, and intellectual pro...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Andersen Group Inc.",
-      "link": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXAgSW5jLkBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Thu, 08 Oct 2026 16:26:51 +0000",
-      "summary": "(NYSE: ANDG) reported $217.7 million in revenue for the second quarter of 2026 and $838.7 million in f…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K...",
-      "link": "https://www.ransomware.live/id/Sy4uLkBTaWxlbnRSYW5zb21Hcm91cA==",
-      "pubDate": "Wed, 07 Oct 2026 23:54:15 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : The New Community School",
-      "link": "https://www.ransomware.live/id/VGhlIE5ldyBDb21tdW5pdHkgU2Nob29sQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 07 Oct 2026 22:09:57 +0000",
-      "summary": "The New Community School is an independent co-educational day school located in Richmond, VA, catering to students in grades 5-12 with dyslexia. The school offers a customized curriculum designed to unlock each student's potential, emphasizing small class sizes and a student-centered approach. With ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Wavecrest HFA",
-      "link": "https://www.ransomware.live/id/V2F2ZWNyZXN0IEhGQUBpbmNyYW5zb20=",
-      "pubDate": "Wed, 07 Oct 2026 16:03:12 +0000",
-      "summary": "12,143 Files, 267 Folders\r 23,991,067,648 bytes...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Tec Imports",
-      "link": "https://www.ransomware.live/id/VGVjIEltcG9ydHNAaW5jcmFuc29t",
-      "pubDate": "Wed, 07 Oct 2026 16:02:38 +0000",
-      "summary": "Tec Imports group offers a complete range of logistics solutions, from \r coordinating shipments from the manufacturer's plant to the end \r customer, whether by sea, air, or road.\r Commercial Department - contact@dorte.com.br\t\r Importation - alexandre@dorte.com.br\t\r Export - stefani@dorte.com.br\t\r Ho...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : UAE Pro League",
-      "link": "https://www.ransomware.live/id/VUFFIFBybyBMZWFndWVAaW5jcmFuc29t",
-      "pubDate": "Wed, 07 Oct 2026 16:02:02 +0000",
-      "summary": "The UAE Pro League is the top division of professional soccer in the United Arab Emirates.\r GENERAL INQUIRIES +971-2-4044999 activations@uaeproleague.ae\r MEDIA INQUIRIES +971-2-4044999 media@uaeproleague.ae...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : City of Cloverdale",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBDbG92ZXJkYWxlQGluY3JhbnNvbQ==",
-      "pubDate": "Wed, 07 Oct 2026 16:01:25 +0000",
-      "summary": "Cloverdale is a small city in Sonoma County, Northern California, set among the vineyards and rolling hills of the Alexander Valley. Known for its small-town charm, wineries, outdoor recreation, and historic downtown, it is about 85 miles north of San Francisco...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : acmestamping.com",
-      "link": "https://www.ransomware.live/id/YWNtZXN0YW1waW5nLmNvbUBpbmNyYW5zb20=",
-      "pubDate": "Wed, 07 Oct 2026 05:08:14 +0000",
-      "summary": "Acme Stamping & Wire Forming Co. specializes in metal stamping, CNC machining, precision wire forming, and tool & die services. They offer a range of capabilities including progressive blanking, deep draw, and single station compound processes. The company caters to clients requiring high-quality ma...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : harborpacific.com",
-      "link": "https://www.ransomware.live/id/aGFyYm9ycGFjaWZpYy5jb21AaW5jcmFuc29t",
-      "pubDate": "Wed, 07 Oct 2026 05:07:34 +0000",
-      "summary": "Harbor Pacific Contractors, Inc. specializes in Industrial, Mechanical, and Heavy Civil Construction Services in the Pacific Northwest. Their offerings include wastewater and water treatment facilities, transportation infrastructure, pump stations, and power generation facilities. The company serves...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : architekt-vondanwitz.de",
-      "link": "https://www.ransomware.live/id/YXJjaGl0ZWt0LXZvbmRhbndpdHouZGVAaW5jcmFuc29t",
-      "pubDate": "Wed, 07 Oct 2026 05:06:37 +0000",
-      "summary": "Architektur in der Symbiose aus der erfahrenen und sicheren Anwendung der innovativen Bauteilevorfertigung, mit ökonomischer Umsetzung, ist seitüber 40 Jahren unsere Leidenschaft.\r Employees: 20\r Revenue: $5 Million\r Phone Number: 06761/95900...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Andersen Group",
-      "link": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXBAU2lsZW50UmFuc29tR3JvdXA=",
-      "pubDate": "Tue, 06 Oct 2026 23:52:26 +0000",
-      "summary": "[AI generated] N/A...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : KOOKABARRA JUICE",
-      "link": "https://www.ransomware.live/id/S09PS0FCQVJSQSBKVUlDRUBWZXh5IFJhbnNvbXdhcmU=",
-      "pubDate": "Tue, 06 Oct 2026 20:55:40 +0000",
-      "summary": "French manufacturer specializing in fresh-pressed fruit juices, detox juices, smoothies, nectars and other fresh fruit products, serving both professionals and consumers....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
