@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T23:32:46.241Z",
+  "lastUpdated": "2026-10-12T05:34:10.242Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -419,16 +419,6 @@
       "link": "https://www.ransomware.live/id/S09PS0FCQVJSQSBKVUlDRUBWZXh5IFJhbnNvbXdhcmU=",
       "pubDate": "Tue, 06 Oct 2026 20:55:40 +0000",
       "summary": "French manufacturer specializing in fresh-pressed fruit juices, detox juices, smoothies, nectars and other fresh fruit products, serving both professionals and consumers....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : magnals.com",
-      "link": "https://www.ransomware.live/id/bWFnbmFscy5jb21AaW5jcmFuc29t",
-      "pubDate": "Tue, 06 Oct 2026 17:27:48 +0000",
-      "summary": "confidential data belonging to all these companies; magnals.com is responsible for the leak.\r \r alunanuova@magnals.com\r sraynal@magnals.com\r info@ranshelpfi.com\r kcawley@kirkland.com\r pforan@hueston.com\r mtodisco@hueston.com\r sschnier@hueston.com\r tking@hueston.com\r lcohen@omm.com\r lhack@motleyrice....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
