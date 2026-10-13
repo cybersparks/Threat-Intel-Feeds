@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-12T19:43:43.282Z",
+  "lastUpdated": "2026-10-13T01:56:20.210Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Sharecare - 318,185 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Sharecare",
+      "pubDate": "Mon, 12 Oct 2026 23:28:32 Z",
+      "summary": "In August 2026, the digital health company Sharecare was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently publish...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "318,185 ",
+        "318,185"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Neogen - 435,963 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Neogen",
@@ -245,19 +258,6 @@
       "breachCount": [
         "732,162 ",
         "732,162"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Exact Sciences - 10,869,543 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/ExactSciences",
-      "pubDate": "Fri, 07 Aug 2026 06:27:29 Z",
-      "summary": "In July 2026, Exact Sciences (now owned by Abbott Laboratories) was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group claimed t...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "10,869,543 ",
-        "10,869,543"
       ],
       "isBreach": true,
       "isRansomware": false
