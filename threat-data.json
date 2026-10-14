@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T10:00:57.841Z",
+  "lastUpdated": "2026-10-14T19:15:03.905Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : FINANCIAMENTO LTDA",
+      "link": "https://www.ransomware.live/id/RklOQU5DSUFNRU5UTyBMVERBQGluY3JhbnNvbQ==",
+      "pubDate": "Wed, 14 Oct 2026 16:33:00 +0000",
+      "summary": "H2 Financiamento\r h2financiamento.com.br\r \r Total leak: 1.53 TB, 3.619.372 Files, 908.472 Folders\r \r Data: Clients Personal ID/Passport, Driver license, Clients (RG / CIN) CPF (Cadastro de Pessoas Físicas), Birth certificate, Clients Risk Assessment, \r Finance doc's, Bank statements, Tax invoice and...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Great Lakes",
       "link": "https://www.ransomware.live/id/R3JlYXQgTGFrZXNAaW5jcmFuc29t",
