@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-14T04:31:32.777Z",
+  "lastUpdated": "2026-10-14T10:00:57.841Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Crunchbase - 559,908 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Crunchbase",
+      "pubDate": "Wed, 14 Oct 2026 06:01:26 Z",
+      "summary": "In January 2026, the private company intelligence platform Crunchbase was targeted in a ShinyHunters \"pay or leak\" extortion attempt. Data allegedly o...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "559,908 ",
+        "559,908"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Sharecare - 318,185 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Sharecare",
@@ -245,19 +258,6 @@
       "breachCount": [
         "218,395 ",
         "218,395"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Brinks Home - 732,162 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/BrinksHome",
-      "pubDate": "Sat, 08 Aug 2026 10:44:52 Z",
-      "summary": "In July 2026, Brinks Home was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data they alleged was take...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "732,162 ",
-        "732,162"
       ],
       "isBreach": true,
       "isRansomware": false
