@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T18:59:21.012Z",
+  "lastUpdated": "2026-10-15T22:58:26.976Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.coopecaja.fi.cr",
+      "link": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20=",
+      "pubDate": "Thu, 15 Oct 2026 22:03:58 +0000",
+      "summary": "/...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : nowaszkola.com",
+      "link": "https://www.ransomware.live/id/bm93YXN6a29sYS5jb21AaW5jcmFuc29t",
+      "pubDate": "Thu, 15 Oct 2026 22:03:22 +0000",
+      "summary": "/...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Enchanted Fine Jewellery",
       "link": "https://www.ransomware.live/id/RW5jaGFudGVkIEZpbmUgSmV3ZWxsZXJ5QFZleHkgUmFuc29td2FyZQ==",
