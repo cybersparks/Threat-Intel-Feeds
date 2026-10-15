@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T09:42:55.653Z",
+  "lastUpdated": "2026-10-15T14:48:06.933Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Enchanted Fine Jewellery",
+      "link": "https://www.ransomware.live/id/RW5jaGFudGVkIEZpbmUgSmV3ZWxsZXJ5QFZleHkgUmFuc29td2FyZQ==",
+      "pubDate": "Thu, 15 Oct 2026 11:22:07 +0000",
+      "summary": "enchantedfinejewellery.in...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : FINANCIAMENTO LTDA",
       "link": "https://www.ransomware.live/id/RklOQU5DSUFNRU5UTyBMVERBQGluY3JhbnNvbQ==",
