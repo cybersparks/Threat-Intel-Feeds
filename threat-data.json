@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T04:09:58.574Z",
+  "lastUpdated": "2026-10-16T09:36:38.682Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : North Bridge Venture Partners",
+      "link": "https://www.ransomware.live/id/Tm9ydGggQnJpZGdlIFZlbnR1cmUgUGFydG5lcnNAdGhlZ2VudGxlbWVu",
+      "pubDate": "Fri, 16 Oct 2026 09:35:20 +0000",
+      "summary": "northbridge.com North Bridge Venture Partners one of Boston's most storied venture capital firms, founded in 1994 by Bill Geary, Doug Kingsley, Ed Anderson, Mike Pehl, and Richard D'Amore — ~$3.5B under management across 8 funds, ~200+ investments, 100+ exits, and 14 unicorns. Legendary portfolio: D...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : fairfeelegalservices.com",
       "link": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ==",
