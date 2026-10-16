@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T22:58:26.976Z",
+  "lastUpdated": "2026-10-16T04:09:58.574Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : fairfeelegalservices.com",
+      "link": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ==",
+      "pubDate": "Thu, 15 Oct 2026 22:59:23 +0000",
+      "summary": "proof...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : verveba.com \\ www.att.com",
+      "link": "https://www.ransomware.live/id/dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20=",
+      "pubDate": "Thu, 15 Oct 2026 22:58:44 +0000",
+      "summary": "2tb...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : www.coopecaja.fi.cr",
       "link": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20=",
