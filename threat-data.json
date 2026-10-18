@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-18T04:07:09.131Z",
+  "lastUpdated": "2026-10-18T09:25:14.923Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Gîtes de France - 117,574 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/GitesDeFrance",
+      "pubDate": "Sun, 18 Oct 2026 04:50:13 Z",
+      "summary": "In May 2026, the French holiday rental network Gîtes de France suffered a data breach affecting some of its departmental branches. The incident expose...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "117,574 ",
+        "117,574"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Crunchbase - 559,908 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Crunchbase",
@@ -248,19 +261,6 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Alcon - 218,395 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Alcon",
-      "pubDate": "Sun, 09 Aug 2026 10:04:34 Z",
-      "summary": "In August 2026, the Alcon eye care company was named in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data alleged...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "218,395 ",
-        "218,395"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
@@ -296,7 +296,7 @@
     },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : fairfeelegalservices.com",
-      "link": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ==",
+      "link": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ",
       "pubDate": "Thu, 15 Oct 2026 22:59:23 +0000",
       "summary": "proof...",
       "source": "Ransomware Live (Ransomware)",
@@ -306,7 +306,7 @@
     },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : verveba.com \\ www.att.com",
-      "link": "https://www.ransomware.live/id/dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20=",
+      "link": "https://www.ransomware.live/id/dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20",
       "pubDate": "Thu, 15 Oct 2026 22:58:44 +0000",
       "summary": "2tb...",
       "source": "Ransomware Live (Ransomware)",
@@ -316,7 +316,7 @@
     },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : www.coopecaja.fi.cr",
-      "link": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20=",
+      "link": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20",
       "pubDate": "Thu, 15 Oct 2026 22:03:58 +0000",
       "summary": "/...",
       "source": "Ransomware Live (Ransomware)",
@@ -336,7 +336,7 @@
     },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Enchanted Fine Jewellery",
-      "link": "https://www.ransomware.live/id/RW5jaGFudGVkIEZpbmUgSmV3ZWxsZXJ5QFZleHkgUmFuc29td2FyZQ==",
+      "link": "https://www.ransomware.live/id/RW5jaGFudGVkIEZpbmUgSmV3ZWxsZXJ5QFZleHkgUmFuc29td2FyZQ",
       "pubDate": "Thu, 15 Oct 2026 11:22:07 +0000",
       "summary": "enchantedfinejewellery.in...",
       "source": "Ransomware Live (Ransomware)",
@@ -346,19 +346,9 @@
     },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : FINANCIAMENTO LTDA",
-      "link": "https://www.ransomware.live/id/RklOQU5DSUFNRU5UTyBMVERBQGluY3JhbnNvbQ==",
+      "link": "https://www.ransomware.live/id/RklOQU5DSUFNRU5UTyBMVERBQGluY3JhbnNvbQ",
       "pubDate": "Wed, 14 Oct 2026 16:33:00 +0000",
       "summary": "H2 Financiamento\r h2financiamento.com.br\r \r Total leak: 1.53 TB, 3.619.372 Files, 908.472 Folders\r \r Data: Clients Personal ID/Passport, Driver license, Clients (RG / CIN) CPF (Cadastro de Pessoas Físicas), Birth certificate, Clients Risk Assessment, \r Finance doc's, Bank statements, Tax invoice and...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Great Lakes",
-      "link": "https://www.ransomware.live/id/R3JlYXQgTGFrZXNAaW5jcmFuc29t",
-      "pubDate": "Tue, 13 Oct 2026 15:11:46 +0000",
-      "summary": "The Great Lakes Institute of Management (GLIM) is a leading business school in India with campuses in Chennai and Gurgaon. The institution holds global accreditations (AACSB and AMBA) and ranks among the top 10 business schools in India.\r \r +91-44-27489000\r https://www.greatlakes.edu.in/e-learning-p...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
