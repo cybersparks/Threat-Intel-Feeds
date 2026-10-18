@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T22:08:03.823Z",
+  "lastUpdated": "2026-10-18T04:07:09.131Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -359,36 +359,6 @@
       "link": "https://www.ransomware.live/id/R3JlYXQgTGFrZXNAaW5jcmFuc29t",
       "pubDate": "Tue, 13 Oct 2026 15:11:46 +0000",
       "summary": "The Great Lakes Institute of Management (GLIM) is a leading business school in India with campuses in Chennai and Gurgaon. The institution holds global accreditations (AACSB and AMBA) and ranks among the top 10 business schools in India.\r \r +91-44-27489000\r https://www.greatlakes.edu.in/e-learning-p...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Excess Baggage",
-      "link": "https://www.ransomware.live/id/RXhjZXNzIEJhZ2dhZ2VAcmFuc29taG91c2U=",
-      "pubDate": "Tue, 13 Oct 2026 13:26:28 +0000",
-      "summary": "Baggage Express is a dynamic national and international excess baggage shipping company with a heritage stretching back some 25 years. We're dedicated to the task of moving the holdalls, cartons, computers, bikes, luggage and material lives of students, backpackers, expats and anyone else who has fo...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Wolf & Sofsky GmbH",
-      "link": "https://www.ransomware.live/id/V29sZiAmIFNvZnNreSBHbWJIQGluY3JhbnNvbQ==",
-      "pubDate": "Tue, 13 Oct 2026 13:18:39 +0000",
-      "summary": "Wolf & Sofsky GmbH is a construction company with a 75-year history, based in Zweibrücken, Germany. The company operates on highly complex projects and maintains a significant financial position.\r \r Critical Information We Possess\r Financial Data: Complete spectrum of financial information (reports,...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Guarufilme",
-      "link": "https://www.ransomware.live/id/R3VhcnVmaWxtZUBWZXh5IFJhbnNvbXdhcmU=",
-      "pubDate": "Tue, 13 Oct 2026 12:31:50 +0000",
-      "summary": "The company has operated in the packaging sector since 2006, manufacturing PVC and polyethylene films for domestic and industrial applications....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
