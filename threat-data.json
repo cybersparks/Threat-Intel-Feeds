@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T10:38:22.001Z",
+  "lastUpdated": "2026-10-19T20:29:47.806Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Seetelhotels.de",
+      "link": "https://www.ransomware.live/id/U2VldGVsaG90ZWxzLmRlQGluY3JhbnNvbQ",
+      "pubDate": "Mon, 19 Oct 2026 17:12:41 +0000",
+      "summary": "Seetel Hotels (SEETEL Hotel GmbH & Co. Betriebs KG) has been notified that a substantial volume of confidential and internal corporate data has been compromised.\r \r The affected data includes, but is not limited to:\r \r Full guest identity records, government-issued passport and ID numbers, payment c...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Latham & Watkins",
+      "link": "https://www.ransomware.live/id/TGF0aGFtICYgV2F0a2luc0BTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Mon, 19 Oct 2026 13:25:56 +0000",
+      "summary": "Founded in 1934, Latham & Watkins is an international law firm specializing in activism, communication…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : polisee Inc",
       "link": "https://www.ransomware.live/id/cG9saXNlZSBJbmNAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Sat, 17 Oct 2026 18:33:23 +0000",
@@ -339,16 +359,6 @@
       "link": "https://www.ransomware.live/id/RW5jaGFudGVkIEZpbmUgSmV3ZWxsZXJ5QFZleHkgUmFuc29td2FyZQ",
       "pubDate": "Thu, 15 Oct 2026 11:22:07 +0000",
       "summary": "enchantedfinejewellery.in...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : FINANCIAMENTO LTDA",
-      "link": "https://www.ransomware.live/id/RklOQU5DSUFNRU5UTyBMVERBQGluY3JhbnNvbQ",
-      "pubDate": "Wed, 14 Oct 2026 16:33:00 +0000",
-      "summary": "H2 Financiamento\r h2financiamento.com.br\r \r Total leak: 1.53 TB, 3.619.372 Files, 908.472 Folders\r \r Data: Clients Personal ID/Passport, Driver license, Clients (RG / CIN) CPF (Cadastro de Pessoas Físicas), Birth certificate, Clients Risk Assessment, \r Finance doc's, Bank statements, Tax invoice and...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
