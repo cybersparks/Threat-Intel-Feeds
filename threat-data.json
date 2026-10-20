@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-19T20:29:47.806Z",
+  "lastUpdated": "2026-10-20T04:27:53.271Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Assurance Retraite - 70,372 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
+      "pubDate": "Tue, 20 Oct 2026 02:29:36 Z",
+      "summary": "In September 2024, the French national pension fund Assurance Retraite suffered a data breach affecting approximately 370k assistance beneficiaries. T...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "70,372 ",
+        "70,372"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Gîtes de France - 117,574 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/GitesDeFrance",
@@ -245,19 +258,6 @@
       "breachCount": [
         "144,520 ",
         "144,520"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "RingCentral - 1,596,490 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/RingCentral",
-      "pubDate": "Thu, 13 Aug 2026 10:54:40 Z",
-      "summary": "In July 2026, the cloud-based business communications platform RingCentral was the target of a ShinyHunters \"pay or leak\" extortion campaign. The grou...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,596,490 ",
-        "1,596,490"
       ],
       "isBreach": true,
       "isRansomware": false
