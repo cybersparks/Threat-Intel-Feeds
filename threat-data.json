@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T19:06:12.893Z",
+  "lastUpdated": "2026-10-20T23:04:44.053Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... M...",
+      "link": "https://www.ransomware.live/id/TS4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Tue, 20 Oct 2026 20:05:34 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P... H...",
+      "link": "https://www.ransomware.live/id/UC4uLiBILi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Tue, 20 Oct 2026 20:04:24 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : centralrogers.com",
+      "link": "https://www.ransomware.live/id/Y2VudHJhbHJvZ2Vycy5jb21AaW5jcmFuc29t",
+      "pubDate": "Tue, 20 Oct 2026 19:23:14 +0000",
+      "summary": "Central is full of people who are committed to fulfilling our mission to Connect People to Christ. It's a family where you can find hope, love and an abundance of grace. \r Employees: 20\r Revenue: $5 Million\r Phone Number: (479) 636.1630...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P...S...R...",
       "link": "https://www.ransomware.live/id/UC4uLlMuLi5SLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
