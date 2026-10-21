@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T15:04:30.225Z",
+  "lastUpdated": "2026-10-21T23:08:34.327Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K.r.. ...s",
+      "link": "https://www.ransomware.live/id/Sy5yLi4gLi4uc0BTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Wed, 21 Oct 2026 21:08:32 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Porter Hedges LLP",
+      "link": "https://www.ransomware.live/id/UG9ydGVyIEhlZGdlcyBMTFBAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Wed, 21 Oct 2026 19:03:17 +0000",
+      "summary": "[AI generated] Porter Hedges LLP is a full-service business law firm based in Houston, Texas, United States. It operates in the legal services industry, providing counsel in areas such as energy, corporate transactions, finance, litigation, bankruptcy, real estate, and labor and employment law. The ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... M...",
       "link": "https://www.ransomware.live/id/TS4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
