@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T09:58:00.853Z",
+  "lastUpdated": "2026-10-21T15:04:30.225Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -349,46 +349,6 @@
       "link": "https://www.ransomware.live/id/Tm9ydGggQnJpZGdlIFZlbnR1cmUgUGFydG5lcnNAdGhlZ2VudGxlbWVu",
       "pubDate": "Fri, 16 Oct 2026 09:35:20 +0000",
       "summary": "northbridge.com North Bridge Venture Partners one of Boston's most storied venture capital firms, founded in 1994 by Bill Geary, Doug Kingsley, Ed Anderson, Mike Pehl, and Richard D'Amore — ~$3.5B under management across 8 funds, ~200+ investments, 100+ exits, and 14 unicorns. Legendary portfolio: D...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : fairfeelegalservices.com",
-      "link": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ",
-      "pubDate": "Thu, 15 Oct 2026 22:59:23 +0000",
-      "summary": "proof...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : verveba.com \\ www.att.com",
-      "link": "https://www.ransomware.live/id/dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20",
-      "pubDate": "Thu, 15 Oct 2026 22:58:44 +0000",
-      "summary": "2tb...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.coopecaja.fi.cr",
-      "link": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20",
-      "pubDate": "Thu, 15 Oct 2026 22:03:58 +0000",
-      "summary": "/...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : nowaszkola.com",
-      "link": "https://www.ransomware.live/id/bm93YXN6a29sYS5jb21AaW5jcmFuc29t",
-      "pubDate": "Thu, 15 Oct 2026 22:03:22 +0000",
-      "summary": "/...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
