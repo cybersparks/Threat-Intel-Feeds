@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T23:08:34.327Z",
+  "lastUpdated": "2026-10-22T04:18:57.242Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bereskinparr.com smartbiggar.ca",
+      "link": "https://www.ransomware.live/id/YmVyZXNraW5wYXJyLmNvbSBzbWFydGJpZ2dhci5jYUBpbmNyYW5zb20",
+      "pubDate": "Thu, 22 Oct 2026 02:15:06 +0000",
+      "summary": "database  client case data etc...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K.r.a. ...s",
+      "link": "https://www.ransomware.live/id/Sy5yLmEuIC4uLnNAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Thu, 22 Oct 2026 01:30:31 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K.r.. ...s",
       "link": "https://www.ransomware.live/id/Sy5yLi4gLi4uc0BTaWxlbnRSYW5zb21Hcm91cA",
