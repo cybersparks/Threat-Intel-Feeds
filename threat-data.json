@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T15:05:18.818Z",
+  "lastUpdated": "2026-10-22T23:09:38.839Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... C...",
+      "link": "https://www.ransomware.live/id/TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 22 Oct 2026 19:30:40 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M...r",
+      "link": "https://www.ransomware.live/id/TS4uLnJAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Thu, 22 Oct 2026 16:59:24 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Kirkland & Ellis LLP",
+      "link": "https://www.ransomware.live/id/S2lya2xhbmQgJiBFbGxpcyBMTFBAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Thu, 22 Oct 2026 16:58:16 +0000",
+      "summary": "[AI generated] Kirkland & Ellis LLP is a global law firm headquartered in Chicago, Illinois, United States. It operates in the legal services industry, providing counsel in private equity, mergers and acquisitions, restructuring, litigation, intellectual property, and tax law. One of the world's lar...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : bereskinparr.com smartbiggar.ca",
       "link": "https://www.ransomware.live/id/YmVyZXNraW5wYXJyLmNvbSBzbWFydGJpZ2dhci5jYUBpbmNyYW5zb20",
