@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T04:18:57.242Z",
+  "lastUpdated": "2026-10-22T09:58:10.541Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -379,16 +379,6 @@
       "link": "https://www.ransomware.live/id/RGF0YS1Db3JlIFN5c3RlbXNAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Fri, 16 Oct 2026 16:55:01 +0000",
       "summary": "Data-Core Systems is an IT consulting and technology services company incorporated in 1988. It helps organizations with digital transformation, SAP implementation, AI and machine learning, data analytics, cloud migration, application development, publishing, and business process solutions. It serves...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : North Bridge Venture Partners",
-      "link": "https://www.ransomware.live/id/Tm9ydGggQnJpZGdlIFZlbnR1cmUgUGFydG5lcnNAdGhlZ2VudGxlbWVu",
-      "pubDate": "Fri, 16 Oct 2026 09:35:20 +0000",
-      "summary": "northbridge.com North Bridge Venture Partners one of Boston's most storied venture capital firms, founded in 1994 by Bill Geary, Doug Kingsley, Ed Anderson, Mike Pehl, and Richard D'Amore — ~$3.5B under management across 8 funds, ~200+ investments, 100+ exits, and 14 unicorns. Legendary portfolio: D...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
