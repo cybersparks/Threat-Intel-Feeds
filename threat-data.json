@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T04:23:14.211Z",
+  "lastUpdated": "2026-10-23T09:52:59.968Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Emperador has just published a new victim : B2Chat",
+      "link": "https://www.ransomware.live/id/QjJDaGF0QGVtcGVyYWRvcg",
+      "pubDate": "Fri, 23 Oct 2026 07:52:10 +0000",
+      "summary": "B2Chat is a multimillion dollar business communication platform based in Spain that provides tools for customer support, sales, and engagement. It allows businesses to interact with customers through various channels, such as live chat, chatbots, and messaging apps (for example, WhatsApp, Facebook M...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... C...",
       "link": "https://www.ransomware.live/id/TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
