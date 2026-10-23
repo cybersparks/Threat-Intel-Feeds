@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T09:52:59.968Z",
+  "lastUpdated": "2026-10-23T14:50:55.545Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -409,16 +409,6 @@
       "link": "https://www.ransomware.live/id/cG9saXNlZSBJbmNAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Sat, 17 Oct 2026 18:33:23 +0000",
       "summary": "polisee Inc. is a Japanese technology company that develops and operates an AI-powered policy intelligence platform. Its software automates the monitoring, collection, analysis, and sharing of government policy and regulatory information. It uses AI to summarize policy discussions, organize complex ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Data-Core Systems",
-      "link": "https://www.ransomware.live/id/RGF0YS1Db3JlIFN5c3RlbXNAVmV4eSBSYW5zb213YXJl",
-      "pubDate": "Fri, 16 Oct 2026 16:55:01 +0000",
-      "summary": "Data-Core Systems is an IT consulting and technology services company incorporated in 1988. It helps organizations with digital transformation, SAP implementation, AI and machine learning, data analytics, cloud migration, application development, publishing, and business process solutions. It serves...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
