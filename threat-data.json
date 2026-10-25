@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T14:12:28.599Z",
+  "lastUpdated": "2026-10-25T18:18:13.888Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Whitearmor has just published a new victim : Partido Liberal",
+      "link": "https://www.ransomware.live/id/UGFydGlkbyBMaWJlcmFsQFdoaXRlYXJtb3I",
+      "pubDate": "Sun, 25 Oct 2026 16:56:33 +0000",
+      "summary": "Brazil's Liberal Party (PL) is the political party of the Bolsonaro family. Although named \"Liberal,\" it is currently characterized by conservatism and right-wing populism. Jair Bolsonaro joined the party in 2021, and his son Flávio Bolsonaro is now the party's presidential candidate, advocating red...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Emperador has just published a new victim : A-RMS",
+      "link": "https://www.ransomware.live/id/QS1STVNAZW1wZXJhZG9y",
+      "pubDate": "Sun, 25 Oct 2026 14:52:33 +0000",
+      "summary": "We encrypted your servers and stole some of your source code, along with some sensitive information. If you do not pay the ransom, we will contact and attack your employees, clients, and partners to destroy your business. [Sector: Technology]...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Emperador has just published a new victim : B2Chat",
       "link": "https://www.ransomware.live/id/QjJDaGF0QGVtcGVyYWRvcg",
       "pubDate": "Fri, 23 Oct 2026 07:52:10 +0000",
@@ -379,16 +399,6 @@
       "link": "https://www.ransomware.live/id/UC4uLlMuLi5SLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Tue, 20 Oct 2026 16:56:29 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Seetelhotels.de",
-      "link": "https://www.ransomware.live/id/U2VldGVsaG90ZWxzLmRlQGluY3JhbnNvbQ",
-      "pubDate": "Mon, 19 Oct 2026 17:12:41 +0000",
-      "summary": "Seetel Hotels (SEETEL Hotel GmbH & Co. Betriebs KG) has been notified that a substantial volume of confidential and internal corporate data has been compromised.\r \r The affected data includes, but is not limited to:\r \r Full guest identity records, government-issued passport and ID numbers, payment c...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
