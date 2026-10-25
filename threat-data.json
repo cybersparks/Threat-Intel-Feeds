@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T18:18:13.888Z",
+  "lastUpdated": "2026-10-25T22:24:44.294Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,6 +399,16 @@
       "link": "https://www.ransomware.live/id/UC4uLlMuLi5SLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Tue, 20 Oct 2026 16:56:29 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Seetelhotels.de",
+      "link": "https://www.ransomware.live/id/U2VldGVsaG90ZWxzLmRlQGluY3JhbnNvbQ",
+      "pubDate": "Mon, 19 Oct 2026 17:12:41 +0000",
+      "summary": "Seetel Hotels (SEETEL Hotel GmbH & Co. Betriebs KG) has been notified that a substantial volume of confidential and internal corporate data has been compromised.\r \r The affected data includes, but is not limited to:\r \r Full guest identity records, government-issued passport and ID numbers, payment c...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
