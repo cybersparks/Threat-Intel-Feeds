@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-10-27T04:39:57.792Z",
+  "lastUpdated": "2026-10-27T10:19:15.787Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "AfD - 345,439 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/AfD",
+      "pubDate": "Tue, 27 Oct 2026 07:01:06 Z",
+      "summary": "In September 2026, the German political party Alternative für Deutschland (AfD) suffered a data breach which exposed 345k unique email addresses. The ...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "345,439 ",
+        "345,439"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Assurance Retraite - 70,372 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
@@ -245,19 +258,6 @@
       "breachCount": [
         "1,988,331 ",
         "1,988,331"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Fanlore - 144,520 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Fanlore",
-      "pubDate": "Wed, 19 Aug 2026 02:09:16 Z",
-      "summary": "In August 2026, the Organization for Transformative Works (OTW) identified unauthorised access to the Fanlore wiki it operates. The breach resulted in...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "144,520 ",
-        "144,520"
       ],
       "isBreach": true,
       "isRansomware": false
