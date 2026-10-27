@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T20:23:11.405Z",
+  "lastUpdated": "2026-10-27T04:39:57.792Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Morrison Cohen",
+      "link": "https://www.ransomware.live/id/TW9ycmlzb24gQ29oZW5AU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Mon, 26 Oct 2026 23:07:56 +0000",
+      "summary": "[AI generated] Morrison Cohen LLP is a United States law firm headquartered in New York City. It provides legal services across practice areas including corporate law, litigation, bankruptcy and restructuring, real estate, intellectual property, and white-collar defense. The firm serves corporate cl...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Whitearmor has just published a new victim : Partido Liberal",
       "link": "https://www.ransomware.live/id/UGFydGlkbyBMaWJlcmFsQFdoaXRlYXJtb3I",
       "pubDate": "Sun, 25 Oct 2026 16:56:33 +0000",
@@ -359,26 +369,6 @@
       "link": "https://www.ransomware.live/id/UG9ydGVyIEhlZGdlcyBMTFBAU2lsZW50UmFuc29tR3JvdXA",
       "pubDate": "Wed, 21 Oct 2026 19:03:17 +0000",
       "summary": "[AI generated] Porter Hedges LLP is a full-service business law firm based in Houston, Texas, United States. It operates in the legal services industry, providing counsel in areas such as energy, corporate transactions, finance, litigation, bankruptcy, real estate, and labor and employment law. The ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... M...",
-      "link": "https://www.ransomware.live/id/TS4uLiBNLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Tue, 20 Oct 2026 20:05:34 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P... H...",
-      "link": "https://www.ransomware.live/id/UC4uLiBILi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Tue, 20 Oct 2026 20:04:24 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
