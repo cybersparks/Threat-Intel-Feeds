@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T16:33:05.940Z",
+  "lastUpdated": "2026-10-28T23:57:24.286Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -263,5 +263,106 @@
       "isRansomware": false
     }
   ],
-  "ransomware": []
+  "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Lowenstein Sandler LLP",
+      "link": "https://www.ransomware.live/id/TG93ZW5zdGVpbiBTYW5kbGVyIExMUEBTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Wed, 28 Oct 2026 23:30:55 +0000",
+      "summary": "Founded in 1961 and headquartered in New York City, New York, Lowenstein Sandler is a national law fir…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Morrison Foerster",
+      "link": "https://www.ransomware.live/id/TW9ycmlzb24gRm9lcnN0ZXJAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Wed, 28 Oct 2026 21:29:40 +0000",
+      "summary": "Morrison Foerster is a leading international law firm with a presence in the United States, Asia, and …...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... E...",
+      "link": "https://www.ransomware.live/id/VC4uLiBFLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 28 Oct 2026 21:29:20 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... H...",
+      "link": "https://www.ransomware.live/id/Uy4uLiBILi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 28 Oct 2026 21:28:57 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : L...",
+      "link": "https://www.ransomware.live/id/TC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Wed, 28 Oct 2026 17:34:09 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Whitearmor has just published a new victim : Echo.com",
+      "link": "https://www.ransomware.live/id/RWNoby5jb21AV2hpdGVhcm1vcg",
+      "pubDate": "Wed, 28 Oct 2026 02:10:02 +0000",
+      "summary": "Echo Global Logistics is a Chicago-based, technology-enabled third-party logistics provider offering freight brokerage and integrated supply chain services, including truckload, LTL, warehousing, and cross-border shipping across North America.\n\nWe hold Echo Global Logistics data: 2.06M claims rows, ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Morrison Cohen",
+      "link": "https://www.ransomware.live/id/TW9ycmlzb24gQ29oZW5AU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Mon, 26 Oct 2026 23:07:56 +0000",
+      "summary": "[AI generated] Morrison Cohen LLP is a United States law firm headquartered in New York City. It provides legal services across practice areas including corporate law, litigation, bankruptcy and restructuring, real estate, intellectual property, and white-collar defense. The firm serves corporate cl...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Whitearmor has just published a new victim : Partido Liberal",
+      "link": "https://www.ransomware.live/id/UGFydGlkbyBMaWJlcmFsQFdoaXRlYXJtb3I",
+      "pubDate": "Sun, 25 Oct 2026 16:56:33 +0000",
+      "summary": "Brazil's Liberal Party (PL) is the political party of the Bolsonaro family. Although named \"Liberal,\" it is currently characterized by conservatism and right-wing populism. Jair Bolsonaro joined the party in 2021, and his son Flávio Bolsonaro is now the party's presidential candidate, advocating red...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Emperador has just published a new victim : A-RMS",
+      "link": "https://www.ransomware.live/id/QS1STVNAZW1wZXJhZG9y",
+      "pubDate": "Sun, 25 Oct 2026 14:52:33 +0000",
+      "summary": "We encrypted your servers and stole some of your source code, along with some sensitive information. If you do not pay the ransom, we will contact and attack your employees, clients, and partners to destroy your business. [Sector: Technology]...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Emperador has just published a new victim : B2Chat",
+      "link": "https://www.ransomware.live/id/QjJDaGF0QGVtcGVyYWRvcg",
+      "pubDate": "Fri, 23 Oct 2026 07:52:10 +0000",
+      "summary": "B2Chat is a multimillion dollar business communication platform based in Spain that provides tools for customer support, sales, and engagement. It allows businesses to interact with customers through various channels, such as live chat, chatbots, and messaging apps (for example, WhatsApp, Facebook M...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    }
+  ]
 }
