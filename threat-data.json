@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T05:24:03.117Z",
+  "lastUpdated": "2026-10-30T16:37:42.727Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Phillips Nizer",
+      "link": "https://www.ransomware.live/id/UGhpbGxpcHMgTml6ZXJAcmFuc29taG91c2U",
+      "pubDate": "Fri, 30 Oct 2026 14:36:29 +0000",
+      "summary": "Phillips Nizer LLP offers sophisticated legal services at cost-effective rates, ensuring that clients' interests are fiercely protected and promoted. The firm provides resourceful representation across various legal matters, catering to a diverse clientele. With a commitment to legal independence an...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Susman Godfrey LLP",
       "link": "https://www.ransomware.live/id/U3VzbWFuIEdvZGZyZXkgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
