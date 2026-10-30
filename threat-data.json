@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T23:52:46.196Z",
+  "lastUpdated": "2026-10-30T05:24:03.117Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Susman Godfrey LLP",
+      "link": "https://www.ransomware.live/id/U3VzbWFuIEdvZGZyZXkgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Fri, 30 Oct 2026 00:02:22 +0000",
+      "summary": "Susman Godfrey L.L.P. is a premier litigation firm recognized for its exceptional courtroom talent and…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Whitearmor has just published a new victim : rolly.io",
       "link": "https://www.ransomware.live/id/cm9sbHkuaW9AV2hpdGVhcm1vcg",
