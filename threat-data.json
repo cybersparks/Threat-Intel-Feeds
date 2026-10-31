@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T05:08:09.804Z",
+  "lastUpdated": "2026-10-31T15:40:45.405Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -409,36 +409,6 @@
       "link": "https://www.ransomware.live/id/RWNoby5jb21AV2hpdGVhcm1vcg",
       "pubDate": "Wed, 28 Oct 2026 02:10:02 +0000",
       "summary": "Echo Global Logistics is a Chicago-based, technology-enabled third-party logistics provider offering freight brokerage and integrated supply chain services, including truckload, LTL, warehousing, and cross-border shipping across North America.\n\nWe hold Echo Global Logistics data: 2.06M claims rows, ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Morrison Cohen",
-      "link": "https://www.ransomware.live/id/TW9ycmlzb24gQ29oZW5AU2lsZW50UmFuc29tR3JvdXA",
-      "pubDate": "Mon, 26 Oct 2026 23:07:56 +0000",
-      "summary": "[AI generated] Morrison Cohen LLP is a United States law firm headquartered in New York City. It provides legal services across practice areas including corporate law, litigation, bankruptcy and restructuring, real estate, intellectual property, and white-collar defense. The firm serves corporate cl...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Whitearmor has just published a new victim : Partido Liberal",
-      "link": "https://www.ransomware.live/id/UGFydGlkbyBMaWJlcmFsQFdoaXRlYXJtb3I",
-      "pubDate": "Sun, 25 Oct 2026 16:56:33 +0000",
-      "summary": "Brazil's Liberal Party (PL) is the political party of the Bolsonaro family. Although named \"Liberal,\" it is currently characterized by conservatism and right-wing populism. Jair Bolsonaro joined the party in 2021, and his son Flávio Bolsonaro is now the party's presidential candidate, advocating red...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Emperador has just published a new victim : A-RMS",
-      "link": "https://www.ransomware.live/id/QS1STVNAZW1wZXJhZG9y",
-      "pubDate": "Sun, 25 Oct 2026 14:52:33 +0000",
-      "summary": "We encrypted your servers and stole some of your source code, along with some sensitive information. If you do not pay the ransom, we will contact and attack your employees, clients, and partners to destroy your business. [Sector: Technology]...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
