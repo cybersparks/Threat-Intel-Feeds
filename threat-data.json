@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T23:34:27.966Z",
+  "lastUpdated": "2026-10-31T05:08:09.804Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : chicagolawyer.com",
+      "link": "https://www.ransomware.live/id/Y2hpY2Fnb2xhd3llci5jb21AaW5jcmFuc29t",
+      "pubDate": "Sat, 31 Oct 2026 00:01:20 +0000",
+      "summary": "Chicago Personal Injury Lawyers Award-Winning Injury Lawyers At Staver Accident Injury Lawyers, we face powerful insurance companies head-on, using our decades of experience to help injury victims like you get the compensation you deserve. SAIL to victory with our winning team....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : ArentFox Schiff",
+      "link": "https://www.ransomware.live/id/QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Fri, 30 Oct 2026 23:39:46 +0000",
+      "summary": "ArentFox Schiff LLP is a prominent national law firm and lobbying firm formed on March 1, 2022, throug…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Moritt Hock & Hamroff LLP",
       "link": "https://www.ransomware.live/id/TW9yaXR0IEhvY2sgJiBIYW1yb2ZmIExMUEBTaWxlbnRSYW5zb21Hcm91cA",
