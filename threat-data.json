@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T23:27:34.323Z",
+  "lastUpdated": "2026-11-02T05:37:00.458Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -419,16 +419,6 @@
       "link": "https://www.ransomware.live/id/TC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
       "pubDate": "Wed, 28 Oct 2026 17:34:09 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Whitearmor has just published a new victim : Echo.com",
-      "link": "https://www.ransomware.live/id/RWNoby5jb21AV2hpdGVhcm1vcg",
-      "pubDate": "Wed, 28 Oct 2026 02:10:02 +0000",
-      "summary": "Echo Global Logistics is a Chicago-based, technology-enabled third-party logistics provider offering freight brokerage and integrated supply chain services, including truckload, LTL, warehousing, and cross-border shipping across North America.\n\nWe hold Echo Global Logistics data: 2.06M claims rows, ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
