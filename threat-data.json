@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T20:09:30.288Z",
+  "lastUpdated": "2026-11-03T06:16:45.046Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... G...",
+      "link": "https://www.ransomware.live/id/Uy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Mon, 02 Nov 2026 21:00:34 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : System Soft",
       "link": "https://www.ransomware.live/id/U3lzdGVtIFNvZnRAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Sat, 31 Oct 2026 19:04:42 +0000",
@@ -369,46 +379,6 @@
       "link": "https://www.ransomware.live/id/cm9sbHkuaW9AV2hpdGVhcm1vcg",
       "pubDate": "Thu, 29 Oct 2026 18:04:46 +0000",
       "summary": "Rolly.io is an on-chain crypto casino on Arbitrum featuring a public bankroll, transparent bonus formulas (rakeback, weekly bonuses), and active player reward systems.\n\nWe hold 1,364 rolly.gg player PII records with linked on-chain wallets, 430K+ ledger transactions, 11,442 wallet addresses, 155 wha...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Lowenstein Sandler LLP",
-      "link": "https://www.ransomware.live/id/TG93ZW5zdGVpbiBTYW5kbGVyIExMUEBTaWxlbnRSYW5zb21Hcm91cA",
-      "pubDate": "Wed, 28 Oct 2026 23:30:55 +0000",
-      "summary": "Founded in 1961 and headquartered in New York City, New York, Lowenstein Sandler is a national law fir…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Morrison Foerster",
-      "link": "https://www.ransomware.live/id/TW9ycmlzb24gRm9lcnN0ZXJAU2lsZW50UmFuc29tR3JvdXA",
-      "pubDate": "Wed, 28 Oct 2026 21:29:40 +0000",
-      "summary": "Morrison Foerster is a leading international law firm with a presence in the United States, Asia, and …...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... E...",
-      "link": "https://www.ransomware.live/id/VC4uLiBFLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 28 Oct 2026 21:29:20 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... H...",
-      "link": "https://www.ransomware.live/id/Uy4uLiBILi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 28 Oct 2026 21:28:57 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
