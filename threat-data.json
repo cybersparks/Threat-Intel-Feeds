@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-11-03T06:16:45.046Z",
+  "lastUpdated": "2026-11-03T17:40:07.772Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Harvard - 850,537 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Harvard",
+      "pubDate": "Tue, 03 Nov 2026 07:24:50 Z",
+      "summary": "In November 2025, Harvard University suffered a data breach later linked to a ShinyHunters \"pay or leak\" extortion attempt. The data contained 851k un...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "850,537 ",
+        "850,537"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "AfD - 345,439 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/AfD",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Oz Hair and Beauty - 1,988,331 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
-      "pubDate": "Wed, 19 Aug 2026 03:15:00 Z",
-      "summary": "In August 2026, Australian beauty retailer Oz Hair and Beauty was the target of an xpl0itrs extortion attack. The group subsequently published data al...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,988,331 ",
-        "1,988,331"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... R...",
+      "link": "https://www.ransomware.live/id/Ry4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Tue, 03 Nov 2026 12:54:26 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... G...",
       "link": "https://www.ransomware.live/id/Uy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
@@ -359,26 +369,6 @@
       "link": "https://www.ransomware.live/id/UGhpbGxpcHMgTml6ZXJAcmFuc29taG91c2U",
       "pubDate": "Fri, 30 Oct 2026 14:36:29 +0000",
       "summary": "Phillips Nizer LLP offers sophisticated legal services at cost-effective rates, ensuring that clients' interests are fiercely protected and promoted. The firm provides resourceful representation across various legal matters, catering to a diverse clientele. With a commitment to legal independence an...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Susman Godfrey LLP",
-      "link": "https://www.ransomware.live/id/U3VzbWFuIEdvZGZyZXkgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 30 Oct 2026 00:02:22 +0000",
-      "summary": "Susman Godfrey L.L.P. is a premier litigation firm recognized for its exceptional courtroom talent and…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Whitearmor has just published a new victim : rolly.io",
-      "link": "https://www.ransomware.live/id/cm9sbHkuaW9AV2hpdGVhcm1vcg",
-      "pubDate": "Thu, 29 Oct 2026 18:04:46 +0000",
-      "summary": "Rolly.io is an on-chain crypto casino on Arbitrum featuring a public bankroll, transparent bonus formulas (rakeback, weekly bonuses), and active player reward systems.\n\nWe hold 1,364 rolly.gg player PII records with linked on-chain wallets, 430K+ ledger transactions, 11,442 wallet addresses, 155 wha...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
