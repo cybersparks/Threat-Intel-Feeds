@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T00:31:49.802Z",
+  "lastUpdated": "2026-11-04T12:52:15.970Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -399,36 +399,6 @@
       "link": "https://www.ransomware.live/id/UC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
       "pubDate": "Fri, 30 Oct 2026 21:37:30 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : M... H...",
-      "link": "https://www.ransomware.live/id/TS4uLiBILi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 30 Oct 2026 20:30:49 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A... F...",
-      "link": "https://www.ransomware.live/id/QS4uLiBGLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 30 Oct 2026 17:09:36 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Phillips Nizer",
-      "link": "https://www.ransomware.live/id/UGhpbGxpcHMgTml6ZXJAcmFuc29taG91c2U",
-      "pubDate": "Fri, 30 Oct 2026 14:36:29 +0000",
-      "summary": "Phillips Nizer LLP offers sophisticated legal services at cost-effective rates, ensuring that clients' interests are fiercely protected and promoted. The firm provides resourceful representation across various legal matters, catering to a diverse clientele. With a commitment to legal independence an...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
