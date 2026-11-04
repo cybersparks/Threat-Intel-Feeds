@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T17:40:07.772Z",
+  "lastUpdated": "2026-11-04T00:31:49.802Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,66 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : fidepartners.com",
+      "link": "https://www.ransomware.live/id/ZmlkZXBhcnRuZXJzLmNvbUBpbmNyYW5zb20",
+      "pubDate": "Tue, 03 Nov 2026 23:08:29 +0000",
+      "summary": "....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : roundglass.com",
+      "link": "https://www.ransomware.live/id/cm91bmRnbGFzcy5jb21AaW5jcmFuc29t",
+      "pubDate": "Tue, 03 Nov 2026 23:08:02 +0000",
+      "summary": "proof...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : butler.legal",
+      "link": "https://www.ransomware.live/id/YnV0bGVyLmxlZ2FsQGluY3JhbnNvbQ",
+      "pubDate": "Tue, 03 Nov 2026 23:07:38 +0000",
+      "summary": "client data  personal case...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : innovativedriven.com",
+      "link": "https://www.ransomware.live/id/aW5ub3ZhdGl2ZWRyaXZlbi5jb21AaW5jcmFuc29t",
+      "pubDate": "Tue, 03 Nov 2026 23:07:14 +0000",
+      "summary": "....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bliss1041.com",
+      "link": "https://www.ransomware.live/id/Ymxpc3MxMDQxLmNvbUBpbmNyYW5zb20",
+      "pubDate": "Tue, 03 Nov 2026 23:06:49 +0000",
+      "summary": "nda...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : hillandbeyer.com",
+      "link": "https://www.ransomware.live/id/aGlsbGFuZGJleWVyLmNvbUBpbmNyYW5zb20",
+      "pubDate": "Tue, 03 Nov 2026 21:56:42 +0000",
+      "summary": "Hill & Beyer is a law firm that provides legal representation and related client services.\r \r Management at Hill & Beyer has been officially informed regarding a major breach involving highly sensitive data.\r \r The compromised file repository encompasses a broad spectrum of confidential documents, n...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... R...",
       "link": "https://www.ransomware.live/id/Ry4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
