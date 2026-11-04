@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T12:52:15.970Z",
+  "lastUpdated": "2026-11-04T21:11:59.740Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Whitearmor has just published a new victim : Unilever",
+      "link": "https://www.ransomware.live/id/VW5pbGV2ZXJAV2hpdGVhcm1vcg",
+      "pubDate": "Wed, 04 Nov 2026 20:57:10 +0000",
+      "summary": "Unilever is a British multinational consumer goods company headquartered in London. It owns over 400 brands, including Dove, Knorr, Hellmann's, and Rexona, spanning beauty, personal care, home care, and foods, serving consumers in around 190 countries worldwide.\n\nWe hold 665K contacts, 5.5K OTM acco...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W... G...",
+      "link": "https://www.ransomware.live/id/Vy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 04 Nov 2026 20:56:19 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : El Cajon, CA",
+      "link": "https://www.ransomware.live/id/RWwgQ2Fqb24sIENBQHJoeXNpZGE",
+      "pubDate": "Wed, 04 Nov 2026 16:55:52 +0000",
+      "summary": "El Cajon, CA LOT DESCRIPTION (brief) - U.S. municipal dump: police + 911 + production SQLWhat is for sale. Municipal government of a U.S. city (California): police department, 911 dispatch center (joint authority), fire/EMS, all city services, ~1,100+ employees. ~7.8M files / ~7.8 TB. Content curren...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : fidepartners.com",
       "link": "https://www.ransomware.live/id/ZmlkZXBhcnRuZXJzLmNvbUBpbmNyYW5zb20",
       "pubDate": "Tue, 03 Nov 2026 23:08:29 +0000",
@@ -359,46 +389,6 @@
       "link": "https://www.ransomware.live/id/SkhBTUYgR3JvdXBAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Sat, 31 Oct 2026 19:04:20 +0000",
       "summary": "JHAMF Group is a Colombian IT services company specializing in IT infrastructure, telecommunications, software licensing and implementation, network installation and certification, technical support outsourcing, and cloud infrastructure solutions, including Microsoft Azure....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : chicagolawyer.com",
-      "link": "https://www.ransomware.live/id/Y2hpY2Fnb2xhd3llci5jb21AaW5jcmFuc29t",
-      "pubDate": "Sat, 31 Oct 2026 00:01:20 +0000",
-      "summary": "Chicago Personal Injury Lawyers Award-Winning Injury Lawyers At Staver Accident Injury Lawyers, we face powerful insurance companies head-on, using our decades of experience to help injury victims like you get the compensation you deserve. SAIL to victory with our winning team....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : ArentFox Schiff",
-      "link": "https://www.ransomware.live/id/QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 30 Oct 2026 23:39:46 +0000",
-      "summary": "ArentFox Schiff LLP is a prominent national law firm and lobbying firm formed on March 1, 2022, throug…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Moritt Hock & Hamroff LLP",
-      "link": "https://www.ransomware.live/id/TW9yaXR0IEhvY2sgJiBIYW1yb2ZmIExMUEBTaWxlbnRSYW5zb21Hcm91cA",
-      "pubDate": "Fri, 30 Oct 2026 21:37:51 +0000",
-      "summary": "[AI generated] Moritt Hock & Hamroff LLP is a United States law firm based in Garden City, New York. It provides legal services across practice areas including commercial finance, bankruptcy and creditors' rights, litigation, real estate, transportation law, labor and employment, and corporate matte...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : P...",
-      "link": "https://www.ransomware.live/id/UC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
-      "pubDate": "Fri, 30 Oct 2026 21:37:30 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
