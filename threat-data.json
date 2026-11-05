@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T21:11:59.740Z",
+  "lastUpdated": "2026-11-05T06:14:07.865Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : TFG London",
+      "link": "https://www.ransomware.live/id/VEZHIExvbmRvbkByYW5zb21ob3VzZQ",
+      "pubDate": "Wed, 04 Nov 2026 22:28:55 +0000",
+      "summary": "BTFG London is a fashion retail group that includes several premium brands such as Hobbs, Phase Eight, Whistles, White Stuff, and Inside Story. Established in the UK market in 2015, the company has expanded its portfolio and opened its first TFG London store in December 2019. The group focuses on fa...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K... R...",
+      "link": "https://www.ransomware.live/id/Sy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 04 Nov 2026 22:01:53 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Whitearmor has just published a new victim : Unilever",
       "link": "https://www.ransomware.live/id/VW5pbGV2ZXJAV2hpdGVhcm1vcg",
