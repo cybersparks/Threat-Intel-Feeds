@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T06:14:07.865Z",
+  "lastUpdated": "2026-11-05T17:55:55.495Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -389,26 +389,6 @@
       "link": "https://www.ransomware.live/id/Uy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Mon, 02 Nov 2026 21:00:34 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : System Soft",
-      "link": "https://www.ransomware.live/id/U3lzdGVtIFNvZnRAVmV4eSBSYW5zb213YXJl",
-      "pubDate": "Sat, 31 Oct 2026 19:04:42 +0000",
-      "summary": "systemsoft.info...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : JHAMF Group",
-      "link": "https://www.ransomware.live/id/SkhBTUYgR3JvdXBAVmV4eSBSYW5zb213YXJl",
-      "pubDate": "Sat, 31 Oct 2026 19:04:20 +0000",
-      "summary": "JHAMF Group is a Colombian IT services company specializing in IT infrastructure, telecommunications, software licensing and implementation, network installation and certification, technical support outsourcing, and cloud infrastructure solutions, including Microsoft Azure....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
