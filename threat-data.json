@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T12:48:29.934Z",
+  "lastUpdated": "2026-11-06T20:47:09.006Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://www.sleep-clinic.ca/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuc2xlZXAtY2xpbmljLmNhL0BpbmNyYW5zb20",
+      "pubDate": "Fri, 06 Nov 2026 19:09:52 +0000",
+      "summary": "The Sleep Disorders Clinic offers a full range of diagnostic and therapeutic sleep services, including night time sleep studies and daytime tests. Our 3 locations contain private bedrooms and we perform sleep studies 7 nights a week. Most services are covered by OHIP and all new patients require a r...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Tucker Ellis",
+      "link": "https://www.ransomware.live/id/VHVja2VyIEVsbGlzQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Fri, 06 Nov 2026 18:58:03 +0000",
+      "summary": "Tucker Ellis LLP is a law firm that focuses on delivering exceptional experiences to its clients while…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Wachtell, Lipton, Rosen & Katz",
+      "link": "https://www.ransomware.live/id/V2FjaHRlbGwsIExpcHRvbiwgUm9zZW4gJiBLYXR6QFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Fri, 06 Nov 2026 18:57:43 +0000",
+      "summary": "Wachtell, Lipton, Rosen & Katz is a highly prestigious law firm headquartered in New York City, founde…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : B... law",
+      "link": "https://www.ransomware.live/id/Qi4uLiBsYXdAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Fri, 06 Nov 2026 16:36:19 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : ZipAI",
       "link": "https://www.ransomware.live/id/WmlwQUlAVmV4eSBSYW5zb213YXJl",
