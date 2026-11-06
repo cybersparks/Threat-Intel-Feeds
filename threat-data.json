@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T17:55:55.495Z",
+  "lastUpdated": "2026-11-06T00:54:54.171Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,36 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : ZipAI",
+      "link": "https://www.ransomware.live/id/WmlwQUlAVmV4eSBSYW5zb213YXJl",
+      "pubDate": "Thu, 05 Nov 2026 23:27:37 +0000",
+      "summary": "ZipAI is a Vietnam-based AI technology platform providing artificial intelligence solutions for image generation, image editing, voice generation, video personalization and chatbot development. Its services include AI-powered photo restoration, face swapping, virtual clothing changes, product image ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Smith, Gambrell & Russell, LLP",
+      "link": "https://www.ransomware.live/id/U21pdGgsIEdhbWJyZWxsICYgUnVzc2VsbCwgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 05 Nov 2026 22:35:25 +0000",
+      "summary": "They offered $272.500 to keep the data from being published....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W... R...",
+      "link": "https://www.ransomware.live/id/Vy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 05 Nov 2026 22:35:05 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : TFG London",
       "link": "https://www.ransomware.live/id/VEZHIExvbmRvbkByYW5zb21ob3VzZQ",
