@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T20:47:09.006Z",
+  "lastUpdated": "2026-11-07T05:38:09.369Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Benesch Law",
+      "link": "https://www.ransomware.live/id/QmVuZXNjaCBMYXdAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Sat, 07 Nov 2026 01:07:11 +0000",
+      "summary": "[AI generated] Benesch Law, formally Benesch, Friedlander, Coplan & Aronoff LLP, is a United States-based law firm headquartered in Cleveland, Ohio. It operates in the legal services industry, providing counsel across practice areas including corporate law, litigation, intellectual property, labor a...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : 1da9100e55aqf21eb651eNea",
+      "link": "https://www.ransomware.live/id/MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ",
+      "pubDate": "Sat, 07 Nov 2026 00:15:21 +0000",
+      "summary": "1da9100e55aqf21eb651eNea...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : https://www.sleep-clinic.ca/",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuc2xlZXAtY2xpbmljLmNhL0BpbmNyYW5zb20",
       "pubDate": "Fri, 06 Nov 2026 19:09:52 +0000",
@@ -448,16 +468,6 @@
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... R...",
       "link": "https://www.ransomware.live/id/Ry4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Tue, 03 Nov 2026 12:54:26 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : S... G...",
-      "link": "https://www.ransomware.live/id/Uy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Mon, 02 Nov 2026 21:00:34 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
