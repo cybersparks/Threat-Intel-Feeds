@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T16:14:56.075Z",
+  "lastUpdated": "2026-11-07T23:32:46.480Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -459,16 +459,6 @@
       "link": "https://www.ransomware.live/id/aGlsbGFuZGJleWVyLmNvbUBpbmNyYW5zb20",
       "pubDate": "Tue, 03 Nov 2026 21:56:42 +0000",
       "summary": "Hill & Beyer is a law firm that provides legal representation and related client services.\r \r Management at Hill & Beyer has been officially informed regarding a major breach involving highly sensitive data.\r \r The compromised file repository encompasses a broad spectrum of confidential documents, n...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... R...",
-      "link": "https://www.ransomware.live/id/Ry4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Tue, 03 Nov 2026 12:54:26 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
