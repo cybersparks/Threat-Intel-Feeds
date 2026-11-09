@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T05:49:58.859Z",
+  "lastUpdated": "2026-11-09T20:36:19.325Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Albion Online Data Project",
+      "link": "https://www.ransomware.live/id/QWxiaW9uIE9ubGluZSBEYXRhIFByb2plY3RAVmV4eSBSYW5zb213YXJl",
+      "pubDate": "Mon, 09 Nov 2026 19:08:25 +0000",
+      "summary": "A community-driven data platform that collects and distributes real-time market prices, gold prices, market orders and historical data for the MMORPG Albion Online. It provides APIs, data feeds and downloadable client software for players, developers and third-party applications....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Living Word Schools",
+      "link": "https://www.ransomware.live/id/TGl2aW5nIFdvcmQgU2Nob29sc0BWZXh5IFJhbnNvbXdhcmU",
+      "pubDate": "Mon, 09 Nov 2026 19:08:05 +0000",
+      "summary": "An educational institution/network providing school-related educational services. Its online platform includes student and school administration functionality, including an application portal and login facilities. Publicly available information suggests an education-focused organization....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : B... W...",
+      "link": "https://www.ransomware.live/id/Qi4uLiBXLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Mon, 09 Nov 2026 19:06:39 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : M.C.S. Steel Public Company Limited",
+      "link": "https://www.ransomware.live/id/TS5DLlMuIFN0ZWVsIFB1YmxpYyBDb21wYW55IExpbWl0ZWRAcmh5c2lkYQ",
+      "pubDate": "Mon, 09 Nov 2026 17:27:39 +0000",
+      "summary": "M.C.S. Steel Public Company Limited M.C.S. Steel Public Company Limited - largest structural-steel fabricatorin Thailand, SET-listed (ticker MCS).Total files: 2,314,625Total volume: 4.2 TB'Senior Advisor to Chairmen of the Board' paid 800,000 JPY/month viaTrust Engineering K.K. (Tokyo) to Keiyo Bank...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : q-technicians.be",
       "link": "https://www.ransomware.live/id/cS10ZWNobmljaWFucy5iZUBpbmNyYW5zb20",
       "pubDate": "Sun, 08 Nov 2026 03:49:05 +0000",
@@ -379,56 +419,6 @@
       "link": "https://www.ransomware.live/id/Vy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Thu, 05 Nov 2026 22:35:05 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : TFG London",
-      "link": "https://www.ransomware.live/id/VEZHIExvbmRvbkByYW5zb21ob3VzZQ",
-      "pubDate": "Wed, 04 Nov 2026 22:28:55 +0000",
-      "summary": "BTFG London is a fashion retail group that includes several premium brands such as Hobbs, Phase Eight, Whistles, White Stuff, and Inside Story. Established in the UK market in 2015, the company has expanded its portfolio and opened its first TFG London store in December 2019. The group focuses on fa...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : K... R...",
-      "link": "https://www.ransomware.live/id/Sy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 04 Nov 2026 22:01:53 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Whitearmor has just published a new victim : Unilever",
-      "link": "https://www.ransomware.live/id/VW5pbGV2ZXJAV2hpdGVhcm1vcg",
-      "pubDate": "Wed, 04 Nov 2026 20:57:10 +0000",
-      "summary": "Unilever is a British multinational consumer goods company headquartered in London. It owns over 400 brands, including Dove, Knorr, Hellmann's, and Rexona, spanning beauty, personal care, home care, and foods, serving consumers in around 190 countries worldwide.\n\nWe hold 665K contacts, 5.5K OTM acco...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W... G...",
-      "link": "https://www.ransomware.live/id/Vy4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 04 Nov 2026 20:56:19 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : El Cajon, CA",
-      "link": "https://www.ransomware.live/id/RWwgQ2Fqb24sIENBQHJoeXNpZGE",
-      "pubDate": "Wed, 04 Nov 2026 16:55:52 +0000",
-      "summary": "El Cajon, CA LOT DESCRIPTION (brief) - U.S. municipal dump: police + 911 + production SQLWhat is for sale. Municipal government of a U.S. city (California): police department, 911 dispatch center (joint authority), fire/EMS, all city services, ~1,100+ employees. ~7.8M files / ~7.8 TB. Content curren...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
