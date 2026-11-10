@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T20:36:19.325Z",
+  "lastUpdated": "2026-11-10T06:55:58.719Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Wilentz, Goldman & Spitzer",
+      "link": "https://www.ransomware.live/id/V2lsZW50eiwgR29sZG1hbiAmIFNwaXR6ZXJAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Mon, 09 Nov 2026 21:06:01 +0000",
+      "summary": "[AI generated] Wilentz, Goldman & Spitzer is a law firm based in the United States, headquartered in Woodbridge, New Jersey. It provides legal services across practice areas including litigation, business law, real estate, health law, family law, personal injury, and trusts and estates. Operating wi...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Albion Online Data Project",
       "link": "https://www.ransomware.live/id/QWxiaW9uIE9ubGluZSBEYXRhIFByb2plY3RAVmV4eSBSYW5zb213YXJl",
       "pubDate": "Mon, 09 Nov 2026 19:08:25 +0000",
@@ -349,76 +359,6 @@
       "link": "https://www.ransomware.live/id/MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ",
       "pubDate": "Sat, 07 Nov 2026 00:15:21 +0000",
       "summary": "1da9100e55aqf21eb651eNea...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://www.sleep-clinic.ca/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuc2xlZXAtY2xpbmljLmNhL0BpbmNyYW5zb20",
-      "pubDate": "Fri, 06 Nov 2026 19:09:52 +0000",
-      "summary": "The Sleep Disorders Clinic offers a full range of diagnostic and therapeutic sleep services, including night time sleep studies and daytime tests. Our 3 locations contain private bedrooms and we perform sleep studies 7 nights a week. Most services are covered by OHIP and all new patients require a r...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Tucker Ellis",
-      "link": "https://www.ransomware.live/id/VHVja2VyIEVsbGlzQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 06 Nov 2026 18:58:03 +0000",
-      "summary": "Tucker Ellis LLP is a law firm that focuses on delivering exceptional experiences to its clients while…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Wachtell, Lipton, Rosen & Katz",
-      "link": "https://www.ransomware.live/id/V2FjaHRlbGwsIExpcHRvbiwgUm9zZW4gJiBLYXR6QFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 06 Nov 2026 18:57:43 +0000",
-      "summary": "Wachtell, Lipton, Rosen & Katz is a highly prestigious law firm headquartered in New York City, founde…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : B... law",
-      "link": "https://www.ransomware.live/id/Qi4uLiBsYXdAU2lsZW50UmFuc29tR3JvdXA",
-      "pubDate": "Fri, 06 Nov 2026 16:36:19 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : ZipAI",
-      "link": "https://www.ransomware.live/id/WmlwQUlAVmV4eSBSYW5zb213YXJl",
-      "pubDate": "Thu, 05 Nov 2026 23:27:37 +0000",
-      "summary": "ZipAI is a Vietnam-based AI technology platform providing artificial intelligence solutions for image generation, image editing, voice generation, video personalization and chatbot development. Its services include AI-powered photo restoration, face swapping, virtual clothing changes, product image ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Smith, Gambrell & Russell, LLP",
-      "link": "https://www.ransomware.live/id/U21pdGgsIEdhbWJyZWxsICYgUnVzc2VsbCwgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 05 Nov 2026 22:35:25 +0000",
-      "summary": "They offered $272.500 to keep the data from being published....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : W... R...",
-      "link": "https://www.ransomware.live/id/Vy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Thu, 05 Nov 2026 22:35:05 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
