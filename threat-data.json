@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T06:55:58.719Z",
+  "lastUpdated": "2026-11-10T17:37:27.546Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,26 +339,6 @@
       "link": "https://www.ransomware.live/id/d3d3LmJvZ2FyZC5jb20ubXhAaW5jcmFuc29t",
       "pubDate": "Sun, 08 Nov 2026 03:47:21 +0000",
       "summary": "....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Benesch Law",
-      "link": "https://www.ransomware.live/id/QmVuZXNjaCBMYXdAU2lsZW50UmFuc29tR3JvdXA",
-      "pubDate": "Sat, 07 Nov 2026 01:07:11 +0000",
-      "summary": "[AI generated] Benesch Law, formally Benesch, Friedlander, Coplan & Aronoff LLP, is a United States-based law firm headquartered in Cleveland, Ohio. It operates in the legal services industry, providing counsel across practice areas including corporate law, litigation, intellectual property, labor a...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : 1da9100e55aqf21eb651eNea",
-      "link": "https://www.ransomware.live/id/MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ",
-      "pubDate": "Sat, 07 Nov 2026 00:15:21 +0000",
-      "summary": "1da9100e55aqf21eb651eNea...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
