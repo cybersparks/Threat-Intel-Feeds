@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T12:33:16.545Z",
+  "lastUpdated": "2026-11-11T21:49:39.975Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -339,36 +339,6 @@
       "link": "https://www.ransomware.live/id/TS5DLlMuIFN0ZWVsIFB1YmxpYyBDb21wYW55IExpbWl0ZWRAcmh5c2lkYQ",
       "pubDate": "Mon, 09 Nov 2026 17:27:39 +0000",
       "summary": "M.C.S. Steel Public Company Limited M.C.S. Steel Public Company Limited - largest structural-steel fabricatorin Thailand, SET-listed (ticker MCS).Total files: 2,314,625Total volume: 4.2 TB'Senior Advisor to Chairmen of the Board' paid 800,000 JPY/month viaTrust Engineering K.K. (Tokyo) to Keiyo Bank...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : q-technicians.be",
-      "link": "https://www.ransomware.live/id/cS10ZWNobmljaWFucy5iZUBpbmNyYW5zb20",
-      "pubDate": "Sun, 08 Nov 2026 03:49:05 +0000",
-      "summary": "full...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : bpcm.com",
-      "link": "https://www.ransomware.live/id/YnBjbS5jb21AaW5jcmFuc29t",
-      "pubDate": "Sun, 08 Nov 2026 03:48:13 +0000",
-      "summary": "all company data...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.bogard.com.mx",
-      "link": "https://www.ransomware.live/id/d3d3LmJvZ2FyZC5jb20ubXhAaW5jcmFuc29t",
-      "pubDate": "Sun, 08 Nov 2026 03:47:21 +0000",
-      "summary": "....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
