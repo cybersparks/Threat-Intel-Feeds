@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-11-11T00:31:12.227Z",
+  "lastUpdated": "2026-11-11T12:33:16.545Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "YouHack - 7,160,849 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/YouHack",
+      "pubDate": "Wed, 11 Nov 2026 07:29:19 Z",
+      "summary": "In May 2013, the Russian-language hacking forum YouHack suffered a data breach that was later redistributed as part of a larger corpus of data. The br...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "7,160,849 ",
+        "7,160,849"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
+    {
+      "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/SberSpasibo",
+      "pubDate": "Wed, 11 Nov 2026 01:44:58 Z",
+      "summary": "In March 2023, data allegedly taken from СберСпасибо (SberSpasibo), the loyalty program of Russian bank Сбербанк (Sberbank), was published online. The...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "3,288,711 ",
+        "3,288,711"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Harvard - 850,537 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Harvard",
@@ -235,35 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "NIUS - 6,090 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/NIUS",
-      "pubDate": "Sun, 23 Aug 2026 22:25:44 Z",
-      "summary": "In July 2025, the German news service NIUS suffered a data breach which was subsequently leaked publicly. The data included 6k unique email addresses ...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "6,090 ",
-        "6,090"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Golf Canada - 568,972 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/GolfCanada",
-      "pubDate": "Sat, 22 Aug 2026 07:17:23 Z",
-      "summary": "In mid-2026, hundreds of thousands of user records allegedly sourced from Golf Canada began circulating via Telegram. The data included 569k unique em...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "568,972 ",
-        "568,972"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : jnattorney",
+      "link": "https://www.ransomware.live/id/am5hdHRvcm5leUBpbmNyYW5zb20",
+      "pubDate": "Wed, 11 Nov 2026 00:42:48 +0000",
+      "summary": "https://www.jnattorney.com/  personal data of clients, passports, SSNs, visas, and more...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A&O Shearman",
       "link": "https://www.ransomware.live/id/QSZPIFNoZWFybWFuQFNpbGVudFJhbnNvbUdyb3Vw",
