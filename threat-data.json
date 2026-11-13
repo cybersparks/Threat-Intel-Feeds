@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-11-13T00:58:31.899Z",
+  "lastUpdated": "2026-11-13T12:56:52.895Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "CastleRAT - 179,745 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/CastleRAT",
+      "pubDate": "Fri, 13 Nov 2026 05:41:32 Z",
+      "summary": "In November 2026, Europol and international law enforcement partners dismantled infrastructure supporting several malware operations. Among them was C...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "179,745 ",
+        "179,745"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "YouHack - 7,160,849 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/YouHack",
@@ -245,19 +258,6 @@
       "breachCount": [
         "1,226,209 ",
         "1,226,209"
-      ],
-      "isBreach": true,
-      "isRansomware": false
-    },
-    {
-      "title": "Carhartt - 12,933,413 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Carhartt",
-      "pubDate": "Tue, 25 Aug 2026 21:34:25 Z",
-      "summary": "In August 2026, clothing retailer Carhartt was the target of a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently published data al...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "12,933,413 ",
-        "12,933,413"
       ],
       "isBreach": true,
       "isRansomware": false
