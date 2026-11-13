@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T18:03:41.084Z",
+  "lastUpdated": "2026-11-13T00:58:31.899Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Franc-Oil",
+      "link": "https://www.ransomware.live/id/RnJhbmMtT2lsQFZleHkgUmFuc29td2FyZQ",
+      "pubDate": "Thu, 12 Nov 2026 23:19:34 +0000",
+      "summary": "Franc-Oil is a Nigerian offshore and marine services company specializing in vessel chartering, marine logistics, dredging, crew management, offshore construction and oilfield support. It provides maritime and technical solutions to support operations in the oil and gas industry....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Osiiminppal",
+      "link": "https://www.ransomware.live/id/T3NpaW1pbnBwYWxAVmV4eSBSYW5zb213YXJl",
+      "pubDate": "Thu, 12 Nov 2026 23:19:13 +0000",
+      "summary": "https://www.osiiminppal.com/...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Vexy ransomware has just published a new victim : Upper Web",
+      "link": "https://www.ransomware.live/id/VXBwZXIgV2ViQFZleHkgUmFuc29td2FyZQ",
+      "pubDate": "Thu, 12 Nov 2026 23:18:52 +0000",
+      "summary": "Upper Web is a Brazilian digital solutions company specializing in website development, e-commerce platforms, graphic design, branding and digital content creation. It provides creative and technology services to businesses seeking to strengthen their online presence and digital operations....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : axiscades.com",
+      "link": "https://www.ransomware.live/id/YXhpc2NhZGVzLmNvbUBpbmNyYW5zb20",
+      "pubDate": "Thu, 12 Nov 2026 21:45:05 +0000",
+      "summary": "AXISCADES USA is a leading product engineering solutions company catering to the futuristic needs of aerospace, defence, heavy engineering, automotive, energy, medical & healthcare sectors. \r ---\r A critical incident occurred, resulting in the leak of over 6.6 TB of confidential data, including prop...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Chicago History Museum",
       "link": "https://www.ransomware.live/id/Q2hpY2FnbyBIaXN0b3J5IE11c2V1bUBpbmNyYW5zb20",
       "pubDate": "Thu, 12 Nov 2026 10:20:06 +0000",
@@ -519,46 +559,6 @@
       "link": "https://www.ransomware.live/id/Si5FLlQuUy4gTGltaXRlZCAoTXVsdGlMaW5rL0FDSClAaW5jcmFuc29t",
       "pubDate": "Thu, 12 Nov 2026 10:12:13 +0000",
       "summary": "J.E.T.S. Limited — operator of the MultiLink/ACH payment switch, Kingston, Jamaica...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Bcpsystems",
-      "link": "https://www.ransomware.live/id/QmNwc3lzdGVtc0BpbmNyYW5zb20",
-      "pubDate": "Thu, 12 Nov 2026 10:11:54 +0000",
-      "summary": "Southern California’s Full Service Electronics Manufacturing and Repair Solution. Established in 1993 and fully ISO 9001:2015 & AS9100D Certified, we have built a proud reputation for outstanding quality by being on-time, on-budget and for providing unmatched controls and world class service from st...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : dunbarandboardman",
-      "link": "https://www.ransomware.live/id/ZHVuYmFyYW5kYm9hcmRtYW5AaW5jcmFuc29t",
-      "pubDate": "Thu, 12 Nov 2026 10:11:35 +0000",
-      "summary": "Dunbar and Boardman, a trusted name and a premier consultancy specializing in lifts, escalators, vertical transportation, and façade access solutions. With decades of expertise, we specialize in delivering innovative and practical solutions for lifts, elevators, escalators, vertical transportation a...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : D.L. Steiner, Inc",
-      "link": "https://www.ransomware.live/id/RC5MLiBTdGVpbmVyLCBJbmNAaW5jcmFuc29t",
-      "pubDate": "Thu, 12 Nov 2026 10:11:15 +0000",
-      "summary": "Since 1988, D.L. Steiner’s quality services and responsive customer support have helped us build a long list of loyal clients across a range of disciplines, including manufacturing, warehousing, electrical generation and distribution, and mining....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : rppclaw.com",
-      "link": "https://www.ransomware.live/id/cnBwY2xhdy5jb21AaW5jcmFuc29t",
-      "pubDate": "Thu, 12 Nov 2026 10:10:56 +0000",
-      "summary": "Richardson, Pullen & Buck, P.C. is a law firm headquartered in Fillmore, New York. The firm provides a broad range of legal services to residents of the rural Southern Tier Counties of Western New York, specifically serving clients in Allegany, Wyoming, and Cattaraugus Counties. Its legal practice e...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
