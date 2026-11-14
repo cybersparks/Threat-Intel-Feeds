@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T21:20:40.161Z",
+  "lastUpdated": "2026-11-14T05:56:13.228Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Final Notice Before Publication",
+      "link": "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
+      "pubDate": "Fri, 13 Nov 2026 22:44:12 +0000",
+      "summary": "[AI generated] N/A\n\n\"Final Notice Before Publication\" does not correspond to a known company. This phrase is commonly used in extortion or double-extortion ransomware campaigns, where threat actors threaten to publish stolen data unless a ransom is paid. If you encountered this term in a specific co...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Advantage Archives",
       "link": "https://www.ransomware.live/id/QWR2YW50YWdlIEFyY2hpdmVzQGluY3JhbnNvbQ",
@@ -549,16 +559,6 @@
       "link": "https://www.ransomware.live/id/U3RhZHR3ZXJrZSBXYWxkYnLDtmwgR21iSEBpbmNyYW5zb20",
       "pubDate": "Thu, 12 Nov 2026 10:13:10 +0000",
       "summary": "# Stadtwerke Waldbröl\r\n\r\n## Company Description\r\n\r\nStadtwerke Waldbröl GmbH is a 100% municipally owned utility company that provides public services in the city of Waldbröl (Germany). The company specializes in water supply, wastewater disposal, and street lighting, providing reliable, high-quality...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Gator Works Computing (Smith Law Firm, Beauchamp Edwards Epas, Wise Accounting Tax Service...",
-      "link": "https://www.ransomware.live/id/R2F0b3IgV29ya3MgQ29tcHV0aW5nIChTbWl0aCBMYXcgRmlybSwgQmVhdWNoYW1wIEVkd2FyZHMgRXBhcywgV2lzZSBBY2NvdW50aW5nIFRheCBTZXJ2aWNlLi4uQGluY3JhbnNvbQ",
-      "pubDate": "Thu, 12 Nov 2026 10:12:51 +0000",
-      "summary": "# Gator Works Computing Inc. — Massive Client Data Breach Exposes Thousands of Florida Residents\r\n\r\n**Published:** \r\n**Category:** Data Breach / MSP Negligence\r\n\r\n---\r\n\r\n## A Small-Town IT Company's Failure Puts an Entire Community at Risk\r\n\r\n**Gator Works Computing Inc.**, a managed IT services pro...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
