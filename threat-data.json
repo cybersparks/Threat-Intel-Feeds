@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T16:54:45.791Z",
+  "lastUpdated": "2026-11-15T23:53:28.819Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Sarimelati Kencana Tbk PT",
+      "link": "https://www.ransomware.live/id/U2FyaW1lbGF0aSBLZW5jYW5hIFRiayBQVEBpbmNyYW5zb20",
+      "pubDate": "Sun, 15 Nov 2026 18:44:48 +0000",
+      "summary": "PT Sarimelati Kencana Tbk is a subsidiary of PT Sriboga Raturaya and serves as the franchisee for YUM! International, holding the Pizza Hut brand for Indonesia. The company operates Pizza Hut restaurants and delivery services, catering to a wide range of customers seeking dining and takeaway options...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Final Notice Before Publication",
       "link": "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
@@ -549,16 +559,6 @@
       "link": "https://www.ransomware.live/id/w5ZWRVJVTSBBR1JPQGluY3JhbnNvbQ",
       "pubDate": "Thu, 12 Nov 2026 10:13:29 +0000",
       "summary": "# Company Analysis of Overum Agro \r\n\r\n## General Information\r\n- **Company Name**: Overum Agro \r\n- **Website**: [https://www.overum-agro.se/](https://www.overum-agro.se/)\r\n- **Field of Activity**: Agricultural machinery, agricultural equipment\r\n- **Geographical Location**: Sweden (based in Overum, Sw...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Stadtwerke Waldbröl GmbH",
-      "link": "https://www.ransomware.live/id/U3RhZHR3ZXJrZSBXYWxkYnLDtmwgR21iSEBpbmNyYW5zb20",
-      "pubDate": "Thu, 12 Nov 2026 10:13:10 +0000",
-      "summary": "# Stadtwerke Waldbröl\r\n\r\n## Company Description\r\n\r\nStadtwerke Waldbröl GmbH is a 100% municipally owned utility company that provides public services in the city of Waldbröl (Germany). The company specializes in water supply, wastewater disposal, and street lighting, providing reliable, high-quality...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
