@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T05:57:29.912Z",
+  "lastUpdated": "2026-11-16T20:13:10.352Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,46 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Q...",
+      "link": "https://www.ransomware.live/id/US4uLkBTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Mon, 16 Nov 2026 17:39:58 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Chemipharm",
+      "link": "https://www.ransomware.live/id/Q2hlbWlwaGFybUByYW5zb21ob3VzZQ",
+      "pubDate": "Mon, 16 Nov 2026 17:03:17 +0000",
+      "summary": "Chemipharm is the only company selling directly to 100% of the reachable pharmacies and hospitals in Egypt. Chemipharm's distribution network includes: 12 branches allover Egypt. 100 fixed routes every day. Total 150 visiting all the pharmacies all over the country. Latest News : PROFILE Company Pro...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Indiabulls Housing Finance",
+      "link": "https://www.ransomware.live/id/SW5kaWFidWxscyBIb3VzaW5nIEZpbmFuY2VAcmFuc29taG91c2U",
+      "pubDate": "Mon, 16 Nov 2026 17:02:40 +0000",
+      "summary": "Indiabulls Limited is an India-listed, real estate-led conglomerate focused on residential and commercial property development, complemented by financial-services operations in broking, asset reconstruction, digital payments, and equipment leasing....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : BHIC Bofors Asia",
+      "link": "https://www.ransomware.live/id/QkhJQyBCb2ZvcnMgQXNpYUBpbmNyYW5zb20",
+      "pubDate": "Mon, 16 Nov 2026 14:02:57 +0000",
+      "summary": "BHIC Bofors Asia Sdn Bhd (BBA) is a joint venture defense company based in Malaysia that provides maintenance, \r\nspare parts, and training support for Bofors naval weapon systems (such as the Bofors 40mm guns) \r\nused by the Royal Malaysian Navy and in the Asia-Pacific region.\r\n\r\nOwnership: A joint v...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Sarimelati Kencana Tbk PT",
       "link": "https://www.ransomware.live/id/U2FyaW1lbGF0aSBLZW5jYW5hIFRiayBQVEBpbmNyYW5zb20",
       "pubDate": "Sun, 15 Nov 2026 18:44:48 +0000",
@@ -519,46 +559,6 @@
       "link": "https://www.ransomware.live/id/QW1lcmljYW4gQ291bmNpbCBvZiBFZHVjYXRpb25AaW5jcmFuc29t",
       "pubDate": "Thu, 12 Nov 2026 10:14:47 +0000",
       "summary": "# American Council on Education — Data Breach Disclosure\r\n\r\n**Published:** September 30, 2026\r\n**Data Publication Date: October 7, 2026**\r\n\r\n---\r\n\r\n> *ACE was given the opportunity to resolve this matter privately. Their leadership engaged in discussions, then chose to walk away without resolution. ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : polyvista.com",
-      "link": "https://www.ransomware.live/id/cG9seXZpc3RhLmNvbUBpbmNyYW5zb20",
-      "pubDate": "Thu, 12 Nov 2026 10:14:28 +0000",
-      "summary": "PolyVista offers innovative solutions designed to enhance the customer experience by transforming data into actionable insights. Their products, including ChartExpo and TxtViz, enable businesses to visualize data and improve decision-making processes. Targeting industries such as e-commerce, manufac...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : City of Princeton",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBQcmluY2V0b25AaW5jcmFuc29t",
-      "pubDate": "Thu, 12 Nov 2026 10:14:08 +0000",
-      "summary": "# City of Princeton, Texas — Municipal Government\r\n\r\n**Date added:** September 2026\r\n**Website:** princetontx.us\r\n**Sector:** Government / Municipal Administration\r\n**Location:** Collin County, Texas, USA (Dallas-Fort Worth Metroplex)\r\n**Employees:** ~150+\r\n**Annual Budget:** $30–50M\r\n\r\n---\r\n\r\n## Wh...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Association «ENSEMBLE»",
-      "link": "https://www.ransomware.live/id/QXNzb2NpYXRpb24gwqtFTlNFTUJMRcK7QGluY3JhbnNvbQ",
-      "pubDate": "Thu, 12 Nov 2026 10:13:49 +0000",
-      "summary": "# Ensemble Boutancourt\r\n\r\nEnsemble Boutancourt is a website related to the organization and management of support and assistance structures, including departments, documentation, reception, general resources, accounting, mail, finance, and specialized services. According to the information provided,...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ÖVERUM AGRO",
-      "link": "https://www.ransomware.live/id/w5ZWRVJVTSBBR1JPQGluY3JhbnNvbQ",
-      "pubDate": "Thu, 12 Nov 2026 10:13:29 +0000",
-      "summary": "# Company Analysis of Overum Agro \r\n\r\n## General Information\r\n- **Company Name**: Overum Agro \r\n- **Website**: [https://www.overum-agro.se/](https://www.overum-agro.se/)\r\n- **Field of Activity**: Agricultural machinery, agricultural equipment\r\n- **Geographical Location**: Sweden (based in Overum, Sw...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
