@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T13:44:54.881Z",
+  "lastUpdated": "2026-11-18T22:31:19.567Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,36 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Tarter Krinsky & Drogin LLP",
+      "link": "https://www.ransomware.live/id/VGFydGVyIEtyaW5za3kgJiBEcm9naW4gTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 18 Nov 2026 21:27:33 +0000",
+      "summary": "[AI generated] Tarter Krinsky & Drogin LLP is a full-service law firm based in New York City, United States. It provides legal services across practice areas including corporate law, litigation, real estate, intellectual property, labor and employment, bankruptcy, and trusts and estates. The firm se...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Jackson Walker",
+      "link": "https://www.ransomware.live/id/SmFja3NvbiBXYWxrZXJAU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Wed, 18 Nov 2026 18:11:05 +0000",
+      "summary": "Founded in 1945, Jackson Walker is a Texas-based law firm that specializes in family law, Insurance, H…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... K...",
+      "link": "https://www.ransomware.live/id/VC4uLiBLLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 18 Nov 2026 18:10:45 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : Chin Fong Machine Industrial",
       "link": "https://www.ransomware.live/id/Q2hpbiBGb25nIE1hY2hpbmUgSW5kdXN0cmlhbEBpbmNyYW5zb20",
       "pubDate": "Tue, 17 Nov 2026 00:14:49 +0000",
@@ -319,16 +349,6 @@
       "link": "https://www.ransomware.live/id/QkhJQyBCb2ZvcnMgQXNpYUBpbmNyYW5zb20",
       "pubDate": "Mon, 16 Nov 2026 14:02:57 +0000",
       "summary": "BHIC Bofors Asia Sdn Bhd (BBA) is a joint venture defense company based in Malaysia that provides maintenance, \r\nspare parts, and training support for Bofors naval weapon systems (such as the Bofors 40mm guns) \r\nused by the Royal Malaysian Navy and in the Asia-Pacific region.\r\n\r\nOwnership: A joint v...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Sarimelati Kencana Tbk PT",
-      "link": "https://www.ransomware.live/id/U2FyaW1lbGF0aSBLZW5jYW5hIFRiayBQVEBpbmNyYW5zb20",
-      "pubDate": "Sun, 15 Nov 2026 18:44:48 +0000",
-      "summary": "PT Sarimelati Kencana Tbk is a subsidiary of PT Sriboga Raturaya and serves as the franchisee for YUM! International, holding the Pizza Hut brand for Indonesia. The company operates Pizza Hut restaurants and delivery services, catering to a wide range of customers seeking dining and takeaway options...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
