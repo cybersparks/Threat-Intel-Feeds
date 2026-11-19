@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T22:31:19.567Z",
+  "lastUpdated": "2026-11-19T06:58:35.645Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Pulsar",
+      "link": "https://www.ransomware.live/id/UHVsc2FyQGluY3JhbnNvbQ",
+      "pubDate": "Thu, 19 Nov 2026 01:56:27 +0000",
+      "summary": "Pulsar Advertising is a full-service American advertising and marketing agency. The agency specializes in promoting brands, government entities, and public organizations whose work benefits society....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : CENTERED CO., LTD.",
+      "link": "https://www.ransomware.live/id/Q0VOVEVSRUQgQ08uLCBMVEQuQGluY3JhbnNvbQ",
+      "pubDate": "Thu, 19 Nov 2026 01:56:07 +0000",
+      "summary": "CENTERED CO., LTD. (centered.co.jp) is a Japanese digital marketing and web development agency that specializes in improving the performance of advertising campaigns and search engine promotion....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Tarter Krinsky & Drogin LLP",
       "link": "https://www.ransomware.live/id/VGFydGVyIEtyaW5za3kgJiBEcm9naW4gTExQQFNpbGVudFJhbnNvbUdyb3Vw",
