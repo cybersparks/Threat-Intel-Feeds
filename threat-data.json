@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-11-20T13:55:05.282Z",
+  "lastUpdated": "2026-11-20T22:11:12.894Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Too Lost - 724,323 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/TooLost",
+      "pubDate": "Fri, 20 Nov 2026 19:17:16 Z",
+      "summary": "In November 2026, an unauthorised party claimed to have obtained data from the music distributor for independent artists, Too Lost. The data contained...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "724,323 ",
+        "724,323"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Careers360 - 3,609,421 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/Careers360",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Manchester Airports Group - 8,849,657 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
-      "pubDate": "Wed, 02 Sep 2026 07:36:59 Z",
-      "summary": "In August 2026, Manchester Airports Group (MAG) disclosed a data breach impacting their services. The incident was later claimed by the FulcrumSec hac...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "8,849,657 ",
-        "8,849,657"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Jones Walker",
+      "link": "https://www.ransomware.live/id/Sm9uZXMgV2Fsa2VyQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Fri, 20 Nov 2026 18:10:29 +0000",
+      "summary": "Jones Walker, founded in 1937 and headquartered in New Orleans, Louisiana, is a full-service law firm …...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : eni.it",
       "link": "https://www.ransomware.live/id/ZW5pLml0QGluY3JhbnNvbQ",
