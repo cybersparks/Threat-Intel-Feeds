@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T18:55:51.431Z",
+  "lastUpdated": "2026-11-20T01:43:27.676Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : J... W...",
+      "link": "https://www.ransomware.live/id/Si4uLiBXLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Thu, 19 Nov 2026 22:03:16 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Kutak Rock LLP",
       "link": "https://www.ransomware.live/id/S3V0YWsgUm9jayBMTFBAU2lsZW50UmFuc29tR3JvdXA",
       "pubDate": "Thu, 19 Nov 2026 17:56:03 +0000",
@@ -339,16 +349,6 @@
       "link": "https://www.ransomware.live/id/VC4uLiBLLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Wed, 18 Nov 2026 18:10:45 +0000",
       "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Chin Fong Machine Industrial",
-      "link": "https://www.ransomware.live/id/Q2hpbiBGb25nIE1hY2hpbmUgSW5kdXN0cmlhbEBpbmNyYW5zb20",
-      "pubDate": "Tue, 17 Nov 2026 00:14:49 +0000",
-      "summary": "client data, contracts, etc....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
