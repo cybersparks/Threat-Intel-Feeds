@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-11-20T01:43:27.676Z",
+  "lastUpdated": "2026-11-20T13:55:05.282Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Careers360 - 3,609,421 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Careers360",
+      "pubDate": "Fri, 20 Nov 2026 03:44:54 Z",
+      "summary": "In November 2026, data allegedly taken from the Indian education and careers platform Careers360 appeared on a public hacking forum. The 22M records i...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "360 ",
+        "360"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "CastleRAT - 179,745 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/CastleRAT",
@@ -248,22 +261,29 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "Questel - 1,226,209 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/Questel",
-      "pubDate": "Tue, 01 Sep 2026 04:49:35 Z",
-      "summary": "In August 2026, the French intellectual property software and services company Questel was the target of a ShinyHunters \"pay or leak\" extortion campai...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "1,226,209 ",
-        "1,226,209"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : eni.it",
+      "link": "https://www.ransomware.live/id/ZW5pLml0QGluY3JhbnNvbQ",
+      "pubDate": "Fri, 20 Nov 2026 04:42:22 +0000",
+      "summary": "Contracts and Commercial Relationships — 7,105 unique files (18.78 GB): signed contracts, customer and supplier agreements, agreements with ENI, service contracts, and agency agreements.\r\nFinance and Accounting — 28,562 files (1.91 GB): invoices, payments, tax filings, balance sheets, commissions, r...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Boeing",
+      "link": "https://www.ransomware.live/id/Qm9laW5nQGluY3JhbnNvbQ",
+      "pubDate": "Fri, 20 Nov 2026 03:46:28 +0000",
+      "summary": "# THE BOEING COMPANY — DATA BREACH\r\n\r\n## Boeing Sikorsky Aircraft Support (BSAS): Complete Compromise\r\n\r\n---\r\n\r\nBoeing Sikorsky Aircraft Support — a Boeing subsidiary operating under Boeing Global Services at Fort Campbell, Kentucky — has been fully compromised. BSAS provides Life Cycle Contractor S...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : J... W...",
       "link": "https://www.ransomware.live/id/Si4uLiBXLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
