@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T17:16:15.318Z",
+  "lastUpdated": "2026-11-22T00:13:03.419Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Regions Behavioral Hospital",
+      "link": "https://www.ransomware.live/id/UmVnaW9ucyBCZWhhdmlvcmFsIEhvc3BpdGFsQGluY3JhbnNvbQ",
+      "pubDate": "Sat, 21 Nov 2026 17:20:46 +0000",
+      "summary": "Regions Behavioral Hospital is dedicated to providing a full range of mental health and substance abuse services. Our inpatient psychiatric treatment facilities and intensive outpatient programs (IOP), located in Baton Rouge, Louisiana, are designed to support stabilization, recovery, and long-term ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Jones Walker",
       "link": "https://www.ransomware.live/id/Sm9uZXMgV2Fsa2VyQFNpbGVudFJhbnNvbUdyb3Vw",
