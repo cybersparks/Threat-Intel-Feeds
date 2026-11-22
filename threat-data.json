@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T00:13:03.419Z",
+  "lastUpdated": "2026-11-22T13:11:01.129Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Hyflock has just published a new victim : A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500",
+      "link": "https://www.ransomware.live/id/QSBSYW5zb213YXJlIEF0dGFjayBvbiBhIENvbXBhbnkgUmFua2VkIEFtb25nIHRoZSBUb3AgMzAgaW4gdGhlIEZvcnR1bmUgNTAwQEhZRkxPQ0s",
+      "pubDate": "Sun, 22 Nov 2026 09:22:21 +0000",
+      "summary": "We'll be posting a detailed account of this incident tomorrow, including some tongue-in-cheek commentary, so stay tuned....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Regions Behavioral Hospital",
       "link": "https://www.ransomware.live/id/UmVnaW9ucyBCZWhhdmlvcmFsIEhvc3BpdGFsQGluY3JhbnNvbQ",
