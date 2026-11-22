@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T13:11:01.129Z",
+  "lastUpdated": "2026-11-22T20:58:32.681Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : persistent.com",
+      "link": "https://www.ransomware.live/id/cGVyc2lzdGVudC5jb21AaW5jcmFuc29t",
+      "pubDate": "Sun, 22 Nov 2026 15:14:43 +0000",
+      "summary": "tens of thousands of confidential and mission-critical data items...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Hyflock has just published a new victim : Samsung Group: 1TB Data Breach from Ransomware Attack",
+      "link": "https://www.ransomware.live/id/U2Ftc3VuZyBHcm91cDogMVRCIERhdGEgQnJlYWNoIGZyb20gUmFuc29td2FyZSBBdHRhY2tASFlGTE9DSw",
+      "pubDate": "Sun, 22 Nov 2026 13:52:25 +0000",
+      "summary": "Right now, our team is reviewing your security team’s report on defenses against ransomware attacks. However, it appears you haven’t adequately protected yourselves. We gained access through the initial entry point and spent two days inside, where we obtained ESX administrator privileges. After some...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Hyflock has just published a new victim : A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500",
       "link": "https://www.ransomware.live/id/QSBSYW5zb213YXJlIEF0dGFjayBvbiBhIENvbXBhbnkgUmFua2VkIEFtb25nIHRoZSBUb3AgMzAgaW4gdGhlIEZvcnR1bmUgNTAwQEhZRkxPQ0s",
