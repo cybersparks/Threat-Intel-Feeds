@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T20:58:32.681Z",
+  "lastUpdated": "2026-11-23T07:07:19.227Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,26 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cybage-software-pvt-ltd",
+      "link": "https://www.ransomware.live/id/Y3liYWdlLXNvZnR3YXJlLXB2dC1sdGRAaW5jcmFuc29t",
+      "pubDate": "Sun, 22 Nov 2026 23:19:07 +0000",
+      "summary": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : L&T Technology Services",
+      "link": "https://www.ransomware.live/id/TCZUIFRlY2hub2xvZ3kgU2VydmljZXNAaW5jcmFuc29t",
+      "pubDate": "Sun, 22 Nov 2026 22:34:57 +0000",
+      "summary": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Incransom has just published a new victim : persistent.com",
       "link": "https://www.ransomware.live/id/cGVyc2lzdGVudC5jb21AaW5jcmFuc29t",
       "pubDate": "Sun, 22 Nov 2026 15:14:43 +0000",
@@ -389,36 +409,6 @@
       "link": "https://www.ransomware.live/id/Q0VOVEVSRUQgQ08uLCBMVEQuQGluY3JhbnNvbQ",
       "pubDate": "Thu, 19 Nov 2026 01:56:07 +0000",
       "summary": "CENTERED CO., LTD. (centered.co.jp) is a Japanese digital marketing and web development agency that specializes in improving the performance of advertising campaigns and search engine promotion....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Tarter Krinsky & Drogin LLP",
-      "link": "https://www.ransomware.live/id/VGFydGVyIEtyaW5za3kgJiBEcm9naW4gTExQQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 18 Nov 2026 21:27:33 +0000",
-      "summary": "[AI generated] Tarter Krinsky & Drogin LLP is a full-service law firm based in New York City, United States. It provides legal services across practice areas including corporate law, litigation, real estate, intellectual property, labor and employment, bankruptcy, and trusts and estates. The firm se...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Jackson Walker",
-      "link": "https://www.ransomware.live/id/SmFja3NvbiBXYWxrZXJAU2lsZW50UmFuc29tR3JvdXA",
-      "pubDate": "Wed, 18 Nov 2026 18:11:05 +0000",
-      "summary": "Founded in 1945, Jackson Walker is a Texas-based law firm that specializes in family law, Insurance, H…...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : T... K...",
-      "link": "https://www.ransomware.live/id/VC4uLiBLLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Wed, 18 Nov 2026 18:10:45 +0000",
-      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
