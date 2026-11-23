@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-11-23T07:07:19.227Z",
+  "lastUpdated": "2026-11-23T21:58:04.528Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
+    {
+      "title": "Bromcom - 355,051 breached accounts",
+      "link": "https://haveibeenpwned.com/Breach/Bromcom",
+      "pubDate": "Mon, 23 Nov 2026 06:36:04 Z",
+      "summary": "In September 2026, UK education software provider Bromcom suffered a data breach involving a legacy single sign-on (SSO) registration system. The inci...",
+      "source": "Have I Been Pwned",
+      "breachCount": [
+        "355,051 ",
+        "355,051"
+      ],
+      "isBreach": true,
+      "isRansomware": false
+    },
     {
       "title": "Too Lost - 724,323 breached accounts",
       "link": "https://haveibeenpwned.com/Breach/TooLost",
@@ -248,22 +261,19 @@
       ],
       "isBreach": true,
       "isRansomware": false
-    },
-    {
-      "title": "McKesson - 6,404,340 breached accounts",
-      "link": "https://haveibeenpwned.com/Breach/McKesson",
-      "pubDate": "Thu, 10 Sep 2026 05:45:39 Z",
-      "summary": "In August 2026, healthcare and pharmaceutical company McKesson was targeted in a ShinyHunters \"pay or leak\" extortion campaign. The group subsequently...",
-      "source": "Have I Been Pwned",
-      "breachCount": [
-        "6,404,340 ",
-        "6,404,340"
-      ],
-      "isBreach": true,
-      "isRansomware": false
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Lowell Foods",
+      "link": "https://www.ransomware.live/id/TG93ZWxsIEZvb2RzQGluY3JhbnNvbQ",
+      "pubDate": "Mon, 23 Nov 2026 16:11:48 +0000",
+      "summary": "Lowell International Foods is an importer and distributor of Polish and other European foods, headquartered in Franklin Park, Illinois. The company offers a wide range of products including preserves, dairy, meats, traditional Polish dishes, and specialty items from various European countries. With ...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : cybage-software-pvt-ltd",
       "link": "https://www.ransomware.live/id/Y3liYWdlLXNvZnR3YXJlLXB2dC1sdGRAaW5jcmFuc29t",
@@ -379,36 +389,6 @@
       "link": "https://www.ransomware.live/id/Q0hBTUJPVVJDWUBpbmNyYW5zb20",
       "pubDate": "Thu, 19 Nov 2026 17:35:54 +0000",
       "summary": "Chambourcy is a commune in the Yvelines department of the Île-de-France region in north-central France, located about 25 km (15.5 mi) west of Paris and 3 km west of Saint-Germain-en-Laye....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : OSWALD Elektromotoren GmbH",
-      "link": "https://www.ransomware.live/id/T1NXQUxEIEVsZWt0cm9tb3RvcmVuIEdtYkhAcmFuc29taG91c2U",
-      "pubDate": "Thu, 19 Nov 2026 12:22:12 +0000",
-      "summary": "Oswald Elektromotoren GmbH is a family-owned German company based in Miltenberg, Bavaria, founded in 1909 and now run by the fourth generation of the founding family. The company specializes in the engineering and manufacture of custom-built electric motors and generators with power ratings from 10 ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Pulsar",
-      "link": "https://www.ransomware.live/id/UHVsc2FyQGluY3JhbnNvbQ",
-      "pubDate": "Thu, 19 Nov 2026 01:56:27 +0000",
-      "summary": "Pulsar Advertising is a full-service American advertising and marketing agency. The agency specializes in promoting brands, government entities, and public organizations whose work benefits society....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : CENTERED CO., LTD.",
-      "link": "https://www.ransomware.live/id/Q0VOVEVSRUQgQ08uLCBMVEQuQGluY3JhbnNvbQ",
-      "pubDate": "Thu, 19 Nov 2026 01:56:07 +0000",
-      "summary": "CENTERED CO., LTD. (centered.co.jp) is a Japanese digital marketing and web development agency that specializes in improving the performance of advertising campaigns and search engine promotion....",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
