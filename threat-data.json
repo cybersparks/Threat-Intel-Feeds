@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T09:31:20.241Z",
+  "lastUpdated": "2026-11-24T20:34:47.582Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,46 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : WHI Holdings / Works Human Intelligence",
+      "link": "https://www.ransomware.live/id/V0hJIEhvbGRpbmdzIC8gV29ya3MgSHVtYW4gSW50ZWxsaWdlbmNlQGluY3JhbnNvbQ",
+      "pubDate": "Tue, 24 Nov 2026 17:10:18 +0000",
+      "summary": "Works Human Intelligence (WHI Holdings) is one of Japan’s largest developers of enterprise HR software (ERP systems for human resources management), focusing primarily on large-scale businesses....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : A... G...",
+      "link": "https://www.ransomware.live/id/QS4uLiBHLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Tue, 24 Nov 2026 17:00:21 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : G... R... S... D...",
+      "link": "https://www.ransomware.live/id/Ry4uLiBSLi4uIFMuLi4gRC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
+      "pubDate": "Tue, 24 Nov 2026 14:57:06 +0000",
+      "summary": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active)....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : fiwealth.com",
+      "link": "https://www.ransomware.live/id/Zml3ZWFsdGguY29tQGluY3JhbnNvbQ",
+      "pubDate": "Tue, 24 Nov 2026 11:39:16 +0000",
+      "summary": "Foundations Investment Advisors, LLC is a private American investment advisory firm (registered with the SEC, headquartered in Phoenix, Arizona) that operates as a B2B platform for independent financial advisors in the United States....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Lowell Foods",
       "link": "https://www.ransomware.live/id/TG93ZWxsIEZvb2RzQGluY3JhbnNvbQ",
