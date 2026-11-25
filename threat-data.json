@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T08:01:32.292Z",
+  "lastUpdated": "2026-11-25T19:51:07.621Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Honigman LLP",
+      "link": "https://www.ransomware.live/id/SG9uaWdtYW4gTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+      "pubDate": "Wed, 25 Nov 2026 17:33:49 +0000",
+      "summary": "Honigman Miller Schwartz & Cohn was founded in 1948. This company provides legal services in areas inc…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Kegler, Brown, Hill & Ritter",
       "link": "https://www.ransomware.live/id/S2VnbGVyLCBCcm93biwgSGlsbCAmIFJpdHRlckBTaWxlbnRSYW5zb21Hcm91cA",
       "pubDate": "Tue, 24 Nov 2026 23:57:20 +0000",
@@ -459,16 +469,6 @@
       "link": "https://www.ransomware.live/id/UmVnaW9ucyBCZWhhdmlvcmFsIEhvc3BpdGFsQGluY3JhbnNvbQ",
       "pubDate": "Sat, 21 Nov 2026 17:20:46 +0000",
       "summary": "Regions Behavioral Hospital is dedicated to providing a full range of mental health and substance abuse services. Our inpatient psychiatric treatment facilities and intensive outpatient programs (IOP), located in Baton Rouge, Louisiana, are designed to support stabilization, recovery, and long-term ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Jones Walker",
-      "link": "https://www.ransomware.live/id/Sm9uZXMgV2Fsa2VyQFNpbGVudFJhbnNvbUdyb3Vw",
-      "pubDate": "Fri, 20 Nov 2026 18:10:29 +0000",
-      "summary": "Jones Walker, founded in 1937 and headquartered in New Orleans, Louisiana, is a full-service law firm …...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
