@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T14:54:39.193Z",
+  "lastUpdated": "2026-11-26T23:39:14.137Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Whitearmor has just published a new victim : Eversource",
+      "link": "https://www.ransomware.live/id/RXZlcnNvdXJjZUBXaGl0ZWFybW9y",
+      "pubDate": "Thu, 26 Nov 2026 23:33:19 +0000",
+      "summary": "Greetings,\n\nEversource is a regulated electric, natural gas, and water utility serving Connecticut, Massachusetts, and New Hampshire. Its 2025 annual revenue was $13.55 billion, a 13.8% year-over-year increase.\n\nWe hold 54,557 named Eversource customers and landowners across CT/MA/NH, addresses, pho...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Norris McLaughlin",
       "link": "https://www.ransomware.live/id/Tm9ycmlzIE1jTGF1Z2hsaW5AU2lsZW50UmFuc29tR3JvdXA",
