@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T19:51:07.621Z",
+  "lastUpdated": "2026-11-26T02:43:20.909Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -265,6 +265,16 @@
   ],
   "ransomware": [
     {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Norris McLaughlin",
+      "link": "https://www.ransomware.live/id/Tm9ycmlzIE1jTGF1Z2hsaW5AU2lsZW50UmFuc29tR3JvdXA",
+      "pubDate": "Wed, 25 Nov 2026 20:33:22 +0000",
+      "summary": "Once a humble two-man practice, Norris McLaughlin has remained a firm committed to serving their clien…...",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
       "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Honigman LLP",
       "link": "https://www.ransomware.live/id/SG9uaWdtYW4gTExQQFNpbGVudFJhbnNvbUdyb3Vw",
       "pubDate": "Wed, 25 Nov 2026 17:33:49 +0000",
@@ -429,46 +439,6 @@
       "link": "https://www.ransomware.live/id/TCZUIFRlY2hub2xvZ3kgU2VydmljZXNAaW5jcmFuc29t",
       "pubDate": "Sun, 22 Nov 2026 22:34:57 +0000",
       "summary": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : persistent.com",
-      "link": "https://www.ransomware.live/id/cGVyc2lzdGVudC5jb21AaW5jcmFuc29t",
-      "pubDate": "Sun, 22 Nov 2026 15:14:43 +0000",
-      "summary": "tens of thousands of confidential and mission-critical data items...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Hyflock has just published a new victim : Samsung Group: 1TB Data Breach from Ransomware Attack",
-      "link": "https://www.ransomware.live/id/U2Ftc3VuZyBHcm91cDogMVRCIERhdGEgQnJlYWNoIGZyb20gUmFuc29td2FyZSBBdHRhY2tASFlGTE9DSw",
-      "pubDate": "Sun, 22 Nov 2026 13:52:25 +0000",
-      "summary": "Right now, our team is reviewing your security team’s report on defenses against ransomware attacks. However, it appears you haven’t adequately protected yourselves. We gained access through the initial entry point and spent two days inside, where we obtained ESX administrator privileges. After some...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Hyflock has just published a new victim : A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500",
-      "link": "https://www.ransomware.live/id/QSBSYW5zb213YXJlIEF0dGFjayBvbiBhIENvbXBhbnkgUmFua2VkIEFtb25nIHRoZSBUb3AgMzAgaW4gdGhlIEZvcnR1bmUgNTAwQEhZRkxPQ0s",
-      "pubDate": "Sun, 22 Nov 2026 09:22:21 +0000",
-      "summary": "We'll be posting a detailed account of this incident tomorrow, including some tongue-in-cheek commentary, so stay tuned....",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Regions Behavioral Hospital",
-      "link": "https://www.ransomware.live/id/UmVnaW9ucyBCZWhhdmlvcmFsIEhvc3BpdGFsQGluY3JhbnNvbQ",
-      "pubDate": "Sat, 21 Nov 2026 17:20:46 +0000",
-      "summary": "Regions Behavioral Hospital is dedicated to providing a full range of mental health and substance abuse services. Our inpatient psychiatric treatment facilities and intensive outpatient programs (IOP), located in Baton Rouge, Louisiana, are designed to support stabilization, recovery, and long-term ...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
