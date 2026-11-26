@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T02:43:20.909Z",
+  "lastUpdated": "2026-11-26T14:54:39.193Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -419,26 +419,6 @@
       "link": "https://www.ransomware.live/id/TG93ZWxsIEZvb2RzQGluY3JhbnNvbQ",
       "pubDate": "Mon, 23 Nov 2026 16:11:48 +0000",
       "summary": "Lowell International Foods is an importer and distributor of Polish and other European foods, headquartered in Franklin Park, Illinois. The company offers a wide range of products including preserves, dairy, meats, traditional Polish dishes, and specialty items from various European countries. With ...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cybage-software-pvt-ltd",
-      "link": "https://www.ransomware.live/id/Y3liYWdlLXNvZnR3YXJlLXB2dC1sdGRAaW5jcmFuc29t",
-      "pubDate": "Sun, 22 Nov 2026 23:19:07 +0000",
-      "summary": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential...",
-      "source": "Ransomware Live (Ransomware)",
-      "breachCount": "N/A",
-      "isBreach": false,
-      "isRansomware": true
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : L&T Technology Services",
-      "link": "https://www.ransomware.live/id/TCZUIFRlY2hub2xvZ3kgU2VydmljZXNAaW5jcmFuc29t",
-      "pubDate": "Sun, 22 Nov 2026 22:34:57 +0000",
-      "summary": "Thousands of personal data of employees and their families, contracts and NDA agreements are confidential...",
       "source": "Ransomware Live (Ransomware)",
       "breachCount": "N/A",
       "isBreach": false,
