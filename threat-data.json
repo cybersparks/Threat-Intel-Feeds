@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T07:54:29.770Z",
+  "lastUpdated": "2026-11-27T19:24:19.839Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,16 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Brit Ltd / Brit Insurance (britinsurance.com)",
+      "link": "https://www.ransomware.live/id/QnJpdCBMdGQgLyBCcml0IEluc3VyYW5jZSAoYnJpdGluc3VyYW5jZS5jb20pQGluY3JhbnNvbQ",
+      "pubDate": "Fri, 27 Nov 2026 16:10:45 +0000",
+      "summary": "Brit Group Holdings Limited is a large international group operating in the commercial insurance and reinsurance sector, with its headquarters in London, United Kingdom....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Whitearmor has just published a new victim : Eversource",
       "link": "https://www.ransomware.live/id/RXZlcnNvdXJjZUBXaGl0ZWFybW9y",
