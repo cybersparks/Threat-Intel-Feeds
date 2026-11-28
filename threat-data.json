@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T19:24:19.839Z",
+  "lastUpdated": "2026-11-28T02:33:57.605Z",
   "sourceName": "HIBP + Ransomware Intel",
   "breaches": [
     {
@@ -264,6 +264,26 @@
     }
   ],
   "ransomware": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Samlut and Company, P.A.",
+      "link": "https://www.ransomware.live/id/U2FtbHV0IGFuZCBDb21wYW55LCBQLkEuQGluY3JhbnNvbQ",
+      "pubDate": "Fri, 27 Nov 2026 23:00:19 +0000",
+      "summary": "Samlut & Company, PA is an American accounting and auditing firm founded in 1997....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Cinelandia S.p.A",
+      "link": "https://www.ransomware.live/id/Q2luZWxhbmRpYSBTLnAuQUBpbmNyYW5zb20",
+      "pubDate": "Fri, 27 Nov 2026 21:46:09 +0000",
+      "summary": "Cinelandia S.p.A. is an Italian company that owns a large chain of modern multiplex cinemas and entertainment centers....",
+      "source": "Ransomware Live (Ransomware)",
+      "breachCount": "N/A",
+      "isBreach": false,
+      "isRansomware": true
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Brit Ltd / Brit Insurance (britinsurance.com)",
       "link": "https://www.ransomware.live/id/QnJpdCBMdGQgLyBCcml0IEluc3VyYW5jZSAoYnJpdGluc3VyYW5jZS5jb20pQGluY3JhbnNvbQ",
